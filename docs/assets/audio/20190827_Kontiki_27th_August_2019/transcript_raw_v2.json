@@ -1,0 +1,1517 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,240"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2240
+			},
+			"text": " Anybody can get on stage, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,240",
+				"to": "00:00:04,580"
+			},
+			"offsets": {
+				"from": 2240,
+				"to": 4580
+			},
+			"text": " Like Max, do you think you could do comedy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,580",
+				"to": "00:00:08,280"
+			},
+			"offsets": {
+				"from": 4580,
+				"to": 8280
+			},
+			"text": " I liked your answer before, I thought it was funny."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,280",
+				"to": "00:00:11,600"
+			},
+			"offsets": {
+				"from": 8280,
+				"to": 11600
+			},
+			"text": " So if anybody amongst you guys is like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,600",
+				"to": "00:00:13,180"
+			},
+			"offsets": {
+				"from": 11600,
+				"to": 13180
+			},
+			"text": " you know what, I think I could do comedy, man."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,180",
+				"to": "00:00:14,960"
+			},
+			"offsets": {
+				"from": 13180,
+				"to": 14960
+			},
+			"text": " Just come to me after the show,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,960",
+				"to": "00:00:18,060"
+			},
+			"offsets": {
+				"from": 14960,
+				"to": 18060
+			},
+			"text": " or go online on our page and sign up to do a spot,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,060",
+				"to": "00:00:20,600"
+			},
+			"offsets": {
+				"from": 18060,
+				"to": 20600
+			},
+			"text": " and you can totally be on stage next Tuesday."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,600",
+				"to": "00:00:24,000"
+			},
+			"offsets": {
+				"from": 20600,
+				"to": 24000
+			},
+			"text": " But for now, let's move along with our next comedian of the night,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,000",
+				"to": "00:00:24,700"
+			},
+			"offsets": {
+				"from": 24000,
+				"to": 24700
+			},
+			"text": " ladies and gentlemen."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,700",
+				"to": "00:00:27,260"
+			},
+			"offsets": {
+				"from": 24700,
+				"to": 27260
+			},
+			"text": " He's done an open mic a bunch of times before."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,260",
+				"to": "00:00:29,640"
+			},
+			"offsets": {
+				"from": 27260,
+				"to": 29640
+			},
+			"text": " Give it up for Harry Fox, everybody!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:42,600"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 42600
+			},
+			"text": " So my name is actually Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,600",
+				"to": "00:00:46,760"
+			},
+			"offsets": {
+				"from": 42600,
+				"to": 46760
+			},
+			"text": " It's a German name."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,760",
+				"to": "00:00:50,680"
+			},
+			"offsets": {
+				"from": 46760,
+				"to": 50680
+			},
+			"text": " Spelled F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,680",
+				"to": "00:00:53,980"
+			},
+			"offsets": {
+				"from": 50680,
+				"to": 53980
+			},
+			"text": " I repeat, F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,980",
+				"to": "00:00:57,280"
+			},
+			"offsets": {
+				"from": 53980,
+				"to": 57280
+			},
+			"text": " When I'm in a room with English speakers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,280",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 57280,
+				"to": 59980
+			},
+			"text": " a lot of you think my name is Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:02,460"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 62460
+			},
+			"text": " Don't say no."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,460",
+				"to": "00:01:04,740"
+			},
+			"offsets": {
+				"from": 62460,
+				"to": 64740
+			},
+			"text": " We're coming to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,740",
+				"to": "00:01:06,480"
+			},
+			"offsets": {
+				"from": 64740,
+				"to": 66480
+			},
+			"text": " Stay calm."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,480",
+				"to": "00:01:10,560"
+			},
+			"offsets": {
+				"from": 66480,
+				"to": 70560
+			},
+			"text": " And, you know, it's hard with this name,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,560",
+				"to": "00:01:13,260"
+			},
+			"offsets": {
+				"from": 70560,
+				"to": 73260
+			},
+			"text": " because, you know, when we have a family get-together,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,260",
+				"to": "00:01:17,980"
+			},
+			"offsets": {
+				"from": 73260,
+				"to": 77980
+			},
+			"text": " we get really upset when you call us a group of fuckers."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,980",
+				"to": "00:01:21,740"
+			},
+			"offsets": {
+				"from": 77980,
+				"to": 81740
+			},
+			"text": " And I have two kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,740",
+				"to": "00:01:25,620"
+			},
+			"offsets": {
+				"from": 81740,
+				"to": 85620
+			},
+			"text": " And I had to call them Halbert and Walter."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,620",
+				"to": "00:01:29,980"
+			},
+			"offsets": {
+				"from": 85620,
+				"to": 89980
+			},
+			"text": " And, you know, I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,100",
+				"to": "00:01:32,660"
+			},
+			"offsets": {
+				"from": 90100,
+				"to": 92660
+			},
+			"text": " But actually, a real problem with this name is"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,660",
+				"to": "00:01:35,760"
+			},
+			"offsets": {
+				"from": 92660,
+				"to": 95760
+			},
+			"text": " it's like a lot of stupid comments, like this comment earlier."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,760",
+				"to": "00:01:42,380"
+			},
+			"offsets": {
+				"from": 95760,
+				"to": 102380
+			},
+			"text": " You know, like recently, this American tourist came up to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,380",
+				"to": "00:01:44,200"
+			},
+			"offsets": {
+				"from": 102380,
+				"to": 104200
+			},
+			"text": " He's like, yo, what's up, man?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,200",
+				"to": "00:01:45,020"
+			},
+			"offsets": {
+				"from": 104200,
+				"to": 105020
+			},
+			"text": " Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,020",
+				"to": "00:01:46,560"
+			},
+			"offsets": {
+				"from": 105020,
+				"to": 106560
+			},
+			"text": " Harry Fuchs what, man?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,560",
+				"to": "00:01:48,100"
+			},
+			"offsets": {
+				"from": 106560,
+				"to": 108100
+			},
+			"text": " I'm like, what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,100",
+				"to": "00:01:50,860"
+			},
+			"offsets": {
+				"from": 108100,
+				"to": 110860
+			},
+			"text": " He's like, yeah, Harry Fuchs what, man?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,860",
+				"to": "00:01:53,360"
+			},
+			"offsets": {
+				"from": 110860,
+				"to": 113360
+			},
+			"text": " So I thought, I'm smart."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,360",
+				"to": "00:01:55,020"
+			},
+			"offsets": {
+				"from": 113360,
+				"to": 115020
+			},
+			"text": " Smarter than him, at least."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,020",
+				"to": "00:01:58,340"
+			},
+			"offsets": {
+				"from": 115020,
+				"to": 118340
+			},
+			"text": " Let me throw him off with some adverts, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,340",
+				"to": "00:01:59,440"
+			},
+			"offsets": {
+				"from": 118340,
+				"to": 119440
+			},
+			"text": " Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,980",
+				"to": "00:02:04,940"
+			},
+			"offsets": {
+				"from": 119980,
+				"to": 124940
+			},
+			"text": " Now, hopefully, Harry Fuchs occasionally."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,940",
+				"to": "00:02:08,660"
+			},
+			"offsets": {
+				"from": 124940,
+				"to": 128660
+			},
+			"text": " Harry Fuchs enthusiastically."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,660",
+				"to": "00:02:11,260"
+			},
+			"offsets": {
+				"from": 128660,
+				"to": 131260
+			},
+			"text": " And that was it for this man."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,260",
+				"to": "00:02:12,360"
+			},
+			"offsets": {
+				"from": 131260,
+				"to": 132360
+			},
+			"text": " He just melted down."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,360",
+				"to": "00:02:15,680"
+			},
+			"offsets": {
+				"from": 132360,
+				"to": 135680
+			},
+			"text": " But no, actually, the real problem with this name"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,680",
+				"to": "00:02:19,260"
+			},
+			"offsets": {
+				"from": 135680,
+				"to": 139260
+			},
+			"text": " is it just sets a very high level of expectation."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,260",
+				"to": "00:02:22,600"
+			},
+			"offsets": {
+				"from": 139260,
+				"to": 142600
+			},
+			"text": " And I've only really done about this much for a film."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,600",
+				"to": "00:02:24,460"
+			},
+			"offsets": {
+				"from": 142600,
+				"to": 144460
+			},
+			"text": " Well, I think, like, more like that much."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,460",
+				"to": "00:02:28,080"
+			},
+			"offsets": {
+				"from": 144460,
+				"to": 148080
+			},
+			"text": " And actually, if I can share something, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,080",
+				"to": "00:02:29,960"
+			},
+			"offsets": {
+				"from": 148080,
+				"to": 149960
+			},
+			"text": " I'm in a bit of a tricky spot."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,960",
+				"to": "00:02:32,900"
+			},
+			"offsets": {
+				"from": 149960,
+				"to": 152900
+			},
+			"text": " Because, you know, for 20 years,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,900",
+				"to": "00:02:35,820"
+			},
+			"offsets": {
+				"from": 152900,
+				"to": 155820
+			},
+			"text": " I was in a long-term relationship with one woman or another."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,820",
+				"to": "00:02:36,960"
+			},
+			"offsets": {
+				"from": 155820,
+				"to": 156960
+			},
+			"text": " But since about a year..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,960",
+				"to": "00:02:41,280"
+			},
+			"offsets": {
+				"from": 156960,
+				"to": 161280
+			},
+			"text": " Why is that so funny?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,280",
+				"to": "00:02:44,180"
+			},
+			"offsets": {
+				"from": 161280,
+				"to": 164180
+			},
+			"text": " Jesus, fuck all of you people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,180",
+				"to": "00:02:45,920"
+			},
+			"offsets": {
+				"from": 164180,
+				"to": 165920
+			},
+			"text": " That's horrible."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,920",
+				"to": "00:02:49,760"
+			},
+			"offsets": {
+				"from": 165920,
+				"to": 169760
+			},
+			"text": " Like, I'm sharing, like, deep, intimate parts of my life here."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,760",
+				"to": "00:02:52,800"
+			},
+			"offsets": {
+				"from": 169760,
+				"to": 172800
+			},
+			"text": " And, but, you know, and I've been single for about a year."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,800",
+				"to": "00:02:53,920"
+			},
+			"offsets": {
+				"from": 172800,
+				"to": 173920
+			},
+			"text": " I don't really know why."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,920",
+				"to": "00:02:56,440"
+			},
+			"offsets": {
+				"from": 173920,
+				"to": 176440
+			},
+			"text": " It's been tough to find someone."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,440",
+				"to": "00:02:58,500"
+			},
+			"offsets": {
+				"from": 176440,
+				"to": 178500
+			},
+			"text": " And, you know, but 20 years ago,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,500",
+				"to": "00:02:59,840"
+			},
+			"offsets": {
+				"from": 178500,
+				"to": 179840
+			},
+			"text": " we didn't have..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,840",
+				"to": "00:03:00,220"
+			},
+			"offsets": {
+				"from": 179840,
+				"to": 180220
+			},
+			"text": " We didn't have Tinder."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,220",
+				"to": "00:03:02,540"
+			},
+			"offsets": {
+				"from": 180220,
+				"to": 182540
+			},
+			"text": " And so I thought, okay, I'll give Tinder a try."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,540",
+				"to": "00:03:03,900"
+			},
+			"offsets": {
+				"from": 182540,
+				"to": 183900
+			},
+			"text": " Maybe that's the answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,900",
+				"to": "00:03:06,580"
+			},
+			"offsets": {
+				"from": 183900,
+				"to": 186580
+			},
+			"text": " How wrong I was."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,580",
+				"to": "00:03:09,660"
+			},
+			"offsets": {
+				"from": 186580,
+				"to": 189660
+			},
+			"text": " Because for you guys, for you guys,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,660",
+				"to": "00:03:10,980"
+			},
+			"offsets": {
+				"from": 189660,
+				"to": 190980
+			},
+			"text": " you're mostly under 30."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,980",
+				"to": "00:03:14,240"
+			},
+			"offsets": {
+				"from": 190980,
+				"to": 194240
+			},
+			"text": " Tinder for you guys is an amazing place."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,240",
+				"to": "00:03:18,020"
+			},
+			"offsets": {
+				"from": 194240,
+				"to": 198020
+			},
+			"text": " Because you get to swipe your way through hot, sexy bodies"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,020",
+				"to": "00:03:21,040"
+			},
+			"offsets": {
+				"from": 198020,
+				"to": 201040
+			},
+			"text": " and potential erotic encounters."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,040",
+				"to": "00:03:24,920"
+			},
+			"offsets": {
+				"from": 201040,
+				"to": 204920
+			},
+			"text": " And the dream, the dream that your prince,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,920",
+				"to": "00:03:27,580"
+			},
+			"offsets": {
+				"from": 204920,
+				"to": 207580
+			},
+			"text": " your ideal man might somehow be in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,580",
+				"to": "00:03:29,820"
+			},
+			"offsets": {
+				"from": 207580,
+				"to": 209820
+			},
+			"text": " But for me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,820",
+				"to": "00:03:34,120"
+			},
+			"offsets": {
+				"from": 209820,
+				"to": 214120
+			},
+			"text": " for me, Tinder over 40 is a dark place."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,120",
+				"to": "00:03:39,620"
+			},
+			"offsets": {
+				"from": 214120,
+				"to": 219620
+			},
+			"text": " I get to swipe my way through broken marriages,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,620",
+				"to": "00:03:43,160"
+			},
+			"offsets": {
+				"from": 219620,
+				"to": 223160
+			},
+			"text": " drug and alcohol problems,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,160",
+				"to": "00:03:45,240"
+			},
+			"offsets": {
+				"from": 223160,
+				"to": 225240
+			},
+			"text": " psychiatrists."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,240",
+				"to": "00:03:47,760"
+			},
+			"offsets": {
+				"from": 225240,
+				"to": 227760
+			},
+			"text": " Fucking hard, man."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,760",
+				"to": "00:03:48,740"
+			},
+			"offsets": {
+				"from": 227760,
+				"to": 228740
+			},
+			"text": " And, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,740",
+				"to": "00:03:52,780"
+			},
+			"offsets": {
+				"from": 228740,
+				"to": 232780
+			},
+			"text": " the worst is when you see the tattoos and say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,780",
+				"to": "00:03:54,220"
+			},
+			"offsets": {
+				"from": 232780,
+				"to": 234220
+			},
+			"text": " no regrets."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,220",
+				"to": "00:03:56,760"
+			},
+			"offsets": {
+				"from": 234220,
+				"to": 236760
+			},
+			"text": " Philippa, do you have tattoos?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,760",
+				"to": "00:03:57,960"
+			},
+			"offsets": {
+				"from": 236760,
+				"to": 237960
+			},
+			"text": " Back there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,960",
+				"to": "00:03:59,400"
+			},
+			"offsets": {
+				"from": 237960,
+				"to": 239400
+			},
+			"text": " On your..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,400",
+				"to": "00:03:59,700"
+			},
+			"offsets": {
+				"from": 239400,
+				"to": 239700
+			},
+			"text": " You do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,700",
+				"to": "00:04:01,460"
+			},
+			"offsets": {
+				"from": 239700,
+				"to": 241460
+			},
+			"text": " What kind of tattoos do you have, Philippa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,460",
+				"to": "00:04:03,880"
+			},
+			"offsets": {
+				"from": 241460,
+				"to": 243880
+			},
+			"text": " Quite different ones."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,880",
+				"to": "00:04:06,160"
+			},
+			"offsets": {
+				"from": 243880,
+				"to": 246160
+			},
+			"text": " Yeah, you know, dropped in Congress in different cities."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,160",
+				"to": "00:04:07,540"
+			},
+			"offsets": {
+				"from": 246160,
+				"to": 247540
+			},
+			"text": " And it just couldn't stay simple."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,540",
+				"to": "00:04:08,660"
+			},
+			"offsets": {
+				"from": 247540,
+				"to": 248660
+			},
+			"text": " Never be able to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,660",
+				"to": "00:04:12,640"
+			},
+			"offsets": {
+				"from": 248660,
+				"to": 252640
+			},
+			"text": " So you've been collecting tattoos in every city around the world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,640",
+				"to": "00:04:12,880"
+			},
+			"offsets": {
+				"from": 252640,
+				"to": 252880
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,880",
+				"to": "00:04:14,520"
+			},
+			"offsets": {
+				"from": 252880,
+				"to": 254520
+			},
+			"text": " Is it all guys' names?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,520",
+				"to": "00:04:17,960"
+			},
+			"offsets": {
+				"from": 254520,
+				"to": 257960
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,960",
+				"to": "00:04:19,340"
+			},
+			"offsets": {
+				"from": 257960,
+				"to": 259340
+			},
+			"text": " We don't need to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,340",
+				"to": "00:04:22,680"
+			},
+			"offsets": {
+				"from": 259340,
+				"to": 262680
+			},
+			"text": " Oh, I'm a bad guy."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,680",
+				"to": "00:04:23,840"
+			},
+			"offsets": {
+				"from": 262680,
+				"to": 263840
+			},
+			"text": " Because, you know..."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,840",
+				"to": "00:04:25,300"
+			},
+			"offsets": {
+				"from": 263840,
+				"to": 265300
+			},
+			"text": " And the thing is, actually,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,300",
+				"to": "00:04:27,260"
+			},
+			"offsets": {
+				"from": 265300,
+				"to": 267260
+			},
+			"text": " but if we go back to Tinder for a second,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,260",
+				"to": "00:04:29,260"
+			},
+			"offsets": {
+				"from": 267260,
+				"to": 269260
+			},
+			"text": " the hard part is actually..."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,700",
+				"to": "00:04:30,900"
+			},
+			"offsets": {
+				"from": 269700,
+				"to": 270900
+			},
+			"text": " more that, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,900",
+				"to": "00:04:32,280"
+			},
+			"offsets": {
+				"from": 270900,
+				"to": 272280
+			},
+			"text": " when you see older women,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,280",
+				"to": "00:04:35,360"
+			},
+			"offsets": {
+				"from": 272280,
+				"to": 275360
+			},
+			"text": " they're oddly specific in their profiles on Tinder"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,360",
+				"to": "00:04:38,580"
+			},
+			"offsets": {
+				"from": 275360,
+				"to": 278580
+			},
+			"text": " about what they don't want from their next relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,580",
+				"to": "00:04:42,520"
+			},
+			"offsets": {
+				"from": 278580,
+				"to": 282520
+			},
+			"text": " It's kind of like this is what their guy last did to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,520",
+				"to": "00:04:43,160"
+			},
+			"offsets": {
+				"from": 282520,
+				"to": 283160
+			},
+			"text": " You know, it's like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,160",
+				"to": "00:04:46,300"
+			},
+			"offsets": {
+				"from": 283160,
+				"to": 286300
+			},
+			"text": " swipe left if you hate my children."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,300",
+				"to": "00:04:51,000"
+			},
+			"offsets": {
+				"from": 286300,
+				"to": 291000
+			},
+			"text": " Swipe left if you're planning to run off with my sister."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,000",
+				"to": "00:04:56,140"
+			},
+			"offsets": {
+				"from": 291000,
+				"to": 296140
+			},
+			"text": " Swipe left if you fantasize about adult diapers."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,140",
+				"to": "00:04:59,040"
+			},
+			"offsets": {
+				"from": 296140,
+				"to": 299040
+			},
+			"text": " Yeah, I know, it's hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,040",
+				"to": "00:04:59,520"
+			},
+			"offsets": {
+				"from": 299040,
+				"to": 299520
+			},
+			"text": " It's hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,580",
+				"to": "00:05:00,600"
+			},
+			"offsets": {
+				"from": 299580,
+				"to": 300600
+			},
+			"text": " And I have to ask,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,600",
+				"to": "00:05:02,460"
+			},
+			"offsets": {
+				"from": 300600,
+				"to": 302460
+			},
+			"text": " women, what is it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,460",
+				"to": "00:05:03,100"
+			},
+			"offsets": {
+				"from": 302460,
+				"to": 303100
+			},
+			"text": " Ladies here,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,100",
+				"to": "00:05:07,080"
+			},
+			"offsets": {
+				"from": 303100,
+				"to": 307080
+			},
+			"text": " what is it that happens to you in the next 10 to 15 years"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,080",
+				"to": "00:05:10,160"
+			},
+			"offsets": {
+				"from": 307080,
+				"to": 310160
+			},
+			"text": " that leads to your life being destroyed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,160",
+				"to": "00:05:11,320"
+			},
+			"offsets": {
+				"from": 310160,
+				"to": 311320
+			},
+			"text": " Men."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,320",
+				"to": "00:05:11,840"
+			},
+			"offsets": {
+				"from": 311320,
+				"to": 311840
+			},
+			"text": " Men."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,840",
+				"to": "00:05:12,620"
+			},
+			"offsets": {
+				"from": 311840,
+				"to": 312620
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,620",
+				"to": "00:05:14,640"
+			},
+			"offsets": {
+				"from": 312620,
+				"to": 314640
+			},
+			"text": " It's that prince you found on Tinder."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,640",
+				"to": "00:05:17,920"
+			},
+			"offsets": {
+				"from": 314640,
+				"to": 317920
+			},
+			"text": " But, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,920",
+				"to": "00:05:20,980"
+			},
+			"offsets": {
+				"from": 317920,
+				"to": 320980
+			},
+			"text": " it's actually not the scariest thing about Tinder."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,980",
+				"to": "00:05:22,240"
+			},
+			"offsets": {
+				"from": 320980,
+				"to": 322240
+			},
+			"text": " To me, personally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,240",
+				"to": "00:05:24,480"
+			},
+			"offsets": {
+				"from": 322240,
+				"to": 324480
+			},
+			"text": " the scariest thing on Tinder"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,480",
+				"to": "00:05:27,680"
+			},
+			"offsets": {
+				"from": 324480,
+				"to": 327680
+			},
+			"text": " is the sight of a 50-year-old woman"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,680",
+				"to": "00:05:29,460"
+			},
+			"offsets": {
+				"from": 327680,
+				"to": 329460
+			},
+			"text": " making a..."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,460",
+				"to": "00:05:30,120"
+			},
+			"offsets": {
+				"from": 329460,
+				"to": 330120
+			},
+			"text": " duck face."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,120",
+				"to": "00:05:33,400"
+			},
+			"offsets": {
+				"from": 330120,
+				"to": 333400
+			},
+			"text": " Because, honestly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,400",
+				"to": "00:05:35,340"
+			},
+			"offsets": {
+				"from": 333400,
+				"to": 335340
+			},
+			"text": " how the fuck do you get to 50"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,340",
+				"to": "00:05:37,600"
+			},
+			"offsets": {
+				"from": 335340,
+				"to": 337600
+			},
+			"text": " thinking that a duck face is okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,600",
+				"to": "00:05:40,180"
+			},
+			"offsets": {
+				"from": 337600,
+				"to": 340180
+			},
+			"text": " It's like the only time"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,180",
+				"to": "00:05:42,480"
+			},
+			"offsets": {
+				"from": 340180,
+				"to": 342480
+			},
+			"text": " a duck face is ever okay"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,480",
+				"to": "00:05:44,840"
+			},
+			"offsets": {
+				"from": 342480,
+				"to": 344840
+			},
+			"text": " is if both your parents are ducks."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,840",
+				"to": "00:05:57,020"
+			},
+			"offsets": {
+				"from": 344840,
+				"to": 357020
+			},
+			"text": " Give it up, Harry Fox, everybody!"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,020",
+				"to": "00:05:58,760"
+			},
+			"offsets": {
+				"from": 357020,
+				"to": 358760
+			},
+			"text": " Yes, he does."
+		}
+	]
+}

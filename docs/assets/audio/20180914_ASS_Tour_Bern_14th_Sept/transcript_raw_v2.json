@@ -1,0 +1,3321 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,100"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1100
+			},
+			"text": " Good question, certainly."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,100",
+				"to": "00:00:06,120"
+			},
+			"offsets": {
+				"from": 1100,
+				"to": 6120
+			},
+			"text": " So, we're about, actually, almost at the end of our first half."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,120",
+				"to": "00:00:09,220"
+			},
+			"offsets": {
+				"from": 6120,
+				"to": 9220
+			},
+			"text": " We only have one last comedian left in our first half,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,220",
+				"to": "00:00:11,840"
+			},
+			"offsets": {
+				"from": 9220,
+				"to": 11840
+			},
+			"text": " and we're very excited to have him here tonight."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,840",
+				"to": "00:00:15,220"
+			},
+			"offsets": {
+				"from": 11840,
+				"to": 15220
+			},
+			"text": " Without further ado, let me bring him up."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,220",
+				"to": "00:00:19,280"
+			},
+			"offsets": {
+				"from": 15220,
+				"to": 19280
+			},
+			"text": " Here he is, the very funny Harry Fuchs, everybody!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,280",
+				"to": "00:00:20,080"
+			},
+			"offsets": {
+				"from": 19280,
+				"to": 20080
+			},
+			"text": " Bring him up!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,080",
+				"to": "00:00:20,200"
+			},
+			"offsets": {
+				"from": 20080,
+				"to": 20200
+			},
+			"text": " Woo!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,200",
+				"to": "00:00:29,600"
+			},
+			"offsets": {
+				"from": 20200,
+				"to": 29600
+			},
+			"text": " Yeah, so, my name is actually Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:31,100"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 31100
+			},
+			"text": " It's a German name."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,100",
+				"to": "00:00:36,060"
+			},
+			"offsets": {
+				"from": 31100,
+				"to": 36060
+			},
+			"text": " Spelled F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,060",
+				"to": "00:00:38,960"
+			},
+			"offsets": {
+				"from": 36060,
+				"to": 38960
+			},
+			"text": " I repeat, F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,960",
+				"to": "00:00:44,340"
+			},
+			"offsets": {
+				"from": 38960,
+				"to": 44340
+			},
+			"text": " But all these English speakers here still think my name is Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,340",
+				"to": "00:00:49,990"
+			},
+			"offsets": {
+				"from": 44340,
+				"to": 49990
+			},
+			"text": " The problem with a name like Harry Fuchs is it sets a very high bar of"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,990",
+				"to": "00:00:51,000"
+			},
+			"offsets": {
+				"from": 49990,
+				"to": 51000
+			},
+			"text": " expectations."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,000",
+				"to": "00:00:56,760"
+			},
+			"offsets": {
+				"from": 51000,
+				"to": 56760
+			},
+			"text": " Because if my name was Harry Fuchs, I would have come on here tonight,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,760",
+				"to": "00:00:57,640"
+			},
+			"offsets": {
+				"from": 56760,
+				"to": 57640
+			},
+			"text": " and I would have been like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,640",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 57640,
+				"to": 59980
+			},
+			"text": " Yo, what's up, Harry Fuchs in the house?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:02,660"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 62660
+			},
+			"text": " But that's not really me."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,660",
+				"to": "00:01:03,620"
+			},
+			"offsets": {
+				"from": 62660,
+				"to": 63620
+			},
+			"text": " I'm kind of quiet."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,620",
+				"to": "00:01:09,740"
+			},
+			"offsets": {
+				"from": 63620,
+				"to": 69740
+			},
+			"text": " And the other thing is, obviously, I'd actually need to fuck a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,740",
+				"to": "00:01:12,200"
+			},
+			"offsets": {
+				"from": 69740,
+				"to": 72200
+			},
+			"text": " And that hasn't really been happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,200",
+				"to": "00:01:17,360"
+			},
+			"offsets": {
+				"from": 72200,
+				"to": 77360
+			},
+			"text": " Although, to say I'm actually a father and a single dad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,360",
+				"to": "00:01:18,340"
+			},
+			"offsets": {
+				"from": 77360,
+				"to": 78340
+			},
+			"text": " I have two teenagers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,340",
+				"to": "00:01:22,080"
+			},
+			"offsets": {
+				"from": 78340,
+				"to": 82080
+			},
+			"text": " so just enough happened for my genes to pass to another generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,080",
+				"to": "00:01:24,200"
+			},
+			"offsets": {
+				"from": 82080,
+				"to": 84200
+			},
+			"text": " I have these two teenagers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,200",
+				"to": "00:01:26,660"
+			},
+			"offsets": {
+				"from": 84200,
+				"to": 86660
+			},
+			"text": " and I call them Halberd and Wopper."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:34,300"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 94300
+			},
+			"text": " And as a single dad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,300",
+				"to": "00:01:41,920"
+			},
+			"offsets": {
+				"from": 94300,
+				"to": 101920
+			},
+			"text": " I'm always being confronted with situations I'm wholly unprepared for."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,920",
+				"to": "00:01:44,920"
+			},
+			"offsets": {
+				"from": 101920,
+				"to": 104920
+			},
+			"text": " For example, recently I came back from work,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,920",
+				"to": "00:01:46,240"
+			},
+			"offsets": {
+				"from": 104920,
+				"to": 106240
+			},
+			"text": " and I went into the bathroom,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,240",
+				"to": "00:01:49,420"
+			},
+			"offsets": {
+				"from": 106240,
+				"to": 109420
+			},
+			"text": " and oh my God, it looked like a crime scene in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,420",
+				"to": "00:01:51,320"
+			},
+			"offsets": {
+				"from": 109420,
+				"to": 111320
+			},
+			"text": " There was a bloody handprint on the mirror,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,320",
+				"to": "00:01:53,180"
+			},
+			"offsets": {
+				"from": 111320,
+				"to": 113180
+			},
+			"text": " there was blood in the sink,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,180",
+				"to": "00:01:54,620"
+			},
+			"offsets": {
+				"from": 113180,
+				"to": 114620
+			},
+			"text": " drops of blood on the floor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,620",
+				"to": "00:01:57,780"
+			},
+			"offsets": {
+				"from": 114620,
+				"to": 117780
+			},
+			"text": " and the toilet looked like something from a horror movie."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,780",
+				"to": "00:01:59,980"
+			},
+			"offsets": {
+				"from": 117780,
+				"to": 119980
+			},
+			"text": " And then I heard this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,980",
+				"to": "00:02:00,680"
+			},
+			"offsets": {
+				"from": 119980,
+				"to": 120680
+			},
+			"text": " this screaming,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,680",
+				"to": "00:02:02,280"
+			},
+			"offsets": {
+				"from": 120680,
+				"to": 122280
+			},
+			"text": " and I looked around,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,280",
+				"to": "00:02:05,740"
+			},
+			"offsets": {
+				"from": 122280,
+				"to": 125740
+			},
+			"text": " and I realized the screaming was coming from me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,740",
+				"to": "00:02:11,900"
+			},
+			"offsets": {
+				"from": 125740,
+				"to": 131900
+			},
+			"text": " And at that point, my daughter showed up,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,900",
+				"to": "00:02:12,620"
+			},
+			"offsets": {
+				"from": 131900,
+				"to": 132620
+			},
+			"text": " and she said, like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,620",
+				"to": "00:02:14,380"
+			},
+			"offsets": {
+				"from": 132620,
+				"to": 134380
+			},
+			"text": " Hey, Dad, I got my period."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,380",
+				"to": "00:02:20,440"
+			},
+			"offsets": {
+				"from": 134380,
+				"to": 140440
+			},
+			"text": " So, after cleaning up my daughter's menstrual blood,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,440",
+				"to": "00:02:21,440"
+			},
+			"offsets": {
+				"from": 140440,
+				"to": 141440
+			},
+			"text": " I said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,440",
+				"to": "00:02:25,200"
+			},
+			"offsets": {
+				"from": 141440,
+				"to": 145200
+			},
+			"text": " Hey, can I get you something?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,200",
+				"to": "00:02:26,540"
+			},
+			"offsets": {
+				"from": 145200,
+				"to": 146540
+			},
+			"text": " And my daughter was like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,540",
+				"to": "00:02:28,480"
+			},
+			"offsets": {
+				"from": 146540,
+				"to": 148480
+			},
+			"text": " Dad, get me 10 months."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,480",
+				"to": "00:02:29,920"
+			},
+			"offsets": {
+				"from": 148480,
+				"to": 149920
+			},
+			"text": " Now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,960",
+				"to": "00:02:30,460"
+			},
+			"offsets": {
+				"from": 149960,
+				"to": 150460
+			},
+			"text": " as a man,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,460",
+				"to": "00:02:34,400"
+			},
+			"offsets": {
+				"from": 150460,
+				"to": 154400
+			},
+			"text": " I obviously know completely nothing about buying tampons,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,400",
+				"to": "00:02:36,040"
+			},
+			"offsets": {
+				"from": 154400,
+				"to": 156040
+			},
+			"text": " but I thought, hey, this can't be so hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,040",
+				"to": "00:02:37,660"
+			},
+			"offsets": {
+				"from": 156040,
+				"to": 157660
+			},
+			"text": " So, I went to Negro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,660",
+				"to": "00:02:38,920"
+			},
+			"offsets": {
+				"from": 157660,
+				"to": 158920
+			},
+			"text": " I took a look around,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,920",
+				"to": "00:02:42,220"
+			},
+			"offsets": {
+				"from": 158920,
+				"to": 162220
+			},
+			"text": " and what I learned is that tampon product names"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,220",
+				"to": "00:02:44,320"
+			},
+			"offsets": {
+				"from": 162220,
+				"to": 164320
+			},
+			"text": " are exactly no use whatsoever"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,320",
+				"to": "00:02:46,380"
+			},
+			"offsets": {
+				"from": 164320,
+				"to": 166380
+			},
+			"text": " when it comes to choosing a tampon."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,380",
+				"to": "00:02:48,880"
+			},
+			"offsets": {
+				"from": 166380,
+				"to": 168880
+			},
+			"text": " For example, you have names like"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,880",
+				"to": "00:02:50,120"
+			},
+			"offsets": {
+				"from": 168880,
+				"to": 170120
+			},
+			"text": " OB Pro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,120",
+				"to": "00:02:55,420"
+			},
+			"offsets": {
+				"from": 170120,
+				"to": 175420
+			},
+			"text": " which is like professional women that bleed for a living,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,420",
+				"to": "00:02:58,980"
+			},
+			"offsets": {
+				"from": 175420,
+				"to": 178980
+			},
+			"text": " or"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,980",
+				"to": "00:02:59,940"
+			},
+			"offsets": {
+				"from": 178980,
+				"to": 179940
+			},
+			"text": " OB Pro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,940",
+				"to": "00:03:01,760"
+			},
+			"offsets": {
+				"from": 179940,
+				"to": 181760
+			},
+			"text": " Tampax Radiance,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,760",
+				"to": "00:03:05,000"
+			},
+			"offsets": {
+				"from": 181760,
+				"to": 185000
+			},
+			"text": " Glow-in-the-Dark Tampons,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,000",
+				"to": "00:03:06,160"
+			},
+			"offsets": {
+				"from": 185000,
+				"to": 186160
+			},
+			"text": " and when the lights are off."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,160",
+				"to": "00:03:08,740"
+			},
+			"offsets": {
+				"from": 186160,
+				"to": 188740
+			},
+			"text": " The one I like the most is"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,740",
+				"to": "00:03:09,940"
+			},
+			"offsets": {
+				"from": 188740,
+				"to": 189940
+			},
+			"text": " Always Infinity."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,940",
+				"to": "00:03:14,360"
+			},
+			"offsets": {
+				"from": 189940,
+				"to": 194360
+			},
+			"text": " But when your vagina is an unfillable black hole."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,360",
+				"to": "00:03:18,640"
+			},
+			"offsets": {
+				"from": 194360,
+				"to": 198640
+			},
+			"text": " Anyway, it worked out okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,640",
+				"to": "00:03:19,600"
+			},
+			"offsets": {
+				"from": 198640,
+				"to": 199600
+			},
+			"text": " I chose something,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,600",
+				"to": "00:03:21,380"
+			},
+			"offsets": {
+				"from": 199600,
+				"to": 201380
+			},
+			"text": " it worked out fine for my daughter,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,380",
+				"to": "00:03:24,340"
+			},
+			"offsets": {
+				"from": 201380,
+				"to": 204340
+			},
+			"text": " and for me, it ended up being a very proud moment as a father."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,340",
+				"to": "00:03:27,120"
+			},
+			"offsets": {
+				"from": 204340,
+				"to": 207120
+			},
+			"text": " Because it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,120",
+				"to": "00:03:28,980"
+			},
+			"offsets": {
+				"from": 207120,
+				"to": 208980
+			},
+			"text": " what your daughter crimes in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,940",
+				"to": "00:03:32,000"
+			},
+			"offsets": {
+				"from": 209940,
+				"to": 212000
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,000",
+				"to": "00:03:33,680"
+			},
+			"offsets": {
+				"from": 212000,
+				"to": 213680
+			},
+			"text": " what your daughter crimes in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,680",
+				"to": "00:03:35,000"
+			},
+			"offsets": {
+				"from": 213680,
+				"to": 215000
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,000",
+				"to": "00:03:36,140"
+			},
+			"offsets": {
+				"from": 215000,
+				"to": 216140
+			},
+			"text": " what your daughter crimes in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,140",
+				"to": "00:03:36,900"
+			},
+			"offsets": {
+				"from": 216140,
+				"to": 216900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,900",
+				"to": "00:03:37,900"
+			},
+			"offsets": {
+				"from": 216900,
+				"to": 217900
+			},
+			"text": " what your daughter crimes in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,900",
+				"to": "00:03:38,900"
+			},
+			"offsets": {
+				"from": 217900,
+				"to": 218900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,900",
+				"to": "00:03:39,900"
+			},
+			"offsets": {
+				"from": 218900,
+				"to": 219900
+			},
+			"text": " what your daughter crimes in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,900",
+				"to": "00:03:40,900"
+			},
+			"offsets": {
+				"from": 219900,
+				"to": 220900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,900",
+				"to": "00:03:41,900"
+			},
+			"offsets": {
+				"from": 220900,
+				"to": 221900
+			},
+			"text": " what your daughter crimes in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,900",
+				"to": "00:03:42,900"
+			},
+			"offsets": {
+				"from": 221900,
+				"to": 222900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,900",
+				"to": "00:03:43,900"
+			},
+			"offsets": {
+				"from": 222900,
+				"to": 223900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,900",
+				"to": "00:03:44,900"
+			},
+			"offsets": {
+				"from": 223900,
+				"to": 224900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,900",
+				"to": "00:03:45,900"
+			},
+			"offsets": {
+				"from": 224900,
+				"to": 225900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,900",
+				"to": "00:03:46,900"
+			},
+			"offsets": {
+				"from": 225900,
+				"to": 226900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,900",
+				"to": "00:03:47,900"
+			},
+			"offsets": {
+				"from": 226900,
+				"to": 227900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,900",
+				"to": "00:03:48,900"
+			},
+			"offsets": {
+				"from": 227900,
+				"to": 228900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,900",
+				"to": "00:03:49,900"
+			},
+			"offsets": {
+				"from": 228900,
+				"to": 229900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,900",
+				"to": "00:03:50,900"
+			},
+			"offsets": {
+				"from": 229900,
+				"to": 230900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,900",
+				"to": "00:03:51,900"
+			},
+			"offsets": {
+				"from": 230900,
+				"to": 231900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,900",
+				"to": "00:03:52,900"
+			},
+			"offsets": {
+				"from": 231900,
+				"to": 232900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,900",
+				"to": "00:03:53,900"
+			},
+			"offsets": {
+				"from": 232900,
+				"to": 233900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,900",
+				"to": "00:03:54,900"
+			},
+			"offsets": {
+				"from": 233900,
+				"to": 234900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,900",
+				"to": "00:03:55,900"
+			},
+			"offsets": {
+				"from": 234900,
+				"to": 235900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,900",
+				"to": "00:03:56,900"
+			},
+			"offsets": {
+				"from": 235900,
+				"to": 236900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,900",
+				"to": "00:03:57,900"
+			},
+			"offsets": {
+				"from": 236900,
+				"to": 237900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,900",
+				"to": "00:03:58,900"
+			},
+			"offsets": {
+				"from": 237900,
+				"to": 238900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,900",
+				"to": "00:03:59,900"
+			},
+			"offsets": {
+				"from": 238900,
+				"to": 239900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,900",
+				"to": "00:04:00,900"
+			},
+			"offsets": {
+				"from": 239900,
+				"to": 240900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,900",
+				"to": "00:04:01,900"
+			},
+			"offsets": {
+				"from": 240900,
+				"to": 241900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,900",
+				"to": "00:04:02,900"
+			},
+			"offsets": {
+				"from": 241900,
+				"to": 242900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,900",
+				"to": "00:04:03,900"
+			},
+			"offsets": {
+				"from": 242900,
+				"to": 243900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,900",
+				"to": "00:04:04,900"
+			},
+			"offsets": {
+				"from": 243900,
+				"to": 244900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,900",
+				"to": "00:04:05,900"
+			},
+			"offsets": {
+				"from": 244900,
+				"to": 245900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,900",
+				"to": "00:04:06,900"
+			},
+			"offsets": {
+				"from": 245900,
+				"to": 246900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,900",
+				"to": "00:04:07,900"
+			},
+			"offsets": {
+				"from": 246900,
+				"to": 247900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,900",
+				"to": "00:04:08,900"
+			},
+			"offsets": {
+				"from": 247900,
+				"to": 248900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,900",
+				"to": "00:04:09,900"
+			},
+			"offsets": {
+				"from": 248900,
+				"to": 249900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,900",
+				"to": "00:04:10,900"
+			},
+			"offsets": {
+				"from": 249900,
+				"to": 250900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,900",
+				"to": "00:04:11,900"
+			},
+			"offsets": {
+				"from": 250900,
+				"to": 251900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,900",
+				"to": "00:04:12,900"
+			},
+			"offsets": {
+				"from": 251900,
+				"to": 252900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,900",
+				"to": "00:04:13,900"
+			},
+			"offsets": {
+				"from": 252900,
+				"to": 253900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,900",
+				"to": "00:04:14,900"
+			},
+			"offsets": {
+				"from": 253900,
+				"to": 254900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,900",
+				"to": "00:04:15,900"
+			},
+			"offsets": {
+				"from": 254900,
+				"to": 255900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,900",
+				"to": "00:04:16,900"
+			},
+			"offsets": {
+				"from": 255900,
+				"to": 256900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,900",
+				"to": "00:04:17,900"
+			},
+			"offsets": {
+				"from": 256900,
+				"to": 257900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,900",
+				"to": "00:04:18,900"
+			},
+			"offsets": {
+				"from": 257900,
+				"to": 258900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,900",
+				"to": "00:04:19,900"
+			},
+			"offsets": {
+				"from": 258900,
+				"to": 259900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,900",
+				"to": "00:04:20,900"
+			},
+			"offsets": {
+				"from": 259900,
+				"to": 260900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,900",
+				"to": "00:04:21,900"
+			},
+			"offsets": {
+				"from": 260900,
+				"to": 261900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,900",
+				"to": "00:04:22,900"
+			},
+			"offsets": {
+				"from": 261900,
+				"to": 262900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,900",
+				"to": "00:04:23,900"
+			},
+			"offsets": {
+				"from": 262900,
+				"to": 263900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,900",
+				"to": "00:04:24,900"
+			},
+			"offsets": {
+				"from": 263900,
+				"to": 264900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,900",
+				"to": "00:04:25,900"
+			},
+			"offsets": {
+				"from": 264900,
+				"to": 265900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,900",
+				"to": "00:04:26,900"
+			},
+			"offsets": {
+				"from": 265900,
+				"to": 266900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,900",
+				"to": "00:04:27,900"
+			},
+			"offsets": {
+				"from": 266900,
+				"to": 267900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,900",
+				"to": "00:04:28,900"
+			},
+			"offsets": {
+				"from": 267900,
+				"to": 268900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,900",
+				"to": "00:04:29,900"
+			},
+			"offsets": {
+				"from": 268900,
+				"to": 269900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,900",
+				"to": "00:04:30,900"
+			},
+			"offsets": {
+				"from": 269900,
+				"to": 270900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,900",
+				"to": "00:04:31,900"
+			},
+			"offsets": {
+				"from": 270900,
+				"to": 271900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,900",
+				"to": "00:04:32,900"
+			},
+			"offsets": {
+				"from": 271900,
+				"to": 272900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,900",
+				"to": "00:04:33,900"
+			},
+			"offsets": {
+				"from": 272900,
+				"to": 273900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,900",
+				"to": "00:04:34,900"
+			},
+			"offsets": {
+				"from": 273900,
+				"to": 274900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,900",
+				"to": "00:04:35,900"
+			},
+			"offsets": {
+				"from": 274900,
+				"to": 275900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,900",
+				"to": "00:04:36,900"
+			},
+			"offsets": {
+				"from": 275900,
+				"to": 276900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,900",
+				"to": "00:04:37,900"
+			},
+			"offsets": {
+				"from": 276900,
+				"to": 277900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,900",
+				"to": "00:04:38,900"
+			},
+			"offsets": {
+				"from": 277900,
+				"to": 278900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,900",
+				"to": "00:04:39,900"
+			},
+			"offsets": {
+				"from": 278900,
+				"to": 279900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,900",
+				"to": "00:04:40,900"
+			},
+			"offsets": {
+				"from": 279900,
+				"to": 280900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,900",
+				"to": "00:04:41,900"
+			},
+			"offsets": {
+				"from": 280900,
+				"to": 281900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,900",
+				"to": "00:04:42,900"
+			},
+			"offsets": {
+				"from": 281900,
+				"to": 282900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,900",
+				"to": "00:04:43,900"
+			},
+			"offsets": {
+				"from": 282900,
+				"to": 283900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,900",
+				"to": "00:04:44,900"
+			},
+			"offsets": {
+				"from": 283900,
+				"to": 284900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,900",
+				"to": "00:04:45,900"
+			},
+			"offsets": {
+				"from": 284900,
+				"to": 285900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,900",
+				"to": "00:04:46,900"
+			},
+			"offsets": {
+				"from": 285900,
+				"to": 286900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,900",
+				"to": "00:04:47,900"
+			},
+			"offsets": {
+				"from": 286900,
+				"to": 287900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,900",
+				"to": "00:04:48,900"
+			},
+			"offsets": {
+				"from": 287900,
+				"to": 288900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,900",
+				"to": "00:04:49,900"
+			},
+			"offsets": {
+				"from": 288900,
+				"to": 289900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,900",
+				"to": "00:04:50,900"
+			},
+			"offsets": {
+				"from": 289900,
+				"to": 290900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,900",
+				"to": "00:04:51,900"
+			},
+			"offsets": {
+				"from": 290900,
+				"to": 291900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,900",
+				"to": "00:04:52,900"
+			},
+			"offsets": {
+				"from": 291900,
+				"to": 292900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,900",
+				"to": "00:04:53,900"
+			},
+			"offsets": {
+				"from": 292900,
+				"to": 293900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,900",
+				"to": "00:04:54,900"
+			},
+			"offsets": {
+				"from": 293900,
+				"to": 294900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,900",
+				"to": "00:04:55,900"
+			},
+			"offsets": {
+				"from": 294900,
+				"to": 295900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,900",
+				"to": "00:04:56,900"
+			},
+			"offsets": {
+				"from": 295900,
+				"to": 296900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,900",
+				"to": "00:04:57,900"
+			},
+			"offsets": {
+				"from": 296900,
+				"to": 297900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,900",
+				"to": "00:04:58,900"
+			},
+			"offsets": {
+				"from": 297900,
+				"to": 298900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,900",
+				"to": "00:04:59,900"
+			},
+			"offsets": {
+				"from": 298900,
+				"to": 299900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,900",
+				"to": "00:05:00,900"
+			},
+			"offsets": {
+				"from": 299900,
+				"to": 300900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,900",
+				"to": "00:05:01,900"
+			},
+			"offsets": {
+				"from": 300900,
+				"to": 301900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,900",
+				"to": "00:05:02,900"
+			},
+			"offsets": {
+				"from": 301900,
+				"to": 302900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,900",
+				"to": "00:05:03,900"
+			},
+			"offsets": {
+				"from": 302900,
+				"to": 303900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,900",
+				"to": "00:05:04,900"
+			},
+			"offsets": {
+				"from": 303900,
+				"to": 304900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,900",
+				"to": "00:05:05,900"
+			},
+			"offsets": {
+				"from": 304900,
+				"to": 305900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,900",
+				"to": "00:05:06,900"
+			},
+			"offsets": {
+				"from": 305900,
+				"to": 306900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,900",
+				"to": "00:05:07,900"
+			},
+			"offsets": {
+				"from": 306900,
+				"to": 307900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,900",
+				"to": "00:05:08,900"
+			},
+			"offsets": {
+				"from": 307900,
+				"to": 308900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,900",
+				"to": "00:05:09,900"
+			},
+			"offsets": {
+				"from": 308900,
+				"to": 309900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,900",
+				"to": "00:05:10,900"
+			},
+			"offsets": {
+				"from": 309900,
+				"to": 310900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,900",
+				"to": "00:05:11,900"
+			},
+			"offsets": {
+				"from": 310900,
+				"to": 311900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,900",
+				"to": "00:05:12,900"
+			},
+			"offsets": {
+				"from": 311900,
+				"to": 312900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,900",
+				"to": "00:05:13,900"
+			},
+			"offsets": {
+				"from": 312900,
+				"to": 313900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,900",
+				"to": "00:05:14,900"
+			},
+			"offsets": {
+				"from": 313900,
+				"to": 314900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,900",
+				"to": "00:05:15,900"
+			},
+			"offsets": {
+				"from": 314900,
+				"to": 315900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,900",
+				"to": "00:05:16,900"
+			},
+			"offsets": {
+				"from": 315900,
+				"to": 316900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,900",
+				"to": "00:05:17,900"
+			},
+			"offsets": {
+				"from": 316900,
+				"to": 317900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,900",
+				"to": "00:05:18,900"
+			},
+			"offsets": {
+				"from": 317900,
+				"to": 318900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,900",
+				"to": "00:05:19,900"
+			},
+			"offsets": {
+				"from": 318900,
+				"to": 319900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,900",
+				"to": "00:05:20,900"
+			},
+			"offsets": {
+				"from": 319900,
+				"to": 320900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,900",
+				"to": "00:05:21,900"
+			},
+			"offsets": {
+				"from": 320900,
+				"to": 321900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,900",
+				"to": "00:05:22,900"
+			},
+			"offsets": {
+				"from": 321900,
+				"to": 322900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,900",
+				"to": "00:05:23,900"
+			},
+			"offsets": {
+				"from": 322900,
+				"to": 323900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,900",
+				"to": "00:05:24,900"
+			},
+			"offsets": {
+				"from": 323900,
+				"to": 324900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,900",
+				"to": "00:05:25,900"
+			},
+			"offsets": {
+				"from": 324900,
+				"to": 325900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,900",
+				"to": "00:05:26,900"
+			},
+			"offsets": {
+				"from": 325900,
+				"to": 326900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,900",
+				"to": "00:05:27,900"
+			},
+			"offsets": {
+				"from": 326900,
+				"to": 327900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,900",
+				"to": "00:05:28,900"
+			},
+			"offsets": {
+				"from": 327900,
+				"to": 328900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,900",
+				"to": "00:05:29,900"
+			},
+			"offsets": {
+				"from": 328900,
+				"to": 329900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,900",
+				"to": "00:05:30,900"
+			},
+			"offsets": {
+				"from": 329900,
+				"to": 330900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,900",
+				"to": "00:05:31,900"
+			},
+			"offsets": {
+				"from": 330900,
+				"to": 331900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,900",
+				"to": "00:05:32,900"
+			},
+			"offsets": {
+				"from": 331900,
+				"to": 332900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,900",
+				"to": "00:05:33,900"
+			},
+			"offsets": {
+				"from": 332900,
+				"to": 333900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,900",
+				"to": "00:05:34,900"
+			},
+			"offsets": {
+				"from": 333900,
+				"to": 334900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,900",
+				"to": "00:05:35,900"
+			},
+			"offsets": {
+				"from": 334900,
+				"to": 335900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,900",
+				"to": "00:05:36,900"
+			},
+			"offsets": {
+				"from": 335900,
+				"to": 336900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,900",
+				"to": "00:05:37,900"
+			},
+			"offsets": {
+				"from": 336900,
+				"to": 337900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,900",
+				"to": "00:05:38,900"
+			},
+			"offsets": {
+				"from": 337900,
+				"to": 338900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,900",
+				"to": "00:05:39,900"
+			},
+			"offsets": {
+				"from": 338900,
+				"to": 339900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,900",
+				"to": "00:05:40,900"
+			},
+			"offsets": {
+				"from": 339900,
+				"to": 340900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,900",
+				"to": "00:05:41,900"
+			},
+			"offsets": {
+				"from": 340900,
+				"to": 341900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,900",
+				"to": "00:05:42,900"
+			},
+			"offsets": {
+				"from": 341900,
+				"to": 342900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,900",
+				"to": "00:05:43,900"
+			},
+			"offsets": {
+				"from": 342900,
+				"to": 343900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,900",
+				"to": "00:05:44,900"
+			},
+			"offsets": {
+				"from": 343900,
+				"to": 344900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,900",
+				"to": "00:05:45,900"
+			},
+			"offsets": {
+				"from": 344900,
+				"to": 345900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,900",
+				"to": "00:05:46,900"
+			},
+			"offsets": {
+				"from": 345900,
+				"to": 346900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,900",
+				"to": "00:05:47,900"
+			},
+			"offsets": {
+				"from": 346900,
+				"to": 347900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,900",
+				"to": "00:05:48,900"
+			},
+			"offsets": {
+				"from": 347900,
+				"to": 348900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,900",
+				"to": "00:05:49,900"
+			},
+			"offsets": {
+				"from": 348900,
+				"to": 349900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,900",
+				"to": "00:05:50,900"
+			},
+			"offsets": {
+				"from": 349900,
+				"to": 350900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,900",
+				"to": "00:05:51,900"
+			},
+			"offsets": {
+				"from": 350900,
+				"to": 351900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,900",
+				"to": "00:05:52,900"
+			},
+			"offsets": {
+				"from": 351900,
+				"to": 352900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,900",
+				"to": "00:05:53,900"
+			},
+			"offsets": {
+				"from": 352900,
+				"to": 353900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,900",
+				"to": "00:05:54,900"
+			},
+			"offsets": {
+				"from": 353900,
+				"to": 354900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,900",
+				"to": "00:05:55,900"
+			},
+			"offsets": {
+				"from": 354900,
+				"to": 355900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,900",
+				"to": "00:05:56,900"
+			},
+			"offsets": {
+				"from": 355900,
+				"to": 356900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,900",
+				"to": "00:05:57,900"
+			},
+			"offsets": {
+				"from": 356900,
+				"to": 357900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,900",
+				"to": "00:05:58,900"
+			},
+			"offsets": {
+				"from": 357900,
+				"to": 358900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,900",
+				"to": "00:05:59,900"
+			},
+			"offsets": {
+				"from": 358900,
+				"to": 359900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,900",
+				"to": "00:06:00,900"
+			},
+			"offsets": {
+				"from": 359900,
+				"to": 360900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,900",
+				"to": "00:06:01,900"
+			},
+			"offsets": {
+				"from": 360900,
+				"to": 361900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,900",
+				"to": "00:06:02,900"
+			},
+			"offsets": {
+				"from": 361900,
+				"to": 362900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,900",
+				"to": "00:06:03,900"
+			},
+			"offsets": {
+				"from": 362900,
+				"to": 363900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,900",
+				"to": "00:06:04,900"
+			},
+			"offsets": {
+				"from": 363900,
+				"to": 364900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,900",
+				"to": "00:06:05,900"
+			},
+			"offsets": {
+				"from": 364900,
+				"to": 365900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,900",
+				"to": "00:06:06,900"
+			},
+			"offsets": {
+				"from": 365900,
+				"to": 366900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,900",
+				"to": "00:06:07,900"
+			},
+			"offsets": {
+				"from": 366900,
+				"to": 367900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,900",
+				"to": "00:06:08,900"
+			},
+			"offsets": {
+				"from": 367900,
+				"to": 368900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,900",
+				"to": "00:06:09,900"
+			},
+			"offsets": {
+				"from": 368900,
+				"to": 369900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,900",
+				"to": "00:06:10,900"
+			},
+			"offsets": {
+				"from": 369900,
+				"to": 370900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,900",
+				"to": "00:06:11,900"
+			},
+			"offsets": {
+				"from": 370900,
+				"to": 371900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,900",
+				"to": "00:06:12,900"
+			},
+			"offsets": {
+				"from": 371900,
+				"to": 372900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,900",
+				"to": "00:06:13,900"
+			},
+			"offsets": {
+				"from": 372900,
+				"to": 373900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,900",
+				"to": "00:06:14,900"
+			},
+			"offsets": {
+				"from": 373900,
+				"to": 374900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,900",
+				"to": "00:06:15,900"
+			},
+			"offsets": {
+				"from": 374900,
+				"to": 375900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,900",
+				"to": "00:06:16,900"
+			},
+			"offsets": {
+				"from": 375900,
+				"to": 376900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,900",
+				"to": "00:06:17,900"
+			},
+			"offsets": {
+				"from": 376900,
+				"to": 377900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,900",
+				"to": "00:06:18,900"
+			},
+			"offsets": {
+				"from": 377900,
+				"to": 378900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,900",
+				"to": "00:06:19,900"
+			},
+			"offsets": {
+				"from": 378900,
+				"to": 379900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,900",
+				"to": "00:06:20,900"
+			},
+			"offsets": {
+				"from": 379900,
+				"to": 380900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,900",
+				"to": "00:06:21,900"
+			},
+			"offsets": {
+				"from": 380900,
+				"to": 381900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,900",
+				"to": "00:06:22,900"
+			},
+			"offsets": {
+				"from": 381900,
+				"to": 382900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,900",
+				"to": "00:06:23,900"
+			},
+			"offsets": {
+				"from": 382900,
+				"to": 383900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,900",
+				"to": "00:06:24,900"
+			},
+			"offsets": {
+				"from": 383900,
+				"to": 384900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,900",
+				"to": "00:06:25,900"
+			},
+			"offsets": {
+				"from": 384900,
+				"to": 385900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,900",
+				"to": "00:06:26,900"
+			},
+			"offsets": {
+				"from": 385900,
+				"to": 386900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,900",
+				"to": "00:06:27,900"
+			},
+			"offsets": {
+				"from": 386900,
+				"to": 387900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,900",
+				"to": "00:06:28,900"
+			},
+			"offsets": {
+				"from": 387900,
+				"to": 388900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,900",
+				"to": "00:06:29,900"
+			},
+			"offsets": {
+				"from": 388900,
+				"to": 389900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,900",
+				"to": "00:06:30,900"
+			},
+			"offsets": {
+				"from": 389900,
+				"to": 390900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,900",
+				"to": "00:06:31,900"
+			},
+			"offsets": {
+				"from": 390900,
+				"to": 391900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,900",
+				"to": "00:06:32,900"
+			},
+			"offsets": {
+				"from": 391900,
+				"to": 392900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,900",
+				"to": "00:06:33,900"
+			},
+			"offsets": {
+				"from": 392900,
+				"to": 393900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,900",
+				"to": "00:06:34,900"
+			},
+			"offsets": {
+				"from": 393900,
+				"to": 394900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,900",
+				"to": "00:06:35,900"
+			},
+			"offsets": {
+				"from": 394900,
+				"to": 395900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,900",
+				"to": "00:06:36,900"
+			},
+			"offsets": {
+				"from": 395900,
+				"to": 396900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,900",
+				"to": "00:06:37,900"
+			},
+			"offsets": {
+				"from": 396900,
+				"to": 397900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,900",
+				"to": "00:06:38,900"
+			},
+			"offsets": {
+				"from": 397900,
+				"to": 398900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,900",
+				"to": "00:06:39,900"
+			},
+			"offsets": {
+				"from": 398900,
+				"to": 399900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,900",
+				"to": "00:06:40,900"
+			},
+			"offsets": {
+				"from": 399900,
+				"to": 400900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,900",
+				"to": "00:06:41,900"
+			},
+			"offsets": {
+				"from": 400900,
+				"to": 401900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,900",
+				"to": "00:06:42,900"
+			},
+			"offsets": {
+				"from": 401900,
+				"to": 402900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,900",
+				"to": "00:06:43,900"
+			},
+			"offsets": {
+				"from": 402900,
+				"to": 403900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,900",
+				"to": "00:06:44,900"
+			},
+			"offsets": {
+				"from": 403900,
+				"to": 404900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,900",
+				"to": "00:06:45,900"
+			},
+			"offsets": {
+				"from": 404900,
+				"to": 405900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,900",
+				"to": "00:06:46,900"
+			},
+			"offsets": {
+				"from": 405900,
+				"to": 406900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,900",
+				"to": "00:06:47,900"
+			},
+			"offsets": {
+				"from": 406900,
+				"to": 407900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,900",
+				"to": "00:06:48,900"
+			},
+			"offsets": {
+				"from": 407900,
+				"to": 408900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,900",
+				"to": "00:06:49,900"
+			},
+			"offsets": {
+				"from": 408900,
+				"to": 409900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,900",
+				"to": "00:06:50,900"
+			},
+			"offsets": {
+				"from": 409900,
+				"to": 410900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,900",
+				"to": "00:06:51,900"
+			},
+			"offsets": {
+				"from": 410900,
+				"to": 411900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,900",
+				"to": "00:06:52,900"
+			},
+			"offsets": {
+				"from": 411900,
+				"to": 412900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,900",
+				"to": "00:06:53,900"
+			},
+			"offsets": {
+				"from": 412900,
+				"to": 413900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,900",
+				"to": "00:06:54,900"
+			},
+			"offsets": {
+				"from": 413900,
+				"to": 414900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,900",
+				"to": "00:06:55,900"
+			},
+			"offsets": {
+				"from": 414900,
+				"to": 415900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,900",
+				"to": "00:06:56,900"
+			},
+			"offsets": {
+				"from": 415900,
+				"to": 416900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,900",
+				"to": "00:06:57,900"
+			},
+			"offsets": {
+				"from": 416900,
+				"to": 417900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,900",
+				"to": "00:06:58,900"
+			},
+			"offsets": {
+				"from": 417900,
+				"to": 418900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,900",
+				"to": "00:06:59,900"
+			},
+			"offsets": {
+				"from": 418900,
+				"to": 419900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,900",
+				"to": "00:07:00,900"
+			},
+			"offsets": {
+				"from": 419900,
+				"to": 420900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,900",
+				"to": "00:07:01,900"
+			},
+			"offsets": {
+				"from": 420900,
+				"to": 421900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,900",
+				"to": "00:07:02,900"
+			},
+			"offsets": {
+				"from": 421900,
+				"to": 422900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,900",
+				"to": "00:07:03,900"
+			},
+			"offsets": {
+				"from": 422900,
+				"to": 423900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,900",
+				"to": "00:07:04,900"
+			},
+			"offsets": {
+				"from": 423900,
+				"to": 424900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,900",
+				"to": "00:07:05,900"
+			},
+			"offsets": {
+				"from": 424900,
+				"to": 425900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,900",
+				"to": "00:07:06,900"
+			},
+			"offsets": {
+				"from": 425900,
+				"to": 426900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,900",
+				"to": "00:07:07,900"
+			},
+			"offsets": {
+				"from": 426900,
+				"to": 427900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,900",
+				"to": "00:07:08,900"
+			},
+			"offsets": {
+				"from": 427900,
+				"to": 428900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,900",
+				"to": "00:07:09,900"
+			},
+			"offsets": {
+				"from": 428900,
+				"to": 429900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,900",
+				"to": "00:07:10,900"
+			},
+			"offsets": {
+				"from": 429900,
+				"to": 430900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,900",
+				"to": "00:07:11,900"
+			},
+			"offsets": {
+				"from": 430900,
+				"to": 431900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,900",
+				"to": "00:07:12,900"
+			},
+			"offsets": {
+				"from": 431900,
+				"to": 432900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,900",
+				"to": "00:07:13,900"
+			},
+			"offsets": {
+				"from": 432900,
+				"to": 433900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,900",
+				"to": "00:07:14,900"
+			},
+			"offsets": {
+				"from": 433900,
+				"to": 434900
+			},
+			"text": " So, it's not every day that you get to choose"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,900",
+				"to": "00:07:15,900"
+			},
+			"offsets": {
+				"from": 434900,
+				"to": 435900
+			},
+			"text": " what your daughter crimes in your vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,900",
+				"to": "00:07:16,900"
+			},
+			"offsets": {
+				"from": 435900,
+				"to": 436900
+			},
+			"text": " So, it's not every day that you get to choose"
+		}
+	]
+}

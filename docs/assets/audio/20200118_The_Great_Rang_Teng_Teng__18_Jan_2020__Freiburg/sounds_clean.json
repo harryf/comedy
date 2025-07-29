@@ -1,0 +1,6461 @@
+{
+    "summary": {
+        "total_score": 161,
+        "laughs_per_minute": 9
+    },
+    "reactions": [
+        {
+            "start": 0.0,
+            "end": 1.2,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 1.2,
+            "end": 2.4,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 2.4,
+            "end": 3.6,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 3.6,
+            "end": 4.8,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 4.8,
+            "end": 6.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 6.0,
+            "end": 7.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 7.2,
+            "end": 8.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 8.4,
+            "end": 9.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 9.6,
+            "end": 10.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 10.8,
+            "end": 12.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 12.0,
+            "end": 13.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 13.2,
+            "end": 14.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 14.4,
+            "end": 15.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 15.6,
+            "end": 16.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 16.8,
+            "end": 18.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 18.0,
+            "end": 19.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 19.2,
+            "end": 20.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 20.4,
+            "end": 21.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 21.6,
+            "end": 22.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 22.8,
+            "end": 24.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 24.0,
+            "end": 25.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 25.2,
+            "end": 26.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 26.4,
+            "end": 27.6,
+            "audio tags": [
+                "Clapping"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 27.6,
+            "end": 28.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 28.8,
+            "end": 30.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 30.0,
+            "end": 31.2,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 31.2,
+            "end": 32.4,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 32.4,
+            "end": 33.6,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 33.6,
+            "end": 34.8,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 34.8,
+            "end": 36.0,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 36.0,
+            "end": 37.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 37.2,
+            "end": 38.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 38.4,
+            "end": 39.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 39.6,
+            "end": 40.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 40.8,
+            "end": 42.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 42.0,
+            "end": 43.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 43.2,
+            "end": 44.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 44.4,
+            "end": 45.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 45.6,
+            "end": 46.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 46.8,
+            "end": 48.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 0
+        },
+        {
+            "start": 48.0,
+            "end": 49.2,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Laughter",
+                "Snicker"
+            ],
+            "reaction_score": 3,
+            "cumulative_score": 3
+        },
+        {
+            "start": 49.2,
+            "end": 50.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 4
+        },
+        {
+            "start": 50.4,
+            "end": 51.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 5
+        },
+        {
+            "start": 51.6,
+            "end": 52.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 5
+        },
+        {
+            "start": 52.8,
+            "end": 54.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 6
+        },
+        {
+            "start": 54.0,
+            "end": 55.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 7
+        },
+        {
+            "start": 55.2,
+            "end": 56.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 7
+        },
+        {
+            "start": 56.4,
+            "end": 57.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 7
+        },
+        {
+            "start": 57.6,
+            "end": 58.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 7
+        },
+        {
+            "start": 58.8,
+            "end": 60.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 8
+        },
+        {
+            "start": 60.0,
+            "end": 61.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 61.2,
+            "end": 62.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 62.4,
+            "end": 63.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 63.6,
+            "end": 64.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 64.8,
+            "end": 66.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 66.0,
+            "end": 67.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 67.2,
+            "end": 68.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 68.4,
+            "end": 69.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 69.6,
+            "end": 70.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 70.8,
+            "end": 72.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 72.0,
+            "end": 73.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 73.2,
+            "end": 74.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 74.4,
+            "end": 75.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 75.6,
+            "end": 76.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 8
+        },
+        {
+            "start": 76.8,
+            "end": 78.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 9
+        },
+        {
+            "start": 78.0,
+            "end": 79.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 10
+        },
+        {
+            "start": 79.2,
+            "end": 80.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 10
+        },
+        {
+            "start": 80.4,
+            "end": 81.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 11
+        },
+        {
+            "start": 81.6,
+            "end": 82.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 12
+        },
+        {
+            "start": 82.8,
+            "end": 84.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 12
+        },
+        {
+            "start": 84.0,
+            "end": 85.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 12
+        },
+        {
+            "start": 85.2,
+            "end": 86.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 13
+        },
+        {
+            "start": 86.4,
+            "end": 87.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 87.6,
+            "end": 88.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 88.8,
+            "end": 90.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 90.0,
+            "end": 91.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 91.2,
+            "end": 92.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 92.4,
+            "end": 93.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 93.6,
+            "end": 94.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 13
+        },
+        {
+            "start": 94.8,
+            "end": 96.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 14
+        },
+        {
+            "start": 96.0,
+            "end": 97.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 14
+        },
+        {
+            "start": 97.2,
+            "end": 98.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 15
+        },
+        {
+            "start": 98.4,
+            "end": 99.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 99.6,
+            "end": 100.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 100.8,
+            "end": 102.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 102.0,
+            "end": 103.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 103.2,
+            "end": 104.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 104.4,
+            "end": 105.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 105.6,
+            "end": 106.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 106.8,
+            "end": 108.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 108.0,
+            "end": 109.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 109.2,
+            "end": 110.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 15
+        },
+        {
+            "start": 110.4,
+            "end": 111.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 16
+        },
+        {
+            "start": 111.6,
+            "end": 112.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 17
+        },
+        {
+            "start": 112.8,
+            "end": 114.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 17
+        },
+        {
+            "start": 114.0,
+            "end": 115.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 18
+        },
+        {
+            "start": 115.2,
+            "end": 116.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 18
+        },
+        {
+            "start": 116.4,
+            "end": 117.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 18
+        },
+        {
+            "start": 117.6,
+            "end": 118.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 18
+        },
+        {
+            "start": 118.8,
+            "end": 120.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 18
+        },
+        {
+            "start": 120.0,
+            "end": 121.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 18
+        },
+        {
+            "start": 121.2,
+            "end": 122.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 18
+        },
+        {
+            "start": 122.4,
+            "end": 123.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 19
+        },
+        {
+            "start": 123.6,
+            "end": 124.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 124.8,
+            "end": 126.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 126.0,
+            "end": 127.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 127.2,
+            "end": 128.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 128.4,
+            "end": 129.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 129.6,
+            "end": 130.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 130.8,
+            "end": 132.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 132.0,
+            "end": 133.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 133.2,
+            "end": 134.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 134.4,
+            "end": 135.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 135.6,
+            "end": 136.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 136.8,
+            "end": 138.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 138.0,
+            "end": 139.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 139.2,
+            "end": 140.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 140.4,
+            "end": 141.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 141.6,
+            "end": 142.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 142.8,
+            "end": 144.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 144.0,
+            "end": 145.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 145.2,
+            "end": 146.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 19
+        },
+        {
+            "start": 146.4,
+            "end": 147.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 20
+        },
+        {
+            "start": 147.6,
+            "end": 148.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 148.8,
+            "end": 150.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 150.0,
+            "end": 151.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 151.2,
+            "end": 152.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 152.4,
+            "end": 153.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 153.6,
+            "end": 154.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 154.8,
+            "end": 156.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 156.0,
+            "end": 157.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 20
+        },
+        {
+            "start": 157.2,
+            "end": 158.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 21
+        },
+        {
+            "start": 158.4,
+            "end": 159.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 21
+        },
+        {
+            "start": 159.6,
+            "end": 160.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 22
+        },
+        {
+            "start": 160.8,
+            "end": 162.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 22
+        },
+        {
+            "start": 162.0,
+            "end": 163.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 22
+        },
+        {
+            "start": 163.2,
+            "end": 164.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 23
+        },
+        {
+            "start": 164.4,
+            "end": 165.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 165.6,
+            "end": 166.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 166.8,
+            "end": 168.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 168.0,
+            "end": 169.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 169.2,
+            "end": 170.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 170.4,
+            "end": 171.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 171.6,
+            "end": 172.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 172.8,
+            "end": 174.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 23
+        },
+        {
+            "start": 174.0,
+            "end": 175.2,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 25
+        },
+        {
+            "start": 175.2,
+            "end": 176.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 26
+        },
+        {
+            "start": 176.4,
+            "end": 177.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 27
+        },
+        {
+            "start": 177.6,
+            "end": 178.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 178.8,
+            "end": 180.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 180.0,
+            "end": 181.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 181.2,
+            "end": 182.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 182.4,
+            "end": 183.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 183.6,
+            "end": 184.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 184.8,
+            "end": 186.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 186.0,
+            "end": 187.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 187.2,
+            "end": 188.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 188.4,
+            "end": 189.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 189.6,
+            "end": 190.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 190.8,
+            "end": 192.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 192.0,
+            "end": 193.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 193.2,
+            "end": 194.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 27
+        },
+        {
+            "start": 194.4,
+            "end": 195.6,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 29
+        },
+        {
+            "start": 195.6,
+            "end": 196.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 29
+        },
+        {
+            "start": 196.8,
+            "end": 198.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 29
+        },
+        {
+            "start": 198.0,
+            "end": 199.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 29
+        },
+        {
+            "start": 199.2,
+            "end": 200.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 29
+        },
+        {
+            "start": 200.4,
+            "end": 201.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 29
+        },
+        {
+            "start": 201.6,
+            "end": 202.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 30
+        },
+        {
+            "start": 202.8,
+            "end": 204.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 30
+        },
+        {
+            "start": 204.0,
+            "end": 205.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 30
+        },
+        {
+            "start": 205.2,
+            "end": 206.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 30
+        },
+        {
+            "start": 206.4,
+            "end": 207.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 30
+        },
+        {
+            "start": 207.6,
+            "end": 208.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 30
+        },
+        {
+            "start": 208.8,
+            "end": 210.0,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 32
+        },
+        {
+            "start": 210.0,
+            "end": 211.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 211.2,
+            "end": 212.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 212.4,
+            "end": 213.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 213.6,
+            "end": 214.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 214.8,
+            "end": 216.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 216.0,
+            "end": 217.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 217.2,
+            "end": 218.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 218.4,
+            "end": 219.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 219.6,
+            "end": 220.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 220.8,
+            "end": 222.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 32
+        },
+        {
+            "start": 222.0,
+            "end": 223.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 33
+        },
+        {
+            "start": 223.2,
+            "end": 224.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 34
+        },
+        {
+            "start": 224.4,
+            "end": 225.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 225.6,
+            "end": 226.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 226.8,
+            "end": 228.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 228.0,
+            "end": 229.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 229.2,
+            "end": 230.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 230.4,
+            "end": 231.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 231.6,
+            "end": 232.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 34
+        },
+        {
+            "start": 232.8,
+            "end": 234.0,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 36
+        },
+        {
+            "start": 234.0,
+            "end": 235.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 36
+        },
+        {
+            "start": 235.2,
+            "end": 236.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 37
+        },
+        {
+            "start": 236.4,
+            "end": 237.6,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 39
+        },
+        {
+            "start": 237.6,
+            "end": 238.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 238.8,
+            "end": 240.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 240.0,
+            "end": 241.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 241.2,
+            "end": 242.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 242.4,
+            "end": 243.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 243.6,
+            "end": 244.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 244.8,
+            "end": 246.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 246.0,
+            "end": 247.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 247.2,
+            "end": 248.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 248.4,
+            "end": 249.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 249.6,
+            "end": 250.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 250.8,
+            "end": 252.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 252.0,
+            "end": 253.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 253.2,
+            "end": 254.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 254.4,
+            "end": 255.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 255.6,
+            "end": 256.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 256.8,
+            "end": 258.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 258.0,
+            "end": 259.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 259.2,
+            "end": 260.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 260.4,
+            "end": 261.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 261.6,
+            "end": 262.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 262.8,
+            "end": 264.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 264.0,
+            "end": 265.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 265.2,
+            "end": 266.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 266.4,
+            "end": 267.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 267.6,
+            "end": 268.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 268.8,
+            "end": 270.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 270.0,
+            "end": 271.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 39
+        },
+        {
+            "start": 271.2,
+            "end": 272.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 40
+        },
+        {
+            "start": 272.4,
+            "end": 273.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 40
+        },
+        {
+            "start": 273.6,
+            "end": 274.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 40
+        },
+        {
+            "start": 274.8,
+            "end": 276.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 41
+        },
+        {
+            "start": 276.0,
+            "end": 277.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 42
+        },
+        {
+            "start": 277.2,
+            "end": 278.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 278.4,
+            "end": 279.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 279.6,
+            "end": 280.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 280.8,
+            "end": 282.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 282.0,
+            "end": 283.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 283.2,
+            "end": 284.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 284.4,
+            "end": 285.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 285.6,
+            "end": 286.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 286.8,
+            "end": 288.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 288.0,
+            "end": 289.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 289.2,
+            "end": 290.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 42
+        },
+        {
+            "start": 290.4,
+            "end": 291.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 43
+        },
+        {
+            "start": 291.6,
+            "end": 292.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 44
+        },
+        {
+            "start": 292.8,
+            "end": 294.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 294.0,
+            "end": 295.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 295.2,
+            "end": 296.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 296.4,
+            "end": 297.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 297.6,
+            "end": 298.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 298.8,
+            "end": 300.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 300.0,
+            "end": 301.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 301.2,
+            "end": 302.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 302.4,
+            "end": 303.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 303.6,
+            "end": 304.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 304.8,
+            "end": 306.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 306.0,
+            "end": 307.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 307.2,
+            "end": 308.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 308.4,
+            "end": 309.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 309.6,
+            "end": 310.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 310.8,
+            "end": 312.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 312.0,
+            "end": 313.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 44
+        },
+        {
+            "start": 313.2,
+            "end": 314.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 45
+        },
+        {
+            "start": 314.4,
+            "end": 315.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 46
+        },
+        {
+            "start": 315.6,
+            "end": 316.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 47
+        },
+        {
+            "start": 316.8,
+            "end": 318.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 47
+        },
+        {
+            "start": 318.0,
+            "end": 319.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 47
+        },
+        {
+            "start": 319.2,
+            "end": 320.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 48
+        },
+        {
+            "start": 320.4,
+            "end": 321.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 48
+        },
+        {
+            "start": 321.6,
+            "end": 322.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 48
+        },
+        {
+            "start": 322.8,
+            "end": 324.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 48
+        },
+        {
+            "start": 324.0,
+            "end": 325.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 48
+        },
+        {
+            "start": 325.2,
+            "end": 326.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 48
+        },
+        {
+            "start": 326.4,
+            "end": 327.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 48
+        },
+        {
+            "start": 327.6,
+            "end": 328.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 49
+        },
+        {
+            "start": 328.8,
+            "end": 330.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 49
+        },
+        {
+            "start": 330.0,
+            "end": 331.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 49
+        },
+        {
+            "start": 331.2,
+            "end": 332.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 50
+        },
+        {
+            "start": 332.4,
+            "end": 333.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 50
+        },
+        {
+            "start": 333.6,
+            "end": 334.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 50
+        },
+        {
+            "start": 334.8,
+            "end": 336.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 51
+        },
+        {
+            "start": 336.0,
+            "end": 337.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 337.2,
+            "end": 338.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 338.4,
+            "end": 339.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 339.6,
+            "end": 340.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 340.8,
+            "end": 342.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 342.0,
+            "end": 343.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 343.2,
+            "end": 344.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 344.4,
+            "end": 345.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 345.6,
+            "end": 346.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 346.8,
+            "end": 348.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 348.0,
+            "end": 349.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 349.2,
+            "end": 350.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 51
+        },
+        {
+            "start": 350.4,
+            "end": 351.6,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 53
+        },
+        {
+            "start": 351.6,
+            "end": 352.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 54
+        },
+        {
+            "start": 352.8,
+            "end": 354.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 54
+        },
+        {
+            "start": 354.0,
+            "end": 355.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 54
+        },
+        {
+            "start": 355.2,
+            "end": 356.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 54
+        },
+        {
+            "start": 356.4,
+            "end": 357.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 54
+        },
+        {
+            "start": 357.6,
+            "end": 358.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 54
+        },
+        {
+            "start": 358.8,
+            "end": 360.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 54
+        },
+        {
+            "start": 360.0,
+            "end": 361.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 55
+        },
+        {
+            "start": 361.2,
+            "end": 362.4,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Laughter",
+                "Snicker"
+            ],
+            "reaction_score": 3,
+            "cumulative_score": 58
+        },
+        {
+            "start": 362.4,
+            "end": 363.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 59
+        },
+        {
+            "start": 363.6,
+            "end": 364.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 59
+        },
+        {
+            "start": 364.8,
+            "end": 366.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 59
+        },
+        {
+            "start": 366.0,
+            "end": 367.2,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 61
+        },
+        {
+            "start": 367.2,
+            "end": 368.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 61
+        },
+        {
+            "start": 368.4,
+            "end": 369.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 61
+        },
+        {
+            "start": 369.6,
+            "end": 370.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 61
+        },
+        {
+            "start": 370.8,
+            "end": 372.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 62
+        },
+        {
+            "start": 372.0,
+            "end": 373.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 373.2,
+            "end": 374.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 374.4,
+            "end": 375.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 375.6,
+            "end": 376.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 376.8,
+            "end": 378.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 378.0,
+            "end": 379.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 379.2,
+            "end": 380.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 62
+        },
+        {
+            "start": 380.4,
+            "end": 381.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 63
+        },
+        {
+            "start": 381.6,
+            "end": 382.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 63
+        },
+        {
+            "start": 382.8,
+            "end": 384.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 63
+        },
+        {
+            "start": 384.0,
+            "end": 385.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 63
+        },
+        {
+            "start": 385.2,
+            "end": 386.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 63
+        },
+        {
+            "start": 386.4,
+            "end": 387.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 63
+        },
+        {
+            "start": 387.6,
+            "end": 388.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 64
+        },
+        {
+            "start": 388.8,
+            "end": 390.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 64
+        },
+        {
+            "start": 390.0,
+            "end": 391.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 64
+        },
+        {
+            "start": 391.2,
+            "end": 392.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 64
+        },
+        {
+            "start": 392.4,
+            "end": 393.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 65
+        },
+        {
+            "start": 393.6,
+            "end": 394.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 65
+        },
+        {
+            "start": 394.8,
+            "end": 396.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 65
+        },
+        {
+            "start": 396.0,
+            "end": 397.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 65
+        },
+        {
+            "start": 397.2,
+            "end": 398.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 65
+        },
+        {
+            "start": 398.4,
+            "end": 399.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 65
+        },
+        {
+            "start": 399.6,
+            "end": 400.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 65
+        },
+        {
+            "start": 400.8,
+            "end": 402.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 66
+        },
+        {
+            "start": 402.0,
+            "end": 403.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 66
+        },
+        {
+            "start": 403.2,
+            "end": 404.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 66
+        },
+        {
+            "start": 404.4,
+            "end": 405.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 66
+        },
+        {
+            "start": 405.6,
+            "end": 406.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 66
+        },
+        {
+            "start": 406.8,
+            "end": 408.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 66
+        },
+        {
+            "start": 408.0,
+            "end": 409.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 67
+        },
+        {
+            "start": 409.2,
+            "end": 410.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 68
+        },
+        {
+            "start": 410.4,
+            "end": 411.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 411.6,
+            "end": 412.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 412.8,
+            "end": 414.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 414.0,
+            "end": 415.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 415.2,
+            "end": 416.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 416.4,
+            "end": 417.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 417.6,
+            "end": 418.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 418.8,
+            "end": 420.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 420.0,
+            "end": 421.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 68
+        },
+        {
+            "start": 421.2,
+            "end": 422.4,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 70
+        },
+        {
+            "start": 422.4,
+            "end": 423.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 70
+        },
+        {
+            "start": 423.6,
+            "end": 424.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 70
+        },
+        {
+            "start": 424.8,
+            "end": 426.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 70
+        },
+        {
+            "start": 426.0,
+            "end": 427.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 70
+        },
+        {
+            "start": 427.2,
+            "end": 428.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 71
+        },
+        {
+            "start": 428.4,
+            "end": 429.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 72
+        },
+        {
+            "start": 429.6,
+            "end": 430.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 72
+        },
+        {
+            "start": 430.8,
+            "end": 432.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 72
+        },
+        {
+            "start": 432.0,
+            "end": 433.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 72
+        },
+        {
+            "start": 433.2,
+            "end": 434.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 72
+        },
+        {
+            "start": 434.4,
+            "end": 435.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 72
+        },
+        {
+            "start": 435.6,
+            "end": 436.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 73
+        },
+        {
+            "start": 436.8,
+            "end": 438.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 74
+        },
+        {
+            "start": 438.0,
+            "end": 439.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 439.2,
+            "end": 440.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 440.4,
+            "end": 441.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 441.6,
+            "end": 442.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 442.8,
+            "end": 444.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 444.0,
+            "end": 445.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 445.2,
+            "end": 446.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 446.4,
+            "end": 447.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 447.6,
+            "end": 448.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 448.8,
+            "end": 450.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 450.0,
+            "end": 451.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 451.2,
+            "end": 452.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 452.4,
+            "end": 453.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 453.6,
+            "end": 454.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 454.8,
+            "end": 456.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 456.0,
+            "end": 457.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 457.2,
+            "end": 458.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 458.4,
+            "end": 459.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 459.6,
+            "end": 460.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 460.8,
+            "end": 462.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 462.0,
+            "end": 463.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 463.2,
+            "end": 464.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 464.4,
+            "end": 465.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 465.6,
+            "end": 466.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 466.8,
+            "end": 468.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 468.0,
+            "end": 469.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 469.2,
+            "end": 470.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 470.4,
+            "end": 471.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 471.6,
+            "end": 472.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 472.8,
+            "end": 474.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 474.0,
+            "end": 475.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 475.2,
+            "end": 476.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 476.4,
+            "end": 477.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 477.6,
+            "end": 478.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 478.8,
+            "end": 480.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 480.0,
+            "end": 481.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 481.2,
+            "end": 482.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 482.4,
+            "end": 483.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 483.6,
+            "end": 484.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 484.8,
+            "end": 486.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 486.0,
+            "end": 487.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 487.2,
+            "end": 488.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 488.4,
+            "end": 489.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 489.6,
+            "end": 490.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 490.8,
+            "end": 492.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 492.0,
+            "end": 493.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 493.2,
+            "end": 494.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 74
+        },
+        {
+            "start": 494.4,
+            "end": 495.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 75
+        },
+        {
+            "start": 495.6,
+            "end": 496.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 76
+        },
+        {
+            "start": 496.8,
+            "end": 498.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 77
+        },
+        {
+            "start": 498.0,
+            "end": 499.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 77
+        },
+        {
+            "start": 499.2,
+            "end": 500.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 78
+        },
+        {
+            "start": 500.4,
+            "end": 501.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 78
+        },
+        {
+            "start": 501.6,
+            "end": 502.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 78
+        },
+        {
+            "start": 502.8,
+            "end": 504.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 79
+        },
+        {
+            "start": 504.0,
+            "end": 505.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 79
+        },
+        {
+            "start": 505.2,
+            "end": 506.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 79
+        },
+        {
+            "start": 506.4,
+            "end": 507.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 79
+        },
+        {
+            "start": 507.6,
+            "end": 508.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 80
+        },
+        {
+            "start": 508.8,
+            "end": 510.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 81
+        },
+        {
+            "start": 510.0,
+            "end": 511.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 82
+        },
+        {
+            "start": 511.2,
+            "end": 512.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 82
+        },
+        {
+            "start": 512.4,
+            "end": 513.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 82
+        },
+        {
+            "start": 513.6,
+            "end": 514.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 82
+        },
+        {
+            "start": 514.8,
+            "end": 516.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 82
+        },
+        {
+            "start": 516.0,
+            "end": 517.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 82
+        },
+        {
+            "start": 517.2,
+            "end": 518.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 82
+        },
+        {
+            "start": 518.4,
+            "end": 519.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 83
+        },
+        {
+            "start": 519.6,
+            "end": 520.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 83
+        },
+        {
+            "start": 520.8,
+            "end": 522.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 83
+        },
+        {
+            "start": 522.0,
+            "end": 523.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 84
+        },
+        {
+            "start": 523.2,
+            "end": 524.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 84
+        },
+        {
+            "start": 524.4,
+            "end": 525.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 85
+        },
+        {
+            "start": 525.6,
+            "end": 526.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 85
+        },
+        {
+            "start": 526.8,
+            "end": 528.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 85
+        },
+        {
+            "start": 528.0,
+            "end": 529.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 86
+        },
+        {
+            "start": 529.2,
+            "end": 530.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 86
+        },
+        {
+            "start": 530.4,
+            "end": 531.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 86
+        },
+        {
+            "start": 531.6,
+            "end": 532.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 86
+        },
+        {
+            "start": 532.8,
+            "end": 534.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 87
+        },
+        {
+            "start": 534.0,
+            "end": 535.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 88
+        },
+        {
+            "start": 535.2,
+            "end": 536.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 88
+        },
+        {
+            "start": 536.4,
+            "end": 537.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 88
+        },
+        {
+            "start": 537.6,
+            "end": 538.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 88
+        },
+        {
+            "start": 538.8,
+            "end": 540.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 89
+        },
+        {
+            "start": 540.0,
+            "end": 541.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 541.2,
+            "end": 542.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 542.4,
+            "end": 543.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 543.6,
+            "end": 544.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 544.8,
+            "end": 546.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 546.0,
+            "end": 547.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 547.2,
+            "end": 548.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 548.4,
+            "end": 549.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 549.6,
+            "end": 550.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 550.8,
+            "end": 552.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 552.0,
+            "end": 553.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 553.2,
+            "end": 554.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 89
+        },
+        {
+            "start": 554.4,
+            "end": 555.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 90
+        },
+        {
+            "start": 555.6,
+            "end": 556.8,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 92
+        },
+        {
+            "start": 556.8,
+            "end": 558.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 92
+        },
+        {
+            "start": 558.0,
+            "end": 559.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 92
+        },
+        {
+            "start": 559.2,
+            "end": 560.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 93
+        },
+        {
+            "start": 560.4,
+            "end": 561.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 93
+        },
+        {
+            "start": 561.6,
+            "end": 562.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 94
+        },
+        {
+            "start": 562.8,
+            "end": 564.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 564.0,
+            "end": 565.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 565.2,
+            "end": 566.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 566.4,
+            "end": 567.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 567.6,
+            "end": 568.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 568.8,
+            "end": 570.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 570.0,
+            "end": 571.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 571.2,
+            "end": 572.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 572.4,
+            "end": 573.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 573.6,
+            "end": 574.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 574.8,
+            "end": 576.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 94
+        },
+        {
+            "start": 576.0,
+            "end": 577.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 95
+        },
+        {
+            "start": 577.2,
+            "end": 578.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 578.4,
+            "end": 579.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 579.6,
+            "end": 580.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 580.8,
+            "end": 582.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 582.0,
+            "end": 583.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 583.2,
+            "end": 584.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 584.4,
+            "end": 585.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 585.6,
+            "end": 586.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 586.8,
+            "end": 588.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 588.0,
+            "end": 589.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 589.2,
+            "end": 590.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 590.4,
+            "end": 591.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 591.6,
+            "end": 592.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 592.8,
+            "end": 594.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 594.0,
+            "end": 595.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 595.2,
+            "end": 596.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 596.4,
+            "end": 597.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 597.6,
+            "end": 598.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 95
+        },
+        {
+            "start": 598.8,
+            "end": 600.0,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Laughter",
+                "Snicker"
+            ],
+            "reaction_score": 3,
+            "cumulative_score": 98
+        },
+        {
+            "start": 600.0,
+            "end": 601.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 98
+        },
+        {
+            "start": 601.2,
+            "end": 602.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 98
+        },
+        {
+            "start": 602.4,
+            "end": 603.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 98
+        },
+        {
+            "start": 603.6,
+            "end": 604.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 98
+        },
+        {
+            "start": 604.8,
+            "end": 606.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 99
+        },
+        {
+            "start": 606.0,
+            "end": 607.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 99
+        },
+        {
+            "start": 607.2,
+            "end": 608.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 100
+        },
+        {
+            "start": 608.4,
+            "end": 609.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 609.6,
+            "end": 610.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 610.8,
+            "end": 612.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 612.0,
+            "end": 613.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 613.2,
+            "end": 614.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 614.4,
+            "end": 615.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 615.6,
+            "end": 616.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 616.8,
+            "end": 618.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 618.0,
+            "end": 619.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 619.2,
+            "end": 620.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 100
+        },
+        {
+            "start": 620.4,
+            "end": 621.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 101
+        },
+        {
+            "start": 621.6,
+            "end": 622.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 102
+        },
+        {
+            "start": 622.8,
+            "end": 624.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 102
+        },
+        {
+            "start": 624.0,
+            "end": 625.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 102
+        },
+        {
+            "start": 625.2,
+            "end": 626.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 103
+        },
+        {
+            "start": 626.4,
+            "end": 627.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 104
+        },
+        {
+            "start": 627.6,
+            "end": 628.8,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Laughter",
+                "Snicker"
+            ],
+            "reaction_score": 3,
+            "cumulative_score": 107
+        },
+        {
+            "start": 628.8,
+            "end": 630.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 108
+        },
+        {
+            "start": 630.0,
+            "end": 631.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 108
+        },
+        {
+            "start": 631.2,
+            "end": 632.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 108
+        },
+        {
+            "start": 632.4,
+            "end": 633.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 109
+        },
+        {
+            "start": 633.6,
+            "end": 634.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 109
+        },
+        {
+            "start": 634.8,
+            "end": 636.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 109
+        },
+        {
+            "start": 636.0,
+            "end": 637.2,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 111
+        },
+        {
+            "start": 637.2,
+            "end": 638.4,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 113
+        },
+        {
+            "start": 638.4,
+            "end": 639.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 639.6,
+            "end": 640.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 640.8,
+            "end": 642.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 642.0,
+            "end": 643.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 643.2,
+            "end": 644.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 644.4,
+            "end": 645.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 645.6,
+            "end": 646.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 646.8,
+            "end": 648.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 648.0,
+            "end": 649.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 649.2,
+            "end": 650.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 113
+        },
+        {
+            "start": 650.4,
+            "end": 651.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 114
+        },
+        {
+            "start": 651.6,
+            "end": 652.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 652.8,
+            "end": 654.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 654.0,
+            "end": 655.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 655.2,
+            "end": 656.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 656.4,
+            "end": 657.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 657.6,
+            "end": 658.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 658.8,
+            "end": 660.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 660.0,
+            "end": 661.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 661.2,
+            "end": 662.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 662.4,
+            "end": 663.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 663.6,
+            "end": 664.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 664.8,
+            "end": 666.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 666.0,
+            "end": 667.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 667.2,
+            "end": 668.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 668.4,
+            "end": 669.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 669.6,
+            "end": 670.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 670.8,
+            "end": 672.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 672.0,
+            "end": 673.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 673.2,
+            "end": 674.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 674.4,
+            "end": 675.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 675.6,
+            "end": 676.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 676.8,
+            "end": 678.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 678.0,
+            "end": 679.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 679.2,
+            "end": 680.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 680.4,
+            "end": 681.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 681.6,
+            "end": 682.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 682.8,
+            "end": 684.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 114
+        },
+        {
+            "start": 684.0,
+            "end": 685.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 115
+        },
+        {
+            "start": 685.2,
+            "end": 686.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 115
+        },
+        {
+            "start": 686.4,
+            "end": 687.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 115
+        },
+        {
+            "start": 687.6,
+            "end": 688.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 115
+        },
+        {
+            "start": 688.8,
+            "end": 690.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 115
+        },
+        {
+            "start": 690.0,
+            "end": 691.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 115
+        },
+        {
+            "start": 691.2,
+            "end": 692.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 115
+        },
+        {
+            "start": 692.4,
+            "end": 693.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 116
+        },
+        {
+            "start": 693.6,
+            "end": 694.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 694.8,
+            "end": 696.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 696.0,
+            "end": 697.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 697.2,
+            "end": 698.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 698.4,
+            "end": 699.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 699.6,
+            "end": 700.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 700.8,
+            "end": 702.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 702.0,
+            "end": 703.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 703.2,
+            "end": 704.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 704.4,
+            "end": 705.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 116
+        },
+        {
+            "start": 705.6,
+            "end": 706.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 117
+        },
+        {
+            "start": 706.8,
+            "end": 708.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 117
+        },
+        {
+            "start": 708.0,
+            "end": 709.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 117
+        },
+        {
+            "start": 709.2,
+            "end": 710.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 117
+        },
+        {
+            "start": 710.4,
+            "end": 711.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 118
+        },
+        {
+            "start": 711.6,
+            "end": 712.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 118
+        },
+        {
+            "start": 712.8,
+            "end": 714.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 118
+        },
+        {
+            "start": 714.0,
+            "end": 715.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 118
+        },
+        {
+            "start": 715.2,
+            "end": 716.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 119
+        },
+        {
+            "start": 716.4,
+            "end": 717.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 119
+        },
+        {
+            "start": 717.6,
+            "end": 718.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 120
+        },
+        {
+            "start": 718.8,
+            "end": 720.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 720.0,
+            "end": 721.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 721.2,
+            "end": 722.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 722.4,
+            "end": 723.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 723.6,
+            "end": 724.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 724.8,
+            "end": 726.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 726.0,
+            "end": 727.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 727.2,
+            "end": 728.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 728.4,
+            "end": 729.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 120
+        },
+        {
+            "start": 729.6,
+            "end": 730.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 121
+        },
+        {
+            "start": 730.8,
+            "end": 732.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 732.0,
+            "end": 733.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 733.2,
+            "end": 734.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 734.4,
+            "end": 735.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 735.6,
+            "end": 736.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 736.8,
+            "end": 738.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 738.0,
+            "end": 739.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 739.2,
+            "end": 740.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 740.4,
+            "end": 741.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 741.6,
+            "end": 742.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 742.8,
+            "end": 744.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 744.0,
+            "end": 745.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 745.2,
+            "end": 746.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 746.4,
+            "end": 747.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 121
+        },
+        {
+            "start": 747.6,
+            "end": 748.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 122
+        },
+        {
+            "start": 748.8,
+            "end": 750.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 122
+        },
+        {
+            "start": 750.0,
+            "end": 751.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 122
+        },
+        {
+            "start": 751.2,
+            "end": 752.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 123
+        },
+        {
+            "start": 752.4,
+            "end": 753.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 124
+        },
+        {
+            "start": 753.6,
+            "end": 754.8,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 126
+        },
+        {
+            "start": 754.8,
+            "end": 756.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 126
+        },
+        {
+            "start": 756.0,
+            "end": 757.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 126
+        },
+        {
+            "start": 757.2,
+            "end": 758.4,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 128
+        },
+        {
+            "start": 758.4,
+            "end": 759.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 759.6,
+            "end": 760.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 760.8,
+            "end": 762.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 762.0,
+            "end": 763.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 763.2,
+            "end": 764.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 764.4,
+            "end": 765.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 765.6,
+            "end": 766.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 766.8,
+            "end": 768.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 768.0,
+            "end": 769.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 769.2,
+            "end": 770.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 770.4,
+            "end": 771.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 771.6,
+            "end": 772.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 772.8,
+            "end": 774.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 774.0,
+            "end": 775.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 775.2,
+            "end": 776.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 776.4,
+            "end": 777.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 777.6,
+            "end": 778.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 778.8,
+            "end": 780.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 780.0,
+            "end": 781.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 781.2,
+            "end": 782.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 782.4,
+            "end": 783.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 783.6,
+            "end": 784.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 784.8,
+            "end": 786.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 786.0,
+            "end": 787.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 787.2,
+            "end": 788.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 788.4,
+            "end": 789.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 789.6,
+            "end": 790.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 790.8,
+            "end": 792.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 128
+        },
+        {
+            "start": 792.0,
+            "end": 793.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 129
+        },
+        {
+            "start": 793.2,
+            "end": 794.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 130
+        },
+        {
+            "start": 794.4,
+            "end": 795.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 795.6,
+            "end": 796.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 796.8,
+            "end": 798.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 798.0,
+            "end": 799.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 799.2,
+            "end": 800.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 800.4,
+            "end": 801.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 801.6,
+            "end": 802.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 802.8,
+            "end": 804.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 804.0,
+            "end": 805.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 805.2,
+            "end": 806.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 806.4,
+            "end": 807.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 807.6,
+            "end": 808.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 808.8,
+            "end": 810.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 810.0,
+            "end": 811.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 130
+        },
+        {
+            "start": 811.2,
+            "end": 812.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 131
+        },
+        {
+            "start": 812.4,
+            "end": 813.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 813.6,
+            "end": 814.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 814.8,
+            "end": 816.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 816.0,
+            "end": 817.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 817.2,
+            "end": 818.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 818.4,
+            "end": 819.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 819.6,
+            "end": 820.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 131
+        },
+        {
+            "start": 820.8,
+            "end": 822.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 132
+        },
+        {
+            "start": 822.0,
+            "end": 823.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 132
+        },
+        {
+            "start": 823.2,
+            "end": 824.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 132
+        },
+        {
+            "start": 824.4,
+            "end": 825.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 132
+        },
+        {
+            "start": 825.6,
+            "end": 826.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 132
+        },
+        {
+            "start": 826.8,
+            "end": 828.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 132
+        },
+        {
+            "start": 828.0,
+            "end": 829.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 133
+        },
+        {
+            "start": 829.2,
+            "end": 830.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 134
+        },
+        {
+            "start": 830.4,
+            "end": 831.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 134
+        },
+        {
+            "start": 831.6,
+            "end": 832.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 134
+        },
+        {
+            "start": 832.8,
+            "end": 834.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 134
+        },
+        {
+            "start": 834.0,
+            "end": 835.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 134
+        },
+        {
+            "start": 835.2,
+            "end": 836.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 134
+        },
+        {
+            "start": 836.4,
+            "end": 837.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 135
+        },
+        {
+            "start": 837.6,
+            "end": 838.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 838.8,
+            "end": 840.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 840.0,
+            "end": 841.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 841.2,
+            "end": 842.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 842.4,
+            "end": 843.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 843.6,
+            "end": 844.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 844.8,
+            "end": 846.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 846.0,
+            "end": 847.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 847.2,
+            "end": 848.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 848.4,
+            "end": 849.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 849.6,
+            "end": 850.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 850.8,
+            "end": 852.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 852.0,
+            "end": 853.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 853.2,
+            "end": 854.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 854.4,
+            "end": 855.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 855.6,
+            "end": 856.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 856.8,
+            "end": 858.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 858.0,
+            "end": 859.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 859.2,
+            "end": 860.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 860.4,
+            "end": 861.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 861.6,
+            "end": 862.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 862.8,
+            "end": 864.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 864.0,
+            "end": 865.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 865.2,
+            "end": 866.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 866.4,
+            "end": 867.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 867.6,
+            "end": 868.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 135
+        },
+        {
+            "start": 868.8,
+            "end": 870.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 136
+        },
+        {
+            "start": 870.0,
+            "end": 871.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 136
+        },
+        {
+            "start": 871.2,
+            "end": 872.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 137
+        },
+        {
+            "start": 872.4,
+            "end": 873.6,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 139
+        },
+        {
+            "start": 873.6,
+            "end": 874.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 874.8,
+            "end": 876.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 876.0,
+            "end": 877.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 877.2,
+            "end": 878.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 878.4,
+            "end": 879.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 879.6,
+            "end": 880.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 880.8,
+            "end": 882.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 882.0,
+            "end": 883.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 883.2,
+            "end": 884.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 884.4,
+            "end": 885.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 885.6,
+            "end": 886.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 886.8,
+            "end": 888.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 888.0,
+            "end": 889.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 889.2,
+            "end": 890.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 139
+        },
+        {
+            "start": 890.4,
+            "end": 891.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 140
+        },
+        {
+            "start": 891.6,
+            "end": 892.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 892.8,
+            "end": 894.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 894.0,
+            "end": 895.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 895.2,
+            "end": 896.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 896.4,
+            "end": 897.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 897.6,
+            "end": 898.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 898.8,
+            "end": 900.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 900.0,
+            "end": 901.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 901.2,
+            "end": 902.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 902.4,
+            "end": 903.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 903.6,
+            "end": 904.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 140
+        },
+        {
+            "start": 904.8,
+            "end": 906.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 141
+        },
+        {
+            "start": 906.0,
+            "end": 907.2,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 142
+        },
+        {
+            "start": 907.2,
+            "end": 908.4,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 144
+        },
+        {
+            "start": 908.4,
+            "end": 909.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 144
+        },
+        {
+            "start": 909.6,
+            "end": 910.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 145
+        },
+        {
+            "start": 910.8,
+            "end": 912.0,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 146
+        },
+        {
+            "start": 912.0,
+            "end": 913.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 146
+        },
+        {
+            "start": 913.2,
+            "end": 914.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 147
+        },
+        {
+            "start": 914.4,
+            "end": 915.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 147
+        },
+        {
+            "start": 915.6,
+            "end": 916.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 148
+        },
+        {
+            "start": 916.8,
+            "end": 918.0,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 150
+        },
+        {
+            "start": 918.0,
+            "end": 919.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 150
+        },
+        {
+            "start": 919.2,
+            "end": 920.4,
+            "audio tags": [
+                "Clapping"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 150
+        },
+        {
+            "start": 920.4,
+            "end": 921.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 150
+        },
+        {
+            "start": 921.6,
+            "end": 922.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 150
+        },
+        {
+            "start": 922.8,
+            "end": 924.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 150
+        },
+        {
+            "start": 924.0,
+            "end": 925.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 150
+        },
+        {
+            "start": 925.2,
+            "end": 926.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 151
+        },
+        {
+            "start": 926.4,
+            "end": 927.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 927.6,
+            "end": 928.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 928.8,
+            "end": 930.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 930.0,
+            "end": 931.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 931.2,
+            "end": 932.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 932.4,
+            "end": 933.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 933.6,
+            "end": 934.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 934.8,
+            "end": 936.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 936.0,
+            "end": 937.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 937.2,
+            "end": 938.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 151
+        },
+        {
+            "start": 938.4,
+            "end": 939.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 152
+        },
+        {
+            "start": 939.6,
+            "end": 940.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 940.8,
+            "end": 942.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 942.0,
+            "end": 943.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 943.2,
+            "end": 944.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 944.4,
+            "end": 945.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 945.6,
+            "end": 946.8,
+            "audio tags": [
+                "Clapping"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 946.8,
+            "end": 948.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 948.0,
+            "end": 949.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 949.2,
+            "end": 950.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 950.4,
+            "end": 951.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 951.6,
+            "end": 952.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 952.8,
+            "end": 954.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 954.0,
+            "end": 955.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 955.2,
+            "end": 956.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 956.4,
+            "end": 957.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 957.6,
+            "end": 958.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 958.8,
+            "end": 960.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 960.0,
+            "end": 961.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 152
+        },
+        {
+            "start": 961.2,
+            "end": 962.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 153
+        },
+        {
+            "start": 962.4,
+            "end": 963.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 153
+        },
+        {
+            "start": 963.6,
+            "end": 964.8,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 155
+        },
+        {
+            "start": 964.8,
+            "end": 966.0,
+            "audio tags": [
+                "Chuckle, chortle",
+                "Snicker"
+            ],
+            "reaction_score": 2,
+            "cumulative_score": 157
+        },
+        {
+            "start": 966.0,
+            "end": 967.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 967.2,
+            "end": 968.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 968.4,
+            "end": 969.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 969.6,
+            "end": 970.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 970.8,
+            "end": 972.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 972.0,
+            "end": 973.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 973.2,
+            "end": 974.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 974.4,
+            "end": 975.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 975.6,
+            "end": 976.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 976.8,
+            "end": 978.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 978.0,
+            "end": 979.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 979.2,
+            "end": 980.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 980.4,
+            "end": 981.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 157
+        },
+        {
+            "start": 981.6,
+            "end": 982.8,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 158
+        },
+        {
+            "start": 982.8,
+            "end": 984.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 984.0,
+            "end": 985.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 985.2,
+            "end": 986.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 986.4,
+            "end": 987.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 987.6,
+            "end": 988.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 988.8,
+            "end": 990.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 990.0,
+            "end": 991.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 991.2,
+            "end": 992.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 158
+        },
+        {
+            "start": 992.4,
+            "end": 993.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 159
+        },
+        {
+            "start": 993.6,
+            "end": 994.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 994.8,
+            "end": 996.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 996.0,
+            "end": 997.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 997.2,
+            "end": 998.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 998.4,
+            "end": 999.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 999.6,
+            "end": 1000.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 1000.8,
+            "end": 1002.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 1002.0,
+            "end": 1003.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 159
+        },
+        {
+            "start": 1003.2,
+            "end": 1004.4,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 160
+        },
+        {
+            "start": 1004.4,
+            "end": 1005.6,
+            "audio tags": [
+                "Chuckle, chortle"
+            ],
+            "reaction_score": 1,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1005.6,
+            "end": 1006.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1006.8,
+            "end": 1008.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1008.0,
+            "end": 1009.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1009.2,
+            "end": 1010.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1010.4,
+            "end": 1011.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1011.6,
+            "end": 1012.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1012.8,
+            "end": 1014.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1014.0,
+            "end": 1015.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1015.2,
+            "end": 1016.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1016.4,
+            "end": 1017.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1017.6,
+            "end": 1018.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1018.8,
+            "end": 1020.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1020.0,
+            "end": 1021.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1021.2,
+            "end": 1022.4,
+            "audio tags": [
+                "Clapping"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1022.4,
+            "end": 1023.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1023.6,
+            "end": 1024.8,
+            "audio tags": [
+                "Clapping",
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1024.8,
+            "end": 1026.0,
+            "audio tags": [
+                "Clapping",
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1026.0,
+            "end": 1027.2,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1027.2,
+            "end": 1028.4,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1028.4,
+            "end": 1029.6,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1029.6,
+            "end": 1030.8,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1030.8,
+            "end": 1032.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1032.0,
+            "end": 1033.2,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1033.2,
+            "end": 1034.4,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1034.4,
+            "end": 1035.6,
+            "audio tags": [
+                "Applause"
+            ],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1035.6,
+            "end": 1036.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1036.8,
+            "end": 1038.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1038.0,
+            "end": 1039.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1039.2,
+            "end": 1040.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1040.4,
+            "end": 1041.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1041.6,
+            "end": 1042.8,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1042.8,
+            "end": 1044.0,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1044.0,
+            "end": 1045.2,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1045.2,
+            "end": 1046.4,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        },
+        {
+            "start": 1046.4,
+            "end": 1047.6,
+            "audio tags": [],
+            "reaction_score": 0,
+            "cumulative_score": 161
+        }
+    ]
+}

@@ -1,0 +1,4377 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,420"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3420
+			},
+			"text": " My cut-out are not the views of Comedy Night Zurich, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,420",
+				"to": "00:00:07,940"
+			},
+			"offsets": {
+				"from": 3420,
+				"to": 7940
+			},
+			"text": " That was a 19-year-old's crazy mind, great."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,940",
+				"to": "00:00:12,460"
+			},
+			"offsets": {
+				"from": 7940,
+				"to": 12460
+			},
+			"text": " Okay, ladies and gentlemen, let me bring up a little palate cleanser, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,460",
+				"to": "00:00:14,840"
+			},
+			"offsets": {
+				"from": 12460,
+				"to": 14840
+			},
+			"text": " I'm going to bring up the next comedian of tonight."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,840",
+				"to": "00:00:19,040"
+			},
+			"offsets": {
+				"from": 14840,
+				"to": 19040
+			},
+			"text": " Okay, he's originally from the UK, but he's been living here for a super long"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,040",
+				"to": "00:00:19,560"
+			},
+			"offsets": {
+				"from": 19040,
+				"to": 19560
+			},
+			"text": " time."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,560",
+				"to": "00:00:25,680"
+			},
+			"offsets": {
+				"from": 19560,
+				"to": 25680
+			},
+			"text": " He's very funny, and his name is Harry Fox, everybody!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,680",
+				"to": "00:00:27,400"
+			},
+			"offsets": {
+				"from": 25680,
+				"to": 27400
+			},
+			"text": " Give it up for Harry Fox!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:41,740"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 41740
+			},
+			"text": " So my name is actually Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,740",
+				"to": "00:00:52,880"
+			},
+			"offsets": {
+				"from": 41740,
+				"to": 52880
+			},
+			"text": " It's a German name, spelled F-U-C-K-S, I repeat, F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,880",
+				"to": "00:00:57,250"
+			},
+			"offsets": {
+				"from": 52880,
+				"to": 57250
+			},
+			"text": " When I'm in a room with English speakers like this, a lot of you think my name"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,250",
+				"to": "00:00:58,440"
+			},
+			"offsets": {
+				"from": 57250,
+				"to": 58440
+			},
+			"text": " is Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:01,980"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 61980
+			},
+			"text": " My name is not Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,980",
+				"to": "00:01:07,180"
+			},
+			"offsets": {
+				"from": 61980,
+				"to": 67180
+			},
+			"text": " Because in my family, when we have a family get-together,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,180",
+				"to": "00:01:11,800"
+			},
+			"offsets": {
+				"from": 67180,
+				"to": 71800
+			},
+			"text": " we get very upset when you call us a group of fuckers."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,800",
+				"to": "00:01:15,880"
+			},
+			"offsets": {
+				"from": 71800,
+				"to": 75880
+			},
+			"text": " And I have two kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,880",
+				"to": "00:01:19,880"
+			},
+			"offsets": {
+				"from": 75880,
+				"to": 79880
+			},
+			"text": " I had to call them Howther and Whatther."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,880",
+				"to": "00:01:23,180"
+			},
+			"offsets": {
+				"from": 79880,
+				"to": 83180
+			},
+			"text": " Just to give them a good start in life."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,180",
+				"to": "00:01:27,680"
+			},
+			"offsets": {
+				"from": 83180,
+				"to": 87680
+			},
+			"text": " But, you know, the real problem with a name like Harry Fuchs is"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,680",
+				"to": "00:01:29,980"
+			},
+			"offsets": {
+				"from": 87680,
+				"to": 89980
+			},
+			"text": " it sets a very high level."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:31,120"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 91120
+			},
+			"text": " It sets a very high level of expectation."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,120",
+				"to": "00:01:35,740"
+			},
+			"offsets": {
+				"from": 91120,
+				"to": 95740
+			},
+			"text": " And honestly, I've really only done about this much fucking."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,740",
+				"to": "00:01:37,440"
+			},
+			"offsets": {
+				"from": 95740,
+				"to": 97440
+			},
+			"text": " Honestly, it was about that much fucking."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,440",
+				"to": "00:01:43,940"
+			},
+			"offsets": {
+				"from": 97440,
+				"to": 103940
+			},
+			"text": " And, you know, and recently it's been really hard for me because one morning I"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,940",
+				"to": "00:01:47,640"
+			},
+			"offsets": {
+				"from": 103940,
+				"to": 107640
+			},
+			"text": " woke up to discover that I'm single."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,640",
+				"to": "00:01:53,490"
+			},
+			"offsets": {
+				"from": 107640,
+				"to": 113490
+			},
+			"text": " After like 20 years of relationships, you know, with, you know, long-term"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,490",
+				"to": "00:01:56,500"
+			},
+			"offsets": {
+				"from": 113490,
+				"to": 116500
+			},
+			"text": " relationships, meaningful ones that kids came from."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,500",
+				"to": "00:01:59,380"
+			},
+			"offsets": {
+				"from": 116500,
+				"to": 119380
+			},
+			"text": " And through this hardship, I thought, I need to get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,380",
+				"to": "00:01:59,480"
+			},
+			"offsets": {
+				"from": 119380,
+				"to": 119480
+			},
+			"text": " I need to get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,480",
+				"to": "00:01:59,540"
+			},
+			"offsets": {
+				"from": 119480,
+				"to": 119540
+			},
+			"text": " I need to get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,540",
+				"to": "00:01:59,620"
+			},
+			"offsets": {
+				"from": 119540,
+				"to": 119620
+			},
+			"text": " I need to get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,620",
+				"to": "00:01:59,720"
+			},
+			"offsets": {
+				"from": 119620,
+				"to": 119720
+			},
+			"text": " I need to get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,720",
+				"to": "00:01:59,800"
+			},
+			"offsets": {
+				"from": 119720,
+				"to": 119800
+			},
+			"text": " I need to get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,000",
+				"to": "00:02:01,720"
+			},
+			"offsets": {
+				"from": 120000,
+				"to": 121720
+			},
+			"text": " I need something to fix this."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,720",
+				"to": "00:02:05,360"
+			},
+			"offsets": {
+				"from": 121720,
+				"to": 125360
+			},
+			"text": " And then I thought, 20 years ago, we didn't have Tinder."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,360",
+				"to": "00:02:06,840"
+			},
+			"offsets": {
+				"from": 125360,
+				"to": 126840
+			},
+			"text": " Maybe Tinder is the answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,840",
+				"to": "00:02:08,880"
+			},
+			"offsets": {
+				"from": 126840,
+				"to": 128880
+			},
+			"text": " Do we have any Tinder users here tonight?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,880",
+				"to": "00:02:12,120"
+			},
+			"offsets": {
+				"from": 128880,
+				"to": 132120
+			},
+			"text": " Okay, we have these two."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,120",
+				"to": "00:02:17,360"
+			},
+			"offsets": {
+				"from": 132120,
+				"to": 137360
+			},
+			"text": " I'm very uncomfortable about the idea of Germans meeting on Tinder, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,360",
+				"to": "00:02:22,140"
+			},
+			"offsets": {
+				"from": 137360,
+				"to": 142140
+			},
+			"text": " This is like, what is that genetic purity thing going on there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,140",
+				"to": "00:02:23,420"
+			},
+			"offsets": {
+				"from": 142140,
+				"to": 143420
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,420",
+				"to": "00:02:24,760"
+			},
+			"offsets": {
+				"from": 143420,
+				"to": 144760
+			},
+			"text": " That makes me very nervous."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,760",
+				"to": "00:02:29,860"
+			},
+			"offsets": {
+				"from": 144760,
+				"to": 149860
+			},
+			"text": " I'm much more happy with these guys, the kind of the alpine grinder."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,000",
+				"to": "00:02:31,000"
+			},
+			"offsets": {
+				"from": 150000,
+				"to": 151000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,000",
+				"to": "00:02:32,000"
+			},
+			"offsets": {
+				"from": 151000,
+				"to": 152000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 152000,
+				"to": 153000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:34,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 154000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,000",
+				"to": "00:02:35,000"
+			},
+			"offsets": {
+				"from": 154000,
+				"to": 155000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,000",
+				"to": "00:02:36,000"
+			},
+			"offsets": {
+				"from": 155000,
+				"to": 156000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,000",
+				"to": "00:02:37,000"
+			},
+			"offsets": {
+				"from": 156000,
+				"to": 157000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,000",
+				"to": "00:02:38,000"
+			},
+			"offsets": {
+				"from": 157000,
+				"to": 158000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,000",
+				"to": "00:02:39,000"
+			},
+			"offsets": {
+				"from": 158000,
+				"to": 159000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,000",
+				"to": "00:02:40,000"
+			},
+			"offsets": {
+				"from": 159000,
+				"to": 160000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,000",
+				"to": "00:02:41,000"
+			},
+			"offsets": {
+				"from": 160000,
+				"to": 161000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,000",
+				"to": "00:02:42,000"
+			},
+			"offsets": {
+				"from": 161000,
+				"to": 162000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,000",
+				"to": "00:02:43,000"
+			},
+			"offsets": {
+				"from": 162000,
+				"to": 163000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,000",
+				"to": "00:02:44,000"
+			},
+			"offsets": {
+				"from": 163000,
+				"to": 164000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 164000,
+				"to": 165000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:46,000"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 166000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,000",
+				"to": "00:02:47,000"
+			},
+			"offsets": {
+				"from": 166000,
+				"to": 167000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,000",
+				"to": "00:02:48,000"
+			},
+			"offsets": {
+				"from": 167000,
+				"to": 168000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,000",
+				"to": "00:02:49,000"
+			},
+			"offsets": {
+				"from": 168000,
+				"to": 169000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 169000,
+				"to": 170000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:51,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 171000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,000",
+				"to": "00:02:52,000"
+			},
+			"offsets": {
+				"from": 171000,
+				"to": 172000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,000",
+				"to": "00:03:01,000"
+			},
+			"offsets": {
+				"from": 180000,
+				"to": 181000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,000",
+				"to": "00:03:02,000"
+			},
+			"offsets": {
+				"from": 181000,
+				"to": 182000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,000",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 182000,
+				"to": 183000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:04,000"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 184000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,000",
+				"to": "00:03:05,000"
+			},
+			"offsets": {
+				"from": 184000,
+				"to": 185000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,000",
+				"to": "00:03:06,000"
+			},
+			"offsets": {
+				"from": 185000,
+				"to": 186000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,000",
+				"to": "00:03:07,000"
+			},
+			"offsets": {
+				"from": 186000,
+				"to": 187000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,000",
+				"to": "00:03:08,000"
+			},
+			"offsets": {
+				"from": 187000,
+				"to": 188000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,000",
+				"to": "00:03:09,000"
+			},
+			"offsets": {
+				"from": 188000,
+				"to": 189000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,000",
+				"to": "00:03:10,000"
+			},
+			"offsets": {
+				"from": 189000,
+				"to": 190000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,000",
+				"to": "00:03:11,000"
+			},
+			"offsets": {
+				"from": 190000,
+				"to": 191000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,000",
+				"to": "00:03:12,000"
+			},
+			"offsets": {
+				"from": 191000,
+				"to": 192000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,000",
+				"to": "00:03:13,000"
+			},
+			"offsets": {
+				"from": 192000,
+				"to": 193000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,000",
+				"to": "00:03:14,000"
+			},
+			"offsets": {
+				"from": 193000,
+				"to": 194000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,000",
+				"to": "00:03:15,000"
+			},
+			"offsets": {
+				"from": 194000,
+				"to": 195000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,000",
+				"to": "00:03:16,000"
+			},
+			"offsets": {
+				"from": 195000,
+				"to": 196000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,000",
+				"to": "00:03:17,000"
+			},
+			"offsets": {
+				"from": 196000,
+				"to": 197000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,000",
+				"to": "00:03:18,000"
+			},
+			"offsets": {
+				"from": 197000,
+				"to": 198000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,000",
+				"to": "00:03:19,000"
+			},
+			"offsets": {
+				"from": 198000,
+				"to": 199000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,000",
+				"to": "00:03:20,000"
+			},
+			"offsets": {
+				"from": 199000,
+				"to": 200000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,000",
+				"to": "00:03:21,000"
+			},
+			"offsets": {
+				"from": 200000,
+				"to": 201000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,000",
+				"to": "00:03:22,000"
+			},
+			"offsets": {
+				"from": 201000,
+				"to": 202000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,000",
+				"to": "00:03:31,000"
+			},
+			"offsets": {
+				"from": 210000,
+				"to": 211000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,000",
+				"to": "00:03:32,000"
+			},
+			"offsets": {
+				"from": 211000,
+				"to": 212000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,000",
+				"to": "00:03:33,000"
+			},
+			"offsets": {
+				"from": 212000,
+				"to": 213000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,000",
+				"to": "00:03:34,000"
+			},
+			"offsets": {
+				"from": 213000,
+				"to": 214000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,000",
+				"to": "00:03:35,000"
+			},
+			"offsets": {
+				"from": 214000,
+				"to": 215000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,000",
+				"to": "00:03:36,000"
+			},
+			"offsets": {
+				"from": 215000,
+				"to": 216000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,000",
+				"to": "00:03:37,000"
+			},
+			"offsets": {
+				"from": 216000,
+				"to": 217000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,000",
+				"to": "00:03:38,000"
+			},
+			"offsets": {
+				"from": 217000,
+				"to": 218000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,000",
+				"to": "00:03:39,000"
+			},
+			"offsets": {
+				"from": 218000,
+				"to": 219000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,000",
+				"to": "00:03:40,000"
+			},
+			"offsets": {
+				"from": 219000,
+				"to": 220000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,000",
+				"to": "00:03:41,000"
+			},
+			"offsets": {
+				"from": 220000,
+				"to": 221000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,000",
+				"to": "00:03:42,000"
+			},
+			"offsets": {
+				"from": 221000,
+				"to": 222000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,000",
+				"to": "00:03:43,000"
+			},
+			"offsets": {
+				"from": 222000,
+				"to": 223000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,000",
+				"to": "00:03:44,000"
+			},
+			"offsets": {
+				"from": 223000,
+				"to": 224000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,000",
+				"to": "00:03:45,000"
+			},
+			"offsets": {
+				"from": 224000,
+				"to": 225000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,000",
+				"to": "00:03:46,000"
+			},
+			"offsets": {
+				"from": 225000,
+				"to": 226000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,000",
+				"to": "00:03:47,000"
+			},
+			"offsets": {
+				"from": 226000,
+				"to": 227000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,000",
+				"to": "00:03:48,000"
+			},
+			"offsets": {
+				"from": 227000,
+				"to": 228000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,000",
+				"to": "00:03:49,000"
+			},
+			"offsets": {
+				"from": 228000,
+				"to": 229000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,000",
+				"to": "00:03:50,000"
+			},
+			"offsets": {
+				"from": 229000,
+				"to": 230000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,000",
+				"to": "00:03:51,000"
+			},
+			"offsets": {
+				"from": 230000,
+				"to": 231000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,000",
+				"to": "00:03:52,000"
+			},
+			"offsets": {
+				"from": 231000,
+				"to": 232000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,000",
+				"to": "00:04:01,000"
+			},
+			"offsets": {
+				"from": 240000,
+				"to": 241000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,000",
+				"to": "00:04:02,000"
+			},
+			"offsets": {
+				"from": 241000,
+				"to": 242000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,000",
+				"to": "00:04:03,000"
+			},
+			"offsets": {
+				"from": 242000,
+				"to": 243000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,000",
+				"to": "00:04:04,000"
+			},
+			"offsets": {
+				"from": 243000,
+				"to": 244000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,000",
+				"to": "00:04:05,000"
+			},
+			"offsets": {
+				"from": 244000,
+				"to": 245000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,000",
+				"to": "00:04:06,000"
+			},
+			"offsets": {
+				"from": 245000,
+				"to": 246000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,000",
+				"to": "00:04:07,000"
+			},
+			"offsets": {
+				"from": 246000,
+				"to": 247000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,000",
+				"to": "00:04:08,000"
+			},
+			"offsets": {
+				"from": 247000,
+				"to": 248000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,000",
+				"to": "00:04:09,000"
+			},
+			"offsets": {
+				"from": 248000,
+				"to": 249000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,000",
+				"to": "00:04:10,000"
+			},
+			"offsets": {
+				"from": 249000,
+				"to": 250000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,000",
+				"to": "00:04:11,000"
+			},
+			"offsets": {
+				"from": 250000,
+				"to": 251000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,000",
+				"to": "00:04:12,000"
+			},
+			"offsets": {
+				"from": 251000,
+				"to": 252000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,000",
+				"to": "00:04:13,000"
+			},
+			"offsets": {
+				"from": 252000,
+				"to": 253000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,000",
+				"to": "00:04:14,000"
+			},
+			"offsets": {
+				"from": 253000,
+				"to": 254000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,000",
+				"to": "00:04:15,000"
+			},
+			"offsets": {
+				"from": 254000,
+				"to": 255000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,000",
+				"to": "00:04:16,000"
+			},
+			"offsets": {
+				"from": 255000,
+				"to": 256000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,000",
+				"to": "00:04:17,000"
+			},
+			"offsets": {
+				"from": 256000,
+				"to": 257000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,000",
+				"to": "00:04:18,000"
+			},
+			"offsets": {
+				"from": 257000,
+				"to": 258000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,000",
+				"to": "00:04:19,000"
+			},
+			"offsets": {
+				"from": 258000,
+				"to": 259000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,000",
+				"to": "00:04:20,000"
+			},
+			"offsets": {
+				"from": 259000,
+				"to": 260000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,000",
+				"to": "00:04:21,000"
+			},
+			"offsets": {
+				"from": 260000,
+				"to": 261000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,000",
+				"to": "00:04:22,000"
+			},
+			"offsets": {
+				"from": 261000,
+				"to": 262000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,000",
+				"to": "00:04:31,000"
+			},
+			"offsets": {
+				"from": 270000,
+				"to": 271000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,000",
+				"to": "00:04:32,000"
+			},
+			"offsets": {
+				"from": 271000,
+				"to": 272000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,000",
+				"to": "00:04:33,000"
+			},
+			"offsets": {
+				"from": 272000,
+				"to": 273000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,000",
+				"to": "00:04:34,000"
+			},
+			"offsets": {
+				"from": 273000,
+				"to": 274000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,000",
+				"to": "00:04:35,000"
+			},
+			"offsets": {
+				"from": 274000,
+				"to": 275000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,000",
+				"to": "00:04:36,000"
+			},
+			"offsets": {
+				"from": 275000,
+				"to": 276000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,000",
+				"to": "00:04:37,000"
+			},
+			"offsets": {
+				"from": 276000,
+				"to": 277000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,000",
+				"to": "00:04:38,000"
+			},
+			"offsets": {
+				"from": 277000,
+				"to": 278000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,000",
+				"to": "00:04:39,000"
+			},
+			"offsets": {
+				"from": 278000,
+				"to": 279000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,000",
+				"to": "00:04:40,000"
+			},
+			"offsets": {
+				"from": 279000,
+				"to": 280000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,000",
+				"to": "00:04:41,000"
+			},
+			"offsets": {
+				"from": 280000,
+				"to": 281000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,000",
+				"to": "00:04:42,000"
+			},
+			"offsets": {
+				"from": 281000,
+				"to": 282000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,000",
+				"to": "00:04:43,000"
+			},
+			"offsets": {
+				"from": 282000,
+				"to": 283000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,000",
+				"to": "00:04:44,000"
+			},
+			"offsets": {
+				"from": 283000,
+				"to": 284000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,000",
+				"to": "00:04:45,000"
+			},
+			"offsets": {
+				"from": 284000,
+				"to": 285000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,000",
+				"to": "00:04:46,000"
+			},
+			"offsets": {
+				"from": 285000,
+				"to": 286000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,000",
+				"to": "00:04:47,000"
+			},
+			"offsets": {
+				"from": 286000,
+				"to": 287000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,000",
+				"to": "00:04:48,000"
+			},
+			"offsets": {
+				"from": 287000,
+				"to": 288000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,000",
+				"to": "00:04:49,000"
+			},
+			"offsets": {
+				"from": 288000,
+				"to": 289000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,000",
+				"to": "00:04:50,000"
+			},
+			"offsets": {
+				"from": 289000,
+				"to": 290000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,000",
+				"to": "00:04:51,000"
+			},
+			"offsets": {
+				"from": 290000,
+				"to": 291000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,000",
+				"to": "00:04:52,000"
+			},
+			"offsets": {
+				"from": 291000,
+				"to": 292000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,000",
+				"to": "00:05:01,000"
+			},
+			"offsets": {
+				"from": 300000,
+				"to": 301000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,000",
+				"to": "00:05:02,000"
+			},
+			"offsets": {
+				"from": 301000,
+				"to": 302000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,000",
+				"to": "00:05:03,000"
+			},
+			"offsets": {
+				"from": 302000,
+				"to": 303000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,000",
+				"to": "00:05:04,000"
+			},
+			"offsets": {
+				"from": 303000,
+				"to": 304000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,000",
+				"to": "00:05:05,000"
+			},
+			"offsets": {
+				"from": 304000,
+				"to": 305000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,000",
+				"to": "00:05:06,000"
+			},
+			"offsets": {
+				"from": 305000,
+				"to": 306000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,000",
+				"to": "00:05:07,000"
+			},
+			"offsets": {
+				"from": 306000,
+				"to": 307000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,000",
+				"to": "00:05:08,000"
+			},
+			"offsets": {
+				"from": 307000,
+				"to": 308000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,000",
+				"to": "00:05:09,000"
+			},
+			"offsets": {
+				"from": 308000,
+				"to": 309000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,000",
+				"to": "00:05:10,000"
+			},
+			"offsets": {
+				"from": 309000,
+				"to": 310000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,000",
+				"to": "00:05:11,000"
+			},
+			"offsets": {
+				"from": 310000,
+				"to": 311000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,000",
+				"to": "00:05:12,000"
+			},
+			"offsets": {
+				"from": 311000,
+				"to": 312000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,000",
+				"to": "00:05:13,000"
+			},
+			"offsets": {
+				"from": 312000,
+				"to": 313000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,000",
+				"to": "00:05:14,000"
+			},
+			"offsets": {
+				"from": 313000,
+				"to": 314000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,000",
+				"to": "00:05:15,000"
+			},
+			"offsets": {
+				"from": 314000,
+				"to": 315000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,000",
+				"to": "00:05:16,000"
+			},
+			"offsets": {
+				"from": 315000,
+				"to": 316000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,000",
+				"to": "00:05:17,000"
+			},
+			"offsets": {
+				"from": 316000,
+				"to": 317000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,000",
+				"to": "00:05:18,000"
+			},
+			"offsets": {
+				"from": 317000,
+				"to": 318000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,000",
+				"to": "00:05:19,000"
+			},
+			"offsets": {
+				"from": 318000,
+				"to": 319000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,000",
+				"to": "00:05:20,000"
+			},
+			"offsets": {
+				"from": 319000,
+				"to": 320000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,000",
+				"to": "00:05:21,000"
+			},
+			"offsets": {
+				"from": 320000,
+				"to": 321000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,000",
+				"to": "00:05:22,000"
+			},
+			"offsets": {
+				"from": 321000,
+				"to": 322000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,000",
+				"to": "00:05:31,000"
+			},
+			"offsets": {
+				"from": 330000,
+				"to": 331000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,000",
+				"to": "00:05:32,000"
+			},
+			"offsets": {
+				"from": 331000,
+				"to": 332000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,000",
+				"to": "00:05:33,000"
+			},
+			"offsets": {
+				"from": 332000,
+				"to": 333000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,000",
+				"to": "00:05:34,000"
+			},
+			"offsets": {
+				"from": 333000,
+				"to": 334000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,000",
+				"to": "00:05:35,000"
+			},
+			"offsets": {
+				"from": 334000,
+				"to": 335000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,000",
+				"to": "00:05:36,000"
+			},
+			"offsets": {
+				"from": 335000,
+				"to": 336000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,000",
+				"to": "00:05:37,000"
+			},
+			"offsets": {
+				"from": 336000,
+				"to": 337000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,000",
+				"to": "00:05:38,000"
+			},
+			"offsets": {
+				"from": 337000,
+				"to": 338000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,000",
+				"to": "00:05:39,000"
+			},
+			"offsets": {
+				"from": 338000,
+				"to": 339000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,000",
+				"to": "00:05:40,000"
+			},
+			"offsets": {
+				"from": 339000,
+				"to": 340000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,000",
+				"to": "00:05:41,000"
+			},
+			"offsets": {
+				"from": 340000,
+				"to": 341000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,000",
+				"to": "00:05:42,000"
+			},
+			"offsets": {
+				"from": 341000,
+				"to": 342000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,000",
+				"to": "00:05:43,000"
+			},
+			"offsets": {
+				"from": 342000,
+				"to": 343000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,000",
+				"to": "00:05:44,000"
+			},
+			"offsets": {
+				"from": 343000,
+				"to": 344000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,000",
+				"to": "00:05:45,000"
+			},
+			"offsets": {
+				"from": 344000,
+				"to": 345000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,000",
+				"to": "00:05:46,000"
+			},
+			"offsets": {
+				"from": 345000,
+				"to": 346000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,000",
+				"to": "00:05:47,000"
+			},
+			"offsets": {
+				"from": 346000,
+				"to": 347000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,000",
+				"to": "00:05:48,000"
+			},
+			"offsets": {
+				"from": 347000,
+				"to": 348000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,000",
+				"to": "00:05:49,000"
+			},
+			"offsets": {
+				"from": 348000,
+				"to": 349000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,000",
+				"to": "00:05:50,000"
+			},
+			"offsets": {
+				"from": 349000,
+				"to": 350000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,000",
+				"to": "00:05:51,000"
+			},
+			"offsets": {
+				"from": 350000,
+				"to": 351000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,000",
+				"to": "00:05:52,000"
+			},
+			"offsets": {
+				"from": 351000,
+				"to": 352000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,000",
+				"to": "00:06:01,000"
+			},
+			"offsets": {
+				"from": 360000,
+				"to": 361000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,000",
+				"to": "00:06:02,000"
+			},
+			"offsets": {
+				"from": 361000,
+				"to": 362000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,000",
+				"to": "00:06:03,000"
+			},
+			"offsets": {
+				"from": 362000,
+				"to": 363000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,000",
+				"to": "00:06:04,000"
+			},
+			"offsets": {
+				"from": 363000,
+				"to": 364000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,000",
+				"to": "00:06:05,000"
+			},
+			"offsets": {
+				"from": 364000,
+				"to": 365000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,000",
+				"to": "00:06:06,000"
+			},
+			"offsets": {
+				"from": 365000,
+				"to": 366000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,000",
+				"to": "00:06:07,000"
+			},
+			"offsets": {
+				"from": 366000,
+				"to": 367000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,000",
+				"to": "00:06:08,000"
+			},
+			"offsets": {
+				"from": 367000,
+				"to": 368000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,000",
+				"to": "00:06:09,000"
+			},
+			"offsets": {
+				"from": 368000,
+				"to": 369000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,000",
+				"to": "00:06:10,000"
+			},
+			"offsets": {
+				"from": 369000,
+				"to": 370000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,000",
+				"to": "00:06:11,000"
+			},
+			"offsets": {
+				"from": 370000,
+				"to": 371000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,000",
+				"to": "00:06:12,000"
+			},
+			"offsets": {
+				"from": 371000,
+				"to": 372000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,000",
+				"to": "00:06:13,000"
+			},
+			"offsets": {
+				"from": 372000,
+				"to": 373000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,000",
+				"to": "00:06:14,000"
+			},
+			"offsets": {
+				"from": 373000,
+				"to": 374000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,000",
+				"to": "00:06:15,000"
+			},
+			"offsets": {
+				"from": 374000,
+				"to": 375000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,000",
+				"to": "00:06:16,000"
+			},
+			"offsets": {
+				"from": 375000,
+				"to": 376000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,000",
+				"to": "00:06:17,000"
+			},
+			"offsets": {
+				"from": 376000,
+				"to": 377000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,000",
+				"to": "00:06:18,000"
+			},
+			"offsets": {
+				"from": 377000,
+				"to": 378000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,000",
+				"to": "00:06:19,000"
+			},
+			"offsets": {
+				"from": 378000,
+				"to": 379000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,000",
+				"to": "00:06:20,000"
+			},
+			"offsets": {
+				"from": 379000,
+				"to": 380000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,000",
+				"to": "00:06:21,000"
+			},
+			"offsets": {
+				"from": 380000,
+				"to": 381000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,000",
+				"to": "00:06:22,000"
+			},
+			"offsets": {
+				"from": 381000,
+				"to": 382000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,000",
+				"to": "00:06:31,000"
+			},
+			"offsets": {
+				"from": 390000,
+				"to": 391000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,000",
+				"to": "00:06:32,000"
+			},
+			"offsets": {
+				"from": 391000,
+				"to": 392000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,000",
+				"to": "00:06:33,000"
+			},
+			"offsets": {
+				"from": 392000,
+				"to": 393000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,000",
+				"to": "00:06:34,000"
+			},
+			"offsets": {
+				"from": 393000,
+				"to": 394000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,000",
+				"to": "00:06:35,000"
+			},
+			"offsets": {
+				"from": 394000,
+				"to": 395000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,000",
+				"to": "00:06:36,000"
+			},
+			"offsets": {
+				"from": 395000,
+				"to": 396000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,000",
+				"to": "00:06:37,000"
+			},
+			"offsets": {
+				"from": 396000,
+				"to": 397000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,000",
+				"to": "00:06:38,000"
+			},
+			"offsets": {
+				"from": 397000,
+				"to": 398000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,000",
+				"to": "00:06:39,000"
+			},
+			"offsets": {
+				"from": 398000,
+				"to": 399000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,000",
+				"to": "00:06:40,000"
+			},
+			"offsets": {
+				"from": 399000,
+				"to": 400000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,000",
+				"to": "00:06:41,000"
+			},
+			"offsets": {
+				"from": 400000,
+				"to": 401000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,000",
+				"to": "00:06:42,000"
+			},
+			"offsets": {
+				"from": 401000,
+				"to": 402000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,000",
+				"to": "00:06:43,000"
+			},
+			"offsets": {
+				"from": 402000,
+				"to": 403000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,000",
+				"to": "00:06:44,000"
+			},
+			"offsets": {
+				"from": 403000,
+				"to": 404000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,000",
+				"to": "00:06:45,000"
+			},
+			"offsets": {
+				"from": 404000,
+				"to": 405000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,000",
+				"to": "00:06:46,000"
+			},
+			"offsets": {
+				"from": 405000,
+				"to": 406000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,000",
+				"to": "00:06:47,000"
+			},
+			"offsets": {
+				"from": 406000,
+				"to": 407000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,000",
+				"to": "00:06:48,000"
+			},
+			"offsets": {
+				"from": 407000,
+				"to": 408000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,000",
+				"to": "00:06:49,000"
+			},
+			"offsets": {
+				"from": 408000,
+				"to": 409000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,000",
+				"to": "00:06:50,000"
+			},
+			"offsets": {
+				"from": 409000,
+				"to": 410000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,000",
+				"to": "00:06:51,000"
+			},
+			"offsets": {
+				"from": 410000,
+				"to": 411000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,000",
+				"to": "00:06:52,000"
+			},
+			"offsets": {
+				"from": 411000,
+				"to": 412000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,000",
+				"to": "00:07:01,000"
+			},
+			"offsets": {
+				"from": 420000,
+				"to": 421000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,000",
+				"to": "00:07:02,000"
+			},
+			"offsets": {
+				"from": 421000,
+				"to": 422000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,000",
+				"to": "00:07:03,000"
+			},
+			"offsets": {
+				"from": 422000,
+				"to": 423000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,000",
+				"to": "00:07:04,000"
+			},
+			"offsets": {
+				"from": 423000,
+				"to": 424000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,000",
+				"to": "00:07:05,000"
+			},
+			"offsets": {
+				"from": 424000,
+				"to": 425000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,000",
+				"to": "00:07:06,000"
+			},
+			"offsets": {
+				"from": 425000,
+				"to": 426000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,000",
+				"to": "00:07:07,000"
+			},
+			"offsets": {
+				"from": 426000,
+				"to": 427000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,000",
+				"to": "00:07:08,000"
+			},
+			"offsets": {
+				"from": 427000,
+				"to": 428000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,000",
+				"to": "00:07:09,000"
+			},
+			"offsets": {
+				"from": 428000,
+				"to": 429000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,000",
+				"to": "00:07:10,000"
+			},
+			"offsets": {
+				"from": 429000,
+				"to": 430000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,000",
+				"to": "00:07:11,000"
+			},
+			"offsets": {
+				"from": 430000,
+				"to": 431000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,000",
+				"to": "00:07:12,000"
+			},
+			"offsets": {
+				"from": 431000,
+				"to": 432000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,000",
+				"to": "00:07:13,000"
+			},
+			"offsets": {
+				"from": 432000,
+				"to": 433000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,000",
+				"to": "00:07:14,000"
+			},
+			"offsets": {
+				"from": 433000,
+				"to": 434000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,000",
+				"to": "00:07:15,000"
+			},
+			"offsets": {
+				"from": 434000,
+				"to": 435000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,000",
+				"to": "00:07:16,000"
+			},
+			"offsets": {
+				"from": 435000,
+				"to": 436000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,000",
+				"to": "00:07:17,000"
+			},
+			"offsets": {
+				"from": 436000,
+				"to": 437000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,000",
+				"to": "00:07:18,000"
+			},
+			"offsets": {
+				"from": 437000,
+				"to": 438000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,000",
+				"to": "00:07:19,000"
+			},
+			"offsets": {
+				"from": 438000,
+				"to": 439000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,000",
+				"to": "00:07:20,000"
+			},
+			"offsets": {
+				"from": 439000,
+				"to": 440000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,000",
+				"to": "00:07:21,000"
+			},
+			"offsets": {
+				"from": 440000,
+				"to": 441000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,000",
+				"to": "00:07:22,000"
+			},
+			"offsets": {
+				"from": 441000,
+				"to": 442000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,000",
+				"to": "00:07:31,000"
+			},
+			"offsets": {
+				"from": 450000,
+				"to": 451000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,000",
+				"to": "00:07:32,000"
+			},
+			"offsets": {
+				"from": 451000,
+				"to": 452000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:32,000",
+				"to": "00:07:33,000"
+			},
+			"offsets": {
+				"from": 452000,
+				"to": 453000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,000",
+				"to": "00:07:34,000"
+			},
+			"offsets": {
+				"from": 453000,
+				"to": 454000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,000",
+				"to": "00:07:35,000"
+			},
+			"offsets": {
+				"from": 454000,
+				"to": 455000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,000",
+				"to": "00:07:36,000"
+			},
+			"offsets": {
+				"from": 455000,
+				"to": 456000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,000",
+				"to": "00:07:37,000"
+			},
+			"offsets": {
+				"from": 456000,
+				"to": 457000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,000",
+				"to": "00:07:38,000"
+			},
+			"offsets": {
+				"from": 457000,
+				"to": 458000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,000",
+				"to": "00:07:39,000"
+			},
+			"offsets": {
+				"from": 458000,
+				"to": 459000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,000",
+				"to": "00:07:40,000"
+			},
+			"offsets": {
+				"from": 459000,
+				"to": 460000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,000",
+				"to": "00:07:41,000"
+			},
+			"offsets": {
+				"from": 460000,
+				"to": 461000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,000",
+				"to": "00:07:42,000"
+			},
+			"offsets": {
+				"from": 461000,
+				"to": 462000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,000",
+				"to": "00:07:43,000"
+			},
+			"offsets": {
+				"from": 462000,
+				"to": 463000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,000",
+				"to": "00:07:44,000"
+			},
+			"offsets": {
+				"from": 463000,
+				"to": 464000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,000",
+				"to": "00:07:45,000"
+			},
+			"offsets": {
+				"from": 464000,
+				"to": 465000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,000",
+				"to": "00:07:46,000"
+			},
+			"offsets": {
+				"from": 465000,
+				"to": 466000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,000",
+				"to": "00:07:47,000"
+			},
+			"offsets": {
+				"from": 466000,
+				"to": 467000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,000",
+				"to": "00:07:48,000"
+			},
+			"offsets": {
+				"from": 467000,
+				"to": 468000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,000",
+				"to": "00:07:49,000"
+			},
+			"offsets": {
+				"from": 468000,
+				"to": 469000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,000",
+				"to": "00:07:50,000"
+			},
+			"offsets": {
+				"from": 469000,
+				"to": 470000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,000",
+				"to": "00:07:51,000"
+			},
+			"offsets": {
+				"from": 470000,
+				"to": 471000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,000",
+				"to": "00:07:52,000"
+			},
+			"offsets": {
+				"from": 471000,
+				"to": 472000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,000",
+				"to": "00:08:01,000"
+			},
+			"offsets": {
+				"from": 480000,
+				"to": 481000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,000",
+				"to": "00:08:02,000"
+			},
+			"offsets": {
+				"from": 481000,
+				"to": 482000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,000",
+				"to": "00:08:03,000"
+			},
+			"offsets": {
+				"from": 482000,
+				"to": 483000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,000",
+				"to": "00:08:04,000"
+			},
+			"offsets": {
+				"from": 483000,
+				"to": 484000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,000",
+				"to": "00:08:05,000"
+			},
+			"offsets": {
+				"from": 484000,
+				"to": 485000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,000",
+				"to": "00:08:06,000"
+			},
+			"offsets": {
+				"from": 485000,
+				"to": 486000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,000",
+				"to": "00:08:07,000"
+			},
+			"offsets": {
+				"from": 486000,
+				"to": 487000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,000",
+				"to": "00:08:08,000"
+			},
+			"offsets": {
+				"from": 487000,
+				"to": 488000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,000",
+				"to": "00:08:09,000"
+			},
+			"offsets": {
+				"from": 488000,
+				"to": 489000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,000",
+				"to": "00:08:10,000"
+			},
+			"offsets": {
+				"from": 489000,
+				"to": 490000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,000",
+				"to": "00:08:11,000"
+			},
+			"offsets": {
+				"from": 490000,
+				"to": 491000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,000",
+				"to": "00:08:12,000"
+			},
+			"offsets": {
+				"from": 491000,
+				"to": 492000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,000",
+				"to": "00:08:13,000"
+			},
+			"offsets": {
+				"from": 492000,
+				"to": 493000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,000",
+				"to": "00:08:14,000"
+			},
+			"offsets": {
+				"from": 493000,
+				"to": 494000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,000",
+				"to": "00:08:15,000"
+			},
+			"offsets": {
+				"from": 494000,
+				"to": 495000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,000",
+				"to": "00:08:16,000"
+			},
+			"offsets": {
+				"from": 495000,
+				"to": 496000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,000",
+				"to": "00:08:17,000"
+			},
+			"offsets": {
+				"from": 496000,
+				"to": 497000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,000",
+				"to": "00:08:18,000"
+			},
+			"offsets": {
+				"from": 497000,
+				"to": 498000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,000",
+				"to": "00:08:19,000"
+			},
+			"offsets": {
+				"from": 498000,
+				"to": 499000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,000",
+				"to": "00:08:20,000"
+			},
+			"offsets": {
+				"from": 499000,
+				"to": 500000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,000",
+				"to": "00:08:21,000"
+			},
+			"offsets": {
+				"from": 500000,
+				"to": 501000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,000",
+				"to": "00:08:22,000"
+			},
+			"offsets": {
+				"from": 501000,
+				"to": 502000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,000",
+				"to": "00:08:31,000"
+			},
+			"offsets": {
+				"from": 510000,
+				"to": 511000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,000",
+				"to": "00:08:32,000"
+			},
+			"offsets": {
+				"from": 511000,
+				"to": 512000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,000",
+				"to": "00:08:33,000"
+			},
+			"offsets": {
+				"from": 512000,
+				"to": 513000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,000",
+				"to": "00:08:34,000"
+			},
+			"offsets": {
+				"from": 513000,
+				"to": 514000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,000",
+				"to": "00:08:35,000"
+			},
+			"offsets": {
+				"from": 514000,
+				"to": 515000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,000",
+				"to": "00:08:36,000"
+			},
+			"offsets": {
+				"from": 515000,
+				"to": 516000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,000",
+				"to": "00:08:37,000"
+			},
+			"offsets": {
+				"from": 516000,
+				"to": 517000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,000",
+				"to": "00:08:38,000"
+			},
+			"offsets": {
+				"from": 517000,
+				"to": 518000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,000",
+				"to": "00:08:39,000"
+			},
+			"offsets": {
+				"from": 518000,
+				"to": 519000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,000",
+				"to": "00:08:40,000"
+			},
+			"offsets": {
+				"from": 519000,
+				"to": 520000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,000",
+				"to": "00:08:41,000"
+			},
+			"offsets": {
+				"from": 520000,
+				"to": 521000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,000",
+				"to": "00:08:42,000"
+			},
+			"offsets": {
+				"from": 521000,
+				"to": 522000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,000",
+				"to": "00:08:43,000"
+			},
+			"offsets": {
+				"from": 522000,
+				"to": 523000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,000",
+				"to": "00:08:44,000"
+			},
+			"offsets": {
+				"from": 523000,
+				"to": 524000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,000",
+				"to": "00:08:45,000"
+			},
+			"offsets": {
+				"from": 524000,
+				"to": 525000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,000",
+				"to": "00:08:46,000"
+			},
+			"offsets": {
+				"from": 525000,
+				"to": 526000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,000",
+				"to": "00:08:47,000"
+			},
+			"offsets": {
+				"from": 526000,
+				"to": 527000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,000",
+				"to": "00:08:48,000"
+			},
+			"offsets": {
+				"from": 527000,
+				"to": 528000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,000",
+				"to": "00:08:49,000"
+			},
+			"offsets": {
+				"from": 528000,
+				"to": 529000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,000",
+				"to": "00:08:50,000"
+			},
+			"offsets": {
+				"from": 529000,
+				"to": 530000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,000",
+				"to": "00:08:51,000"
+			},
+			"offsets": {
+				"from": 530000,
+				"to": 531000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,000",
+				"to": "00:08:52,000"
+			},
+			"offsets": {
+				"from": 531000,
+				"to": 532000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,000",
+				"to": "00:09:01,000"
+			},
+			"offsets": {
+				"from": 540000,
+				"to": 541000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,000",
+				"to": "00:09:02,000"
+			},
+			"offsets": {
+				"from": 541000,
+				"to": 542000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,000",
+				"to": "00:09:03,000"
+			},
+			"offsets": {
+				"from": 542000,
+				"to": 543000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,000",
+				"to": "00:09:04,000"
+			},
+			"offsets": {
+				"from": 543000,
+				"to": 544000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,000",
+				"to": "00:09:05,000"
+			},
+			"offsets": {
+				"from": 544000,
+				"to": 545000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,000",
+				"to": "00:09:06,000"
+			},
+			"offsets": {
+				"from": 545000,
+				"to": 546000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,000",
+				"to": "00:09:07,000"
+			},
+			"offsets": {
+				"from": 546000,
+				"to": 547000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,000",
+				"to": "00:09:08,000"
+			},
+			"offsets": {
+				"from": 547000,
+				"to": 548000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,000",
+				"to": "00:09:09,000"
+			},
+			"offsets": {
+				"from": 548000,
+				"to": 549000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,000",
+				"to": "00:09:10,000"
+			},
+			"offsets": {
+				"from": 549000,
+				"to": 550000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:10,000",
+				"to": "00:09:11,000"
+			},
+			"offsets": {
+				"from": 550000,
+				"to": 551000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,000",
+				"to": "00:09:12,000"
+			},
+			"offsets": {
+				"from": 551000,
+				"to": 552000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:12,000",
+				"to": "00:09:13,000"
+			},
+			"offsets": {
+				"from": 552000,
+				"to": 553000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,000",
+				"to": "00:09:14,000"
+			},
+			"offsets": {
+				"from": 553000,
+				"to": 554000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,000",
+				"to": "00:09:15,000"
+			},
+			"offsets": {
+				"from": 554000,
+				"to": 555000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,000",
+				"to": "00:09:16,000"
+			},
+			"offsets": {
+				"from": 555000,
+				"to": 556000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,000",
+				"to": "00:09:17,000"
+			},
+			"offsets": {
+				"from": 556000,
+				"to": 557000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,000",
+				"to": "00:09:18,000"
+			},
+			"offsets": {
+				"from": 557000,
+				"to": 558000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,000",
+				"to": "00:09:19,000"
+			},
+			"offsets": {
+				"from": 558000,
+				"to": 559000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,000",
+				"to": "00:09:20,000"
+			},
+			"offsets": {
+				"from": 559000,
+				"to": 560000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,000",
+				"to": "00:09:21,000"
+			},
+			"offsets": {
+				"from": 560000,
+				"to": 561000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,000",
+				"to": "00:09:22,000"
+			},
+			"offsets": {
+				"from": 561000,
+				"to": 562000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,000",
+				"to": "00:09:31,000"
+			},
+			"offsets": {
+				"from": 570000,
+				"to": 571000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,000",
+				"to": "00:09:32,000"
+			},
+			"offsets": {
+				"from": 571000,
+				"to": 572000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,000",
+				"to": "00:09:33,000"
+			},
+			"offsets": {
+				"from": 572000,
+				"to": 573000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,000",
+				"to": "00:09:34,000"
+			},
+			"offsets": {
+				"from": 573000,
+				"to": 574000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,000",
+				"to": "00:09:35,000"
+			},
+			"offsets": {
+				"from": 574000,
+				"to": 575000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,000",
+				"to": "00:09:36,000"
+			},
+			"offsets": {
+				"from": 575000,
+				"to": 576000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,000",
+				"to": "00:09:37,000"
+			},
+			"offsets": {
+				"from": 576000,
+				"to": 577000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,000",
+				"to": "00:09:38,000"
+			},
+			"offsets": {
+				"from": 577000,
+				"to": 578000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,000",
+				"to": "00:09:39,000"
+			},
+			"offsets": {
+				"from": 578000,
+				"to": 579000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,000",
+				"to": "00:09:40,000"
+			},
+			"offsets": {
+				"from": 579000,
+				"to": 580000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:40,000",
+				"to": "00:09:41,000"
+			},
+			"offsets": {
+				"from": 580000,
+				"to": 581000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,000",
+				"to": "00:09:42,000"
+			},
+			"offsets": {
+				"from": 581000,
+				"to": 582000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,000",
+				"to": "00:09:43,000"
+			},
+			"offsets": {
+				"from": 582000,
+				"to": 583000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,000",
+				"to": "00:09:44,000"
+			},
+			"offsets": {
+				"from": 583000,
+				"to": 584000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,000",
+				"to": "00:09:45,000"
+			},
+			"offsets": {
+				"from": 584000,
+				"to": 585000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,000",
+				"to": "00:09:46,000"
+			},
+			"offsets": {
+				"from": 585000,
+				"to": 586000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,000",
+				"to": "00:09:47,000"
+			},
+			"offsets": {
+				"from": 586000,
+				"to": 587000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,000",
+				"to": "00:09:48,000"
+			},
+			"offsets": {
+				"from": 587000,
+				"to": 588000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,000",
+				"to": "00:09:49,000"
+			},
+			"offsets": {
+				"from": 588000,
+				"to": 589000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,000",
+				"to": "00:09:50,000"
+			},
+			"offsets": {
+				"from": 589000,
+				"to": 590000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,000",
+				"to": "00:09:51,000"
+			},
+			"offsets": {
+				"from": 590000,
+				"to": 591000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,000",
+				"to": "00:09:52,000"
+			},
+			"offsets": {
+				"from": 591000,
+				"to": 592000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,000",
+				"to": "00:10:01,000"
+			},
+			"offsets": {
+				"from": 600000,
+				"to": 601000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,000",
+				"to": "00:10:02,000"
+			},
+			"offsets": {
+				"from": 601000,
+				"to": 602000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,000",
+				"to": "00:10:03,000"
+			},
+			"offsets": {
+				"from": 602000,
+				"to": 603000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,000",
+				"to": "00:10:04,000"
+			},
+			"offsets": {
+				"from": 603000,
+				"to": 604000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,000",
+				"to": "00:10:05,000"
+			},
+			"offsets": {
+				"from": 604000,
+				"to": 605000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,000",
+				"to": "00:10:06,000"
+			},
+			"offsets": {
+				"from": 605000,
+				"to": 606000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,000",
+				"to": "00:10:07,000"
+			},
+			"offsets": {
+				"from": 606000,
+				"to": 607000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,000",
+				"to": "00:10:08,000"
+			},
+			"offsets": {
+				"from": 607000,
+				"to": 608000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,000",
+				"to": "00:10:09,000"
+			},
+			"offsets": {
+				"from": 608000,
+				"to": 609000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,000",
+				"to": "00:10:10,000"
+			},
+			"offsets": {
+				"from": 609000,
+				"to": 610000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,000",
+				"to": "00:10:11,000"
+			},
+			"offsets": {
+				"from": 610000,
+				"to": 611000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,000",
+				"to": "00:10:12,000"
+			},
+			"offsets": {
+				"from": 611000,
+				"to": 612000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,000",
+				"to": "00:10:13,000"
+			},
+			"offsets": {
+				"from": 612000,
+				"to": 613000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:13,000",
+				"to": "00:10:14,000"
+			},
+			"offsets": {
+				"from": 613000,
+				"to": 614000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,000",
+				"to": "00:10:15,000"
+			},
+			"offsets": {
+				"from": 614000,
+				"to": 615000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,000",
+				"to": "00:10:16,000"
+			},
+			"offsets": {
+				"from": 615000,
+				"to": 616000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,000",
+				"to": "00:10:17,000"
+			},
+			"offsets": {
+				"from": 616000,
+				"to": 617000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,000",
+				"to": "00:10:18,000"
+			},
+			"offsets": {
+				"from": 617000,
+				"to": 618000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,000",
+				"to": "00:10:19,000"
+			},
+			"offsets": {
+				"from": 618000,
+				"to": 619000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,000",
+				"to": "00:10:20,000"
+			},
+			"offsets": {
+				"from": 619000,
+				"to": 620000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,000",
+				"to": "00:10:21,000"
+			},
+			"offsets": {
+				"from": 620000,
+				"to": 621000
+			},
+			"text": " I'm very happy with these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,000",
+				"to": "00:10:22,000"
+			},
+			"offsets": {
+				"from": 621000,
+				"to": 622000
+			},
+			"text": " I'm very happy with these guys."
+		}
+	]
+}

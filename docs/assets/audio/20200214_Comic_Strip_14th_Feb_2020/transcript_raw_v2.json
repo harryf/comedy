@@ -1,0 +1,5708 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3000
+			},
+			"text": " Our next performer's gonna be Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,000",
+				"to": "00:00:09,000"
+			},
+			"offsets": {
+				"from": 3000,
+				"to": 9000
+			},
+			"text": " And I have to say, I am very much disappointed"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,000",
+				"to": "00:00:13,000"
+			},
+			"offsets": {
+				"from": 9000,
+				"to": 13000
+			},
+			"text": " that a guy looking like him, with a name like him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 13000,
+				"to": 17000
+			},
+			"text": " is not a wasted 80s porn star with a mustache."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:22,000"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 22000
+			},
+			"text": " However, I am very grateful having met Harry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,000",
+				"to": "00:00:27,000"
+			},
+			"offsets": {
+				"from": 22000,
+				"to": 27000
+			},
+			"text": " because whenever I'm wondering what it is with middle-aged white guys"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 28000,
+				"to": 32000
+			},
+			"text": " turning their weirdness into creepiness,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,000",
+				"to": "00:00:35,000"
+			},
+			"offsets": {
+				"from": 32000,
+				"to": 35000
+			},
+			"text": " I just give Harry a call and ask him."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,000",
+				"to": "00:00:39,000"
+			},
+			"offsets": {
+				"from": 35000,
+				"to": 39000
+			},
+			"text": " And whenever I cannot reach him, I'm just gonna phone Marcus."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 39000,
+				"to": 44000
+			},
+			"text": " Same spectrum, same spectrum."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 48000
+			},
+			"text": " I mean, Harry tries desperately with his comedy"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,000",
+				"to": "00:00:51,000"
+			},
+			"offsets": {
+				"from": 48000,
+				"to": 51000
+			},
+			"text": " to be as sexy as a sweet potato."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,000",
+				"to": "00:00:53,000"
+			},
+			"offsets": {
+				"from": 51000,
+				"to": 53000
+			},
+			"text": " But I told him recently,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 53000,
+				"to": 56000
+			},
+			"text": " \"Harry, the only thing you and a sweet potato have in common"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,000",
+				"to": "00:00:59,000"
+			},
+			"offsets": {
+				"from": 56000,
+				"to": 59000
+			},
+			"text": " \"is that at some point, they're getting fried."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,000",
+				"to": "00:01:02,000"
+			},
+			"offsets": {
+				"from": 59000,
+				"to": 62000
+			},
+			"text": " \"A sweet potato is getting more delicious,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,000",
+				"to": "00:01:05,000"
+			},
+			"offsets": {
+				"from": 62000,
+				"to": 65000
+			},
+			"text": " \"and your skin is so fried by the sun,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,000",
+				"to": "00:01:08,000"
+			},
+			"offsets": {
+				"from": 65000,
+				"to": 68000
+			},
+			"text": " \"you look like Donatella Versace."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,000",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 68000,
+				"to": 71000
+			},
+			"text": " \"And I mean Donatella now."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,000",
+				"to": "00:01:15,000"
+			},
+			"offsets": {
+				"from": 71000,
+				"to": 75000
+			},
+			"text": " \"Not the coked-up, swollen-up 80s version of Donatella,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,000",
+				"to": "00:01:18,000"
+			},
+			"offsets": {
+				"from": 75000,
+				"to": 78000
+			},
+			"text": " \"where you were like, 'Yeah, I'd do that,'"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,000",
+				"to": "00:01:20,000"
+			},
+			"offsets": {
+				"from": 78000,
+				"to": 80000
+			},
+			"text": " \"you know, after, like, a couple of drinks."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,000",
+				"to": "00:01:22,000"
+			},
+			"offsets": {
+				"from": 80000,
+				"to": 82000
+			},
+			"text": " \"She's rich."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,000",
+				"to": "00:01:24,000"
+			},
+			"offsets": {
+				"from": 82000,
+				"to": 84000
+			},
+			"text": " \"And maybe meet her brother, because I'm secretly gay,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,000",
+				"to": "00:01:25,000"
+			},
+			"offsets": {
+				"from": 84000,
+				"to": 85000
+			},
+			"text": " \"and I'm gonna, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,000",
+				"to": "00:01:27,000"
+			},
+			"offsets": {
+				"from": 85000,
+				"to": 87000
+			},
+			"text": " \"I'm gonna meet Johnny.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,000",
+				"to": "00:01:30,000"
+			},
+			"offsets": {
+				"from": 87000,
+				"to": 90000
+			},
+			"text": " But no, Harry's just trying."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:32,000"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 92000
+			},
+			"text": " Harry Fox, his face and his name"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,000",
+				"to": "00:01:35,000"
+			},
+			"offsets": {
+				"from": 92000,
+				"to": 95000
+			},
+			"text": " have disappointed more women than Tiger Woods."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,000",
+				"to": "00:01:40,000"
+			},
+			"offsets": {
+				"from": 95000,
+				"to": 100000
+			},
+			"text": " They have disappointed more women than Sex and the City 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,000",
+				"to": "00:01:45,000"
+			},
+			"offsets": {
+				"from": 100000,
+				"to": 105000
+			},
+			"text": " They have disappointed more women than Harvey Weinstein."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,000",
+				"to": "00:01:49,000"
+			},
+			"offsets": {
+				"from": 105000,
+				"to": 109000
+			},
+			"text": " Too much?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,000",
+				"to": "00:01:54,000"
+			},
+			"offsets": {
+				"from": 109000,
+				"to": 114000
+			},
+			"text": " Have you heard the rest of the show that was soft?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,000",
+				"to": "00:01:56,000"
+			},
+			"offsets": {
+				"from": 114000,
+				"to": 116000
+			},
+			"text": " I'm not being mean and nasty."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,000",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 116000,
+				"to": 117000
+			},
+			"text": " He can take it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,000",
+				"to": "00:01:58,000"
+			},
+			"offsets": {
+				"from": 117000,
+				"to": 118000
+			},
+			"text": " He's a power bottom."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,000",
+				"to": "00:02:00,000"
+			},
+			"offsets": {
+				"from": 118000,
+				"to": 120000
+			},
+			"text": " I mean, really, he can take it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,000",
+				"to": "00:02:03,000"
+			},
+			"offsets": {
+				"from": 120000,
+				"to": 123000
+			},
+			"text": " I mean, give him a good look and tell me"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,000",
+				"to": "00:02:08,000"
+			},
+			"offsets": {
+				"from": 123000,
+				"to": 128000
+			},
+			"text": " you wouldn't be worried if you were driving by your child's school,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,000",
+				"to": "00:02:10,000"
+			},
+			"offsets": {
+				"from": 128000,
+				"to": 130000
+			},
+			"text": " slowly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,000",
+				"to": "00:02:14,000"
+			},
+			"offsets": {
+				"from": 130000,
+				"to": 134000
+			},
+			"text": " in that lightly lemon-colored van,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,000",
+				"to": "00:02:17,000"
+			},
+			"offsets": {
+				"from": 134000,
+				"to": 137000
+			},
+			"text": " trying to sell your children candy."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,000",
+				"to": "00:02:19,000"
+			},
+			"offsets": {
+				"from": 137000,
+				"to": 139000
+			},
+			"text": " No, he wouldn't do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,000",
+				"to": "00:02:21,000"
+			},
+			"offsets": {
+				"from": 139000,
+				"to": 141000
+			},
+			"text": " He has two children of his own."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,000",
+				"to": "00:02:25,000"
+			},
+			"offsets": {
+				"from": 142000,
+				"to": 145000
+			},
+			"text": " Sadly, he didn't bring them."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,000",
+				"to": "00:02:27,000"
+			},
+			"offsets": {
+				"from": 145000,
+				"to": 147000
+			},
+			"text": " I wanted him to bring his son,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,000",
+				"to": "00:02:30,000"
+			},
+			"offsets": {
+				"from": 147000,
+				"to": 150000
+			},
+			"text": " just to show his son."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 150000,
+				"to": 153000
+			},
+			"text": " You have no chance growing up normal"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:36,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 156000
+			},
+			"text": " with a father named Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,000",
+				"to": "00:02:38,000"
+			},
+			"offsets": {
+				"from": 156000,
+				"to": 158000
+			},
+			"text": " So, ladies and gentlemen,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,000",
+				"to": "00:02:40,000"
+			},
+			"offsets": {
+				"from": 158000,
+				"to": 160000
+			},
+			"text": " give it up for a guy"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,000",
+				"to": "00:02:43,000"
+			},
+			"offsets": {
+				"from": 160000,
+				"to": 163000
+			},
+			"text": " who will always be overshadowed by his own name."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,000",
+				"to": "00:02:46,000"
+			},
+			"offsets": {
+				"from": 163000,
+				"to": 166000
+			},
+			"text": " Give it up for Harry Fox!"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,000",
+				"to": "00:02:54,000"
+			},
+			"offsets": {
+				"from": 171000,
+				"to": 174000
+			},
+			"text": " I mean, am I right in feeling"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,000",
+				"to": "00:02:58,000"
+			},
+			"offsets": {
+				"from": 174000,
+				"to": 178000
+			},
+			"text": " that the penis and the appearance of a sex offender?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,000",
+				"to": "00:02:59,000"
+			},
+			"offsets": {
+				"from": 178000,
+				"to": 179000
+			},
+			"text": " Yes, I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 179000,
+				"to": 180000
+			},
+			"text": " Even if you wouldn't dare to say it"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,000",
+				"to": "00:03:02,000"
+			},
+			"offsets": {
+				"from": 180000,
+				"to": 182000
+			},
+			"text": " because he's standing here."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,000",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 182000,
+				"to": 183000
+			},
+			"text": " I dare."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:04,000"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 184000
+			},
+			"text": " I state the truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,000",
+				"to": "00:03:07,000"
+			},
+			"offsets": {
+				"from": 184000,
+				"to": 187000
+			},
+			"text": " Therefore, I'm dangerous with a microphone."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,000",
+				"to": "00:03:10,000"
+			},
+			"offsets": {
+				"from": 187000,
+				"to": 190000
+			},
+			"text": " Give a huge round of applause for Harry again!"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,000",
+				"to": "00:03:27,000"
+			},
+			"offsets": {
+				"from": 201000,
+				"to": 207000
+			},
+			"text": " So, my name is actually Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,000",
+				"to": "00:03:31,000"
+			},
+			"offsets": {
+				"from": 207000,
+				"to": 211000
+			},
+			"text": " It's a German name."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,000",
+				"to": "00:03:33,000"
+			},
+			"offsets": {
+				"from": 211000,
+				"to": 213000
+			},
+			"text": " Spelled F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,000",
+				"to": "00:03:38,000"
+			},
+			"offsets": {
+				"from": 213000,
+				"to": 218000
+			},
+			"text": " I repeat, F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,000",
+				"to": "00:03:40,000"
+			},
+			"offsets": {
+				"from": 218000,
+				"to": 220000
+			},
+			"text": " But when I'm in a room with English speakers like this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,000",
+				"to": "00:03:44,000"
+			},
+			"offsets": {
+				"from": 220000,
+				"to": 224000
+			},
+			"text": " a lot of you think my name is Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,000",
+				"to": "00:03:46,000"
+			},
+			"offsets": {
+				"from": 224000,
+				"to": 226000
+			},
+			"text": " My name is not Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,000",
+				"to": "00:03:47,000"
+			},
+			"offsets": {
+				"from": 226000,
+				"to": 227000
+			},
+			"text": " And in my family,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,000",
+				"to": "00:03:49,000"
+			},
+			"offsets": {
+				"from": 227000,
+				"to": 229000
+			},
+			"text": " when we have a family get-together,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,000",
+				"to": "00:03:50,000"
+			},
+			"offsets": {
+				"from": 229000,
+				"to": 230000
+			},
+			"text": " we get very upset"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,000",
+				"to": "00:03:53,000"
+			},
+			"offsets": {
+				"from": 230000,
+				"to": 233000
+			},
+			"text": " when you call us a group of fuckers."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,000",
+				"to": "00:03:57,000"
+			},
+			"offsets": {
+				"from": 233000,
+				"to": 237000
+			},
+			"text": " Oh, I thought it was going to be a fuck-fest."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,000",
+				"to": "00:03:59,000"
+			},
+			"offsets": {
+				"from": 237000,
+				"to": 239000
+			},
+			"text": " I'm sure you did."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,000",
+				"to": "00:04:01,000"
+			},
+			"offsets": {
+				"from": 239000,
+				"to": 241000
+			},
+			"text": " And I have two kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,000",
+				"to": "00:04:04,000"
+			},
+			"offsets": {
+				"from": 241000,
+				"to": 244000
+			},
+			"text": " I've had to call them \"how-but\" and \"what-but\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,000",
+				"to": "00:04:09,000"
+			},
+			"offsets": {
+				"from": 244000,
+				"to": 249000
+			},
+			"text": " Just so we can get started."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,000",
+				"to": "00:04:13,000"
+			},
+			"offsets": {
+				"from": 249000,
+				"to": 253000
+			},
+			"text": " The real problem with a name like Harry Fox"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,000",
+				"to": "00:04:17,000"
+			},
+			"offsets": {
+				"from": 253000,
+				"to": 257000
+			},
+			"text": " is it sets a very high level of expectation."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,000",
+				"to": "00:04:19,000"
+			},
+			"offsets": {
+				"from": 257000,
+				"to": 259000
+			},
+			"text": " And that just hasn't been enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,000",
+				"to": "00:04:24,000"
+			},
+			"offsets": {
+				"from": 259000,
+				"to": 264000
+			},
+			"text": " In fact, if I can share this with you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,000",
+				"to": "00:04:27,000"
+			},
+			"offsets": {
+				"from": 264000,
+				"to": 267000
+			},
+			"text": " it has actually been a long time since I've had sex."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,000",
+				"to": "00:04:31,000"
+			},
+			"offsets": {
+				"from": 267000,
+				"to": 271000
+			},
+			"text": " Put your hands up if you haven't had sex in a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,000",
+				"to": "00:04:35,000"
+			},
+			"offsets": {
+				"from": 271000,
+				"to": 275000
+			},
+			"text": " Obviously."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,000",
+				"to": "00:04:46,000"
+			},
+			"offsets": {
+				"from": 275000,
+				"to": 286000
+			},
+			"text": " I'm going to write a book called \"The Joy of No Sex\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,000",
+				"to": "00:04:48,000"
+			},
+			"offsets": {
+				"from": 286000,
+				"to": 288000
+			},
+			"text": " But, no, I hadn't realized that"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,000",
+				"to": "00:04:50,000"
+			},
+			"offsets": {
+				"from": 288000,
+				"to": 290000
+			},
+			"text": " I was coming to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,000",
+				"to": "00:04:53,000"
+			},
+			"offsets": {
+				"from": 290000,
+				"to": 293000
+			},
+			"text": " Basel Nymphomaniacs Anonymous meeting today."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,000",
+				"to": "00:04:57,000"
+			},
+			"offsets": {
+				"from": 293000,
+				"to": 297000
+			},
+			"text": " So, maybe if I can just explain my condition a bit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,000",
+				"to": "00:05:00,000"
+			},
+			"offsets": {
+				"from": 297000,
+				"to": 300000
+			},
+			"text": " how it is when you haven't had sex in a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,000",
+				"to": "00:05:04,000"
+			},
+			"offsets": {
+				"from": 300000,
+				"to": 304000
+			},
+			"text": " Because it's kind of like you're hallucinating."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,000",
+				"to": "00:05:08,000"
+			},
+			"offsets": {
+				"from": 304000,
+				"to": 308000
+			},
+			"text": " You could be walking down the street."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,000",
+				"to": "00:05:10,000"
+			},
+			"offsets": {
+				"from": 308000,
+				"to": 310000
+			},
+			"text": " You see a couple of dogs"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,000",
+				"to": "00:05:12,000"
+			},
+			"offsets": {
+				"from": 310000,
+				"to": 312000
+			},
+			"text": " sniffing each other's asses."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,000",
+				"to": "00:05:14,000"
+			},
+			"offsets": {
+				"from": 312000,
+				"to": 314000
+			},
+			"text": " You look at them and think,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,000",
+				"to": "00:05:16,000"
+			},
+			"offsets": {
+				"from": 314000,
+				"to": 316000
+			},
+			"text": " \"I wish that was me.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,000",
+				"to": "00:05:21,000"
+			},
+			"offsets": {
+				"from": 318000,
+				"to": 321000
+			},
+			"text": " Well, you go into migros."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,000",
+				"to": "00:05:22,000"
+			},
+			"offsets": {
+				"from": 321000,
+				"to": 322000
+			},
+			"text": " You go into migros."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,000",
+				"to": "00:05:25,000"
+			},
+			"offsets": {
+				"from": 322000,
+				"to": 325000
+			},
+			"text": " You spot an axion on a watermelon."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,000",
+				"to": "00:05:28,000"
+			},
+			"offsets": {
+				"from": 325000,
+				"to": 328000
+			},
+			"text": " You get one hand on that watermelon."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,000",
+				"to": "00:05:29,000"
+			},
+			"offsets": {
+				"from": 328000,
+				"to": 329000
+			},
+			"text": " Maybe two."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,000",
+				"to": "00:05:30,000"
+			},
+			"offsets": {
+				"from": 329000,
+				"to": 330000
+			},
+			"text": " Bam!"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,000",
+				"to": "00:05:31,000"
+			},
+			"offsets": {
+				"from": 330000,
+				"to": 331000
+			},
+			"text": " It's like you're in a new dimension."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,000",
+				"to": "00:05:33,000"
+			},
+			"offsets": {
+				"from": 331000,
+				"to": 333000
+			},
+			"text": " It's just you and that watermelon."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,000",
+				"to": "00:05:34,000"
+			},
+			"offsets": {
+				"from": 333000,
+				"to": 334000
+			},
+			"text": " It's getting hot."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,000",
+				"to": "00:05:35,000"
+			},
+			"offsets": {
+				"from": 334000,
+				"to": 335000
+			},
+			"text": " It's getting steamy."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,000",
+				"to": "00:05:37,000"
+			},
+			"offsets": {
+				"from": 335000,
+				"to": 337000
+			},
+			"text": " You don't care about all the people watching."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,000",
+				"to": "00:05:38,000"
+			},
+			"offsets": {
+				"from": 337000,
+				"to": 338000
+			},
+			"text": " And then you hear this voice saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,000",
+				"to": "00:05:39,000"
+			},
+			"offsets": {
+				"from": 338000,
+				"to": 339000
+			},
+			"text": " \"You're the man shaman's.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,000",
+				"to": "00:05:40,000"
+			},
+			"offsets": {
+				"from": 339000,
+				"to": 340000
+			},
+			"text": " You say, \"Can you look?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,000",
+				"to": "00:05:43,000"
+			},
+			"offsets": {
+				"from": 340000,
+				"to": 343000
+			},
+			"text": " And there's an old lady about to hit you with her handbag."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,000",
+				"to": "00:05:44,000"
+			},
+			"offsets": {
+				"from": 343000,
+				"to": 344000
+			},
+			"text": " And you think,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,000",
+				"to": "00:05:45,000"
+			},
+			"offsets": {
+				"from": 344000,
+				"to": 345000
+			},
+			"text": " \"She's nice.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,000",
+				"to": "00:05:58,000"
+			},
+			"offsets": {
+				"from": 348000,
+				"to": 358000
+			},
+			"text": " Do you know what makes this even more depressing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,000",
+				"to": "00:06:01,000"
+			},
+			"offsets": {
+				"from": 358000,
+				"to": 361000
+			},
+			"text": " It's that even at my age,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,000",
+				"to": "00:06:05,000"
+			},
+			"offsets": {
+				"from": 361000,
+				"to": 365000
+			},
+			"text": " I don't really know if I'm any good at sex."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,000",
+				"to": "00:06:06,000"
+			},
+			"offsets": {
+				"from": 365000,
+				"to": 366000
+			},
+			"text": " Because I read recently,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,000",
+				"to": "00:06:08,000"
+			},
+			"offsets": {
+				"from": 366000,
+				"to": 368000
+			},
+			"text": " to be good at anything,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,000",
+				"to": "00:06:12,000"
+			},
+			"offsets": {
+				"from": 368000,
+				"to": 372000
+			},
+			"text": " it takes 10,000 hours."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,000",
+				"to": "00:06:17,000"
+			},
+			"offsets": {
+				"from": 372000,
+				"to": 377000
+			},
+			"text": " 10,000 hours is a lot of fucking time."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,000",
+				"to": "00:06:18,000"
+			},
+			"offsets": {
+				"from": 377000,
+				"to": 378000
+			},
+			"text": " Yes, it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,000",
+				"to": "00:06:19,000"
+			},
+			"offsets": {
+				"from": 378000,
+				"to": 379000
+			},
+			"text": " I mean, if I add it all up,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,000",
+				"to": "00:06:20,000"
+			},
+			"offsets": {
+				"from": 379000,
+				"to": 380000
+			},
+			"text": " maybe,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,000",
+				"to": "00:06:22,000"
+			},
+			"offsets": {
+				"from": 380000,
+				"to": 382000
+			},
+			"text": " maybe I get to 5,000 hours"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,000",
+				"to": "00:06:24,000"
+			},
+			"offsets": {
+				"from": 382000,
+				"to": 384000
+			},
+			"text": " if I include masturbation."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,000",
+				"to": "00:06:30,000"
+			},
+			"offsets": {
+				"from": 384000,
+				"to": 390000
+			},
+			"text": " But I did some maths on this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,000",
+				"to": "00:06:31,000"
+			},
+			"offsets": {
+				"from": 390000,
+				"to": 391000
+			},
+			"text": " and I'm like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,000",
+				"to": "00:06:32,000"
+			},
+			"offsets": {
+				"from": 391000,
+				"to": 392000
+			},
+			"text": " \"I've got to figure this out.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,000",
+				"to": "00:06:33,000"
+			},
+			"offsets": {
+				"from": 392000,
+				"to": 393000
+			},
+			"text": " What I've discovered is"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,000",
+				"to": "00:06:36,000"
+			},
+			"offsets": {
+				"from": 393000,
+				"to": 396000
+			},
+			"text": " if you fuck for 24 hours a day"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,000",
+				"to": "00:06:38,000"
+			},
+			"offsets": {
+				"from": 396000,
+				"to": 398000
+			},
+			"text": " for an entire year,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,000",
+				"to": "00:06:40,000"
+			},
+			"offsets": {
+				"from": 398000,
+				"to": 400000
+			},
+			"text": " you're only at 8,000 hours."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,000",
+				"to": "00:06:45,000"
+			},
+			"offsets": {
+				"from": 400000,
+				"to": 405000
+			},
+			"text": " If you live to 70,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,000",
+				"to": "00:06:47,000"
+			},
+			"offsets": {
+				"from": 405000,
+				"to": 407000
+			},
+			"text": " you need to fuck 10 times a day."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,000",
+				"to": "00:06:52,000"
+			},
+			"offsets": {
+				"from": 407000,
+				"to": 412000
+			},
+			"text": " From the day you are born"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,000",
+				"to": "00:06:55,000"
+			},
+			"offsets": {
+				"from": 412000,
+				"to": 415000
+			},
+			"text": " until the day you die."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,000",
+				"to": "00:06:57,000"
+			},
+			"offsets": {
+				"from": 415000,
+				"to": 417000
+			},
+			"text": " And I don't know what's worse about that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,000",
+				"to": "00:07:00,000"
+			},
+			"offsets": {
+				"from": 417000,
+				"to": 420000
+			},
+			"text": " the idea of newborn babies fucking,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,000",
+				"to": "00:07:04,000"
+			},
+			"offsets": {
+				"from": 420000,
+				"to": 424000
+			},
+			"text": " or the thought of sex with old people"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,000",
+				"to": "00:07:06,000"
+			},
+			"offsets": {
+				"from": 424000,
+				"to": 426000
+			},
+			"text": " on the day they're dying."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,000",
+				"to": "00:07:13,000"
+			},
+			"offsets": {
+				"from": 426000,
+				"to": 433000
+			},
+			"text": " But you know what makes this even more depressing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,000",
+				"to": "00:07:15,000"
+			},
+			"offsets": {
+				"from": 433000,
+				"to": 435000
+			},
+			"text": " It's that right here, right now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,000",
+				"to": "00:07:16,000"
+			},
+			"offsets": {
+				"from": 435000,
+				"to": 436000
+			},
+			"text": " when I look at all of you"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,000",
+				"to": "00:07:18,000"
+			},
+			"offsets": {
+				"from": 436000,
+				"to": 438000
+			},
+			"text": " wasting time listening to me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,000",
+				"to": "00:07:20,000"
+			},
+			"offsets": {
+				"from": 438000,
+				"to": 440000
+			},
+			"text": " I know that all of you"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,000",
+				"to": "00:07:22,000"
+			},
+			"offsets": {
+				"from": 440000,
+				"to": 442000
+			},
+			"text": " must suck at sex, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,000",
+				"to": "00:07:25,000"
+			},
+			"offsets": {
+				"from": 442000,
+				"to": 445000
+			},
+			"text": " Okay, someone here is like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,000",
+				"to": "00:07:26,000"
+			},
+			"offsets": {
+				"from": 445000,
+				"to": 446000
+			},
+			"text": " \"This is bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,000",
+				"to": "00:07:27,000"
+			},
+			"offsets": {
+				"from": 446000,
+				"to": 447000
+			},
+			"text": " \"I know I'm good at sex.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,000",
+				"to": "00:07:29,000"
+			},
+			"offsets": {
+				"from": 447000,
+				"to": 449000
+			},
+			"text": " Like Mr. Leather Jacket over there."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,000",
+				"to": "00:07:34,000"
+			},
+			"offsets": {
+				"from": 449000,
+				"to": 454000
+			},
+			"text": " He's already got his girlfriend,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,000",
+				"to": "00:07:35,000"
+			},
+			"offsets": {
+				"from": 454000,
+				"to": 455000
+			},
+			"text": " his girlfriend pimping for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,000",
+				"to": "00:07:36,000"
+			},
+			"offsets": {
+				"from": 455000,
+				"to": 456000
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,000",
+				"to": "00:07:37,000"
+			},
+			"offsets": {
+				"from": 456000,
+				"to": 457000
+			},
+			"text": " Listen, I'm sorry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,000",
+				"to": "00:07:39,000"
+			},
+			"offsets": {
+				"from": 457000,
+				"to": 459000
+			},
+			"text": " but I hate to break this to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,000",
+				"to": "00:07:40,000"
+			},
+			"offsets": {
+				"from": 459000,
+				"to": 460000
+			},
+			"text": " There are only two types of people"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,000",
+				"to": "00:07:42,000"
+			},
+			"offsets": {
+				"from": 460000,
+				"to": 462000
+			},
+			"text": " that think they're good at sex."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,000",
+				"to": "00:07:45,000"
+			},
+			"offsets": {
+				"from": 462000,
+				"to": 465000
+			},
+			"text": " Prostitutes and compulsive liars."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,000",
+				"to": "00:07:48,000"
+			},
+			"offsets": {
+				"from": 466000,
+				"to": 468000
+			},
+			"text": " You know you're a hoe."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,000",
+				"to": "00:07:52,000"
+			},
+			"offsets": {
+				"from": 468000,
+				"to": 472000
+			},
+			"text": " No, but, yeah, I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,000",
+				"to": "00:07:55,000"
+			},
+			"offsets": {
+				"from": 472000,
+				"to": 475000
+			},
+			"text": " Do we have anyone here with a Swiss girlfriend?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:55,000",
+				"to": "00:07:57,000"
+			},
+			"offsets": {
+				"from": 475000,
+				"to": 477000
+			},
+			"text": " Oh, okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,000",
+				"to": "00:07:58,000"
+			},
+			"offsets": {
+				"from": 477000,
+				"to": 478000
+			},
+			"text": " Here we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,000",
+				"to": "00:08:00,000"
+			},
+			"offsets": {
+				"from": 478000,
+				"to": 480000
+			},
+			"text": " Okay, I'm going to take these guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,000",
+				"to": "00:08:02,000"
+			},
+			"offsets": {
+				"from": 480000,
+				"to": 482000
+			},
+			"text": " What's your name, sir?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,000",
+				"to": "00:08:03,000"
+			},
+			"offsets": {
+				"from": 482000,
+				"to": 483000
+			},
+			"text": " Jane."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,000",
+				"to": "00:08:04,000"
+			},
+			"offsets": {
+				"from": 483000,
+				"to": 484000
+			},
+			"text": " Jane?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,000",
+				"to": "00:08:05,000"
+			},
+			"offsets": {
+				"from": 484000,
+				"to": 485000
+			},
+			"text": " Janick."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,000",
+				"to": "00:08:06,000"
+			},
+			"offsets": {
+				"from": 485000,
+				"to": 486000
+			},
+			"text": " Janick."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,000",
+				"to": "00:08:07,000"
+			},
+			"offsets": {
+				"from": 486000,
+				"to": 487000
+			},
+			"text": " Okay, Janick, whatever it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,000",
+				"to": "00:08:08,000"
+			},
+			"offsets": {
+				"from": 487000,
+				"to": 488000
+			},
+			"text": " And what's your name, ma'am?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,000",
+				"to": "00:08:09,000"
+			},
+			"offsets": {
+				"from": 488000,
+				"to": 489000
+			},
+			"text": " Leonie."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,000",
+				"to": "00:08:10,000"
+			},
+			"offsets": {
+				"from": 489000,
+				"to": 490000
+			},
+			"text": " Leonie."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,000",
+				"to": "00:08:11,000"
+			},
+			"offsets": {
+				"from": 490000,
+				"to": 491000
+			},
+			"text": " That's a beautiful name."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,000",
+				"to": "00:08:12,000"
+			},
+			"offsets": {
+				"from": 491000,
+				"to": 492000
+			},
+			"text": " Beautiful couple."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,000",
+				"to": "00:08:13,000"
+			},
+			"offsets": {
+				"from": 492000,
+				"to": 493000
+			},
+			"text": " Wow, sat on the floor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,000",
+				"to": "00:08:14,000"
+			},
+			"offsets": {
+				"from": 493000,
+				"to": 494000
+			},
+			"text": " so much commitment together."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,000",
+				"to": "00:08:15,000"
+			},
+			"offsets": {
+				"from": 494000,
+				"to": 495000
+			},
+			"text": " You know, and I'm happy for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,000",
+				"to": "00:08:16,000"
+			},
+			"offsets": {
+				"from": 495000,
+				"to": 496000
+			},
+			"text": " And I'm happy for you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,000",
+				"to": "00:08:21,000"
+			},
+			"offsets": {
+				"from": 496000,
+				"to": 501000
+			},
+			"text": " because a year ago today on Valentine's Day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,000",
+				"to": "00:08:24,000"
+			},
+			"offsets": {
+				"from": 501000,
+				"to": 504000
+			},
+			"text": " I was dumped by my first Swiss girlfriend."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,000",
+				"to": "00:08:26,000"
+			},
+			"offsets": {
+				"from": 504000,
+				"to": 506000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,000",
+				"to": "00:08:27,000"
+			},
+			"offsets": {
+				"from": 506000,
+				"to": 507000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,000",
+				"to": "00:08:28,000"
+			},
+			"offsets": {
+				"from": 507000,
+				"to": 508000
+			},
+			"text": " I mean, admittedly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,000",
+				"to": "00:08:30,000"
+			},
+			"offsets": {
+				"from": 508000,
+				"to": 510000
+			},
+			"text": " I had forgotten it was Valentine's Day."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,000",
+				"to": "00:08:34,000"
+			},
+			"offsets": {
+				"from": 510000,
+				"to": 514000
+			},
+			"text": " And now I will never forget ever again."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,000",
+				"to": "00:08:37,000"
+			},
+			"offsets": {
+				"from": 514000,
+				"to": 517000
+			},
+			"text": " But I did learn a lot from my Swiss girlfriend."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,000",
+				"to": "00:08:39,000"
+			},
+			"offsets": {
+				"from": 517000,
+				"to": 519000
+			},
+			"text": " And, you know, one of the things is"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,000",
+				"to": "00:08:43,000"
+			},
+			"offsets": {
+				"from": 519000,
+				"to": 523000
+			},
+			"text": " I learned that Swiss women have certain key phrases."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,000",
+				"to": "00:08:44,000"
+			},
+			"offsets": {
+				"from": 523000,
+				"to": 524000
+			},
+			"text": " Like if Leonie says to you, she says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,000",
+				"to": "00:08:45,000"
+			},
+			"offsets": {
+				"from": 524000,
+				"to": 525000
+			},
+			"text": " \"Oh, shitly, this is a good thing.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,000",
+				"to": "00:08:46,000"
+			},
+			"offsets": {
+				"from": 525000,
+				"to": 526000
+			},
+			"text": " This means that later on,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,000",
+				"to": "00:08:47,000"
+			},
+			"offsets": {
+				"from": 526000,
+				"to": 527000
+			},
+			"text": " there's a high chance of sexual favors."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,000",
+				"to": "00:08:48,000"
+			},
+			"offsets": {
+				"from": 527000,
+				"to": 528000
+			},
+			"text": " But if she says to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,000",
+				"to": "00:08:49,000"
+			},
+			"offsets": {
+				"from": 528000,
+				"to": 529000
+			},
+			"text": " \"Shut!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,000",
+				"to": "00:08:50,000"
+			},
+			"offsets": {
+				"from": 529000,
+				"to": 530000
+			},
+			"text": " This is a bad thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,000",
+				"to": "00:08:51,000"
+			},
+			"offsets": {
+				"from": 530000,
+				"to": 531000
+			},
+			"text": " You should probably spend the night on the sofa,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,000",
+				"to": "00:08:52,000"
+			},
+			"offsets": {
+				"from": 531000,
+				"to": 532000
+			},
+			"text": " especially this sofa with these three ladies."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,000",
+				"to": "00:08:53,000"
+			},
+			"offsets": {
+				"from": 532000,
+				"to": 533000
+			},
+			"text": " That wouldn't be a bad decision."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:53,000",
+				"to": "00:08:54,000"
+			},
+			"offsets": {
+				"from": 533000,
+				"to": 534000
+			},
+			"text": " And if she says to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,000",
+				"to": "00:08:55,000"
+			},
+			"offsets": {
+				"from": 534000,
+				"to": 535000
+			},
+			"text": " \"Hurrakaya!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,000",
+				"to": "00:08:56,000"
+			},
+			"offsets": {
+				"from": 535000,
+				"to": 536000
+			},
+			"text": " This is a great thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:56,000",
+				"to": "00:08:57,000"
+			},
+			"offsets": {
+				"from": 536000,
+				"to": 537000
+			},
+			"text": " This means she's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,000",
+				"to": "00:08:58,000"
+			},
+			"offsets": {
+				"from": 537000,
+				"to": 538000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,000",
+				"to": "00:08:59,000"
+			},
+			"offsets": {
+				"from": 538000,
+				"to": 539000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,000",
+				"to": "00:09:00,000"
+			},
+			"offsets": {
+				"from": 539000,
+				"to": 540000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,000",
+				"to": "00:09:01,000"
+			},
+			"offsets": {
+				"from": 540000,
+				"to": 541000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,000",
+				"to": "00:09:02,000"
+			},
+			"offsets": {
+				"from": 541000,
+				"to": 542000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,000",
+				"to": "00:09:03,000"
+			},
+			"offsets": {
+				"from": 542000,
+				"to": 543000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,000",
+				"to": "00:09:04,000"
+			},
+			"offsets": {
+				"from": 543000,
+				"to": 544000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,000",
+				"to": "00:09:05,000"
+			},
+			"offsets": {
+				"from": 544000,
+				"to": 545000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,000",
+				"to": "00:09:06,000"
+			},
+			"offsets": {
+				"from": 545000,
+				"to": 546000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,000",
+				"to": "00:09:07,000"
+			},
+			"offsets": {
+				"from": 546000,
+				"to": 547000
+			},
+			"text": " She's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,000",
+				"to": "00:09:08,000"
+			},
+			"offsets": {
+				"from": 547000,
+				"to": 548000
+			},
+			"text": " And if she says to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,000",
+				"to": "00:09:09,000"
+			},
+			"offsets": {
+				"from": 548000,
+				"to": 549000
+			},
+			"text": " \"Hurrakaya!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,000",
+				"to": "00:09:10,000"
+			},
+			"offsets": {
+				"from": 549000,
+				"to": 550000
+			},
+			"text": " This is a great thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:10,000",
+				"to": "00:09:11,000"
+			},
+			"offsets": {
+				"from": 550000,
+				"to": 551000
+			},
+			"text": " This means she's as horny as a whore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,000",
+				"to": "00:09:12,000"
+			},
+			"offsets": {
+				"from": 551000,
+				"to": 552000
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:12,000",
+				"to": "00:09:13,000"
+			},
+			"offsets": {
+				"from": 552000,
+				"to": 553000
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,000",
+				"to": "00:09:14,000"
+			},
+			"offsets": {
+				"from": 553000,
+				"to": 554000
+			},
+			"text": " You have to think about that one a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,000",
+				"to": "00:09:15,000"
+			},
+			"offsets": {
+				"from": 554000,
+				"to": 555000
+			},
+			"text": " Or if she says to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,000",
+				"to": "00:09:16,000"
+			},
+			"offsets": {
+				"from": 555000,
+				"to": 556000
+			},
+			"text": " \"Lek mich doch amarsch!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,000",
+				"to": "00:09:17,000"
+			},
+			"offsets": {
+				"from": 556000,
+				"to": 557000
+			},
+			"text": " Now, this one's a little bit confusing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,000",
+				"to": "00:09:18,000"
+			},
+			"offsets": {
+				"from": 557000,
+				"to": 558000
+			},
+			"text": " but under no circumstances should you try to lick her asshole."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,000",
+				"to": "00:09:19,000"
+			},
+			"offsets": {
+				"from": 558000,
+				"to": 559000
+			},
+			"text": " Unless,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,000",
+				"to": "00:09:20,000"
+			},
+			"offsets": {
+				"from": 559000,
+				"to": 560000
+			},
+			"text": " unless she says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,000",
+				"to": "00:09:21,000"
+			},
+			"offsets": {
+				"from": 560000,
+				"to": 561000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,000",
+				"to": "00:09:22,000"
+			},
+			"offsets": {
+				"from": 561000,
+				"to": 562000
+			},
+			"text": " In which case,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,000",
+				"to": "00:09:23,000"
+			},
+			"offsets": {
+				"from": 562000,
+				"to": 563000
+			},
+			"text": " she says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,000",
+				"to": "00:09:24,000"
+			},
+			"offsets": {
+				"from": 563000,
+				"to": 564000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,000",
+				"to": "00:09:25,000"
+			},
+			"offsets": {
+				"from": 564000,
+				"to": 565000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:25,000",
+				"to": "00:09:26,000"
+			},
+			"offsets": {
+				"from": 565000,
+				"to": 566000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,000",
+				"to": "00:09:27,000"
+			},
+			"offsets": {
+				"from": 566000,
+				"to": 567000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:27,000",
+				"to": "00:09:28,000"
+			},
+			"offsets": {
+				"from": 567000,
+				"to": 568000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,000",
+				"to": "00:09:29,000"
+			},
+			"offsets": {
+				"from": 568000,
+				"to": 569000
+			},
+			"text": " Unless,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,000",
+				"to": "00:09:30,000"
+			},
+			"offsets": {
+				"from": 569000,
+				"to": 570000
+			},
+			"text": " unless she says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,000",
+				"to": "00:09:31,000"
+			},
+			"offsets": {
+				"from": 570000,
+				"to": 571000
+			},
+			"text": " \"Es ein schießtreck!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,000",
+				"to": "00:09:32,000"
+			},
+			"offsets": {
+				"from": 571000,
+				"to": 572000
+			},
+			"text": " In which case,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,000",
+				"to": "00:09:33,000"
+			},
+			"offsets": {
+				"from": 572000,
+				"to": 573000
+			},
+			"text": " you could try to lick her asshole,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,000",
+				"to": "00:09:34,000"
+			},
+			"offsets": {
+				"from": 573000,
+				"to": 574000
+			},
+			"text": " but you might be in for a nasty surprise."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,000",
+				"to": "00:09:35,000"
+			},
+			"offsets": {
+				"from": 574000,
+				"to": 575000
+			},
+			"text": " But you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,000",
+				"to": "00:09:36,000"
+			},
+			"offsets": {
+				"from": 575000,
+				"to": 576000
+			},
+			"text": " okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,000",
+				"to": "00:09:37,000"
+			},
+			"offsets": {
+				"from": 576000,
+				"to": 577000
+			},
+			"text": " But you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,000",
+				"to": "00:09:38,000"
+			},
+			"offsets": {
+				"from": 577000,
+				"to": 578000
+			},
+			"text": " so I'm single."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,000",
+				"to": "00:09:39,000"
+			},
+			"offsets": {
+				"from": 578000,
+				"to": 579000
+			},
+			"text": " I've been,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,000",
+				"to": "00:09:40,000"
+			},
+			"offsets": {
+				"from": 579000,
+				"to": 580000
+			},
+			"text": " I've been dating a bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:40,000",
+				"to": "00:09:41,000"
+			},
+			"offsets": {
+				"from": 580000,
+				"to": 581000
+			},
+			"text": " And you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,000",
+				"to": "00:09:42,000"
+			},
+			"offsets": {
+				"from": 581000,
+				"to": 582000
+			},
+			"text": " dating's really hard these days."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,000",
+				"to": "00:09:43,000"
+			},
+			"offsets": {
+				"from": 582000,
+				"to": 583000
+			},
+			"text": " Actually,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,000",
+				"to": "00:09:44,000"
+			},
+			"offsets": {
+				"from": 583000,
+				"to": 584000
+			},
+			"text": " I think dating is actually especially hard for women."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,000",
+				"to": "00:09:45,000"
+			},
+			"offsets": {
+				"from": 584000,
+				"to": 585000
+			},
+			"text": " Because,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,000",
+				"to": "00:09:46,000"
+			},
+			"offsets": {
+				"from": 585000,
+				"to": 586000
+			},
+			"text": " I read a statistic recently,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,000",
+				"to": "00:09:47,000"
+			},
+			"offsets": {
+				"from": 586000,
+				"to": 587000
+			},
+			"text": " that almost 50% of women"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,000",
+				"to": "00:09:48,000"
+			},
+			"offsets": {
+				"from": 587000,
+				"to": 588000
+			},
+			"text": " are single."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,000",
+				"to": "00:09:49,000"
+			},
+			"offsets": {
+				"from": 588000,
+				"to": 589000
+			},
+			"text": " I mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,000",
+				"to": "00:09:50,000"
+			},
+			"offsets": {
+				"from": 589000,
+				"to": 590000
+			},
+			"text": " if you're single,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,000",
+				"to": "00:09:51,000"
+			},
+			"offsets": {
+				"from": 590000,
+				"to": 591000
+			},
+			"text": " if you're in a relationship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,000",
+				"to": "00:09:52,000"
+			},
+			"offsets": {
+				"from": 591000,
+				"to": 592000
+			},
+			"text": " I mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,000",
+				"to": "00:09:53,000"
+			},
+			"offsets": {
+				"from": 592000,
+				"to": 593000
+			},
+			"text": " if you're in a relationship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,000",
+				"to": "00:09:54,000"
+			},
+			"offsets": {
+				"from": 593000,
+				"to": 594000
+			},
+			"text": " if you're in a relationship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,000",
+				"to": "00:09:55,000"
+			},
+			"offsets": {
+				"from": 594000,
+				"to": 595000
+			},
+			"text": " if you're in a relationship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,000",
+				"to": "00:09:56,000"
+			},
+			"offsets": {
+				"from": 595000,
+				"to": 596000
+			},
+			"text": " I mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:56,000",
+				"to": "00:09:57,000"
+			},
+			"offsets": {
+				"from": 596000,
+				"to": 597000
+			},
+			"text": " if you're in a relationship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,000",
+				"to": "00:10:02,000"
+			},
+			"offsets": {
+				"from": 597000,
+				"to": 602000
+			},
+			"text": " 50% of men between the ages of 20 and 40"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,000",
+				"to": "00:10:05,000"
+			},
+			"offsets": {
+				"from": 602000,
+				"to": 605000
+			},
+			"text": " sent a dick pic in the last 12 months."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,000",
+				"to": "00:10:08,000"
+			},
+			"offsets": {
+				"from": 605000,
+				"to": 608000
+			},
+			"text": " I'm just looking around here."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,000",
+				"to": "00:10:10,000"
+			},
+			"offsets": {
+				"from": 608000,
+				"to": 610000
+			},
+			"text": " This guy looks a bit dick picky."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,000",
+				"to": "00:10:11,000"
+			},
+			"offsets": {
+				"from": 610000,
+				"to": 611000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,000",
+				"to": "00:10:13,000"
+			},
+			"offsets": {
+				"from": 611000,
+				"to": 613000
+			},
+			"text": " Yeah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:13,000",
+				"to": "00:10:14,000"
+			},
+			"offsets": {
+				"from": 613000,
+				"to": 614000
+			},
+			"text": " but he's even proud of the dick pics."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,000",
+				"to": "00:10:17,000"
+			},
+			"offsets": {
+				"from": 614000,
+				"to": 617000
+			},
+			"text": " But ladies,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,000",
+				"to": "00:10:18,000"
+			},
+			"offsets": {
+				"from": 617000,
+				"to": 618000
+			},
+			"text": " that might be a hard number to visualize."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,000",
+				"to": "00:10:19,000"
+			},
+			"offsets": {
+				"from": 618000,
+				"to": 619000
+			},
+			"text": " But like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,000",
+				"to": "00:10:22,000"
+			},
+			"offsets": {
+				"from": 619000,
+				"to": 622000
+			},
+			"text": " if you gave your number to 10 guys in this room tonight,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,000",
+				"to": "00:10:24,000"
+			},
+			"offsets": {
+				"from": 622000,
+				"to": 624000
+			},
+			"text": " by Christmas time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,000",
+				"to": "00:10:26,000"
+			},
+			"offsets": {
+				"from": 624000,
+				"to": 626000
+			},
+			"text": " you got a stack of five dicks on your phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:27,000",
+				"to": "00:10:29,000"
+			},
+			"offsets": {
+				"from": 627000,
+				"to": 629000
+			},
+			"text": " You can just print them out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,000",
+				"to": "00:10:31,000"
+			},
+			"offsets": {
+				"from": 629000,
+				"to": 631000
+			},
+			"text": " hang them from your Christmas tree,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,000",
+				"to": "00:10:32,000"
+			},
+			"offsets": {
+				"from": 631000,
+				"to": 632000
+			},
+			"text": " at your Christmas class."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,000",
+				"to": "00:10:33,000"
+			},
+			"offsets": {
+				"from": 632000,
+				"to": 633000
+			},
+			"text": " Now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,000",
+				"to": "00:10:34,000"
+			},
+			"offsets": {
+				"from": 633000,
+				"to": 634000
+			},
+			"text": " I don't take dick pics myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,000",
+				"to": "00:10:35,000"
+			},
+			"offsets": {
+				"from": 634000,
+				"to": 635000
+			},
+			"text": " Believe it or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,000",
+				"to": "00:10:36,000"
+			},
+			"offsets": {
+				"from": 635000,
+				"to": 636000
+			},
+			"text": " And the reason for that is actually,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,000",
+				"to": "00:10:37,000"
+			},
+			"offsets": {
+				"from": 636000,
+				"to": 637000
+			},
+			"text": " it's not because I think it's wrong,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,000",
+				"to": "00:10:38,000"
+			},
+			"offsets": {
+				"from": 637000,
+				"to": 638000
+			},
+			"text": " it's because I'm a bit of a perfectionist."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,000",
+				"to": "00:10:39,000"
+			},
+			"offsets": {
+				"from": 638000,
+				"to": 639000
+			},
+			"text": " Because taking a quality dick pic,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,000",
+				"to": "00:10:40,000"
+			},
+			"offsets": {
+				"from": 639000,
+				"to": 640000
+			},
+			"text": " that's hard,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,000",
+				"to": "00:10:41,000"
+			},
+			"offsets": {
+				"from": 640000,
+				"to": 641000
+			},
+			"text": " you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,000",
+				"to": "00:10:42,000"
+			},
+			"offsets": {
+				"from": 641000,
+				"to": 642000
+			},
+			"text": " You've got to learn to think about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,000",
+				"to": "00:10:43,000"
+			},
+			"offsets": {
+				"from": 642000,
+				"to": 643000
+			},
+			"text": " You've got to think about the lighting."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,000",
+				"to": "00:10:44,000"
+			},
+			"offsets": {
+				"from": 643000,
+				"to": 644000
+			},
+			"text": " Do you go for some soft tone"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,000",
+				"to": "00:10:45,000"
+			},
+			"offsets": {
+				"from": 644000,
+				"to": 645000
+			},
+			"text": " to bring in the light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,000",
+				"to": "00:10:46,000"
+			},
+			"offsets": {
+				"from": 645000,
+				"to": 646000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,000",
+				"to": "00:10:47,000"
+			},
+			"offsets": {
+				"from": 646000,
+				"to": 647000
+			},
+			"text": " Do you go for some light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,000",
+				"to": "00:10:48,000"
+			},
+			"offsets": {
+				"from": 647000,
+				"to": 648000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,000",
+				"to": "00:10:49,000"
+			},
+			"offsets": {
+				"from": 648000,
+				"to": 649000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,000",
+				"to": "00:10:50,000"
+			},
+			"offsets": {
+				"from": 649000,
+				"to": 650000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,000",
+				"to": "00:10:51,000"
+			},
+			"offsets": {
+				"from": 650000,
+				"to": 651000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,000",
+				"to": "00:10:52,000"
+			},
+			"offsets": {
+				"from": 651000,
+				"to": 652000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:52,000",
+				"to": "00:10:53,000"
+			},
+			"offsets": {
+				"from": 652000,
+				"to": 653000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,000",
+				"to": "00:10:54,000"
+			},
+			"offsets": {
+				"from": 653000,
+				"to": 654000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,000",
+				"to": "00:10:55,000"
+			},
+			"offsets": {
+				"from": 654000,
+				"to": 655000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,000",
+				"to": "00:10:56,000"
+			},
+			"offsets": {
+				"from": 655000,
+				"to": 656000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,000",
+				"to": "00:10:57,000"
+			},
+			"offsets": {
+				"from": 656000,
+				"to": 657000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:57,000",
+				"to": "00:10:58,000"
+			},
+			"offsets": {
+				"from": 657000,
+				"to": 658000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,000",
+				"to": "00:10:59,000"
+			},
+			"offsets": {
+				"from": 658000,
+				"to": 659000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,000",
+				"to": "00:11:00,000"
+			},
+			"offsets": {
+				"from": 659000,
+				"to": 660000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,000",
+				"to": "00:11:01,000"
+			},
+			"offsets": {
+				"from": 660000,
+				"to": 661000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:01,000",
+				"to": "00:11:02,000"
+			},
+			"offsets": {
+				"from": 661000,
+				"to": 662000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,000",
+				"to": "00:11:03,000"
+			},
+			"offsets": {
+				"from": 662000,
+				"to": 663000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,000",
+				"to": "00:11:04,000"
+			},
+			"offsets": {
+				"from": 663000,
+				"to": 664000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,000",
+				"to": "00:11:05,000"
+			},
+			"offsets": {
+				"from": 664000,
+				"to": 665000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,000",
+				"to": "00:11:06,000"
+			},
+			"offsets": {
+				"from": 665000,
+				"to": 666000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,000",
+				"to": "00:11:07,000"
+			},
+			"offsets": {
+				"from": 666000,
+				"to": 667000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,000",
+				"to": "00:11:08,000"
+			},
+			"offsets": {
+				"from": 667000,
+				"to": 668000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,000",
+				"to": "00:11:09,000"
+			},
+			"offsets": {
+				"from": 668000,
+				"to": 669000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,000",
+				"to": "00:11:10,000"
+			},
+			"offsets": {
+				"from": 669000,
+				"to": 670000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,000",
+				"to": "00:11:11,000"
+			},
+			"offsets": {
+				"from": 670000,
+				"to": 671000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,000",
+				"to": "00:11:12,000"
+			},
+			"offsets": {
+				"from": 671000,
+				"to": 672000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:12,000",
+				"to": "00:11:13,000"
+			},
+			"offsets": {
+				"from": 672000,
+				"to": 673000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,000",
+				"to": "00:11:14,000"
+			},
+			"offsets": {
+				"from": 673000,
+				"to": 674000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,000",
+				"to": "00:11:15,000"
+			},
+			"offsets": {
+				"from": 674000,
+				"to": 675000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,000",
+				"to": "00:11:16,000"
+			},
+			"offsets": {
+				"from": 675000,
+				"to": 676000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,000",
+				"to": "00:11:17,000"
+			},
+			"offsets": {
+				"from": 676000,
+				"to": 677000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,000",
+				"to": "00:11:18,000"
+			},
+			"offsets": {
+				"from": 677000,
+				"to": 678000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,000",
+				"to": "00:11:19,000"
+			},
+			"offsets": {
+				"from": 678000,
+				"to": 679000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,000",
+				"to": "00:11:20,000"
+			},
+			"offsets": {
+				"from": 679000,
+				"to": 680000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,000",
+				"to": "00:11:21,000"
+			},
+			"offsets": {
+				"from": 680000,
+				"to": 681000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:21,000",
+				"to": "00:11:22,000"
+			},
+			"offsets": {
+				"from": 681000,
+				"to": 682000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,000",
+				"to": "00:11:23,000"
+			},
+			"offsets": {
+				"from": 682000,
+				"to": 683000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,000",
+				"to": "00:11:24,000"
+			},
+			"offsets": {
+				"from": 683000,
+				"to": 684000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,000",
+				"to": "00:11:25,000"
+			},
+			"offsets": {
+				"from": 684000,
+				"to": 685000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,000",
+				"to": "00:11:26,000"
+			},
+			"offsets": {
+				"from": 685000,
+				"to": 686000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,000",
+				"to": "00:11:27,000"
+			},
+			"offsets": {
+				"from": 686000,
+				"to": 687000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,000",
+				"to": "00:11:28,000"
+			},
+			"offsets": {
+				"from": 687000,
+				"to": 688000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,000",
+				"to": "00:11:29,000"
+			},
+			"offsets": {
+				"from": 688000,
+				"to": 689000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:29,000",
+				"to": "00:11:30,000"
+			},
+			"offsets": {
+				"from": 689000,
+				"to": 690000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,000",
+				"to": "00:11:31,000"
+			},
+			"offsets": {
+				"from": 690000,
+				"to": 691000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,000",
+				"to": "00:11:32,000"
+			},
+			"offsets": {
+				"from": 691000,
+				"to": 692000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,000",
+				"to": "00:11:33,000"
+			},
+			"offsets": {
+				"from": 692000,
+				"to": 693000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,000",
+				"to": "00:11:34,000"
+			},
+			"offsets": {
+				"from": 693000,
+				"to": 694000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,000",
+				"to": "00:11:35,000"
+			},
+			"offsets": {
+				"from": 694000,
+				"to": 695000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,000",
+				"to": "00:11:36,000"
+			},
+			"offsets": {
+				"from": 695000,
+				"to": 696000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,000",
+				"to": "00:11:37,000"
+			},
+			"offsets": {
+				"from": 696000,
+				"to": 697000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,000",
+				"to": "00:11:38,000"
+			},
+			"offsets": {
+				"from": 697000,
+				"to": 698000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,000",
+				"to": "00:11:39,000"
+			},
+			"offsets": {
+				"from": 698000,
+				"to": 699000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,000",
+				"to": "00:11:40,000"
+			},
+			"offsets": {
+				"from": 699000,
+				"to": 700000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,000",
+				"to": "00:11:41,000"
+			},
+			"offsets": {
+				"from": 700000,
+				"to": 701000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,000",
+				"to": "00:11:42,000"
+			},
+			"offsets": {
+				"from": 701000,
+				"to": 702000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,000",
+				"to": "00:11:43,000"
+			},
+			"offsets": {
+				"from": 702000,
+				"to": 703000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,000",
+				"to": "00:11:44,000"
+			},
+			"offsets": {
+				"from": 703000,
+				"to": 704000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:44,000",
+				"to": "00:11:45,000"
+			},
+			"offsets": {
+				"from": 704000,
+				"to": 705000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:45,000",
+				"to": "00:11:46,000"
+			},
+			"offsets": {
+				"from": 705000,
+				"to": 706000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,000",
+				"to": "00:11:47,000"
+			},
+			"offsets": {
+				"from": 706000,
+				"to": 707000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,000",
+				"to": "00:11:48,000"
+			},
+			"offsets": {
+				"from": 707000,
+				"to": 708000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,000",
+				"to": "00:11:49,000"
+			},
+			"offsets": {
+				"from": 708000,
+				"to": 709000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,000",
+				"to": "00:11:50,000"
+			},
+			"offsets": {
+				"from": 709000,
+				"to": 710000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:50,000",
+				"to": "00:11:51,000"
+			},
+			"offsets": {
+				"from": 710000,
+				"to": 711000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,000",
+				"to": "00:11:52,000"
+			},
+			"offsets": {
+				"from": 711000,
+				"to": 712000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,000",
+				"to": "00:11:53,000"
+			},
+			"offsets": {
+				"from": 712000,
+				"to": 713000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,000",
+				"to": "00:11:54,000"
+			},
+			"offsets": {
+				"from": 713000,
+				"to": 714000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,000",
+				"to": "00:11:55,000"
+			},
+			"offsets": {
+				"from": 714000,
+				"to": 715000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,000",
+				"to": "00:11:56,000"
+			},
+			"offsets": {
+				"from": 715000,
+				"to": 716000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,000",
+				"to": "00:11:57,000"
+			},
+			"offsets": {
+				"from": 716000,
+				"to": 717000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,000",
+				"to": "00:11:58,000"
+			},
+			"offsets": {
+				"from": 717000,
+				"to": 718000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:58,000",
+				"to": "00:11:59,000"
+			},
+			"offsets": {
+				"from": 718000,
+				"to": 719000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,000",
+				"to": "00:12:00,000"
+			},
+			"offsets": {
+				"from": 719000,
+				"to": 720000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,000",
+				"to": "00:12:01,000"
+			},
+			"offsets": {
+				"from": 720000,
+				"to": 721000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,000",
+				"to": "00:12:02,000"
+			},
+			"offsets": {
+				"from": 721000,
+				"to": 722000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,000",
+				"to": "00:12:03,000"
+			},
+			"offsets": {
+				"from": 722000,
+				"to": 723000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,000",
+				"to": "00:12:04,000"
+			},
+			"offsets": {
+				"from": 723000,
+				"to": 724000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:04,000",
+				"to": "00:12:05,000"
+			},
+			"offsets": {
+				"from": 724000,
+				"to": 725000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,000",
+				"to": "00:12:06,000"
+			},
+			"offsets": {
+				"from": 725000,
+				"to": 726000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:06,000",
+				"to": "00:12:07,000"
+			},
+			"offsets": {
+				"from": 726000,
+				"to": 727000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,000",
+				"to": "00:12:08,000"
+			},
+			"offsets": {
+				"from": 727000,
+				"to": 728000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,000",
+				"to": "00:12:09,000"
+			},
+			"offsets": {
+				"from": 728000,
+				"to": 729000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,000",
+				"to": "00:12:10,000"
+			},
+			"offsets": {
+				"from": 729000,
+				"to": 730000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,000",
+				"to": "00:12:11,000"
+			},
+			"offsets": {
+				"from": 730000,
+				"to": 731000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,000",
+				"to": "00:12:12,000"
+			},
+			"offsets": {
+				"from": 731000,
+				"to": 732000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:12,000",
+				"to": "00:12:13,000"
+			},
+			"offsets": {
+				"from": 732000,
+				"to": 733000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,000",
+				"to": "00:12:14,000"
+			},
+			"offsets": {
+				"from": 733000,
+				"to": 734000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,000",
+				"to": "00:12:15,000"
+			},
+			"offsets": {
+				"from": 734000,
+				"to": 735000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,000",
+				"to": "00:12:16,000"
+			},
+			"offsets": {
+				"from": 735000,
+				"to": 736000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,000",
+				"to": "00:12:17,000"
+			},
+			"offsets": {
+				"from": 736000,
+				"to": 737000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,000",
+				"to": "00:12:18,000"
+			},
+			"offsets": {
+				"from": 737000,
+				"to": 738000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,000",
+				"to": "00:12:19,000"
+			},
+			"offsets": {
+				"from": 738000,
+				"to": 739000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:19,000",
+				"to": "00:12:20,000"
+			},
+			"offsets": {
+				"from": 739000,
+				"to": 740000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,000",
+				"to": "00:12:21,000"
+			},
+			"offsets": {
+				"from": 740000,
+				"to": 741000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,000",
+				"to": "00:12:22,000"
+			},
+			"offsets": {
+				"from": 741000,
+				"to": 742000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,000",
+				"to": "00:12:23,000"
+			},
+			"offsets": {
+				"from": 742000,
+				"to": 743000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,000",
+				"to": "00:12:24,000"
+			},
+			"offsets": {
+				"from": 743000,
+				"to": 744000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:24,000",
+				"to": "00:12:25,000"
+			},
+			"offsets": {
+				"from": 744000,
+				"to": 745000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,000",
+				"to": "00:12:26,000"
+			},
+			"offsets": {
+				"from": 745000,
+				"to": 746000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,000",
+				"to": "00:12:27,000"
+			},
+			"offsets": {
+				"from": 746000,
+				"to": 747000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,000",
+				"to": "00:12:28,000"
+			},
+			"offsets": {
+				"from": 747000,
+				"to": 748000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:28,000",
+				"to": "00:12:29,000"
+			},
+			"offsets": {
+				"from": 748000,
+				"to": 749000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,000",
+				"to": "00:12:30,000"
+			},
+			"offsets": {
+				"from": 749000,
+				"to": 750000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,000",
+				"to": "00:12:31,000"
+			},
+			"offsets": {
+				"from": 750000,
+				"to": 751000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,000",
+				"to": "00:12:32,000"
+			},
+			"offsets": {
+				"from": 751000,
+				"to": 752000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,000",
+				"to": "00:12:33,000"
+			},
+			"offsets": {
+				"from": 752000,
+				"to": 753000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:33,000",
+				"to": "00:12:34,000"
+			},
+			"offsets": {
+				"from": 753000,
+				"to": 754000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,000",
+				"to": "00:12:35,000"
+			},
+			"offsets": {
+				"from": 754000,
+				"to": 755000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,000",
+				"to": "00:12:36,000"
+			},
+			"offsets": {
+				"from": 755000,
+				"to": 756000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,000",
+				"to": "00:12:37,000"
+			},
+			"offsets": {
+				"from": 756000,
+				"to": 757000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,000",
+				"to": "00:12:38,000"
+			},
+			"offsets": {
+				"from": 757000,
+				"to": 758000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,000",
+				"to": "00:12:39,000"
+			},
+			"offsets": {
+				"from": 758000,
+				"to": 759000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,000",
+				"to": "00:12:40,000"
+			},
+			"offsets": {
+				"from": 759000,
+				"to": 760000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,000",
+				"to": "00:12:41,000"
+			},
+			"offsets": {
+				"from": 760000,
+				"to": 761000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,000",
+				"to": "00:12:42,000"
+			},
+			"offsets": {
+				"from": 761000,
+				"to": 762000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,000",
+				"to": "00:12:43,000"
+			},
+			"offsets": {
+				"from": 762000,
+				"to": 763000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,000",
+				"to": "00:12:44,000"
+			},
+			"offsets": {
+				"from": 763000,
+				"to": 764000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,000",
+				"to": "00:12:45,000"
+			},
+			"offsets": {
+				"from": 764000,
+				"to": 765000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,000",
+				"to": "00:12:46,000"
+			},
+			"offsets": {
+				"from": 765000,
+				"to": 766000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:46,000",
+				"to": "00:12:47,000"
+			},
+			"offsets": {
+				"from": 766000,
+				"to": 767000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,000",
+				"to": "00:12:48,000"
+			},
+			"offsets": {
+				"from": 767000,
+				"to": 768000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,000",
+				"to": "00:12:49,000"
+			},
+			"offsets": {
+				"from": 768000,
+				"to": 769000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,000",
+				"to": "00:12:50,000"
+			},
+			"offsets": {
+				"from": 769000,
+				"to": 770000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,000",
+				"to": "00:12:51,000"
+			},
+			"offsets": {
+				"from": 770000,
+				"to": 771000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,000",
+				"to": "00:12:52,000"
+			},
+			"offsets": {
+				"from": 771000,
+				"to": 772000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,000",
+				"to": "00:12:53,000"
+			},
+			"offsets": {
+				"from": 772000,
+				"to": 773000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,000",
+				"to": "00:12:54,000"
+			},
+			"offsets": {
+				"from": 773000,
+				"to": 774000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,000",
+				"to": "00:12:55,000"
+			},
+			"offsets": {
+				"from": 774000,
+				"to": 775000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,000",
+				"to": "00:12:56,000"
+			},
+			"offsets": {
+				"from": 775000,
+				"to": 776000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,000",
+				"to": "00:12:57,000"
+			},
+			"offsets": {
+				"from": 776000,
+				"to": 777000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,000",
+				"to": "00:12:58,000"
+			},
+			"offsets": {
+				"from": 777000,
+				"to": 778000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,000",
+				"to": "00:12:59,000"
+			},
+			"offsets": {
+				"from": 778000,
+				"to": 779000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,000",
+				"to": "00:13:00,000"
+			},
+			"offsets": {
+				"from": 779000,
+				"to": 780000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,000",
+				"to": "00:13:01,000"
+			},
+			"offsets": {
+				"from": 780000,
+				"to": 781000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,000",
+				"to": "00:13:02,000"
+			},
+			"offsets": {
+				"from": 781000,
+				"to": 782000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,000",
+				"to": "00:13:03,000"
+			},
+			"offsets": {
+				"from": 782000,
+				"to": 783000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,000",
+				"to": "00:13:04,000"
+			},
+			"offsets": {
+				"from": 783000,
+				"to": 784000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:04,000",
+				"to": "00:13:05,000"
+			},
+			"offsets": {
+				"from": 784000,
+				"to": 785000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,000",
+				"to": "00:13:06,000"
+			},
+			"offsets": {
+				"from": 785000,
+				"to": 786000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,000",
+				"to": "00:13:07,000"
+			},
+			"offsets": {
+				"from": 786000,
+				"to": 787000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,000",
+				"to": "00:13:08,000"
+			},
+			"offsets": {
+				"from": 787000,
+				"to": 788000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:08,000",
+				"to": "00:13:09,000"
+			},
+			"offsets": {
+				"from": 788000,
+				"to": 789000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,000",
+				"to": "00:13:10,000"
+			},
+			"offsets": {
+				"from": 789000,
+				"to": 790000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,000",
+				"to": "00:13:11,000"
+			},
+			"offsets": {
+				"from": 790000,
+				"to": 791000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,000",
+				"to": "00:13:12,000"
+			},
+			"offsets": {
+				"from": 791000,
+				"to": 792000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,000",
+				"to": "00:13:13,000"
+			},
+			"offsets": {
+				"from": 792000,
+				"to": 793000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,000",
+				"to": "00:13:14,000"
+			},
+			"offsets": {
+				"from": 793000,
+				"to": 794000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,000",
+				"to": "00:13:15,000"
+			},
+			"offsets": {
+				"from": 794000,
+				"to": 795000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,000",
+				"to": "00:13:16,000"
+			},
+			"offsets": {
+				"from": 795000,
+				"to": 796000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,000",
+				"to": "00:13:17,000"
+			},
+			"offsets": {
+				"from": 796000,
+				"to": 797000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,000",
+				"to": "00:13:18,000"
+			},
+			"offsets": {
+				"from": 797000,
+				"to": 798000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,000",
+				"to": "00:13:19,000"
+			},
+			"offsets": {
+				"from": 798000,
+				"to": 799000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,000",
+				"to": "00:13:20,000"
+			},
+			"offsets": {
+				"from": 799000,
+				"to": 800000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,000",
+				"to": "00:13:21,000"
+			},
+			"offsets": {
+				"from": 800000,
+				"to": 801000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,000",
+				"to": "00:13:22,000"
+			},
+			"offsets": {
+				"from": 801000,
+				"to": 802000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:22,000",
+				"to": "00:13:23,000"
+			},
+			"offsets": {
+				"from": 802000,
+				"to": 803000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,000",
+				"to": "00:13:24,000"
+			},
+			"offsets": {
+				"from": 803000,
+				"to": 804000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:24,000",
+				"to": "00:13:25,000"
+			},
+			"offsets": {
+				"from": 804000,
+				"to": 805000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,000",
+				"to": "00:13:26,000"
+			},
+			"offsets": {
+				"from": 805000,
+				"to": 806000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,000",
+				"to": "00:13:27,000"
+			},
+			"offsets": {
+				"from": 806000,
+				"to": 807000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,000",
+				"to": "00:13:28,000"
+			},
+			"offsets": {
+				"from": 807000,
+				"to": 808000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,000",
+				"to": "00:13:29,000"
+			},
+			"offsets": {
+				"from": 808000,
+				"to": 809000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,000",
+				"to": "00:13:30,000"
+			},
+			"offsets": {
+				"from": 809000,
+				"to": 810000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,000",
+				"to": "00:13:31,000"
+			},
+			"offsets": {
+				"from": 810000,
+				"to": 811000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,000",
+				"to": "00:13:32,000"
+			},
+			"offsets": {
+				"from": 811000,
+				"to": 812000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:32,000",
+				"to": "00:13:33,000"
+			},
+			"offsets": {
+				"from": 812000,
+				"to": 813000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,000",
+				"to": "00:13:34,000"
+			},
+			"offsets": {
+				"from": 813000,
+				"to": 814000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,000",
+				"to": "00:13:35,000"
+			},
+			"offsets": {
+				"from": 814000,
+				"to": 815000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,000",
+				"to": "00:13:36,000"
+			},
+			"offsets": {
+				"from": 815000,
+				"to": 816000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,000",
+				"to": "00:13:37,000"
+			},
+			"offsets": {
+				"from": 816000,
+				"to": 817000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,000",
+				"to": "00:13:38,000"
+			},
+			"offsets": {
+				"from": 817000,
+				"to": 818000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,000",
+				"to": "00:13:39,000"
+			},
+			"offsets": {
+				"from": 818000,
+				"to": 819000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:39,000",
+				"to": "00:13:40,000"
+			},
+			"offsets": {
+				"from": 819000,
+				"to": 820000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,000",
+				"to": "00:13:41,000"
+			},
+			"offsets": {
+				"from": 820000,
+				"to": 821000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,000",
+				"to": "00:13:42,000"
+			},
+			"offsets": {
+				"from": 821000,
+				"to": 822000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,000",
+				"to": "00:13:43,000"
+			},
+			"offsets": {
+				"from": 822000,
+				"to": 823000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,000",
+				"to": "00:13:44,000"
+			},
+			"offsets": {
+				"from": 823000,
+				"to": 824000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:44,000",
+				"to": "00:13:45,000"
+			},
+			"offsets": {
+				"from": 824000,
+				"to": 825000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,000",
+				"to": "00:13:46,000"
+			},
+			"offsets": {
+				"from": 825000,
+				"to": 826000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,000",
+				"to": "00:13:47,000"
+			},
+			"offsets": {
+				"from": 826000,
+				"to": 827000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,000",
+				"to": "00:13:48,000"
+			},
+			"offsets": {
+				"from": 827000,
+				"to": 828000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,000",
+				"to": "00:13:49,000"
+			},
+			"offsets": {
+				"from": 828000,
+				"to": 829000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,000",
+				"to": "00:13:50,000"
+			},
+			"offsets": {
+				"from": 829000,
+				"to": 830000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,000",
+				"to": "00:13:51,000"
+			},
+			"offsets": {
+				"from": 830000,
+				"to": 831000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,000",
+				"to": "00:13:52,000"
+			},
+			"offsets": {
+				"from": 831000,
+				"to": 832000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:52,000",
+				"to": "00:13:53,000"
+			},
+			"offsets": {
+				"from": 832000,
+				"to": 833000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,000",
+				"to": "00:13:54,000"
+			},
+			"offsets": {
+				"from": 833000,
+				"to": 834000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:54,000",
+				"to": "00:13:55,000"
+			},
+			"offsets": {
+				"from": 834000,
+				"to": 835000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,000",
+				"to": "00:13:56,000"
+			},
+			"offsets": {
+				"from": 835000,
+				"to": 836000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:56,000",
+				"to": "00:13:57,000"
+			},
+			"offsets": {
+				"from": 836000,
+				"to": 837000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,000",
+				"to": "00:13:58,000"
+			},
+			"offsets": {
+				"from": 837000,
+				"to": 838000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,000",
+				"to": "00:13:59,000"
+			},
+			"offsets": {
+				"from": 838000,
+				"to": 839000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,000",
+				"to": "00:14:00,000"
+			},
+			"offsets": {
+				"from": 839000,
+				"to": 840000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,000",
+				"to": "00:14:01,000"
+			},
+			"offsets": {
+				"from": 840000,
+				"to": 841000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,000",
+				"to": "00:14:02,000"
+			},
+			"offsets": {
+				"from": 841000,
+				"to": 842000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,000",
+				"to": "00:14:03,000"
+			},
+			"offsets": {
+				"from": 842000,
+				"to": 843000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,000",
+				"to": "00:14:04,000"
+			},
+			"offsets": {
+				"from": 843000,
+				"to": 844000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,000",
+				"to": "00:14:05,000"
+			},
+			"offsets": {
+				"from": 844000,
+				"to": 845000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,000",
+				"to": "00:14:06,000"
+			},
+			"offsets": {
+				"from": 845000,
+				"to": 846000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,000",
+				"to": "00:14:07,000"
+			},
+			"offsets": {
+				"from": 846000,
+				"to": 847000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,000",
+				"to": "00:14:08,000"
+			},
+			"offsets": {
+				"from": 847000,
+				"to": 848000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:08,000",
+				"to": "00:14:09,000"
+			},
+			"offsets": {
+				"from": 848000,
+				"to": 849000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,000",
+				"to": "00:14:10,000"
+			},
+			"offsets": {
+				"from": 849000,
+				"to": 850000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,000",
+				"to": "00:14:11,000"
+			},
+			"offsets": {
+				"from": 850000,
+				"to": 851000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,000",
+				"to": "00:14:12,000"
+			},
+			"offsets": {
+				"from": 851000,
+				"to": 852000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,000",
+				"to": "00:14:13,000"
+			},
+			"offsets": {
+				"from": 852000,
+				"to": 853000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:13,000",
+				"to": "00:14:14,000"
+			},
+			"offsets": {
+				"from": 853000,
+				"to": 854000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,000",
+				"to": "00:14:15,000"
+			},
+			"offsets": {
+				"from": 854000,
+				"to": 855000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,000",
+				"to": "00:14:16,000"
+			},
+			"offsets": {
+				"from": 855000,
+				"to": 856000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,000",
+				"to": "00:14:17,000"
+			},
+			"offsets": {
+				"from": 856000,
+				"to": 857000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,000",
+				"to": "00:14:18,000"
+			},
+			"offsets": {
+				"from": 857000,
+				"to": 858000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,000",
+				"to": "00:14:19,000"
+			},
+			"offsets": {
+				"from": 858000,
+				"to": 859000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,000",
+				"to": "00:14:20,000"
+			},
+			"offsets": {
+				"from": 859000,
+				"to": 860000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,000",
+				"to": "00:14:21,000"
+			},
+			"offsets": {
+				"from": 860000,
+				"to": 861000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,000",
+				"to": "00:14:22,000"
+			},
+			"offsets": {
+				"from": 861000,
+				"to": 862000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,000",
+				"to": "00:14:23,000"
+			},
+			"offsets": {
+				"from": 862000,
+				"to": 863000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,000",
+				"to": "00:14:24,000"
+			},
+			"offsets": {
+				"from": 863000,
+				"to": 864000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:24,000",
+				"to": "00:14:25,000"
+			},
+			"offsets": {
+				"from": 864000,
+				"to": 865000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,000",
+				"to": "00:14:26,000"
+			},
+			"offsets": {
+				"from": 865000,
+				"to": 866000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:26,000",
+				"to": "00:14:27,000"
+			},
+			"offsets": {
+				"from": 866000,
+				"to": 867000
+			},
+			"text": " Do you go for a little bit of light?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,000",
+				"to": "00:14:28,500"
+			},
+			"offsets": {
+				"from": 867000,
+				"to": 868500
+			},
+			"text": " I thought one thing."
+		}
+	]
+}

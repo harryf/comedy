@@ -1,0 +1,1429 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": " You think funny, do you know what I mean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:05,730"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 5730
+			},
+			"text": " You can say anything, \"Ah, my tambourine is like a mozzarella, you can stretch"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,730",
+				"to": "00:00:06,000"
+			},
+			"offsets": {
+				"from": 5730,
+				"to": 6000
+			},
+			"text": " it out.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,000",
+				"to": "00:00:10,000"
+			},
+			"offsets": {
+				"from": 6000,
+				"to": 10000
+			},
+			"text": " \"I do a 69 and eat this ballsack like gelato.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,000",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 10000,
+				"to": 16000
+			},
+			"text": " Okay, Italians, do you know what you think? Do you like Ludovica?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 17000
+			},
+			"text": " I don't know her, I don't know her."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:19,000"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 19000
+			},
+			"text": " Do you think she represented Italy well?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,000",
+				"to": "00:00:20,000"
+			},
+			"offsets": {
+				"from": 19000,
+				"to": 20000
+			},
+			"text": " She was amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,000",
+				"to": "00:00:23,000"
+			},
+			"offsets": {
+				"from": 20000,
+				"to": 23000
+			},
+			"text": " Okay, what about you, did you also have a good for Italy, or were you like..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,000",
+				"to": "00:00:25,000"
+			},
+			"offsets": {
+				"from": 23000,
+				"to": 25000
+			},
+			"text": " No, I think I'm gonna have pizza problems after this."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,000",
+				"to": "00:00:28,000"
+			},
+			"offsets": {
+				"from": 25000,
+				"to": 28000
+			},
+			"text": " A lot of mozzarella tops, okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,000",
+				"to": "00:00:35,000"
+			},
+			"offsets": {
+				"from": 29000,
+				"to": 35000
+			},
+			"text": " Okay, so, let's bring up our last act of the first half, ladies and gentlemen,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,000",
+				"to": "00:00:37,000"
+			},
+			"offsets": {
+				"from": 35000,
+				"to": 37000
+			},
+			"text": " he gets his own music."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,000",
+				"to": "00:00:41,310"
+			},
+			"offsets": {
+				"from": 37000,
+				"to": 41310
+			},
+			"text": " I love this guy, ladies and gentlemen, he does a bunch of comedy with us, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,310",
+				"to": "00:00:43,000"
+			},
+			"offsets": {
+				"from": 41310,
+				"to": 43000
+			},
+			"text": " this is in fact his real name."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,000",
+				"to": "00:00:47,450"
+			},
+			"offsets": {
+				"from": 43000,
+				"to": 47450
+			},
+			"text": " Ladies and gentlemen, give it up, last performer of the half is Harry Fox, give"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,450",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 47450,
+				"to": 48000
+			},
+			"text": " it up!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,000",
+				"to": "00:01:03,000"
+			},
+			"offsets": {
+				"from": 58000,
+				"to": 63000
+			},
+			"text": " Okay, let's just make some space here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,000",
+				"to": "00:01:07,100"
+			},
+			"offsets": {
+				"from": 63000,
+				"to": 67100
+			},
+			"text": " So, tonight I want to try something a bit different, I want to try a social"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,100",
+				"to": "00:01:08,000"
+			},
+			"offsets": {
+				"from": 67100,
+				"to": 68000
+			},
+			"text": " experiment."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,000",
+				"to": "00:01:10,000"
+			},
+			"offsets": {
+				"from": 68000,
+				"to": 70000
+			},
+			"text": " Are you guys up for a social experiment?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,000",
+				"to": "00:01:15,000"
+			},
+			"offsets": {
+				"from": 70000,
+				"to": 75000
+			},
+			"text": " No, seriously, are you guys up for a social experiment?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,000",
+				"to": "00:01:19,000"
+			},
+			"offsets": {
+				"from": 75000,
+				"to": 79000
+			},
+			"text": " Okay, this one isn't, but okay, so..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,000",
+				"to": "00:01:27,000"
+			},
+			"offsets": {
+				"from": 79000,
+				"to": 87000
+			},
+			"text": " This is a box of negro cherry tomatoes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,000",
+				"to": "00:01:31,350"
+			},
+			"offsets": {
+				"from": 87000,
+				"to": 91350
+			},
+			"text": " So what I'm gonna do is I'm gonna go over here and give you these tomatoes, can"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,350",
+				"to": "00:01:34,000"
+			},
+			"offsets": {
+				"from": 91350,
+				"to": 94000
+			},
+			"text": " you please take one and pass it on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,000",
+				"to": "00:01:37,990"
+			},
+			"offsets": {
+				"from": 94000,
+				"to": 97990
+			},
+			"text": " Some of them got a bit crushed, it feels a bit weird in there, but don't worry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,990",
+				"to": "00:01:41,000"
+			},
+			"offsets": {
+				"from": 97990,
+				"to": 101000
+			},
+			"text": " it's just, it's honestly tomato juice."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,000",
+				"to": "00:01:45,430"
+			},
+			"offsets": {
+				"from": 101000,
+				"to": 105430
+			},
+			"text": " Now, you can do anything you want with these tomatoes, you can eat it, you can"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,430",
+				"to": "00:01:50,000"
+			},
+			"offsets": {
+				"from": 105430,
+				"to": 110000
+			},
+			"text": " give it to someone you like, you can throw it at someone you hate."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,000",
+				"to": "00:01:56,000"
+			},
+			"offsets": {
+				"from": 110000,
+				"to": 116000
+			},
+			"text": " Now, while you're passing out the tomatoes, let me tell you a little story."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,000",
+				"to": "00:01:58,000"
+			},
+			"offsets": {
+				"from": 116000,
+				"to": 118000
+			},
+			"text": " I want to tell you the story of Amina."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,000",
+				"to": "00:02:02,990"
+			},
+			"offsets": {
+				"from": 118000,
+				"to": 122990
+			},
+			"text": " Amina is a wonderful little nine-year-old girl, she's so full of love and"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,990",
+				"to": "00:02:11,310"
+			},
+			"offsets": {
+				"from": 122990,
+				"to": 131310
+			},
+			"text": " laughter and happiness, but unfortunately, Amina lives in famine-stricken South"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,310",
+				"to": "00:02:12,000"
+			},
+			"offsets": {
+				"from": 131310,
+				"to": 132000
+			},
+			"text": " Sudan."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,000",
+				"to": "00:02:17,330"
+			},
+			"offsets": {
+				"from": 132000,
+				"to": 137330
+			},
+			"text": " And every night when Amina goes to bed, she goes to bed hungry, and probably,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,330",
+				"to": "00:02:22,000"
+			},
+			"offsets": {
+				"from": 137330,
+				"to": 142000
+			},
+			"text": " this is terrible, the chances that she'll live to 15 are very small."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,000",
+				"to": "00:02:25,000"
+			},
+			"offsets": {
+				"from": 142000,
+				"to": 145000
+			},
+			"text": " But Amina wanted me to give you these tomatoes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,000",
+				"to": "00:02:32,910"
+			},
+			"offsets": {
+				"from": 145000,
+				"to": 152910
+			},
+			"text": " Because, you know, she wanted to bring some joy to the people in Switzerland"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,910",
+				"to": "00:02:35,000"
+			},
+			"offsets": {
+				"from": 152910,
+				"to": 155000
+			},
+			"text": " that have so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,000",
+				"to": "00:02:41,000"
+			},
+			"offsets": {
+				"from": 155000,
+				"to": 161000
+			},
+			"text": " And Amina, of course, would be very sad to hear of tomatoes getting wasted."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 161000,
+				"to": 165000
+			},
+			"text": " Okay, so while you keep that in mind, let's get on with the show."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:49,000"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 169000
+			},
+			"text": " So, yep, as Ahmed said, my name is Harry Fuchs, Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,000",
+				"to": "00:02:54,000"
+			},
+			"offsets": {
+				"from": 169000,
+				"to": 174000
+			},
+			"text": " And the problem with this name is I have a lot of problems with women, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,000",
+				"to": "00:02:58,250"
+			},
+			"offsets": {
+				"from": 174000,
+				"to": 178250
+			},
+			"text": " And, you know, I think the problem is that when I get into women, it makes them"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,250",
+				"to": "00:02:59,000"
+			},
+			"offsets": {
+				"from": 178250,
+				"to": 179000
+			},
+			"text": " nervous."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,000",
+				"to": "00:03:04,000"
+			},
+			"offsets": {
+				"from": 179000,
+				"to": 184000
+			},
+			"text": " And I find that really hard because I think women are fantastic."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,000",
+				"to": "00:03:09,000"
+			},
+			"offsets": {
+				"from": 184000,
+				"to": 189000
+			},
+			"text": " And by coincidence, women think I'm fantastic, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,000",
+				"to": "00:03:12,880"
+			},
+			"offsets": {
+				"from": 189000,
+				"to": 192880
+			},
+			"text": " And, you know, and sometimes when I think about this, I think this is why it"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,880",
+				"to": "00:03:14,000"
+			},
+			"offsets": {
+				"from": 192880,
+				"to": 194000
+			},
+			"text": " makes me nervous."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,000",
+				"to": "00:03:17,360"
+			},
+			"offsets": {
+				"from": 194000,
+				"to": 197360
+			},
+			"text": " And it makes me sad, and I go home after work, and I'm feeling down, and I"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,360",
+				"to": "00:03:20,000"
+			},
+			"offsets": {
+				"from": 197360,
+				"to": 200000
+			},
+			"text": " think, \"What is wrong with me?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,000",
+				"to": "00:03:22,000"
+			},
+			"offsets": {
+				"from": 200000,
+				"to": 202000
+			},
+			"text": " You know, \"What is wrong?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,000",
+				"to": "00:03:23,000"
+			},
+			"offsets": {
+				"from": 202000,
+				"to": 203000
+			},
+			"text": " And I think about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,000",
+				"to": "00:03:27,000"
+			},
+			"offsets": {
+				"from": 203000,
+				"to": 207000
+			},
+			"text": " And, of course, I find absolutely nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,000",
+				"to": "00:03:29,000"
+			},
+			"offsets": {
+				"from": 207000,
+				"to": 209000
+			},
+			"text": " It's just perfection here."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,000",
+				"to": "00:03:36,000"
+			},
+			"offsets": {
+				"from": 209000,
+				"to": 216000
+			},
+			"text": " And then I go to bed, and I have a long sleep like a newborn baby."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,000",
+				"to": "00:03:40,070"
+			},
+			"offsets": {
+				"from": 216000,
+				"to": 220070
+			},
+			"text": " And I wake up in the morning, and if I'm still feeling sad, I just go in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,070",
+				"to": "00:03:41,000"
+			},
+			"offsets": {
+				"from": 220070,
+				"to": 221000
+			},
+			"text": " bathroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,000",
+				"to": "00:03:46,430"
+			},
+			"offsets": {
+				"from": 221000,
+				"to": 226430
+			},
+			"text": " I look at myself in the mirror, and I'm immediately uplifted just to see so"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,430",
+				"to": "00:03:48,000"
+			},
+			"offsets": {
+				"from": 226430,
+				"to": 228000
+			},
+			"text": " much perfection."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,000",
+				"to": "00:03:52,000"
+			},
+			"offsets": {
+				"from": 228000,
+				"to": 232000
+			},
+			"text": " Oh, hold on a second. Wait, I'm getting a call."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,000",
+				"to": "00:03:54,000"
+			},
+			"offsets": {
+				"from": 232000,
+				"to": 234000
+			},
+			"text": " Oh, hi, Amina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,000",
+				"to": "00:03:56,000"
+			},
+			"offsets": {
+				"from": 234000,
+				"to": 236000
+			},
+			"text": " How are you doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,000",
+				"to": "00:03:58,000"
+			},
+			"offsets": {
+				"from": 236000,
+				"to": 238000
+			},
+			"text": " Yeah, yeah, I gave them the cherry tomatoes."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,000",
+				"to": "00:04:00,000"
+			},
+			"offsets": {
+				"from": 238000,
+				"to": 240000
+			},
+			"text": " They're really happy."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,000",
+				"to": "00:04:02,000"
+			},
+			"offsets": {
+				"from": 240000,
+				"to": 242000
+			},
+			"text": " They're full of gratitude."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,000",
+				"to": "00:04:03,000"
+			},
+			"offsets": {
+				"from": 242000,
+				"to": 243000
+			},
+			"text": " Yeah, okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,000",
+				"to": "00:04:04,000"
+			},
+			"offsets": {
+				"from": 243000,
+				"to": 244000
+			},
+			"text": " All right, thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,000",
+				"to": "00:04:05,000"
+			},
+			"offsets": {
+				"from": 244000,
+				"to": 245000
+			},
+			"text": " Have a good evening."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,000",
+				"to": "00:04:07,000"
+			},
+			"offsets": {
+				"from": 245000,
+				"to": 247000
+			},
+			"text": " All right, let's carry on with the show."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,000",
+				"to": "00:04:09,000"
+			},
+			"offsets": {
+				"from": 247000,
+				"to": 249000
+			},
+			"text": " Let's carry on with this social experiment."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,000",
+				"to": "00:04:15,000"
+			},
+			"offsets": {
+				"from": 249000,
+				"to": 255000
+			},
+			"text": " Because, look, honestly, I'm not saying that I'm better than women, you know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,000",
+				"to": "00:04:17,000"
+			},
+			"offsets": {
+				"from": 255000,
+				"to": 257000
+			},
+			"text": " I mean, I probably am."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,000",
+				"to": "00:04:21,000"
+			},
+			"offsets": {
+				"from": 257000,
+				"to": 261000
+			},
+			"text": " I mean, I definitely am better than all women ever."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,000",
+				"to": "00:04:27,180"
+			},
+			"offsets": {
+				"from": 261000,
+				"to": 267180
+			},
+			"text": " You know, like my last girlfriend, for example, Susan, she said to me, \"Harry"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,180",
+				"to": "00:04:31,000"
+			},
+			"offsets": {
+				"from": 267180,
+				"to": 271000
+			},
+			"text": " Fox, you have commitment issues.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,000",
+				"to": "00:04:40,000"
+			},
+			"offsets": {
+				"from": 271000,
+				"to": 280000
+			},
+			"text": " And I said, \"Ah, it's not the first time I hear that today.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,000",
+				"to": "00:04:44,000"
+			},
+			"offsets": {
+				"from": 280000,
+				"to": 284000
+			},
+			"text": " And Susan said, \"Harry Fox, do you even love me?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,000",
+				"to": "00:04:49,000"
+			},
+			"offsets": {
+				"from": 284000,
+				"to": 289000
+			},
+			"text": " And I said, \"Of course I love you. How could you say that, Sarah?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,000",
+				"to": "00:04:50,000"
+			},
+			"offsets": {
+				"from": 289000,
+				"to": 290000
+			},
+			"text": " You know, that's hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,000",
+				"to": "00:04:55,660"
+			},
+			"offsets": {
+				"from": 290000,
+				"to": 295660
+			},
+			"text": " And, you know, I'm interested, though, that so far, Amina, you're on Amina's"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,660",
+				"to": "00:04:56,000"
+			},
+			"offsets": {
+				"from": 295660,
+				"to": 296000
+			},
+			"text": " side."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,000",
+				"to": "00:04:59,000"
+			},
+			"offsets": {
+				"from": 296000,
+				"to": 299000
+			},
+			"text": " Not a single tomato has come my direction."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,000",
+				"to": "00:05:00,000"
+			},
+			"offsets": {
+				"from": 299000,
+				"to": 300000
+			},
+			"text": " That's great."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,000",
+				"to": "00:05:02,000"
+			},
+			"offsets": {
+				"from": 300000,
+				"to": 302000
+			},
+			"text": " I'm enjoying this so far."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,000",
+				"to": "00:05:05,000"
+			},
+			"offsets": {
+				"from": 302000,
+				"to": 305000
+			},
+			"text": " We have a bit of a cowardly crowd here."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,000",
+				"to": "00:05:07,000"
+			},
+			"offsets": {
+				"from": 305000,
+				"to": 307000
+			},
+			"text": " Who will throw the first note?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,000",
+				"to": "00:05:08,000"
+			},
+			"offsets": {
+				"from": 307000,
+				"to": 308000
+			},
+			"text": " It's not going to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,000",
+				"to": "00:05:10,000"
+			},
+			"offsets": {
+				"from": 308000,
+				"to": 310000
+			},
+			"text": " Maybe you just don't hate me enough yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,000",
+				"to": "00:05:15,000"
+			},
+			"offsets": {
+				"from": 310000,
+				"to": 315000
+			},
+			"text": " You know, the thing is, like, sometimes I just look up to the sky and I'm like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,000",
+				"to": "00:05:17,000"
+			},
+			"offsets": {
+				"from": 315000,
+				"to": 317000
+			},
+			"text": " \"Why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,000",
+				"to": "00:05:19,000"
+			},
+			"offsets": {
+				"from": 317000,
+				"to": 319000
+			},
+			"text": " Why did you make me this so perfect?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,000",
+				"to": "00:05:20,000"
+			},
+			"offsets": {
+				"from": 319000,
+				"to": 320000
+			},
+			"text": " Congratulations."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,000",
+				"to": "00:05:21,000"
+			},
+			"offsets": {
+				"from": 320000,
+				"to": 321000
+			},
+			"text": " It was a bit of a girly throw, though."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,000",
+				"to": "00:05:22,000"
+			},
+			"offsets": {
+				"from": 321000,
+				"to": 322000
+			},
+			"text": " You're welcome."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,000",
+				"to": "00:05:23,000"
+			},
+			"offsets": {
+				"from": 322000,
+				"to": 323000
+			},
+			"text": " No, that's OK."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,000",
+				"to": "00:05:24,000"
+			},
+			"offsets": {
+				"from": 323000,
+				"to": 324000
+			},
+			"text": " That's two."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,000",
+				"to": "00:05:25,000"
+			},
+			"offsets": {
+				"from": 324000,
+				"to": 325000
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,000",
+				"to": "00:05:26,000"
+			},
+			"offsets": {
+				"from": 325000,
+				"to": 326000
+			},
+			"text": " Keep going."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,000",
+				"to": "00:05:27,000"
+			},
+			"offsets": {
+				"from": 326000,
+				"to": 327000
+			},
+			"text": " No, but, you know, you know what the thing is, though?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,000",
+				"to": "00:05:28,000"
+			},
+			"offsets": {
+				"from": 327000,
+				"to": 328000
+			},
+			"text": " The funny thing is about sociopaths."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,000",
+				"to": "00:05:29,000"
+			},
+			"offsets": {
+				"from": 328000,
+				"to": 329000
+			},
+			"text": " They say sociopaths lack empathy for other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,000",
+				"to": "00:05:30,000"
+			},
+			"offsets": {
+				"from": 329000,
+				"to": 330000
+			},
+			"text": " Some people even say, \"I might be a sociopath.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,000",
+				"to": "00:05:31,000"
+			},
+			"offsets": {
+				"from": 330000,
+				"to": 331000
+			},
+			"text": " But that's ridiculous because I have a little bit of empathy for other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,000",
+				"to": "00:05:32,000"
+			},
+			"offsets": {
+				"from": 331000,
+				"to": 332000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,000",
+				"to": "00:05:33,000"
+			},
+			"offsets": {
+				"from": 332000,
+				"to": 333000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,000",
+				"to": "00:05:34,000"
+			},
+			"offsets": {
+				"from": 333000,
+				"to": 334000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,000",
+				"to": "00:05:35,000"
+			},
+			"offsets": {
+				"from": 334000,
+				"to": 335000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,000",
+				"to": "00:05:36,000"
+			},
+			"offsets": {
+				"from": 335000,
+				"to": 336000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,000",
+				"to": "00:05:37,000"
+			},
+			"offsets": {
+				"from": 336000,
+				"to": 337000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,000",
+				"to": "00:05:38,000"
+			},
+			"offsets": {
+				"from": 337000,
+				"to": 338000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,000",
+				"to": "00:05:39,000"
+			},
+			"offsets": {
+				"from": 338000,
+				"to": 339000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,000",
+				"to": "00:05:40,000"
+			},
+			"offsets": {
+				"from": 339000,
+				"to": 340000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,000",
+				"to": "00:05:41,000"
+			},
+			"offsets": {
+				"from": 340000,
+				"to": 341000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,000",
+				"to": "00:05:42,000"
+			},
+			"offsets": {
+				"from": 341000,
+				"to": 342000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,000",
+				"to": "00:05:43,000"
+			},
+			"offsets": {
+				"from": 342000,
+				"to": 343000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,000",
+				"to": "00:05:44,000"
+			},
+			"offsets": {
+				"from": 343000,
+				"to": 344000
+			},
+			"text": " I'm not sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,000",
+				"to": "00:05:51,670"
+			},
+			"offsets": {
+				"from": 344000,
+				"to": 351670
+			},
+			"text": " a sociopath. But that's ridiculous because I have a lot of empathy and sympathy"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,670",
+				"to": "00:05:52,300"
+			},
+			"offsets": {
+				"from": 351670,
+				"to": 352300
+			},
+			"text": " for all"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,300",
+				"to": "00:06:05,780"
+			},
+			"offsets": {
+				"from": 352300,
+				"to": 365780
+			},
+			"text": " the lesser beings. Women. I'm done here. You can now toss my salad. Let's get"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,780",
+				"to": "00:06:07,440"
+			},
+			"offsets": {
+				"from": 365780,
+				"to": 367440
+			},
+			"text": " the fuck"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,440",
+				"to": "00:06:14,600"
+			},
+			"offsets": {
+				"from": 367440,
+				"to": 374600
+			},
+			"text": " out of here. Give it up for Harry Potter, ladies and gentlemen. Please don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,600",
+				"to": "00:06:15,220"
+			},
+			"offsets": {
+				"from": 374600,
+				"to": 375220
+			},
+			"text": " waste"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,220",
+				"to": "00:06:21,580"
+			},
+			"offsets": {
+				"from": 375220,
+				"to": 381580
+			},
+			"text": " Amina's food here. Okay, ladies and gentlemen, that was our first half. Stick"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,580",
+				"to": "00:06:22,660"
+			},
+			"offsets": {
+				"from": 381580,
+				"to": 382660
+			},
+			"text": " around, we've"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,660",
+				"to": "00:06:24,660"
+			},
+			"offsets": {
+				"from": 382660,
+				"to": 384660
+			},
+			"text": " got so much more amazing comedy."
+		}
+	]
+}

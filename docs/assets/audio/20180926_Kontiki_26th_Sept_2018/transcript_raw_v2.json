@@ -1,0 +1,2331 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,950"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4950
+			},
+			"text": " I'm actually Harry Fuchs. It's a German name, but I'm in a lot of English"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,950",
+				"to": "00:00:08,100"
+			},
+			"offsets": {
+				"from": 4950,
+				"to": 8100
+			},
+			"text": " speakers like this, you all seem to think my name is Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,100",
+				"to": "00:00:10,900"
+			},
+			"offsets": {
+				"from": 8100,
+				"to": 10900
+			},
+			"text": " It's not Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,900",
+				"to": "00:00:16,020"
+			},
+			"offsets": {
+				"from": 10900,
+				"to": 16020
+			},
+			"text": " In my family, when we have a family get-together, we get very upset when you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,020",
+				"to": "00:00:18,080"
+			},
+			"offsets": {
+				"from": 16020,
+				"to": 18080
+			},
+			"text": " call us a group of fuckers."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,080",
+				"to": "00:00:21,360"
+			},
+			"offsets": {
+				"from": 18080,
+				"to": 21360
+			},
+			"text": " We're just a pack of fucks."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,360",
+				"to": "00:00:26,280"
+			},
+			"offsets": {
+				"from": 21360,
+				"to": 26280
+			},
+			"text": " But I have two kids, I call them Halder and Wadda."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,040",
+				"to": "00:00:30,420"
+			},
+			"offsets": {
+				"from": 28040,
+				"to": 30420
+			},
+			"text": " I wanted to give them a good start to life."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,420",
+				"to": "00:00:37,210"
+			},
+			"offsets": {
+				"from": 30420,
+				"to": 37210
+			},
+			"text": " Yeah, but sometimes, actually recently, this American tourist came up to me and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,210",
+				"to": "00:00:37,900"
+			},
+			"offsets": {
+				"from": 37210,
+				"to": 37900
+			},
+			"text": " he said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,900",
+				"to": "00:00:42,100"
+			},
+			"offsets": {
+				"from": 37900,
+				"to": 42100
+			},
+			"text": " Yo man, what's up? Harry Fuchs, man. Harry Fuchs what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,100",
+				"to": "00:00:43,360"
+			},
+			"offsets": {
+				"from": 42100,
+				"to": 43360
+			},
+			"text": " I'm like, what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,360",
+				"to": "00:00:46,120"
+			},
+			"offsets": {
+				"from": 43360,
+				"to": 46120
+			},
+			"text": " He's like, Harry Fuchs what, man?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,120",
+				"to": "00:00:49,440"
+			},
+			"offsets": {
+				"from": 46120,
+				"to": 49440
+			},
+			"text": " So I thought I'd try and throw him off with a few adverbs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,440",
+				"to": "00:00:52,000"
+			},
+			"offsets": {
+				"from": 49440,
+				"to": 52000
+			},
+			"text": " I'm like, Harry Fuchs hopefully."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,000",
+				"to": "00:00:55,920"
+			},
+			"offsets": {
+				"from": 52000,
+				"to": 55920
+			},
+			"text": " Harry Fuchs occasionally."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,920",
+				"to": "00:00:58,000"
+			},
+			"offsets": {
+				"from": 55920,
+				"to": 58000
+			},
+			"text": " Harry Fuchs intentionally."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,020",
+				"to": "00:01:04,300"
+			},
+			"offsets": {
+				"from": 59020,
+				"to": 64300
+			},
+			"text": " He's like, no, man, no, like Harry Fuchs goats, man, Harry Fuchs chickens,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,300",
+				"to": "00:01:06,180"
+			},
+			"offsets": {
+				"from": 64300,
+				"to": 66180
+			},
+			"text": " Harry Fuchs tigers."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,180",
+				"to": "00:01:11,130"
+			},
+			"offsets": {
+				"from": 66180,
+				"to": 71130
+			},
+			"text": " I'm like, well, I don't know about you, but I'm pretty sure in the whole"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,130",
+				"to": "00:01:15,620"
+			},
+			"offsets": {
+				"from": 71130,
+				"to": 75620
+			},
+			"text": " history of mankind, no one has successfully fucked a tiger."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,620",
+				"to": "00:01:19,800"
+			},
+			"offsets": {
+				"from": 75620,
+				"to": 79800
+			},
+			"text": " Maybe people got fucked by a tiger."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,800",
+				"to": "00:01:24,000"
+			},
+			"offsets": {
+				"from": 79800,
+				"to": 84000
+			},
+			"text": " But, you know, and it made me realize there's actually a whole category of"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,000",
+				"to": "00:01:26,160"
+			},
+			"offsets": {
+				"from": 84000,
+				"to": 86160
+			},
+			"text": " animals that you just can't fuck."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,040",
+				"to": "00:01:30,020"
+			},
+			"offsets": {
+				"from": 88040,
+				"to": 90020
+			},
+			"text": " Like hippos, for example."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,020",
+				"to": "00:01:34,100"
+			},
+			"offsets": {
+				"from": 90020,
+				"to": 94100
+			},
+			"text": " You may get behind a hippo and think, wow, that is a sweet ass."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,100",
+				"to": "00:01:36,340"
+			},
+			"offsets": {
+				"from": 94100,
+				"to": 96340
+			},
+			"text": " Just kind of slide in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,340",
+				"to": "00:01:38,440"
+			},
+			"offsets": {
+				"from": 96340,
+				"to": 98440
+			},
+			"text": " Hippos will fuck you up, though."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,440",
+				"to": "00:01:40,960"
+			},
+			"offsets": {
+				"from": 98440,
+				"to": 100960
+			},
+			"text": " They are the most dangerous mammal in Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,960",
+				"to": "00:01:44,360"
+			},
+			"offsets": {
+				"from": 100960,
+				"to": 104360
+			},
+			"text": " They kill about 500 people every year."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,360",
+				"to": "00:01:46,880"
+			},
+			"offsets": {
+				"from": 104360,
+				"to": 106880
+			},
+			"text": " So don't fuck with hippos."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,880",
+				"to": "00:01:51,400"
+			},
+			"offsets": {
+				"from": 106880,
+				"to": 111400
+			},
+			"text": " Also elephants, you know, because think about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,400",
+				"to": "00:01:52,980"
+			},
+			"offsets": {
+				"from": 111400,
+				"to": 112980
+			},
+			"text": " It's just too high up."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,980",
+				"to": "00:01:56,620"
+			},
+			"offsets": {
+				"from": 112980,
+				"to": 116620
+			},
+			"text": " I don't care, like, how big you claim to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,620",
+				"to": "00:01:57,840"
+			},
+			"offsets": {
+				"from": 116620,
+				"to": 117840
+			},
+			"text": " It's just not going to reach."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,040",
+				"to": "00:02:02,540"
+			},
+			"offsets": {
+				"from": 118040,
+				"to": 122540
+			},
+			"text": " And those elephants are pretty aggressive, so they also fuck you up."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,540",
+				"to": "00:02:07,460"
+			},
+			"offsets": {
+				"from": 122540,
+				"to": 127460
+			},
+			"text": " But maybe if the mom's not watching, you could fuck a baby elephant."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,460",
+				"to": "00:02:13,100"
+			},
+			"offsets": {
+				"from": 127460,
+				"to": 133100
+			},
+			"text": " I'm just finding your level, okay, sir."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,100",
+				"to": "00:02:19,390"
+			},
+			"offsets": {
+				"from": 133100,
+				"to": 139390
+			},
+			"text": " And see, it's clear you're very comfortable with bestiality, but I'm sure about"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,390",
+				"to": "00:02:20,680"
+			},
+			"offsets": {
+				"from": 139390,
+				"to": 140680
+			},
+			"text": " pedophiles."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,680",
+				"to": "00:02:26,580"
+			},
+			"offsets": {
+				"from": 140680,
+				"to": 146580
+			},
+			"text": " All right, well, it's a dark night, and the jokes are dark."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,580",
+				"to": "00:02:27,960"
+			},
+			"offsets": {
+				"from": 146580,
+				"to": 147960
+			},
+			"text": " And, you know..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,040",
+				"to": "00:02:31,620"
+			},
+			"offsets": {
+				"from": 148040,
+				"to": 151620
+			},
+			"text": " Because I have a lot of dark and twisted thoughts going on in my head."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,620",
+				"to": "00:02:37,600"
+			},
+			"offsets": {
+				"from": 151620,
+				"to": 157600
+			},
+			"text": " And I think it goes back to my childhood, because I went to a Catholic school."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,600",
+				"to": "00:02:42,620"
+			},
+			"offsets": {
+				"from": 157600,
+				"to": 162620
+			},
+			"text": " But I got thrown out for molesting a priest."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,620",
+				"to": "00:02:49,650"
+			},
+			"offsets": {
+				"from": 162620,
+				"to": 169650
+			},
+			"text": " But I think, actually, this was a significant moment in the history of mankind,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,650",
+				"to": "00:02:51,200"
+			},
+			"offsets": {
+				"from": 169650,
+				"to": 171200
+			},
+			"text": " because this is the answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,200",
+				"to": "00:02:56,240"
+			},
+			"offsets": {
+				"from": 171200,
+				"to": 176240
+			},
+			"text": " The answer is, every time we hear about a priest molesting a child, we've got"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,240",
+				"to": "00:02:57,360"
+			},
+			"offsets": {
+				"from": 176240,
+				"to": 177360
+			},
+			"text": " to hit back, man."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,560",
+				"to": "00:02:58,440"
+			},
+			"offsets": {
+				"from": 177560,
+				"to": 178440
+			},
+			"text": " We've got to get back to vigilante justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,440",
+				"to": "00:03:01,300"
+			},
+			"offsets": {
+				"from": 178440,
+				"to": 181300
+			},
+			"text": " Go out, molest a priest right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,300",
+				"to": "00:03:04,660"
+			},
+			"offsets": {
+				"from": 181300,
+				"to": 184660
+			},
+			"text": " It's going to solve this problem in less than one week."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,660",
+				"to": "00:03:10,000"
+			},
+			"offsets": {
+				"from": 184660,
+				"to": 190000
+			},
+			"text": " We need vigilantes like, I don't know, Buttman and Rapin."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,000",
+				"to": "00:03:13,280"
+			},
+			"offsets": {
+				"from": 190000,
+				"to": 193280
+			},
+			"text": " I don't know, she doesn't like raping other priests."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,280",
+				"to": "00:03:16,340"
+			},
+			"offsets": {
+				"from": 193280,
+				"to": 196340
+			},
+			"text": " So, you know, this is how it's going to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,340",
+				"to": "00:03:18,460"
+			},
+			"offsets": {
+				"from": 196340,
+				"to": 198460
+			},
+			"text": " Okay, we're losing some of these..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,460",
+				"to": "00:03:20,480"
+			},
+			"offsets": {
+				"from": 198460,
+				"to": 200480
+			},
+			"text": " This corner's gone very quiet."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,480",
+				"to": "00:03:23,600"
+			},
+			"offsets": {
+				"from": 200480,
+				"to": 203600
+			},
+			"text": " Sex in the city."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,600",
+				"to": "00:03:25,140"
+			},
+			"offsets": {
+				"from": 203600,
+				"to": 205140
+			},
+			"text": " These guys are down."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,140",
+				"to": "00:03:27,040"
+			},
+			"offsets": {
+				"from": 205140,
+				"to": 207040
+			},
+			"text": " They're taking out priests tonight."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,560",
+				"to": "00:03:33,440"
+			},
+			"offsets": {
+				"from": 207560,
+				"to": 213440
+			},
+			"text": " You know, but, I don't know, it's for me, these days it's actually very tough"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,440",
+				"to": "00:03:34,120"
+			},
+			"offsets": {
+				"from": 213440,
+				"to": 214120
+			},
+			"text": " being a guy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,120",
+				"to": "00:03:37,790"
+			},
+			"offsets": {
+				"from": 214120,
+				"to": 217790
+			},
+			"text": " because, you know, in the history of mankind, all the bad shit's been done by"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,790",
+				"to": "00:03:38,200"
+			},
+			"offsets": {
+				"from": 217790,
+				"to": 218200
+			},
+			"text": " men."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,200",
+				"to": "00:03:42,120"
+			},
+			"offsets": {
+				"from": 218200,
+				"to": 222120
+			},
+			"text": " And these days, society doesn't think a lot of good things about men, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,120",
+				"to": "00:03:44,220"
+			},
+			"offsets": {
+				"from": 222120,
+				"to": 224220
+			},
+			"text": " It's tough to get over that."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,220",
+				"to": "00:03:46,560"
+			},
+			"offsets": {
+				"from": 224220,
+				"to": 226560
+			},
+			"text": " Recently, for example, I was on a tram."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,560",
+				"to": "00:03:51,960"
+			},
+			"offsets": {
+				"from": 226560,
+				"to": 231960
+			},
+			"text": " I saw this couple, and there's a guy kissing a girl."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,960",
+				"to": "00:03:54,520"
+			},
+			"offsets": {
+				"from": 231960,
+				"to": 234520
+			},
+			"text": " And then I noticed that the girl had Down syndrome."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,520",
+				"to": "00:03:56,960"
+			},
+			"offsets": {
+				"from": 234520,
+				"to": 236960
+			},
+			"text": " And I thought..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,560",
+				"to": "00:04:02,080"
+			},
+			"offsets": {
+				"from": 237560,
+				"to": 242080
+			},
+			"text": " Now, think about this for a second."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,080",
+				"to": "00:04:05,980"
+			},
+			"offsets": {
+				"from": 242080,
+				"to": 245980
+			},
+			"text": " If that had been a girl, and the guy had Down syndrome, and you'd seen them on"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,980",
+				"to": "00:04:06,480"
+			},
+			"offsets": {
+				"from": 245980,
+				"to": 246480
+			},
+			"text": " the tram,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,480",
+				"to": "00:04:07,760"
+			},
+			"offsets": {
+				"from": 246480,
+				"to": 247760
+			},
+			"text": " you'd imagine this, you would..."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,760",
+				"to": "00:04:11,020"
+			},
+			"offsets": {
+				"from": 247760,
+				"to": 251020
+			},
+			"text": " Personally, I would just think, wow, what an amazing person she is."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,020",
+				"to": "00:04:16,250"
+			},
+			"offsets": {
+				"from": 251020,
+				"to": 256250
+			},
+			"text": " She is, like, so caring, so giving, that she would go through all of that and"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,250",
+				"to": "00:04:17,900"
+			},
+			"offsets": {
+				"from": 256250,
+				"to": 257900
+			},
+			"text": " have a boyfriend with Down syndrome."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,900",
+				"to": "00:04:20,720"
+			},
+			"offsets": {
+				"from": 257900,
+				"to": 260720
+			},
+			"text": " What a wonderful person that she could love."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,720",
+				"to": "00:04:24,500"
+			},
+			"offsets": {
+				"from": 260720,
+				"to": 264500
+			},
+			"text": " But I saw this guy, and I'm just like, motherfucker."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,500",
+				"to": "00:04:27,400"
+			},
+			"offsets": {
+				"from": 264500,
+				"to": 267400
+			},
+			"text": " Because people with Down syndrome..."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,560",
+				"to": "00:04:31,380"
+			},
+			"offsets": {
+				"from": 267560,
+				"to": 271380
+			},
+			"text": " You may not know this, they're very affectionate, and also, you know, it does"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,380",
+				"to": "00:04:34,160"
+			},
+			"offsets": {
+				"from": 271380,
+				"to": 274160
+			},
+			"text": " cross into, like, sexual behavior."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,160",
+				"to": "00:04:39,280"
+			},
+			"offsets": {
+				"from": 274160,
+				"to": 279280
+			},
+			"text": " And this guy is basically tacked into the source of unlimited free sex."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,280",
+				"to": "00:04:44,450"
+			},
+			"offsets": {
+				"from": 279280,
+				"to": 284450
+			},
+			"text": " And, you know, and I just got thinking, like, this guy is a sick asshole, you"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,450",
+				"to": "00:04:45,080"
+			},
+			"offsets": {
+				"from": 284450,
+				"to": 285080
+			},
+			"text": " know."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,080",
+				"to": "00:04:50,050"
+			},
+			"offsets": {
+				"from": 285080,
+				"to": 290050
+			},
+			"text": " He's probably got some games, like, he says to her, \"Hey, honey, time for the"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,050",
+				"to": "00:04:51,260"
+			},
+			"offsets": {
+				"from": 290050,
+				"to": 291260
+			},
+			"text": " lollipop game.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,260",
+				"to": "00:04:56,960"
+			},
+			"offsets": {
+				"from": 291260,
+				"to": 296960
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,560",
+				"to": "00:04:58,480"
+			},
+			"offsets": {
+				"from": 297560,
+				"to": 298480
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,480",
+				"to": "00:04:59,520"
+			},
+			"offsets": {
+				"from": 298480,
+				"to": 299520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,520",
+				"to": "00:05:00,520"
+			},
+			"offsets": {
+				"from": 299520,
+				"to": 300520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,520",
+				"to": "00:05:01,520"
+			},
+			"offsets": {
+				"from": 300520,
+				"to": 301520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,520",
+				"to": "00:05:02,520"
+			},
+			"offsets": {
+				"from": 301520,
+				"to": 302520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,520",
+				"to": "00:05:04,520"
+			},
+			"offsets": {
+				"from": 302520,
+				"to": 304520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,520",
+				"to": "00:05:06,520"
+			},
+			"offsets": {
+				"from": 304520,
+				"to": 306520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,520",
+				"to": "00:05:07,520"
+			},
+			"offsets": {
+				"from": 306520,
+				"to": 307520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,520",
+				"to": "00:05:08,520"
+			},
+			"offsets": {
+				"from": 307520,
+				"to": 308520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,520",
+				"to": "00:05:09,520"
+			},
+			"offsets": {
+				"from": 308520,
+				"to": 309520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,520",
+				"to": "00:05:10,520"
+			},
+			"offsets": {
+				"from": 309520,
+				"to": 310520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,520",
+				"to": "00:05:11,520"
+			},
+			"offsets": {
+				"from": 310520,
+				"to": 311520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,520",
+				"to": "00:05:12,520"
+			},
+			"offsets": {
+				"from": 311520,
+				"to": 312520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,520",
+				"to": "00:05:13,520"
+			},
+			"offsets": {
+				"from": 312520,
+				"to": 313520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,520",
+				"to": "00:05:14,520"
+			},
+			"offsets": {
+				"from": 313520,
+				"to": 314520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,520",
+				"to": "00:05:15,520"
+			},
+			"offsets": {
+				"from": 314520,
+				"to": 315520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,520",
+				"to": "00:05:16,520"
+			},
+			"offsets": {
+				"from": 315520,
+				"to": 316520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,520",
+				"to": "00:05:17,520"
+			},
+			"offsets": {
+				"from": 316520,
+				"to": 317520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,520",
+				"to": "00:05:18,520"
+			},
+			"offsets": {
+				"from": 317520,
+				"to": 318520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,520",
+				"to": "00:05:19,520"
+			},
+			"offsets": {
+				"from": 318520,
+				"to": 319520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,520",
+				"to": "00:05:20,520"
+			},
+			"offsets": {
+				"from": 319520,
+				"to": 320520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,520",
+				"to": "00:05:21,520"
+			},
+			"offsets": {
+				"from": 320520,
+				"to": 321520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,520",
+				"to": "00:05:22,520"
+			},
+			"offsets": {
+				"from": 321520,
+				"to": 322520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,520",
+				"to": "00:05:23,520"
+			},
+			"offsets": {
+				"from": 322520,
+				"to": 323520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,520",
+				"to": "00:05:24,520"
+			},
+			"offsets": {
+				"from": 323520,
+				"to": 324520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,520",
+				"to": "00:05:25,520"
+			},
+			"offsets": {
+				"from": 324520,
+				"to": 325520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,520",
+				"to": "00:05:26,520"
+			},
+			"offsets": {
+				"from": 325520,
+				"to": 326520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,520",
+				"to": "00:05:27,520"
+			},
+			"offsets": {
+				"from": 326520,
+				"to": 327520
+			},
+			"text": " Or, you know, \"Let's play hide the rabbit.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,520",
+				"to": "00:05:28,520"
+			},
+			"offsets": {
+				"from": 327520,
+				"to": 328520
+			},
+			"text": " That's all right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,520",
+				"to": "00:05:29,520"
+			},
+			"offsets": {
+				"from": 328520,
+				"to": 329520
+			},
+			"text": " That's all right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,520",
+				"to": "00:05:30,520"
+			},
+			"offsets": {
+				"from": 329520,
+				"to": 330520
+			},
+			"text": " You know, it's..."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,520",
+				"to": "00:05:31,520"
+			},
+			"offsets": {
+				"from": 330520,
+				"to": 331520
+			},
+			"text": " I'm in my mid-forties."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,520",
+				"to": "00:05:32,520"
+			},
+			"offsets": {
+				"from": 331520,
+				"to": 332520
+			},
+			"text": " I've got a shaved head."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,520",
+				"to": "00:05:33,520"
+			},
+			"offsets": {
+				"from": 332520,
+				"to": 333520
+			},
+			"text": " I'm white."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,520",
+				"to": "00:05:34,520"
+			},
+			"offsets": {
+				"from": 333520,
+				"to": 334520
+			},
+			"text": " I'm male."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,520",
+				"to": "00:05:35,520"
+			},
+			"offsets": {
+				"from": 334520,
+				"to": 335520
+			},
+			"text": " Beard."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,520",
+				"to": "00:05:36,520"
+			},
+			"offsets": {
+				"from": 335520,
+				"to": 336520
+			},
+			"text": " You know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,520",
+				"to": "00:05:37,520"
+			},
+			"offsets": {
+				"from": 336520,
+				"to": 337520
+			},
+			"text": " And you've probably heard that on the news."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,520",
+				"to": "00:05:41,520"
+			},
+			"offsets": {
+				"from": 337520,
+				"to": 341520
+			},
+			"text": " You know, it's like a man was seen running."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,520",
+				"to": "00:05:48,520"
+			},
+			"offsets": {
+				"from": 341520,
+				"to": 348520
+			},
+			"text": " Witnesses say he was mid-forties, white, male, bald with a beard."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,520",
+				"to": "00:05:52,520"
+			},
+			"offsets": {
+				"from": 348520,
+				"to": 352520
+			},
+			"text": " And, you know, it's like basically I am suspected of being a serial rapist."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,520",
+				"to": "00:05:53,520"
+			},
+			"offsets": {
+				"from": 352520,
+				"to": 353520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,520",
+				"to": "00:05:54,520"
+			},
+			"offsets": {
+				"from": 353520,
+				"to": 354520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,520",
+				"to": "00:05:55,520"
+			},
+			"offsets": {
+				"from": 354520,
+				"to": 355520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,520",
+				"to": "00:05:56,520"
+			},
+			"offsets": {
+				"from": 355520,
+				"to": 356520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,520",
+				"to": "00:05:57,520"
+			},
+			"offsets": {
+				"from": 356520,
+				"to": 357520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,520",
+				"to": "00:05:58,520"
+			},
+			"offsets": {
+				"from": 357520,
+				"to": 358520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,520",
+				"to": "00:05:59,520"
+			},
+			"offsets": {
+				"from": 358520,
+				"to": 359520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,520",
+				"to": "00:06:00,520"
+			},
+			"offsets": {
+				"from": 359520,
+				"to": 360520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,520",
+				"to": "00:06:01,520"
+			},
+			"offsets": {
+				"from": 360520,
+				"to": 361520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,520",
+				"to": "00:06:02,520"
+			},
+			"offsets": {
+				"from": 361520,
+				"to": 362520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,520",
+				"to": "00:06:03,520"
+			},
+			"offsets": {
+				"from": 362520,
+				"to": 363520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,520",
+				"to": "00:06:04,520"
+			},
+			"offsets": {
+				"from": 363520,
+				"to": 364520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,520",
+				"to": "00:06:05,520"
+			},
+			"offsets": {
+				"from": 364520,
+				"to": 365520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,520",
+				"to": "00:06:06,520"
+			},
+			"offsets": {
+				"from": 365520,
+				"to": 366520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,520",
+				"to": "00:06:07,520"
+			},
+			"offsets": {
+				"from": 366520,
+				"to": 367520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,520",
+				"to": "00:06:08,520"
+			},
+			"offsets": {
+				"from": 367520,
+				"to": 368520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,520",
+				"to": "00:06:09,520"
+			},
+			"offsets": {
+				"from": 368520,
+				"to": 369520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,520",
+				"to": "00:06:10,520"
+			},
+			"offsets": {
+				"from": 369520,
+				"to": 370520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,520",
+				"to": "00:06:11,520"
+			},
+			"offsets": {
+				"from": 370520,
+				"to": 371520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,520",
+				"to": "00:06:12,520"
+			},
+			"offsets": {
+				"from": 371520,
+				"to": 372520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,520",
+				"to": "00:06:13,520"
+			},
+			"offsets": {
+				"from": 372520,
+				"to": 373520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,520",
+				"to": "00:06:14,520"
+			},
+			"offsets": {
+				"from": 373520,
+				"to": 374520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,520",
+				"to": "00:06:15,520"
+			},
+			"offsets": {
+				"from": 374520,
+				"to": 375520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,520",
+				"to": "00:06:16,520"
+			},
+			"offsets": {
+				"from": 375520,
+				"to": 376520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,520",
+				"to": "00:06:17,520"
+			},
+			"offsets": {
+				"from": 376520,
+				"to": 377520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,520",
+				"to": "00:06:18,520"
+			},
+			"offsets": {
+				"from": 377520,
+				"to": 378520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,520",
+				"to": "00:06:19,520"
+			},
+			"offsets": {
+				"from": 378520,
+				"to": 379520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,520",
+				"to": "00:06:20,520"
+			},
+			"offsets": {
+				"from": 379520,
+				"to": 380520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,520",
+				"to": "00:06:21,520"
+			},
+			"offsets": {
+				"from": 380520,
+				"to": 381520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,520",
+				"to": "00:06:22,520"
+			},
+			"offsets": {
+				"from": 381520,
+				"to": 382520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,520",
+				"to": "00:06:23,520"
+			},
+			"offsets": {
+				"from": 382520,
+				"to": 383520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,520",
+				"to": "00:06:24,520"
+			},
+			"offsets": {
+				"from": 383520,
+				"to": 384520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,520",
+				"to": "00:06:25,520"
+			},
+			"offsets": {
+				"from": 384520,
+				"to": 385520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,520",
+				"to": "00:06:26,520"
+			},
+			"offsets": {
+				"from": 385520,
+				"to": 386520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,520",
+				"to": "00:06:27,520"
+			},
+			"offsets": {
+				"from": 386520,
+				"to": 387520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,520",
+				"to": "00:06:28,520"
+			},
+			"offsets": {
+				"from": 387520,
+				"to": 388520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,520",
+				"to": "00:06:29,520"
+			},
+			"offsets": {
+				"from": 388520,
+				"to": 389520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,520",
+				"to": "00:06:30,520"
+			},
+			"offsets": {
+				"from": 389520,
+				"to": 390520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,520",
+				"to": "00:06:31,520"
+			},
+			"offsets": {
+				"from": 390520,
+				"to": 391520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,520",
+				"to": "00:06:32,520"
+			},
+			"offsets": {
+				"from": 391520,
+				"to": 392520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,520",
+				"to": "00:06:33,520"
+			},
+			"offsets": {
+				"from": 392520,
+				"to": 393520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,520",
+				"to": "00:06:34,520"
+			},
+			"offsets": {
+				"from": 393520,
+				"to": 394520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,520",
+				"to": "00:06:35,520"
+			},
+			"offsets": {
+				"from": 394520,
+				"to": 395520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,520",
+				"to": "00:06:36,520"
+			},
+			"offsets": {
+				"from": 395520,
+				"to": 396520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,520",
+				"to": "00:06:37,520"
+			},
+			"offsets": {
+				"from": 396520,
+				"to": 397520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,520",
+				"to": "00:06:38,520"
+			},
+			"offsets": {
+				"from": 397520,
+				"to": 398520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,520",
+				"to": "00:06:39,520"
+			},
+			"offsets": {
+				"from": 398520,
+				"to": 399520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,520",
+				"to": "00:06:40,520"
+			},
+			"offsets": {
+				"from": 399520,
+				"to": 400520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,520",
+				"to": "00:06:41,520"
+			},
+			"offsets": {
+				"from": 400520,
+				"to": 401520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,520",
+				"to": "00:06:42,520"
+			},
+			"offsets": {
+				"from": 401520,
+				"to": 402520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,520",
+				"to": "00:06:43,520"
+			},
+			"offsets": {
+				"from": 402520,
+				"to": 403520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,520",
+				"to": "00:06:44,520"
+			},
+			"offsets": {
+				"from": 403520,
+				"to": 404520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,520",
+				"to": "00:06:45,520"
+			},
+			"offsets": {
+				"from": 404520,
+				"to": 405520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,520",
+				"to": "00:06:46,520"
+			},
+			"offsets": {
+				"from": 405520,
+				"to": 406520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,520",
+				"to": "00:06:47,520"
+			},
+			"offsets": {
+				"from": 406520,
+				"to": 407520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,520",
+				"to": "00:06:48,520"
+			},
+			"offsets": {
+				"from": 407520,
+				"to": 408520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,520",
+				"to": "00:06:49,520"
+			},
+			"offsets": {
+				"from": 408520,
+				"to": 409520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,520",
+				"to": "00:06:50,520"
+			},
+			"offsets": {
+				"from": 409520,
+				"to": 410520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,520",
+				"to": "00:06:51,520"
+			},
+			"offsets": {
+				"from": 410520,
+				"to": 411520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,520",
+				"to": "00:06:52,520"
+			},
+			"offsets": {
+				"from": 411520,
+				"to": 412520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,520",
+				"to": "00:06:53,520"
+			},
+			"offsets": {
+				"from": 412520,
+				"to": 413520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,520",
+				"to": "00:06:54,520"
+			},
+			"offsets": {
+				"from": 413520,
+				"to": 414520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,520",
+				"to": "00:06:55,520"
+			},
+			"offsets": {
+				"from": 414520,
+				"to": 415520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,520",
+				"to": "00:06:56,520"
+			},
+			"offsets": {
+				"from": 415520,
+				"to": 416520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,520",
+				"to": "00:06:57,520"
+			},
+			"offsets": {
+				"from": 416520,
+				"to": 417520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,520",
+				"to": "00:06:58,520"
+			},
+			"offsets": {
+				"from": 417520,
+				"to": 418520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,520",
+				"to": "00:06:59,520"
+			},
+			"offsets": {
+				"from": 418520,
+				"to": 419520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,520",
+				"to": "00:07:00,520"
+			},
+			"offsets": {
+				"from": 419520,
+				"to": 420520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,520",
+				"to": "00:07:01,520"
+			},
+			"offsets": {
+				"from": 420520,
+				"to": 421520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,520",
+				"to": "00:07:02,520"
+			},
+			"offsets": {
+				"from": 421520,
+				"to": 422520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,520",
+				"to": "00:07:03,520"
+			},
+			"offsets": {
+				"from": 422520,
+				"to": 423520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,520",
+				"to": "00:07:04,520"
+			},
+			"offsets": {
+				"from": 423520,
+				"to": 424520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,520",
+				"to": "00:07:05,520"
+			},
+			"offsets": {
+				"from": 424520,
+				"to": 425520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,520",
+				"to": "00:07:06,520"
+			},
+			"offsets": {
+				"from": 425520,
+				"to": 426520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,520",
+				"to": "00:07:07,520"
+			},
+			"offsets": {
+				"from": 426520,
+				"to": 427520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,520",
+				"to": "00:07:08,520"
+			},
+			"offsets": {
+				"from": 427520,
+				"to": 428520
+			},
+			"text": " I just walk into the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,520",
+				"to": "00:07:09,520"
+			},
+			"offsets": {
+				"from": 428520,
+				"to": 429520
+			},
+			"text": " People go, \"Oh, shit."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,520",
+				"to": "00:07:10,520"
+			},
+			"offsets": {
+				"from": 429520,
+				"to": 430520
+			},
+			"text": " It's a serial rapist.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,520",
+				"to": "00:07:11,520"
+			},
+			"offsets": {
+				"from": 430520,
+				"to": 431520
+			},
+			"text": " And then you look at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,520",
+				"to": "00:07:12,520"
+			},
+			"offsets": {
+				"from": 431520,
+				"to": 432520
+			},
+			"text": " I just walk into the room."
+		}
+	]
+}

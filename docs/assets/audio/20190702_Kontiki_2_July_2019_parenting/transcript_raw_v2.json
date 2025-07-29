@@ -1,0 +1,1671 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | AARCH64_REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:09,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 9000
+			},
+			"text": " Okay, I have to say, she failed to mention Turkish people dancing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,000",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 9000,
+				"to": 16000
+			},
+			"text": " We get arrested if we do that. It's very sad."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:20,000"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 20000
+			},
+			"text": " Ladies and gentlemen, we only have one last comedian left in our first half."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,000",
+				"to": "00:00:24,000"
+			},
+			"offsets": {
+				"from": 20000,
+				"to": 24000
+			},
+			"text": " I know, guys. Awww."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,000",
+				"to": "00:00:27,000"
+			},
+			"offsets": {
+				"from": 24000,
+				"to": 27000
+			},
+			"text": " Do it harder!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,000",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 27000,
+				"to": 30000
+			},
+			"text": " Don't worry, guys. We've got more comedy in the second half."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 34000
+			},
+			"text": " But for now, the stage is to the last comedian."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:38,450"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 38450
+			},
+			"text": " This guy is originally from the UK, but he's been living here for such a long"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,450",
+				"to": "00:00:39,000"
+			},
+			"offsets": {
+				"from": 38450,
+				"to": 39000
+			},
+			"text": " time."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,000",
+				"to": "00:00:43,080"
+			},
+			"offsets": {
+				"from": 39000,
+				"to": 43080
+			},
+			"text": " I love this comedian. Ladies and gentlemen, make some noise for Harry Fuchs,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,080",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 43080,
+				"to": 44000
+			},
+			"text": " everybody!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 56000
+			},
+			"text": " So my name is actually Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,000",
+				"to": "00:00:59,000"
+			},
+			"offsets": {
+				"from": 57000,
+				"to": 59000
+			},
+			"text": " What was it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,000",
+				"to": "00:01:08,000"
+			},
+			"offsets": {
+				"from": 59000,
+				"to": 68000
+			},
+			"text": " It's a German name spelled F-U-C-K-S. I repeat, F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,000",
+				"to": "00:01:14,000"
+			},
+			"offsets": {
+				"from": 68000,
+				"to": 74000
+			},
+			"text": " With English speakers like this, a lot of you think my name is Harry Bucks."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,000",
+				"to": "00:01:19,910"
+			},
+			"offsets": {
+				"from": 74000,
+				"to": 79910
+			},
+			"text": " In my family, when we have a family get-together, we get very upset when you"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,910",
+				"to": "00:01:23,000"
+			},
+			"offsets": {
+				"from": 79910,
+				"to": 83000
+			},
+			"text": " call us a group of fuckers."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,000",
+				"to": "00:01:26,000"
+			},
+			"offsets": {
+				"from": 83000,
+				"to": 86000
+			},
+			"text": " And I have two kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,000",
+				"to": "00:01:29,000"
+			},
+			"offsets": {
+				"from": 86000,
+				"to": 89000
+			},
+			"text": " I had to call them howler and whatler."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,000",
+				"to": "00:01:36,000"
+			},
+			"offsets": {
+				"from": 89000,
+				"to": 96000
+			},
+			"text": " But I am a very proud father."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,000",
+				"to": "00:01:38,000"
+			},
+			"offsets": {
+				"from": 96000,
+				"to": 98000
+			},
+			"text": " Because I know a lot about parenting."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,000",
+				"to": "00:01:42,000"
+			},
+			"offsets": {
+				"from": 98000,
+				"to": 102000
+			},
+			"text": " I'm a single dad. Both my kids are young. They're teenagers now."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,000",
+				"to": "00:01:46,000"
+			},
+			"offsets": {
+				"from": 102000,
+				"to": 106000
+			},
+			"text": " And I was there. I was there in the room where they were born."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,000",
+				"to": "00:01:51,000"
+			},
+			"offsets": {
+				"from": 106000,
+				"to": 111000
+			},
+			"text": " And I was behind my partner, propping her up, calming her down."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,000",
+				"to": "00:01:54,000"
+			},
+			"offsets": {
+				"from": 111000,
+				"to": 114000
+			},
+			"text": " And now I can give some advice to all the young men here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,000",
+				"to": "00:01:59,370"
+			},
+			"offsets": {
+				"from": 114000,
+				"to": 119370
+			},
+			"text": " Before you become fathers, at a certain point, the nurse will come to you and"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,370",
+				"to": "00:02:00,000"
+			},
+			"offsets": {
+				"from": 119370,
+				"to": 120000
+			},
+			"text": " say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,000",
+				"to": "00:02:05,000"
+			},
+			"offsets": {
+				"from": 120000,
+				"to": 125000
+			},
+			"text": " \"You can see the head. Why don't you come and look?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,000",
+				"to": "00:02:09,000"
+			},
+			"offsets": {
+				"from": 125000,
+				"to": 129000
+			},
+			"text": " The correct answer is NO!"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,000",
+				"to": "00:02:12,720"
+			},
+			"offsets": {
+				"from": 129000,
+				"to": 132720
+			},
+			"text": " Because if you go around there, if you go around there, you are going to see"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,720",
+				"to": "00:02:16,000"
+			},
+			"offsets": {
+				"from": 132720,
+				"to": 136000
+			},
+			"text": " things that are going to disturb you."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,000",
+				"to": "00:02:21,670"
+			},
+			"offsets": {
+				"from": 136000,
+				"to": 141670
+			},
+			"text": " For example, the bit that you love the most about your partner, the most"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,670",
+				"to": "00:02:23,000"
+			},
+			"offsets": {
+				"from": 141670,
+				"to": 143000
+			},
+			"text": " perfect thing on her,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,000",
+				"to": "00:02:26,000"
+			},
+			"offsets": {
+				"from": 143000,
+				"to": 146000
+			},
+			"text": " just got turned into the Gotthard Tunnel."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,000",
+				"to": "00:02:33,600"
+			},
+			"offsets": {
+				"from": 146000,
+				"to": 153600
+			},
+			"text": " And like the Gotthard Tunnel, in the future it's going to take you a long time"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,600",
+				"to": "00:02:35,000"
+			},
+			"offsets": {
+				"from": 153600,
+				"to": 155000
+			},
+			"text": " to get in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,000",
+				"to": "00:02:39,000"
+			},
+			"offsets": {
+				"from": 155000,
+				"to": 159000
+			},
+			"text": " You're still not going to be allowed to use the second tunnel."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,000",
+				"to": "00:02:44,000"
+			},
+			"offsets": {
+				"from": 159000,
+				"to": 164000
+			},
+			"text": " And once you're inside, you're probably going to fall asleep."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 164000,
+				"to": 170000
+			},
+			"text": " It's not good stuff. So that's why you don't do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:52,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 172000
+			},
+			"text": " In fact, it does kind of upset me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,000",
+				"to": "00:02:58,000"
+			},
+			"offsets": {
+				"from": 172000,
+				"to": 178000
+			},
+			"text": " That society has so many misplaced ideas about babies and children."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,000",
+				"to": "00:03:02,730"
+			},
+			"offsets": {
+				"from": 178000,
+				"to": 182730
+			},
+			"text": " For example, have you ever seen a group of young women, when one of them has"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,730",
+				"to": "00:03:04,000"
+			},
+			"offsets": {
+				"from": 182730,
+				"to": 184000
+			},
+			"text": " just had her first child,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,000",
+				"to": "00:03:09,000"
+			},
+			"offsets": {
+				"from": 184000,
+				"to": 189000
+			},
+			"text": " and they all gather around and go, \"Oh, so cute, so sweet, a baby!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,000",
+				"to": "00:03:12,000"
+			},
+			"offsets": {
+				"from": 189000,
+				"to": 192000
+			},
+			"text": " \"I just love the way babies smell!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,000",
+				"to": "00:03:15,000"
+			},
+			"offsets": {
+				"from": 192000,
+				"to": 195000
+			},
+			"text": " I hate to break this to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,000",
+				"to": "00:03:18,000"
+			},
+			"offsets": {
+				"from": 195000,
+				"to": 198000
+			},
+			"text": " That is not the smell of a baby."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,000",
+				"to": "00:03:21,000"
+			},
+			"offsets": {
+				"from": 198000,
+				"to": 201000
+			},
+			"text": " That is the smell of something that just spent nine months in your frame."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,000",
+				"to": "00:03:23,000"
+			},
+			"offsets": {
+				"from": 201000,
+				"to": 203000
+			},
+			"text": " Nine months in your friend's vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,000",
+				"to": "00:03:28,000"
+			},
+			"offsets": {
+				"from": 203000,
+				"to": 208000
+			},
+			"text": " The correct thing you should be saying is, \"Oh, so cute, so sweet!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,000",
+				"to": "00:03:30,000"
+			},
+			"offsets": {
+				"from": 208000,
+				"to": 210000
+			},
+			"text": " \"I just love the smell of your pussy.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,000",
+				"to": "00:03:35,000"
+			},
+			"offsets": {
+				"from": 210000,
+				"to": 215000
+			},
+			"text": " This is how society gets it wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,000",
+				"to": "00:03:40,000"
+			},
+			"offsets": {
+				"from": 215000,
+				"to": 220000
+			},
+			"text": " But, you know, for me, parenting is hard, especially as a single parent."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,000",
+				"to": "00:03:44,000"
+			},
+			"offsets": {
+				"from": 220000,
+				"to": 224000
+			},
+			"text": " And one of the big problems nowadays is dealing with technology."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,000",
+				"to": "00:03:49,110"
+			},
+			"offsets": {
+				"from": 224000,
+				"to": 229110
+			},
+			"text": " Parenting and technology brings up a lot of new problems that have never been"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,110",
+				"to": "00:03:50,000"
+			},
+			"offsets": {
+				"from": 229110,
+				"to": 230000
+			},
+			"text": " seen before."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,000",
+				"to": "00:03:55,000"
+			},
+			"offsets": {
+				"from": 230000,
+				"to": 235000
+			},
+			"text": " For example, recently, I caught my 13-year-old son looking at porn."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,000",
+				"to": "00:03:57,000"
+			},
+			"offsets": {
+				"from": 235000,
+				"to": 237000
+			},
+			"text": " Hell yeah!"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,000",
+				"to": "00:04:02,000"
+			},
+			"offsets": {
+				"from": 237000,
+				"to": 242000
+			},
+			"text": " Luckily, I could point him at the best categories."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,000",
+				"to": "00:04:05,000"
+			},
+			"offsets": {
+				"from": 242000,
+				"to": 245000
+			},
+			"text": " I'm a bit of an expert."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,000",
+				"to": "00:04:08,000"
+			},
+			"offsets": {
+				"from": 245000,
+				"to": 248000
+			},
+			"text": " We came to an agreement in the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,000",
+				"to": "00:04:11,000"
+			},
+			"offsets": {
+				"from": 248000,
+				"to": 251000
+			},
+			"text": " We said, \"Right, son, we're going to sort this on categories.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,000",
+				"to": "00:04:14,000"
+			},
+			"offsets": {
+				"from": 251000,
+				"to": 254000
+			},
+			"text": " Right now, you get to look at penis and vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,000",
+				"to": "00:04:16,000"
+			},
+			"offsets": {
+				"from": 254000,
+				"to": 256000
+			},
+			"text": " You get to look at blowjobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,000",
+				"to": "00:04:18,000"
+			},
+			"offsets": {
+				"from": 256000,
+				"to": 258000
+			},
+			"text": " You get to look at masturbation."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,000",
+				"to": "00:04:19,000"
+			},
+			"offsets": {
+				"from": 258000,
+				"to": 259000
+			},
+			"text": " For his birthday, he's getting lesbians."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,000",
+				"to": "00:04:27,000"
+			},
+			"offsets": {
+				"from": 259000,
+				"to": 267000
+			},
+			"text": " You've got to keep some fantasies about things you will never see."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,000",
+				"to": "00:04:33,380"
+			},
+			"offsets": {
+				"from": 267000,
+				"to": 273380
+			},
+			"text": " And then, you know, when he gets older, like at 16, maybe he gets into coup"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,380",
+				"to": "00:04:34,000"
+			},
+			"offsets": {
+				"from": 273380,
+				"to": 274000
+			},
+			"text": " shots."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,000",
+				"to": "00:04:37,000"
+			},
+			"offsets": {
+				"from": 274000,
+				"to": 277000
+			},
+			"text": " At 18, we're talking anal."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,000",
+				"to": "00:04:44,700"
+			},
+			"offsets": {
+				"from": 277000,
+				"to": 284700
+			},
+			"text": " But we're saving strangling, deep throat, this kind of stuff, to when he gets"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,700",
+				"to": "00:04:46,000"
+			},
+			"offsets": {
+				"from": 284700,
+				"to": 286000
+			},
+			"text": " dumped by his first girlfriend."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,000",
+				"to": "00:04:51,000"
+			},
+			"offsets": {
+				"from": 288000,
+				"to": 291000
+			},
+			"text": " You've got to be a responsible parent."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,000",
+				"to": "00:04:59,000"
+			},
+			"offsets": {
+				"from": 291000,
+				"to": 299000
+			},
+			"text": " And another problem with this is, you know, he plays Fortnite."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,000",
+				"to": "00:05:01,000"
+			},
+			"offsets": {
+				"from": 299000,
+				"to": 301000
+			},
+			"text": " Have you heard of Fortnite?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,000",
+				"to": "00:05:04,000"
+			},
+			"offsets": {
+				"from": 301000,
+				"to": 304000
+			},
+			"text": " Just in case you haven't heard of it, it's an online shooter."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,000",
+				"to": "00:05:06,000"
+			},
+			"offsets": {
+				"from": 304000,
+				"to": 306000
+			},
+			"text": " You play it against other people online."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,000",
+				"to": "00:05:14,120"
+			},
+			"offsets": {
+				"from": 306000,
+				"to": 314120
+			},
+			"text": " Recently, the makers of Fortnite said they had 125 million players online at"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,120",
+				"to": "00:05:15,000"
+			},
+			"offsets": {
+				"from": 314120,
+				"to": 315000
+			},
+			"text": " the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,000",
+				"to": "00:05:17,000"
+			},
+			"offsets": {
+				"from": 315000,
+				"to": 317000
+			},
+			"text": " That is so many kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,000",
+				"to": "00:05:22,000"
+			},
+			"offsets": {
+				"from": 317000,
+				"to": 322000
+			},
+			"text": " But they're saying it's ruining an entire generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,000",
+				"to": "00:05:26,260"
+			},
+			"offsets": {
+				"from": 322000,
+				"to": 326260
+			},
+			"text": " But for me, as a father, I actually think it's teaching my son some important"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,260",
+				"to": "00:05:27,000"
+			},
+			"offsets": {
+				"from": 326260,
+				"to": 327000
+			},
+			"text": " life skills."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,000",
+				"to": "00:05:31,000"
+			},
+			"offsets": {
+				"from": 327000,
+				"to": 331000
+			},
+			"text": " Because, for example, he's learned to sit still in a chair for eight hours"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,000",
+				"to": "00:05:35,000"
+			},
+			"offsets": {
+				"from": 331000,
+				"to": 335000
+			},
+			"text": " without moving, going to the toilet, or eating."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,000",
+				"to": "00:05:39,000"
+			},
+			"offsets": {
+				"from": 335000,
+				"to": 339000
+			},
+			"text": " Which is clearly a great experience for future office life."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,000",
+				"to": "00:05:44,000"
+			},
+			"offsets": {
+				"from": 339000,
+				"to": 344000
+			},
+			"text": " And his English."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,000",
+				"to": "00:05:45,000"
+			},
+			"offsets": {
+				"from": 344000,
+				"to": 345000
+			},
+			"text": " His English has gone very good."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,000",
+				"to": "00:05:46,000"
+			},
+			"offsets": {
+				"from": 345000,
+				"to": 346000
+			},
+			"text": " He's learned some key phrases like..."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,000",
+				"to": "00:05:48,000"
+			},
+			"offsets": {
+				"from": 346000,
+				"to": 348000
+			},
+			"text": " \"Bitch, I will fuck you up!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,000",
+				"to": "00:05:52,000"
+			},
+			"offsets": {
+				"from": 348000,
+				"to": 352000
+			},
+			"text": " \"And I will piss on you like Donald Trump!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,000",
+				"to": "00:05:56,000"
+			},
+			"offsets": {
+				"from": 352000,
+				"to": 356000
+			},
+			"text": " Again, I'm very proud."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,000",
+				"to": "00:06:00,000"
+			},
+			"offsets": {
+				"from": 356000,
+				"to": 360000
+			},
+			"text": " You have a little bit longer."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,000",
+				"to": "00:06:02,000"
+			},
+			"offsets": {
+				"from": 360000,
+				"to": 362000
+			},
+			"text": " Okay, you know what's coming up."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,000",
+				"to": "00:06:05,000"
+			},
+			"offsets": {
+				"from": 362000,
+				"to": 365000
+			},
+			"text": " Because I also have a daughter."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,000",
+				"to": "00:06:09,000"
+			},
+			"offsets": {
+				"from": 365000,
+				"to": 369000
+			},
+			"text": " You're already..."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,000",
+				"to": "00:06:11,000"
+			},
+			"offsets": {
+				"from": 369000,
+				"to": 371000
+			},
+			"text": " The anticipation is going through you."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,000",
+				"to": "00:06:13,000"
+			},
+			"offsets": {
+				"from": 371000,
+				"to": 373000
+			},
+			"text": " Because it's really like..."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,000",
+				"to": "00:06:15,000"
+			},
+			"offsets": {
+				"from": 373000,
+				"to": 375000
+			},
+			"text": " For me, it's a memory that the daughter is really tough."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,000",
+				"to": "00:06:20,490"
+			},
+			"offsets": {
+				"from": 375000,
+				"to": 380490
+			},
+			"text": " You know, because I'm really there confronted with situations I'm wholly unprepared"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,490",
+				"to": "00:06:21,000"
+			},
+			"offsets": {
+				"from": 380490,
+				"to": 381000
+			},
+			"text": " for."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,000",
+				"to": "00:06:24,000"
+			},
+			"offsets": {
+				"from": 381000,
+				"to": 384000
+			},
+			"text": " Because, like, recently I came back from work."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,000",
+				"to": "00:06:26,000"
+			},
+			"offsets": {
+				"from": 384000,
+				"to": 386000
+			},
+			"text": " I went into the bathroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,000",
+				"to": "00:06:29,000"
+			},
+			"offsets": {
+				"from": 386000,
+				"to": 389000
+			},
+			"text": " And, oh my God, it looked like a crime scene."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,000",
+				"to": "00:06:32,000"
+			},
+			"offsets": {
+				"from": 389000,
+				"to": 392000
+			},
+			"text": " There was a bloody handprint on the mirror."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,000",
+				"to": "00:06:34,000"
+			},
+			"offsets": {
+				"from": 392000,
+				"to": 394000
+			},
+			"text": " Drops of blood in the sink."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,000",
+				"to": "00:06:35,000"
+			},
+			"offsets": {
+				"from": 394000,
+				"to": 395000
+			},
+			"text": " More on the floor."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,000",
+				"to": "00:06:39,000"
+			},
+			"offsets": {
+				"from": 395000,
+				"to": 399000
+			},
+			"text": " And the toilet looked like something from a horror movie."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,000",
+				"to": "00:06:42,000"
+			},
+			"offsets": {
+				"from": 399000,
+				"to": 402000
+			},
+			"text": " And then I heard a screaming."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,000",
+				"to": "00:06:44,000"
+			},
+			"offsets": {
+				"from": 402000,
+				"to": 404000
+			},
+			"text": " And I looked around."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,000",
+				"to": "00:06:46,000"
+			},
+			"offsets": {
+				"from": 404000,
+				"to": 406000
+			},
+			"text": " And I realized the screaming was coming from me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,000",
+				"to": "00:06:55,000"
+			},
+			"offsets": {
+				"from": 406000,
+				"to": 415000
+			},
+			"text": " But at that moment, at that moment, my daughter showed up."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,000",
+				"to": "00:06:58,000"
+			},
+			"offsets": {
+				"from": 415000,
+				"to": 418000
+			},
+			"text": " And she said, \"Dad, guess what? I got my period!\""
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,000",
+				"to": "00:07:02,000"
+			},
+			"offsets": {
+				"from": 418000,
+				"to": 422000
+			},
+			"text": " So, after cleaning up my daughter's menstrual bed..."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,000",
+				"to": "00:07:07,000"
+			},
+			"offsets": {
+				"from": 422000,
+				"to": 427000
+			},
+			"text": " I was like, \"Hey, can I get you something?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,000",
+				"to": "00:07:10,000"
+			},
+			"offsets": {
+				"from": 427000,
+				"to": 430000
+			},
+			"text": " And she said, \"Dad, get me tampons.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,000",
+				"to": "00:07:13,000"
+			},
+			"offsets": {
+				"from": 430000,
+				"to": 433000
+			},
+			"text": " Now, obviously, as a man, I have zero qualifications."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,000",
+				"to": "00:07:16,000"
+			},
+			"offsets": {
+				"from": 433000,
+				"to": 436000
+			},
+			"text": " But I thought, \"Can't be so hard.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,000",
+				"to": "00:07:17,000"
+			},
+			"offsets": {
+				"from": 436000,
+				"to": 437000
+			},
+			"text": " So, I went over to Miglo."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,000",
+				"to": "00:07:19,000"
+			},
+			"offsets": {
+				"from": 437000,
+				"to": 439000
+			},
+			"text": " And I took a look around."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,000",
+				"to": "00:07:24,000"
+			},
+			"offsets": {
+				"from": 439000,
+				"to": 444000
+			},
+			"text": " And what I learned is that tampon product names are exactly no use whatsoever"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,000",
+				"to": "00:07:27,000"
+			},
+			"offsets": {
+				"from": 444000,
+				"to": 447000
+			},
+			"text": " when it comes to choosing a tampon."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,000",
+				"to": "00:07:31,000"
+			},
+			"offsets": {
+				"from": 447000,
+				"to": 451000
+			},
+			"text": " Because, for example, you have, like, OB Pro."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,000",
+				"to": "00:07:33,000"
+			},
+			"offsets": {
+				"from": 451000,
+				"to": 453000
+			},
+			"text": " What are we talking?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,000",
+				"to": "00:07:36,000"
+			},
+			"offsets": {
+				"from": 453000,
+				"to": 456000
+			},
+			"text": " For, like, professional women that bleed for a living?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,000",
+				"to": "00:07:39,000"
+			},
+			"offsets": {
+				"from": 456000,
+				"to": 459000
+			},
+			"text": " Yeah, that's strange. Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,000",
+				"to": "00:07:42,000"
+			},
+			"offsets": {
+				"from": 459000,
+				"to": 462000
+			},
+			"text": " And then we have Tampax Radiance."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,000",
+				"to": "00:07:45,000"
+			},
+			"offsets": {
+				"from": 462000,
+				"to": 465000
+			},
+			"text": " Like, what, glow-in-the-dark tampons?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,000",
+				"to": "00:07:47,000"
+			},
+			"offsets": {
+				"from": 465000,
+				"to": 467000
+			},
+			"text": " When the lights are off, just to get it in there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,000",
+				"to": "00:07:53,000"
+			},
+			"offsets": {
+				"from": 467000,
+				"to": 473000
+			},
+			"text": " The one I like the most, though, is Always Infinity."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,000",
+				"to": "00:07:58,000"
+			},
+			"offsets": {
+				"from": 473000,
+				"to": 478000
+			},
+			"text": " For when your vagina is an unfillable black hole."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,000",
+				"to": "00:08:04,000"
+			},
+			"offsets": {
+				"from": 478000,
+				"to": 484000
+			},
+			"text": " But I ended up choosing another product from Always."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,000",
+				"to": "00:08:06,000"
+			},
+			"offsets": {
+				"from": 484000,
+				"to": 486000
+			},
+			"text": " It's called Always Home by Eleven."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,000",
+				"to": "00:08:10,000"
+			},
+			"offsets": {
+				"from": 486000,
+				"to": 490000
+			},
+			"text": " It is amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,000",
+				"to": "00:08:13,000"
+			},
+			"offsets": {
+				"from": 490000,
+				"to": 493000
+			},
+			"text": " Because right about 10 o'clock, it starts to leak."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,000",
+				"to": "00:08:17,000"
+			},
+			"offsets": {
+				"from": 493000,
+				"to": 497000
+			},
+			"text": " And she is always, always home by 11:00."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,000",
+				"to": "00:08:22,000"
+			},
+			"offsets": {
+				"from": 497000,
+				"to": 502000
+			},
+			"text": " And for me, for me again, I was very proud as a father."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,000",
+				"to": "00:08:26,850"
+			},
+			"offsets": {
+				"from": 502000,
+				"to": 506850
+			},
+			"text": " Because as a father, it's not every day you get to choose what your daughter crams"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,850",
+				"to": "00:08:28,000"
+			},
+			"offsets": {
+				"from": 506850,
+				"to": 508000
+			},
+			"text": " in her vagina."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,000",
+				"to": "00:08:34,000"
+			},
+			"offsets": {
+				"from": 508000,
+				"to": 514000
+			},
+			"text": " Thank you very much."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,000",
+				"to": "00:08:35,000"
+			},
+			"offsets": {
+				"from": 514000,
+				"to": 515000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,000",
+				"to": "00:08:36,000"
+			},
+			"offsets": {
+				"from": 515000,
+				"to": 516000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,000",
+				"to": "00:08:37,000"
+			},
+			"offsets": {
+				"from": 516000,
+				"to": 517000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,000",
+				"to": "00:08:38,000"
+			},
+			"offsets": {
+				"from": 517000,
+				"to": 518000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,000",
+				"to": "00:08:39,000"
+			},
+			"offsets": {
+				"from": 518000,
+				"to": 519000
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,000",
+				"to": "00:08:41,000"
+			},
+			"offsets": {
+				"from": 519000,
+				"to": 521000
+			},
+			"text": " Give it up for Harry Flux, everybody!"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,000",
+				"to": "00:08:45,000"
+			},
+			"offsets": {
+				"from": 521000,
+				"to": 525000
+			},
+			"text": " Oh my goodness!"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,000",
+				"to": "00:08:50,000"
+			},
+			"offsets": {
+				"from": 525000,
+				"to": 530000
+			},
+			"text": " Now, was that a fantastic half of comedy or what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,000",
+				"to": "00:08:54,000"
+			},
+			"offsets": {
+				"from": 530000,
+				"to": 534000
+			},
+			"text": " Okay, what we're gonna do now, we're gonna take a very quick break, okay?"
+		}
+	]
+}
