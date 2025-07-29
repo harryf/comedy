@@ -17,258 +17,216 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> oh you guys are in for a treat the next comedian type I actually met him when I
+> Let's see what we've got next.
 >
-> first go back into comedy in Switzerland and it's been a big inspiration for me
+> Oh, you guys are in for a treat.
 >
-> he's a really great guy please give it up for Harry Fox
+> The next comedian, I actually met him when I first got back into comedy in Switzerland.
 >
-> so my name is actually Harry Fox
+> And he's been a big inspiration for me.
 >
-> it's a German
+> He's a really great guy.
 >
-> name it's spelled F-U-C-K-S
+> Please give it up for Harry Fox!
 >
-> I repeat F-U-C-K-S
+> So my name is actually Harry Fooks.
 >
-> but when I'm in a room with English speakers like this a lot of you think my
+> It's a German name.
 >
-> name is
+> It's spelt F-O-O-C-K-S. I repeat, F-O-O-C-K-S.
 >
-> Harry Fox my name is not Harry
+> But when I'm in a room with English speakers like this, a lot of you think my name is Harry Fox.
 >
-> Fox and in my family when we have a family
+> My name is not Harry Fox.
 >
-> get together we get very upset when you call us a
+> And in my family, when we have a family get-together,
 >
-> group of fuckers
+> we get very upset when you call us a group of fuckers.
 >
-> and I have two kids
+> And I have two kids.
 >
-> I had to call them how the and what the
+> I had to call them Halver and Walther.
 >
-> but the real problem with a name like Harry Fox is
+> I just didn't have a good start in life.
 >
-> there just hasn't been enough fucking honestly
+> But the real problem with a name like Harry Fox is there just hasn't been enough fucking, honestly.
 >
-> and I think the reason for that is that I'm actually a single dad
+> And I think the reason for that is I'm actually a single dad.
 >
-> I have two teenage kids
+> I have two teenage kids.
 >
-> have we got any parents here tonight
+> Have we got any parents here tonight?
 >
-> parents gone wild tonight
+> Wow, wow. Parents gone wild tonight.
 >
-> babysitter
+> Wow, they've got a babysitter.
 >
-> they're trying to rekindle their love life tonight
+> They're trying to rekindle their love life tonight.
 >
-> that is fantastic
+> That is fantastic.
 >
-> I salute you
+> I salute you.
 >
-> but you know for me the problem is there's like teenage kids
+> But, you know, for me the problem is there's, like, teenage kids.
 >
-> you know like living in a flat with teenage kids
+> Like, living in a flat with teenage kids is like living in a video game.
 >
-> it's like living in a vegan
+> Because there's never any milk.
 >
-> because there's never any milk
+> Like, it's always a fucking mess.
 >
-> like it's always a fucking mess
+> And the worst is I have to pay for everything.
 >
-> and the worst is I have to pay for everything
+> The shittest flat chair ever.
 >
-> it is the shittest flat share ever
+> And my teenage son, you know, he's a bit of a gamer.
 >
-> and my teenage son you know
+> He plays a lot of Grand Theft Auto.
 >
-> he's a big fan of Harry Fox
+> Now, some of you may be thinking, like, you shouldn't be letting him play Grand Theft Auto.
 >
-> he's a bit of a gamer
+> It's that game where he gets to beat up hookers and stuff like this.
 >
-> he plays a lot of Grand Theft Auto
+> But I think actually Grand Theft Auto is teaching him some important life skills.
 >
-> now some of you may be thinking like
+> Like, he's learned to sit in a chair for eight hours without eating, talking, or going to the
 >
-> you shouldn't be letting him play Grand Theft Auto
+> toilet.
 >
-> that game where he gets to beat up hookers and stuff like this
+> Which is clearly perfect preparation for future office life.
 >
-> but I think actually Grand Theft Auto is teaching him some important life
+> And his English skills, he plays online, he plays against American.
 >
-> skills
+> His English skills have improved dramatically.
 >
-> like he's learned to sit in a chair for eight hours
+> He's learned some key phrases like, "Bitch, I will fuck you up!"
 >
-> without eating, talking or going to the toilet
+> "I'll piss on you like Donald Trump!"
 >
-> which is clearly perfect preparation for future office life
+> Makes me very proud.
 >
-> and his English skills
+> But, you know, actually something bad happened recently.
 >
-> he plays online, he plays against American
+> Because recently, I caught him looking at porn.
 >
-> his English skills have improved dramatically
+> Luckily, I'm a bit of an expert.
 >
-> he's learned some key phrases like
+> I could point him at all the experts.
 >
-> bitch I will fuck you up
+> And we came to a bit of an agreement.
 >
-> and I will piss on you like Donald Trump
+> So right now, at his age, he's getting, like, boobs and butts and blowjobs.
 >
-> makes me very proud
+> You know, just the good, wholesome porn.
 >
-> but you know actually something bad happened recently
+> And for his birthday, he's getting lesbians.
 >
-> because recently I caught him looking at porn
+> Because, man, we need something to fantasize about that we will never see in our life.
 >
-> and I was like
+> Any lesbians here tonight?
 >
-> luckily I'm a bit of an expert
+> Okay, they're like ninjas. You never see them.
 >
-> I could point him at all the experts
+> Yeah, but also, I have a teenage daughter.
 >
-> and we came to a bit of an agreement
+> Wow, now that is tough for me as a single dad.
 >
-> so right now at his age
+> Because I'm constantly being confronted with situations I'm wholly unprepared for, you know?
 >
-> he's getting like boobs and butts and blowjobs
+> Like, recently, I came back from work.
 >
-> you know just the good wholesome porn
+> I went into the bathroom and, oh my god, it looked like a crime scene in there.
 >
-> and for his birthday he's getting lesbians
+> There was a bloody handprint on the mirror.
 >
-> because man we need something to fantasize about
+> Drops of blood in the sink.
 >
-> that we will never see in our life
+> More blood on the floor.
 >
-> any lesbians here tonight?
+> And the toilet looked like something from a horror movie.
 >
-> okay they're like ninjas
+> And then I heard a screaming.
 >
-> you never see them
+> And I looked around.
 >
-> yeah but also I have a teenage daughter
+> And I realized the screaming was coming from me.
 >
-> wow now that is tough for me as a single dad
+> And at that moment, my daughter showed up and said,
 >
-> because I'm constantly being confronted with situations
+> "Hey, Dad, I got my period!"
 >
-> I'm wholly unprepared for you know
+> So after cleaning up her menstrual blood,
 >
-> like recently I came back from work
+> because I've got to do that.
 >
-> I went into the bathroom and oh my god
+> If she does it, she's just going to smear it around.
 >
-> it looked like a crime scene
+> After clearing up her menstrual blood,
 >
-> there was a bloody handprint on the mirror
+> the horror of that moment just came back to me.
 >
-> drops of blood in there
+> So I said to her, "Hey, daughter, can I get you something?"
 >
-> in the sink
+> And she said, "Dad, get me tampons."
 >
-> more blood on the floor
+> Now, obviously, as a man, this is a job that I have zero qualifications for.
 >
-> and the toilet looked like something from a horror movie
+> But I thought, hey, like a naive idiot,
 >
-> and then I heard a screaming
+> I thought, hey, this can't be so hard.
 >
-> and I looked around
+> I went over to Negro.
 >
-> and I realized the screaming was coming from me
->
-> and at that moment my daughter showed up and said
->
-> hey dad I got my period
->
-> so after cleaning up her menstrual blood
->
-> because I've got to do that
->
-> if she does it she's just going to smear it around her
->
-> after clearing up her menstrual blood
->
-> the horror of that moment just came back to me
->
-> so I said to her
->
-> I said to her hey
->
-> hey daughter can I get you something
->
-> and she said dad get me tampons
->
-> now obviously as a man this is a job that I have
->
-> zero qualifications for
->
-> but I thought hey like a naive idiot
->
-> and I was like this can't be so hard
->
-> I went over to Miglo
->
-> I took a look around and what I discovered is that
+> I took a look around, and what I discovered is that
 >
 > tampon product names are exactly no use whatsoever
 >
-> when it comes to choosing a tampon
+> when it comes to choosing a tampon.
 >
-> because you've got names like OB Pro
+> Because you've got names like "OB Pro."
 >
-> what is that?
+> What is that?
 >
-> is that like for professional women that bleed for a living?
+> Is that like for professional women that bleed for a living?
 >
-> that doesn't seem like something I want for my daughter
+> That doesn't seem like something I want for my daughter.
 >
-> I don't know
+> Or "Tampax Radiance."
 >
-> or Tampax Radiance
+> Like, what is that?
 >
-> like what is that?
+> Like glow-in-the-dark tampons?
 >
-> like glow-in-the-dark tampons?
+> No idea about that.
 >
-> like no idea about that
+> The one I like the most is called "Always Infinity."
 >
-> the one I like the most is called Always Infinity
+> Because that's for when your vagina is an unfillable black hole.
 >
-> because that's for when your vagina is an unfillable black hole
+> I ended up in the end choosing another product from Horvitz.
 >
-> but I ended up in the end choosing another product from Always
+> This product is fantastic.
 >
-> this product is fantastic
+> It's called "Always Home by 11."
 >
-> it's called Always Home by Eleven
+> Wow.
 >
-> wow
+> Because around about 10 o'clock, it starts to leak,
 >
-> because round about 10 o'clock it starts to leak
+> and she is always home by 11.
 >
-> and she is always home by eleven
+> It's fantastic.
 >
-> it's fantastic
+> You know, this whole experience was actually, for me,
 >
-> you know this whole experience
+> a very proud one as a father.
 >
-> it was actually for me a very proud one as a father
+> Because, honestly, it's not every day that you get to choose
 >
-> because honestly I don't know
+> what your daughter crams in her vagina.
 >
-> honestly it's not every day
+> All right, I think I'm done.
 >
-> that you get to choose what your daughter crowns in her vagina
+> I'm just going to leave.
 >
-> alright I think I'm done
->
-> I'm just going to leave
->
-> without opening my eyes
->
-> please give it up for Harry
->
-> yes!
+> Please give it up for Harry.

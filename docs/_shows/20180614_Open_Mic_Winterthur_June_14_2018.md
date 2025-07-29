@@ -17,238 +17,166 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> What's going on? This comedian has waited the whole night to get up on stage,
+> So this comedian has waited the whole night to get up on stage, and here he is everybody.
 >
-> and here he is everybody, very funny, Harry Fuchs everybody, put your hands
+> Very funny, Harry Fox everybody, put your hands together for him.
 >
-> together for him.
+> So actually it's Harry Fox, that's spelled F-U-C-K-S, I repeat, F-U-C-K-S.
 >
-> So actually it's Harry Fuchs, that's spelled F-U-C-K-S, I repeat F-U-C-K-S.
+> So now all the English speakers in the room really do think my name is Harry Fox.
 >
-> So now all the English speakers in the room really do think my name is Harry Fuchs.
+> My name is not Harry Fox, actually, that's because Harry Fox is a very hard name to live
 >
-> My name is not Harry Fuchs, actually that's because Harry Fuchs is a very hard
+> up to, it's a very high level expectation.
 >
-> name to move up to, it's a very high level expectation.
+> If I was Harry Fox, I wouldn't have come on stage and just said "Hi, I'm Harry."
 >
-> If I was Harry Fuchs, I wouldn't have come on stage and just said I am Harry, I'd
+> I'd be like, "Yo, Harry Fox in the house, man, what are you doing?"
 >
-> be like, you're Harry Fuchs in the house man, what are you doing?
+> But that's not really my personality, and you know, when it comes to dating, I'm a little
 >
-> But that's not really my personality.
+> bit choosy, and I'm not going to just sleep with anything.
 >
-> And when it comes to dating, I'm a little bit choosy.
+> But Harry Fox is going to be like, "Yo man, if there's a hole, I'm good."
 >
-> And I'm not going to just sleep with anything, but Harry Fuchs is going to be
+> And you know, that's kind of gross.
 >
-> like, yo man, if there's a hole I'm good, and you know, that's kind of gross.
+> But the real reason is actually more that I'm just not getting any.
 >
-> But the real reason is actually more that I'm just not getting it, it's been
->
-> quite a long time.
+> It's been quite a long time.
 >
 > Actually, put your hand up if you haven't had sex in a very long time.
 >
-> I'll put that one.
+> Otherwise, I didn't realise I was coming to the Winter Tour of Infamy at some point.
 >
-> That's the one guy.
+> So you probably don't really understand where I'm coming from, maybe I can explain a little
 >
-> Otherwise, I didn't realize I was coming to the winter tour and implementing X
+> bit.
 >
-> and Y.
+> Because when you haven't had sex in a long time, everything slowly and subtly starts
 >
-> So you probably don't really understand where I'm coming from, maybe I can
+> to look different.
 >
-> explain a little bit.
+> It's like having hallucinations.
 >
-> Because when you haven't had sex in a long time, everything slowly and subtly
+> For example, you could be walking on the street, you see a couple of dogs, and you know, they're
 >
-> starts to look different.
+> sniffing each other's asses, and you look at them, and you think, "I wish that was me."
 >
-> It's like kind of hallucinations.
+> Or you're in Migros, and you're in the fruit section, and you see an action on a watermelon.
 >
-> For example, you could be walking on the street, you see a couple of dogs, and
->
-> you know, they're sniffing each other's asses.
->
-> And you look at them, and you think, I wish that was me.
->
-> Or, you know, you're in Negro, and you're in the fruit section, and you see an
->
-> axiom on watermelon.
->
-> You put one hand on that watermelon, and you put two hands.
+> You put one hand on that watermelon, or you put two hands.
 >
 > And suddenly it's like you're in another dimension.
 >
-> And you start to go, and you're completely oblivious to the fact that there's
+> And it starts to go, and you're completely oblivious to the fact that there's people
 >
-> people around you.
+> around you, you're just there, and your heart's starting to race, and you're like, "Wow."
 >
-> You're just there, and your heart's starting to race, and you're like, wow.
+> And then suddenly you hear this, "Junge Mann, wasse eine Feigheit!"
 >
-> And then suddenly you hear this,
+> And there's this old lady standing there, and she's about to hit you with a handbag.
 >
-> You're my man, what's on your mind?
+> And you think, "Wow, she's hot."
 >
-> And there's this old lady standing there, and she's about to hit you with a
+> Those were the times, those were the times.
 >
-> handbag.
+> I'm actually from England, and I read recently that the British government commissioned a
 >
-> And you think, wow, she's there.
+> survey of dick pics.
 >
-> That's what it's like.
+> So pictures of your dick, this is true, you can look it up.
 >
-> It's a bit of a desperate thing.
+> What they found, one of the things they found was that men between the ages of 18 and 36
 >
-> I'm actually from England, and I read recently that the British government
+> have sent, usually about 50% have sent a dick pic within the last 12 months.
 >
-> commissioned a survey of dick pics.
+> Now, that may be a difficult number to visualize, but for you ladies, that would be like, if
 >
-> So we have pictures of your dick.
+> you give your number to 10 guys in this room, within a few weeks you'll have five dicks
 >
-> This is true.
+> on your phone.
 >
-> You can look it up.
+> So that's, I don't send dick pics myself, that's not because I'm bad at it, it's because
 >
-> What they found, one of the things they found was that men between the ages of
+> actually I'm a bit of a perfectionist.
 >
-> 18 and 36,
+> Because taking a quality dick pic is hard, it's really hard.
 >
-> have sent, usually about 50 percent, have sent a dick pic within the last 12
+> You've got a lot to think about, you've got the lighting, do you go for some soft lighting
 >
-> months.
+> to bring out the skin color, or do you go for something more kind of red and erotic?
 >
-> Now, that may be a difficult number to visualize, but for you ladies,
+> Or maybe you also need to think about props, you know, like maybe I should spray some tulips
 >
-> that would be like, if you give your number to ten guys in this room,
+> around here, just to have my dick poking through, so you can get a bit more romantic.
 >
-> within a few weeks you'll have five dicks on your butt.
+> But, you know, I mean, the real tough one is getting the right angle, it's like, is
 >
-> I don't send dick pics myself.
+> it the best angle here, or up here, or like this?
 >
-> No.
+> And that's actually why I'm a bit of an entrepreneur, I invented the dick pic selfie stick.
 >
-> That's not because I'm better, it's because actually I'm a bit of a perfectionist.
+> You can get it on dickpicselfiestick.com, it's probably $29.99 tonight only for everyone
 >
-> Because taking a quality dick pic is hard.
+> who can afford it.
 >
-> You've got a lot to think about, you've got the lighting, do you go for some
+> Yeah, but it's funny, like actually one of my earliest childhood memories was about my
 >
-> soft lighting to bring out the skin color?
->
-> Or do you go for something more kind of red and erotic?
->
-> Or maybe you also need to think about props, like maybe I should spread some
->
-> tulips around here just to have my dick poking through.
->
-> Something a bit more romantic.
->
-> But the real tough one is getting the right angle.
->
-> Is it the best angle?
->
-> Or is it the best angle?
->
-> Or is it the best angle?
->
-> And that's actually why I'm a bit of an entrepreneur.
->
-> I invented the dick pic selfie stick.
->
-> You can get it on dickpicselfiestick.com.
->
-> It's for 29.99 tonight only for everyone.
->
-> Yeah, but it's funny, like actually one of my earliest childhood memories was
->
-> about my penis.
+> penis.
 >
 > It was actually when I got circumcised.
 >
-> Now, I hope that you can see it.
+> Now, I hope everyone knows what circumcision is, just check, anyone who doesn't, please
 >
-> I hope everyone knows what circumcision is.
+> talk to me after.
 >
-> Just to check, anyone who doesn't, please talk to me after.
+> And I wasn't circumcised for religious reasons, I was actually circumcised because there was
 >
-> And I wasn't circumcised for religious reasons.
+> a medical emergency, and the only way they could save my life was by cutting my foreskin
 >
-> I was actually circumcised because there was a medical emergency.
+> off.
 >
-> And the only way they could save my life was by cutting my foreskin off.
+> So what was, but actually what was a kind of traumatic childhood experience actually
 >
-> So what was, but actually what was a kind of traumatic childhood experience
+> became something as an advantage in adult life, because what I found is on those rare
 >
-> actually became something as an advantage in adult life.
+> occasions where a woman does get near the end of my penis, I usually breathe a big sigh
 >
-> Because what I found was that it was a kind of traumatic childhood experience.
+> of relief, and I'm like, "Hey, why are you sighing on my penis?"
 >
-> And I found that it was a kind of traumatic childhood experience.
+> And they say, "Because, it's just a huge relief, it's like, do you know how many dirty dicks
 >
-> And I found that it was a kind of traumatic childhood experience.
+> there are out there?"
 >
-> And I found that it was a kind of traumatic childhood experience.
+> And I'm like, "What's this?"
 >
-> And I found that it was a kind of traumatic childhood experience.
+> And what I learned is that amongst my uncut brethren, those who haven't been circumcised,
 >
-> And I found that it was a kind of traumatic childhood experience.
+> that many are not putting enough attention in this area.
 >
-> And I found that it was a kind of traumatic childhood experience.
+> So what I thought is I'd just finish on giving you a few tips about what you could do.
 >
-> Because what I found is on those rare occasions where a woman does get near the
+> One thing you can do is air freshener, you know, like in a car.
 >
-> end of my penis, I usually breathe a big sigh of relief. And I'm like, hey, why
+> You hang it from the rear view mirror, like a Wonderbaum, just hang it up on your dick.
 >
-> are you sighing on my penis? And they say, because it's just a huge relief. It's
+> Women are very sensitive to smell, that will help them get over that.
 >
-> like, do you know how many dirty dicks there are out there? And I'm like, what's
+> Women are also very visual, so what you can do is try tattooing a nice scene above your
 >
-> this?
+> penis.
 >
-> And what I learned is that amongst my uncut brethren, those who haven't been
+> Maybe a green field with some flowers growing in it, or a tree with some dirt singing in
 >
-> circumcised, that many are not putting enough attention in this area.
+> it.
 >
-> So what I thought is I'd just finish on giving you a few tips about what you
+> Something that will take their mind off the disgusting act that they have to do.
 >
-> could do.
+> I think probably the easiest and most effective thing you can do is just bring a box of crackers
 >
-> One thing you can do is air freshener.
->
-> You know, like in a car, that thing you hang from the rear view mirror, like a
->
-> wunderbaum, just hang it up on your dick.
->
-> Women are very sensitive to smell.
->
-> That will help them get over that.
->
-> Women are also very visual.
->
-> So what you can do is try tattooing a nice scene above your penis.
->
-> Maybe a green field with some flowers growing in it.
->
-> A tree with some birds singing in it.
->
-> You know, something that will take the mind off the disgusting act that they
->
-> have.
->
-> But I think probably the easiest and most effective thing you can do is just
->
-> bring a box of crackers with you.
->
-> And you can kind of...
->
-> While she's down there, feed her crackers.
+> with you, and you can kind of, while she's down there, feed her crackers.
 >
 > Because, you know, cheese goes really well with crackers.
 >
-> Alright, thank you.
->
-> I'm done.
->
-> Thank you.
+> Thank you, I'm done.

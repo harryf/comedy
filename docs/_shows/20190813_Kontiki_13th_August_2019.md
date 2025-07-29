@@ -16,29 +16,27 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> See, who is next? Ladies and gentlemen, we only have actually a couple of
+> See? Who's next? Ladies and gentlemen, we only have actually a couple of
 >
-> comments left.
+> comments left, 3-4 comments left.
 >
-> We have three or four comments left.
->
-> Ladies and gentlemen, I want to bring up this next comedian, but he is special.
+> Ladies and gentlemen, I want to bring up this next comedian, but he's special.
 >
 > He gets his own music.
 >
-> Ladies and gentlemen, coming up on stage, the sexiest man, the sexiest dad in
+> Ladies and gentlemen, coming up on stage, the sexiest man, the sexiest guy in
 >
 > Zurich.
 >
 > Give it up for Harry Fox, everybody! Give it up!
 >
-> So my name is actually not Harry Fox.
+> So my name is actually not Harry Fox. It's Harry Fooks. It's spelled F-O-C-K-S.
 >
-> It's Harry Fooks. It's spelled F-U-C-K-S-R-P-F-U-C-K-S.
+> I repeat, F-O-C-K-S.
 >
-> There are so many English speakers like that guy over there.
+> There are so many English speakers like that guy over there, you'd think my
 >
-> You'd think my name is Harry Fox.
+> name is Harry Fox.
 >
 > See, the problem with a name like Harry Fox is it sets a very high level of
 >
@@ -46,189 +44,141 @@ notes: ""
 >
 > And I just simply haven't done enough fucking.
 >
-> And, you know, it really actually causes me a lot of pain because I come from
+> You know, it really actually causes me a lot of pain because I come from many
 >
-> many generations of fuckers.
+> generations of fuckers.
 >
 > And I feel like I'm letting it all down.
 >
-> Because, you know, the problem...
+> Because, you know, the problem, basically, let's get straight to it, the
 >
-> The problem, basically, let's get straight to it.
->
-> The problem is women.
+> problem is women.
 >
 > Women are just making it too hard for me to fuck.
 >
-> You know, and I think about this a lot.
+> You know, and I think about this a lot. I think about it, you know, recently I
 >
-> I think about it, you know, recently I was thinking like lesbians, for example.
+> was thinking like lesbians, for example.
 >
 > Do lesbians fuck on the first date?
 >
-> Because I know gay men do.
+> Because I know gay men do. They have like Grindr, you know, you can download
 >
-> They have like Grindr, you know.
+> Grindr.
 >
-> You can download Grindr.
+> Within 30 minutes you can be fucking.
 >
-> Within 30 minutes, you can be fucking.
+> I mean, you're going to be in a public toilet, there's some shit smeared on the
 >
-> I mean, you're going to be in a public toilet.
+> wall.
 >
-> There's some shit smeared on the wall.
+> But at least you're fucking.
 >
-> You better at least you're fucking.
+> What about you two guys? Did you meet in a public toilet?
 >
-> What about you two guys?
->
-> Did you meet in a public toilet?
->
-> Oh, my God.
->
-> You know, they're shaking their head.
->
-> Where did you guys meet?
+> No, let's shake hands. Where did you guys meet?
 >
 > Tinder.
 >
-> Tinder.
+> Tinder!
 >
-> Mother fucking...
+> Motherfuckers!
 >
-> No, no, no.
+> No, no, no, no!
 >
-> No.
+> Fucking up my whole acting.
 >
-> No, no, no.
+> But, you know, let's get back to it.
 >
-> Fucking out my whole active.
->
-> But, you know, let's move swiftly back to lesbians.
+> Let's move swiftly back to lesbians.
 >
 > Are there any lesbians here tonight?
 >
-> No, because lesbians are like ninjas.
+> No, because lesbians are like ninjas, you can never see them.
 >
-> You can never see them.
->
-> But, you know, my problem is I'm basically like a three-day kind of guy.
+> But, you know, my problem is I'm basically like a three-date kind of guy.
 >
 > It's like women are going to make me go through at least three dates before
 >
-> there is.
+> there is any hope that I'm going to fuck them.
 >
-> And I don't have any hope that I'm going to fucking.
->
-> You know, and during that process, we're going to be reviewing my entire dating
->
-> history.
+> And during that process, we're going to be reviewing my entire dating history.
 >
 > My financial forecast for 2020.
 >
 > And we're going to paint this picture of the two of us in 50 years.
 >
-> You know, and I'm going to be dead in 50 years.
+> And I'm going to be dead in 50 years.
 >
-> It's like she's just going to be sat by my grave.
+> She's just going to be sat by my grave.
 >
-> It's really...
+> And it's exhausting. It's exhausting for me.
 >
-> And it's exhausting.
+> Sometimes, like around the second date, I'll just be like, "Oh, fuck, man. My
 >
-> It's exhausting for me, you know.
+> balls are aching because they're so blue."
 >
-> Sometimes...
+> And I'm like, "Fuck, why am I doing this to myself? It's just like self-hatred.
 >
-> Like around the...
->
-> Second date, I'll just be like, oh, fuck, man.
->
-> My balls are aching because it's so blue.
->
-> And I'm like, fuck, why am I doing this to myself?
->
-> It's just like self-hatred.
->
-> Why do I have to go through this?
+> Why do I have to go through this?"
 >
 > And that gets me thinking about lesbians.
 >
 > Because, you know, if I find out that lesbians have an app like Grindr,
 >
-> and that within 30 minutes they're on a park bench doing this shit,
+> and that within 13 minutes they're on our park bench doing this shit,
 >
-> I am going to be pissed.
+> I am going to be pissed!
 >
-> I'm going to be angry.
+> I'm going to be angry because, you know, it's like, where's the equality in
 >
-> Because, you know, it's like...
->
-> Where's the...
->
-> Where's the equality in that?
+> that?
 >
 > Where's the equality?
 >
-> You know, for guys, I have to go through three dates
+> For guys, I have to go through three dates because they're giving out free
 >
-> because they're giving out free pussy to other women.
+> pussy to other women.
 >
-> It's just not good, you know.
+> It's just not good.
 >
-> You know, but...
+> But, I don't know. At some level, I get it.
 >
-> I don't know.
+> Because for women, I think for women, if there's a guy you like and you sleep
 >
-> At some level, I get it.
+> with him,
 >
-> I get it, you know.
+> what comes after, it makes you very nervous.
 >
-> Because for women...
+> Because you're going to be like, "Is he going to call me? Was he just using me
 >
-> I think for women, like, if there's a guy you like and you sleep with him,
+> for sex?"
 >
-> what comes after it makes you very nervous, you know.
->
-> Because you're going to be like, is he going to call me?
->
-> Was he...
->
-> Was he just using me for sex?
->
-> Is he going to tag me on Instagram with,
->
-> We're fucking!
+> "Is he going to tag me on Instagram with 'WE'RE FUCKING'?"
 >
 > You know, that's all the stuff that they've got to deal with.
 >
-> Yeah, some of the girls back there love him.
+> Yeah, some of the girls back there laugh on the internet.
 >
-> So, you know, and...
+> So, you know, and what I've been thinking about is maybe there's a way that we
 >
-> What I've been thinking about is maybe there's a way that we can reduce the
+> can reduce the anxiety for women.
 >
-> anxiety for women.
+> And then it struck me, there is a magic moment that all guys have when they
 >
-> And then it's struggling.
->
-> There is a magic moment that all guys have when they know if they like a woman.
->
-> And it's after the first time...
+> know if they like a woman.
 >
 > And it's after the first time we sleep with you.
 >
-> On the next day, you go into work and you're tired.
+> On the next day, you go into work and you're tired, you've had like one hour's
 >
-> You've had, like, one hour of sleep.
+> sleep.
 >
 > But you're high on endorphins.
 >
-> And you go up to that coffee machine.
+> And you go up to that coffee machine, you press the button, you get yourself a
 >
-> You press the button.
->
-> You get yourself a cup of coffee.
+> cup of coffee.
 >
 > You lift it to your face.
 >
@@ -236,102 +186,68 @@ notes: ""
 >
 > The smell.
 >
-> Now, I know that's kind of shocking.
+> Now, I know that's kind of shocking, but it is true.
 >
-> But it is true.
+> Because if a guy likes you, he's going to be like, "Mmm, I am a man."
 >
-> Because if a guy likes you...
+> "Mmm, I've got to get some more of this."
 >
-> He's going to be like...
+> But if a guy likes you, he's going to be on that call going,
 >
-> I am a man.
+> "Fuck! What the fuck is this? Someone please cut off my hand."
 >
-> I'm going to get some more of this.
+> And for me, I have a beard.
 >
-> But if a guy likes you, he's going to be on that coffee...
->
-> Oh, fuck!
->
-> What the fuck is this?
->
-> Someone please cut off my hand.
->
-> You know, and for me, I have a beard.
->
-> You know, it takes days for me to wash that shit.
+> It takes days for me to wash that shit off.
 >
 > It's like I'm walking around in this pussy helmet.
 >
-> And if I don't like you...
->
-> We're not going to talk again.
+> And if I don't like you, we're not going to talk again.
 >
 > So here's my advice to women.
 >
-> It's like on the day after you've had sex,
+> It's like on the day after you've had sex, you've got to do something,
 >
-> you've got to do something,
->
-> which I know for most of this generation is very hard
->
-> because you like texting.
+> which I know for most of this generation is very hard because you like texting.
 >
 > You've got to call him.
 >
-> You call the guy.
+> You call the guy and you'd be like, "Hey, how are you doing?"
 >
-> And you'd be like, hey, how are you doing?
+> "Listen, I'm just calling quickly because you left something at my place."
 >
-> Listen, I'm just calling quickly
->
-> because, you know, you left something at my place.
->
-> You forgot your phone charger.
+> "You forgot your phone charger."
 >
 > And he's going to have his phone up near his face.
 >
 > And so he's telling the truth because he can smell it.
 >
-> And he's going to be like, if he likes you,
+> And he's going to be like--if he likes you, he's going to be like,
 >
-> he's going to be, yeah, well, thank you.
+> "Yeah, oh, thank you. Maybe I can come around this evening and charge up my
 >
-> You know, maybe I can come around this evening
->
-> and charge up my phone.
+> phone."
 >
 > But if he doesn't like you, he's going to be like,
 >
-> yeah, you know, don't worry about it, you know,
+> "Yeah, you know, don't worry about it because I'm getting a new phone anyway.
 >
-> because I'm getting a new phone anyway.
+> This one kind of stinks. It's over there."
 >
-> This one kind of stinks.
+> But the good news is at least you can get over it quickly.
 >
-> It's over there.
->
-> But the good news is,
->
-> at least you can get over it quickly.
->
-> So, you know, that's my message to you.
+> So that's my message to you.
 >
 > You guys, you smell great.
 >
-> Okay, ladies and gentlemen,
+> Okay, ladies and gentlemen.
 >
-> Harry doing some clean comedy for you guys.
+> Harry doing some clean comedy for you guys, very nice.
 >
-> Very nice.
+> Okay, ladies and gentlemen, we only have three comics left and these guys are
 >
-> Okay, ladies and gentlemen,
->
-> we only have three comics left,
->
-> and these guys are great.
+> great.
 >
 > I want to bring up the next one without any further ado.
 >
-> Here he is, everybody.
->
-> Adrian Faulkner, give it up!
+> Here he is, everybody, Adrian Folkler! Give it up!

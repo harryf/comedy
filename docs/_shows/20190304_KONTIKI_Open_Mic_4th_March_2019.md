@@ -17,204 +17,170 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> He's originally from England, he did our gigs a lot, and now he's back.
+> He's originally from England. He did our gigs a lot and now he's back
 >
-> Everybody, please, give it up for your next comedian, Harry Fox!
+> Everybody, please give it up for your next comedian Harry Fox
 >
-> So recently, I was walking down Badnerstrasse, over there,
+> So recently I was walking down Badenerstrasse
 >
-> in the cool part of Zurich, where the hipsters live.
+> over there in the cool part of Zurich where the hipsters live and
 >
-> And this young man came past me on his bicycle, on his hipster bicycle,
+> This young man came past me on his bicycle
 >
-> and he looks me in the eye, and he does this.
+> on his hipster bicycle
 >
-> Now, first of all, I was actually quite impressed, because he was close to a
+> And he looks me in the eye, and he does this
 >
-> tram track,
+> Now first of all, I was actually quite impressed because he was close to a tram
 >
-> and he pulled that off without wiping out.
+> track and he pulled that off without wiping out
 >
-> But then I thought, you know what?
+> But then I thought you know what this guy is
 >
-> This guy is complete.
+> completely right I
 >
-> He's completely right.
+> am a
 >
-> I am a first-class masturbator.
+> first-class masturbator
 >
-> My hand and my penis is a love affair of over 40 years.
+> My hand and my penis is a love affair of over 40 years
 >
-> That's longer than most of you have been on this planet,
+> That's longer than most of you have been on this planet except for my jazz
 >
-> except for my jazz-playing friend there.
+> playing friend there
 >
-> He plays the blues.
+> He plays the blues
 >
-> And if I'm honest, the things my hand knows about my penis,
+> And if I'm if I'm honest the things my hand knows about my penis, I can't
 >
-> I can't really talk about, can I?
+> really talk about tonight
 >
-> But sometimes, when I go on a date, and I'm with a woman,
+> But sometimes when I go on a date, and I'm with a woman, and I think yeah
 >
-> and I think, "Yeah, she's kind of cute, but could she be my hand?"
+> She's kind of cute
 >
-> My hand doesn't want to go on dates.
+> My hand doesn't want to go on dates my hand doesn't need back rub
 >
-> My hand doesn't need back rubs.
+> My hand is not trying to post every moment on Instagram
 >
-> My hand is not trying to post every moment on Instagram.
+> My hand doesn't want babies
 >
-> My hand doesn't want babies one day.
+> When I look at my hand, it's actually pretty freaking perfect
 >
-> And when I look at my hand, it's actually pretty freaking perfect.
+> And this is this has led me to think that I'm actually I've reached a kind of a
 >
-> And this has led me to think that I've actually reached a kind of a strange
->
-> point in my life.
+> strange point in my life
 >
 > Because I'm starting to think that maybe I don't actually need a woman in my
 >
-> life anymore.
+> life
 >
-> Because, you know, I'm actually, just to tell you a bit about my life,
+> Because you know I'm actually just to tell you a bit about my life. I'm a
 >
-> I'm a single dad, I have two teenage kids.
+> single dad
 >
-> They live with me, I cook, I clean, I run a house, I have that shit together.
+> I have two teenage kids they live with me. I cook I clean I run a house. I have
 >
-> I have a career, it's going kind of OK.
+> that shit together
 >
-> Actually, my boss is here tonight.
+> I have a career. It's going kind of okay. Actually my boss is here tonight
 >
-> And maybe I'll get Angela from here.
+> And you know when I think about it
 >
-> And, you know, when I think about it, where am I going to fit a woman into this
+> Where am I going to fit a woman into this hectic schedule of working and
 >
-> hectic schedule of working and parenting and jacking off?
+> parenting and jacking off?
 >
-> It's just hard to do, you know.
+> I mean recently. I was on a date with a woman. I was on this date and
 >
-> I mean, recently, I was on a date with a woman.
+> And we're talking about life, and I tell her I'm a single dad and she
 >
-> I was on this date.
+> immediately
 >
-> And, you know, what happened?
+> Starts to tell me how to cook pasta
 >
-> We're talking about life.
+> And in my head I heard this voice of a gay black man
 >
-> And I tell her I'm a single dad.
+> Saying bitch I can cook a five-course meal for breakfast
 >
-> And she immediately starts to tell me how to cook pasta.
+> I didn't say that of course. I was like oh, thank you. That's a very
 >
-> And in my head, I heard this voice of a gay black man saying, "Bitch, I can
+> interesting pasta tip you have there
 >
-> cook a five-course meal for breakfast!"
+> And then she said to me something that blew my mind. She said maybe you just
 >
-> I didn't say that, of course.
+> need a woman in your life
 >
-> I was like, "Oh, thank you. That's a very interesting pasta tip you have there."
+> And I thought to myself
 >
-> And then she said to me something that blew my mind.
+> Hmm. Maybe it isn't you
 >
-> She said, "Maybe you just need a woman in your life."
+> Because actually you know if I think about it the last
 >
-> And I thought to myself, "Hmm, maybe it isn't you."
+> Basically been living with a woman for the last 20 years of my life
 >
-> Because actually, you know, if I think about it, the last -- I've basically
+> Okay, so I have a lot of experience with this and I can honestly say that
 >
-> been living with a woman for the last 20 years of my life.
+> living with a woman is hard
 >
-> OK, so I have a lot of experience with this.
+> Yeah, that's exactly what I'm talking about
 >
-> And I can honestly say that living with a woman is hard.
+> We're sensing the tension level rising
 >
-> Now, yeah, you see, that's exactly what I'm talking about.
+> So
 >
-> We're sensing the tension level rising.
+> Honestly say I don't hate women. I think women are wonderful
 >
-> So, you know, and I honestly say I don't hate women.
+> But living with a woman living with a woman is kind of like living with a werewolf
 >
-> I think women are wonderful.
+> Because once a month your darling your loved one will transform into this
 >
-> But living with a woman, living with a woman is kind of like living with a werewolf.
+> terrifying fucking
 >
-> You know, living with a werewolf.
+> Everywhere
 >
-> Because once a month, your darling, your loved one, will transform into this
+> In the wrong drawer
 >
-> terrifying fucking mindset.
+> I'm getting some bro love. Thank you for that. I need the support because I'm
 >
-> There's going to be blood everywhere.
+> feeling a lot of tension
 >
-> And she's going to be growling at you because you put the sock in the wrong
+> So yeah, you know and and when I think about it, you know
 >
-> drawer.
+> It's like actually the last year of my life I've been single and once I got
 >
-> I'm getting some bro love. Thank you for that.
+> used to it
 >
-> You need the support because I'm feeling a lot of tension today.
+> I started to realize wait a second. This is amazing
 >
-> So, yeah, you know, and when I think about it, you know, it's like actually the
+> It's like for example in the evening if I have an idea if I want to do
 >
-> last year of my life I've been single.
+> something I just do it
 >
-> And once I got used to it, I started to realize, wait a second, this is amazing.
+> Just do it. I don't need to go to like a man cave and like make some lame
 >
-> Because, like, for example, in the evening, if I have an idea, if I want to do
+> excuse
 >
-> something, I just do it.
+> They'll just quietly disappear. I just do it and you know, it's like other
 >
-> I just freaking do it.
+> things as well
 >
-> I don't need to go to, like, a man cave and, like, make some lame excuse or
+> For example, if I cook a meal and I can just eat it while it's hot
 >
-> just quietly disappear.
+> I'm gonna have to wait for her to post it on Instagram
 >
-> I just do it.
+> It's really fucking amazing and even better is I'm not no longer spending my nights
 >
-> And, you know, it's like other things as well.
+> on the sofa watching new girl
 >
-> For example, if I cook a meal and I can just eat it while it's hot, I don't
+> I got to see the Punisher on the day it came out
 >
-> have to wait for her to post it on Instagram.
+> And so for me I'm starting to realize that maybe I'm actually living the dream
 >
-> It's really fucking amazing.
+> Because sometimes when I'm stood there in front of my toilet
 >
-> And even better is I'm no longer spending my nights on the sofa watching New
+> with the seat up
 >
-> Girl and romantic comedies on Netflix.
+> And I'm feeling that warm wet
 >
-> I got to see The Punisher on the day it came out.
->
-> And so for me, I'm starting to realize that maybe I'm actually living the dream.
->
-> Because sometimes when I'm stood there in front of my toilet with the seat up
->
-> and I'm feeling that warm, wet spray of freedom hitting my lips, I think this
->
-> is the dream.
->
-> All right.
->
-> Thank you.
->
-> You've been great.
->
-> I'm going to shake some hands.
->
-> Thank you.
->
-> I will shake your hand.
->
-> Thank you.
->
-> Give it up for Harry Fox, everybody.
->
-> Wow.
->
-> Nice.
->
-> Well done.
->
-> Ladies and gentlemen --
+> spray of freedom

@@ -39,19 +39,15 @@ notes: |
 >
 > Kortiki, I want you guys to go wild for your last performer of the night.
 >
-> Harry Fuchs, everybody!
->
-> Give it up!
+> Harry Fuchs, everybody! Give it up!
 >
 > So my name is actually Harry Fuchs.
 >
-> It's a gentleman.
+> It's a German name.
 >
-> It's spelled F-U-C-K-S.
+> Spell F-U-C-K-S. You two get this, don't you?
 >
-> You two get this, don't you?
->
-> Spelled F-U-C-K-S.
+> Spell F-U-C-K-S.
 >
 > And when I'm in a room with English speakers like this, I get very upset.
 >
@@ -63,201 +59,161 @@ notes: |
 >
 > And I have two kids.
 >
-> I had to call them Albert and Watler.
+> I have to call them Halbert and Whatler.
 >
-> But, you know, the problem with the name, like, Harry Fuchs, is I get kind of
+> Just to get my style right.
 >
-> stupid comments a lot.
+> But you know, the problem with a name like Harry Fuchs is I get kind of stupid
 >
-> You know, like, recently this American tourist, he came up to me, he's like,
+> comments a lot.
 >
-> Yo, what's up, man? Harry Fuchs. Harry Fuchs what, man?
+> Recently this American tourist, he came up to me and he's like,
 >
-> And I was like, what?
+> "Yo, what's up, man? Harry Fuchs! Harry Fuchs what, man?"
 >
-> And he's like, yeah, Harry Fuchs what, man?
+> And I was like, "What?"
 >
-> I'm like, hmm, okay.
+> And he's like, "Yeah, Harry Fuchs what, man?"
 >
-> Let me throw him off with some adverbs, like,
+> Okay, let me throw him off with some adverbs like Harry Fuchs hopefully.
 >
-> Harry Fuchs, hopefully.
->
-> Harry Fuchs, hopefully.
->
-> Harry Fuchs, okay.
->
-> Occasionally.
+> Harry Fuchs occasionally.
 >
 > Harry Fuchs enthusiastically.
 >
-> But he was like, no, man, no.
+> But he was like, "No, man, no. Harry Fuchs goats, man. Harry Fuchs chickens.
 >
-> Harry Fuchs goats, man.
+> Harry Fuchs tigers."
 >
-> Harry Fuchs chickens.
->
-> Harry Fuchs tigers.
->
-> Now, I don't know about you, but I'm pretty sure that in the entire history of
+> Now I don't know about you, but I'm pretty sure that in the entire history of
 >
 > mankind,
 >
 > no one has ever successfully fucked a tiger.
 >
-> And what that made me realize is that there is actually a whole category
+> And what that made me realize is that there is actually a whole category of unfuckable
 >
-> of unfuckable animals.
+> animals.
 >
-> Like, like, take hippos, for example.
+> Like take hippos, for example.
 >
-> Now, you may get up behind a hippo and think, hmm, that is a sweet ass.
+> Now, you may get up behind a hippo and think, "Hmm, that's a sweet ass."
 >
-> Don't do it.
+> Don't do it. Don't do it.
 >
-> Don't do it.
+> Hippos, they kill about 500 people every year. They're the most dangerous land
 >
-> Hippos, they kill about 500 people every year.
->
-> They're the most dangerous line of animals.
+> animals.
 >
 > Do not fuck with hippos.
 >
-> Another one is elephants, you know, because it's just like too high up, you
+> Another one is elephants, you know, because it's just like too high up.
 >
-> know, just the average human penis can't get up there.
+> Just the average human penis can't get up there.
 >
-> Of course.
+> Of course, though, if the mom is not looking, you could probably fuck a baby
 >
-> Though, if the mum is not looking, you could probably fuck a baby elephant.
+> elephant.
 >
-> All right, I'm just finding your level.
+> All right, I'm just finding your level. I'm finding it.
 >
-> I'm finding it.
+> I see you're cool with bestiality, but not pedophile bestiality.
 >
-> I see your core with bestiality, but not pedophile bestiality.
+> I'll try and stay away from that.
 >
-> I will try and stay away from that.
->
-> It is true.
->
-> I do have a lot of fucked up thoughts going on in my head.
+> It is true, I do have a lot of fucked up thoughts going on in my head.
 >
 > I apologize for that because it goes back to my childhood.
 >
-> See, I went, I went to a Catholic school.
+> See, I went to a Catholic school, but I got thrown out for molesting a priest.
 >
-> But I got thrown out.
->
-> For molesting a priest.
->
-> But, you know, actually, right here today, I am not the most fucked up person.
+> But, you know, actually right here today, I am not the most fucked up person.
 >
 > Do you know who the most fucked up people in Zurich are?
 >
-> Ph.D. students, Sandra and Chris and Eric.
+> PhD students.
 >
-> Where are you, Chris and Eric?
+> Sandra and Chris and Eric. Where are you, Chris and Eric?
 >
-> They've gone very quiet.
+> They've gone very quiet. Well, they left because they've got fucked up shit to
 >
-> Well, they left because they got fucked up shit to do.
+> do.
 >
 > Sandra, this is for you.
 >
-> Because, you know, imagine.
+> Because, you know, imagine what happens when Sandra has spent all day long
 >
-> Imagine what happens when Sandra has spent all day long working on her Ph.D.
+> working on her PhD thesis and it's got to 3 a.m.
 >
-> thesis.
+> She's still going, she's got a head full of, like, statistical models and
 >
-> And it's got to 3 a.m.
->
-> She's still going.
->
-> She's got a head full of, like, statistical models and equations and HIV.
+> equations and HIV.
 >
 > Now, how is she going to get to sleep?
 >
-> Oops, old tab.
+> Oops, alt-tab, porn hub.
 >
-> Pornhub.
+> And, you know, the average PhD, yeah, you--
 >
-> And, you know, the average Ph.D.
+> I'm sorry, I'm sorry.
 >
-> Yeah, you.
+> I'm sorry the secret's out tonight.
 >
-> I'm sorry.
+> Because, you know, the average PhD takes about 8 years to complete.
 >
-> I'm sorry, but the secret's out.
+> We're not talking good, wholesome porn here.
 >
-> Because, you know, the average Ph.D. takes about 8 years to complete.
->
-> We're not talking good wholesome porn here, are we?
->
-> We are deep into BDSM and gangbangs and dwarves riding on ponies.
+> We are deep into BDSM and gang bangs and dwarves riding on ponies.
 >
 > But imagine what happens when someone like Sandra, they get their dream job at
 >
-> a place like Google.
+> a place like Google
 >
-> And they stuff them in an office with 10 other horny Ph.D.s.
+> and they stuff them in an office with 10 other horny PhDs.
 >
-> Is it any surprise that last year, 30,000 Google employees walked out to
+> Is it any surprise that last year 30,000 Google employees walked out to protest
 >
-> protest sexual harassment at work?
+> sexual harassment at work?
 >
-> Because they needed to get the fuck out of there, man.
+> Because they needed to get the fuck out of there, man!
 >
-> It's like a fucking orgy every day with these horny Ph.D. students.
+> It's like a fucking orgy every day with these horny PhD students.
 >
-> But, wait.
->
-> As Google is a technology company, technology is the answer.
+> But, wait, as Google is a technology company, technology is the answer.
 >
 > And the answer to this problem is actually kind of quite simple.
 >
-> But, wait. As Google is a technology company, technology is the answer. And the
+> It's getting the technologies developing.
 >
-> answer to this problem is actually kind of quite simple.
->
-> But, wait. As Google is a technology company, technology is the answer. And the
->
-> answer to this problem is actually kind of quite simple.
->
-> But, wait. As Google is a technology company, technology is the answer. And the
->
-> answer to this problem is actually kind of quite simple.
->
-> But, wait. As Google is a technology company, technology is the answer. And the
->
-> answer to this problem is actually kind of quite simple.
->
-> It's getting the technologies developing. The answer is sex robots.
+> The answer is sex robots.
 >
 > Now, I know that is a very awkward topic for many people, the idea of sex
 >
-> robots. But just think about this for a second.
+> robots,
+>
+> but just think about this for a second.
 >
 > Imagine if Google gave all their staff sex bots.
 >
-> They could come out and announce and say, you know, "We rolled out sex bots to
+> They could come out and announce and say, you know,
 >
-> all our staff, and cases of sexual harassment have dropped by an amazing 82%."
+> we rolled out sex bots to all our staff and cases of sexual harassment have
 >
-> We use sexbot analytics to track employee performance.
+> dropped by an amazing 82%.
 >
-> Since we rolled out sexbots, our staff are more focused and productive.
+> We used sex bot analytics to track employee performance.
 >
-> You know, what we're going to see here is that sexbots are going to become
+> Since we rolled out sex bots, our staff are more focused and productive.
+>
+> You know, what we're going to see here is that sex bots are going to become
 >
 > mainstream.
 >
-> Pretty soon, everyone's going to be having them.
+> Pretty soon everyone's going to be having them.
 >
-> And the big guys are going to want to get in, because this is like a billion-dollar
+> And the big guys are going to want to get in because this is like a billion
 >
-> market.
+> dollar market.
 >
 > Apple will be like, we brought you the iPod.
 >
@@ -265,11 +221,11 @@ notes: |
 >
 > Today, we bring you the iFuck.
 >
-> And Google's going to be like, shit, Apple's moving fast, man, quick.
+> And Google's going to be like, shit, Apple's moving fast, man, quick, launch
 >
-> Launch the Google Ho.
+> the Google Hoe.
 >
-> And then Amazon's going to be like, oh my God, okay, let's take Alexa, let's
+> And then Amazon's going to be like, oh, my God, okay, let's take Alexa, let's
 >
 > take drones.
 >
@@ -279,35 +235,35 @@ notes: |
 >
 > but it brings new problems.
 >
-> Because, you know, you're probably like, you invite some bros around, and you
+> Because, you know, you're probably like, you invite some bros around and you
 >
 > have some beers.
 >
-> And next morning, you've got to text your buddy and be like, hey, man.
+> And next morning you go to text your buddy and be like, hey, man, last night,
 >
-> Last night, did you fuck my sexbot?
+> did you fuck my sex bot?
 >
 > And he's like, I'm sorry, man, I was drunk, she came on to me.
 >
 > And you're like, fucking hell, dude, you didn't even wash her out.
 >
-> We're going to, the answer is, we need sexbot security.
+> We're going to -- the answer is we need sex bot security.
 >
 > Just swipe your dick to get it.
 >
 > How are we doing for time?
 >
-> Six months.
+> Six minutes.
 >
 > Okay, all right.
 >
 > Well, let's move on to a happier subject.
 >
-> You know, like, like couples like Bess and Elle, you know, they're clearly so
+> Like, you know, like couples like Bess and Elle.
 >
-> happy and so in love.
+> They're clearly so happy and so in love.
 >
-> But, but the thing is, for men, yeah, I love how Bess is, is grabbing Elle now.
+> But the thing is, for men, yeah, I love how Bess is grabbing Elle now.
 >
 > I'm going to protect you, honey.
 >
@@ -321,9 +277,7 @@ notes: |
 >
 > I would even give up porn for her.
 >
-> Bess hasn't looked at porn for me.
->
-> It'd be two and a half years, probably.
+> Bess hasn't looked at porn for maybe two and a half years, probably.
 >
 > But, you know, the thing is, is that when Elle fell in love with Bess, when a
 >
@@ -333,19 +287,17 @@ notes: |
 >
 > She fell in love with the idea of what she's going to do with you.
 >
-> Because, Bess, when you got into this relationship, let's face it, you were a
+> Because, Bess, when you got into this relationship, let's face it, you're a
 >
 > mean fighting machine.
 >
-> You were an attack dog, a rottweiler.
+> You're an attack dog, a rottweiler.
 >
-> And Elle looked at you and was like,
+> And Elle looked at you and was like, hmm, how can I turn this guy into a poodle?
 >
-> Hmm, how can I turn this guy into a poodle?
+> So I can take him to brunch with my friends and go, look what I did with this
 >
-> So I can take him to brunch with my friends and go,
->
-> Look what I did with this doggy-woggy.
+> doggy-woggy.
 >
 > Isn't that pink ribbon cute in his hair?
 >
@@ -355,25 +307,15 @@ notes: |
 >
 > We need some advanced strategy.
 >
-> We need to go to one of the greatest lovers of all time.
+> We need to go to one of the greatest lovers of all time, Joseph Stalin.
 >
-> Yosef Stalin.
+> Because think about it, what happened--bear with me, history lesson--
 >
-> So just think about it.
->
-> What happened?
->
-> Bear with me.
->
-> History lesson.
->
-> What happened when Germany invaded Russia?
+> what happened when Germany invaded Russia?
 >
 > Did the Russians hold them off at the border?
 >
-> No, they said, Come on in.
->
-> Come on, take our territories.
+> No, they said, come on in, come and take our territories.
 >
 > We're not going to stop you.
 >
@@ -383,39 +325,33 @@ notes: |
 >
 > You go out, one sock on your foot, other foot bare.
 >
-> And you do that for one morning and another.
->
-> Until Elle knows.
+> And you do that for one morning and another until Elle knows.
 >
 > She's like, Bess, why are you only wearing one sock?
 >
-> And you'll be like,
+> And you'll be like, I didn't even notice, honey, thank you.
 >
-> I didn't even notice, honey.
+> But then you keep on doing it, keep going out with one sock
 >
-> Thank you.
->
-> But then you keep on doing it.
->
-> Keep going out with one sock until eventually she has to remind you every day.
+> until eventually she has to remind you every day.
 >
 > Then you're like, oh, thank you.
 >
 > Without you, I would never have cured my sock problem.
 >
-> And just like the Russians, it's going to be a long time before she captures
+> And just like the Russians, it's going to be a long time
 >
-> any territory that you actually care about.
+> before she captures any territory that you actually care about.
 >
-> You're going to be able to keep your PlayStation, smell your own farts, taste
+> You're going to be able to keep your PlayStation,
 >
-> your own earwax.
+> smell your own farts, taste your own earwax.
 >
 > All right.
 >
-> Relationship fix, they think.
+> Relationship fixed, I think.
 >
-> There's another ten years in it.
+> There's another 10 years in there.
 >
 > Thanks, guys.
 >
@@ -423,4 +359,4 @@ notes: |
 >
 > Yeah, that's it.
 >
-> Well, that was Harry Fox.
+> And that was Harry's Farts Broadcast.

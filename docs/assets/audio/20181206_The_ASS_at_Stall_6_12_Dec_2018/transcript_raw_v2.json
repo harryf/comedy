@@ -3,7 +3,7 @@
 	"model": {
 		"type": "large",
 		"multilingual": true,
-		"vocab": 51866,
+		"vocab": 51865,
 		"audio": {
 			"ctx": 1500,
 			"state": 1280,
@@ -16,11 +16,11 @@
 			"head": 20,
 			"layer": 32
 		},
-		"mels": 128,
+		"mels": 80,
 		"ftype": 1
 	},
 	"params": {
-		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
 		"language": "en",
 		"translate": false
 	},
@@ -31,252 +31,307 @@
 		{
 			"timestamps": {
 				"from": "00:00:00,000",
-				"to": "00:00:04,800"
+				"to": "00:00:04,640"
 			},
 			"offsets": {
 				"from": 0,
-				"to": 4800
+				"to": 4640
 			},
-			"text": " That a lot man, now we only have one last comedian left in our first act and we're"
+			"text": " That a lot man. Now, we only have one last comedian left in our first act and"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:04,800",
-				"to": "00:00:05,800"
+				"from": "00:00:04,640",
+				"to": "00:00:06,000"
 			},
 			"offsets": {
-				"from": 4800,
-				"to": 5800
+				"from": 4640,
+				"to": 6000
 			},
-			"text": " going to take a little break."
+			"text": " we're going to take a little break."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:05,800",
-				"to": "00:00:10,840"
+				"from": "00:00:06,000",
+				"to": "00:00:11,000"
 			},
 			"offsets": {
-				"from": 5800,
-				"to": 10840
+				"from": 6000,
+				"to": 11000
 			},
-			"text": " Our last act was from France, this next act is from England."
+			"text": " Our last act was from France. This next act is from England."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:10,840",
-				"to": "00:00:15,520"
+				"from": "00:00:11,000",
+				"to": "00:00:14,000"
 			},
 			"offsets": {
-				"from": 10840,
-				"to": 15520
+				"from": 11000,
+				"to": 14000
 			},
-			"text": " He's been living here in Zurich for a long time now and yeah, I want you guys"
+			"text": " He's been living here in Zurich for a long time now."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:15,520",
-				"to": "00:00:17,480"
+				"from": "00:00:14,000",
+				"to": "00:00:18,000"
 			},
 			"offsets": {
-				"from": 15520,
-				"to": 17480
+				"from": 14000,
+				"to": 18000
 			},
-			"text": " to really go crazy for him."
+			"text": " And yeah, I want you guys to really go crazy for him. He's very funny."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:17,480",
-				"to": "00:00:23,300"
+				"from": "00:00:18,000",
+				"to": "00:00:22,000"
 			},
 			"offsets": {
-				"from": 17480,
-				"to": 23300
+				"from": 18000,
+				"to": 22000
 			},
-			"text": " He's very funny. Everybody, give it up for Harry Fox! Give it up please!"
+			"text": " Everybody, give it up for Harry Fox!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:30,000",
-				"to": "00:00:40,720"
+				"from": "00:00:22,000",
+				"to": "00:00:24,000"
 			},
 			"offsets": {
-				"from": 30000,
-				"to": 40720
+				"from": 22000,
+				"to": 24000
 			},
-			"text": " So, my name is actually Harry Fooks. It's a German name, it's spelled F-U-C-K-S,"
+			"text": " Give it up, please!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:40,720",
-				"to": "00:00:46,900"
+				"from": "00:00:31,000",
+				"to": "00:00:35,000"
 			},
 			"offsets": {
-				"from": 40720,
-				"to": 46900
+				"from": 31000,
+				"to": 35000
 			},
-			"text": " or F-U-C-K-S, so for you expats here that speak English, it is not Harry Fox."
+			"text": " So, my name is actually Harry Books."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:46,900",
-				"to": "00:00:52,320"
+				"from": "00:00:35,000",
+				"to": "00:00:38,000"
 			},
 			"offsets": {
-				"from": 46900,
-				"to": 52320
+				"from": 35000,
+				"to": 38000
+			},
+			"text": " That's a German name."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:43,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 43000
+			},
+			"text": " Spelled F-U-C-K-S."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,000",
+				"to": "00:00:49,000"
+			},
+			"offsets": {
+				"from": 43000,
+				"to": 49000
+			},
+			"text": " So, for you expats here that speak English, it is not Harry Fox."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,000",
+				"to": "00:00:30,840"
+			},
+			"offsets": {
+				"from": 49000,
+				"to": 30840
 			},
 			"text": " In my family, when we have a family get-together, we get very upset when you"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:52,320",
-				"to": "00:00:54,500"
+				"from": "00:00:30,840",
+				"to": "00:00:55,000"
 			},
 			"offsets": {
-				"from": 52320,
-				"to": 54500
+				"from": 30840,
+				"to": 55000
 			},
 			"text": " call us a group of fuckers."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:54,500",
-				"to": "00:00:59,980"
+				"from": "00:00:55,000",
+				"to": "00:00:58,000"
 			},
 			"offsets": {
-				"from": 54500,
-				"to": 59980
+				"from": 55000,
+				"to": 58000
 			},
-			"text": " I have two kids, I call them..."
+			"text": " I'm not sure we ever have the fuckers."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:00,000",
-				"to": "00:01:02,000"
+				"from": "00:00:58,000",
+				"to": "00:01:03,000"
 			},
 			"offsets": {
-				"from": 60000,
-				"to": 62000
+				"from": 58000,
+				"to": 63000
 			},
-			"text": " I call them \"Halbert\" and \"Walker.\""
+			"text": " I have two kids. I call them Halberd and Walker."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:02,000",
-				"to": "00:01:10,710"
+				"from": "00:01:03,000",
+				"to": "00:01:07,000"
 			},
 			"offsets": {
-				"from": 62000,
-				"to": 70710
+				"from": 63000,
+				"to": 67000
 			},
-			"text": " But it is a burden, it's a burden living with this name, especially with"
+			"text": " I just wanted to get rid of the stuttering."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:10,710",
-				"to": "00:01:11,200"
+				"from": "00:01:07,000",
+				"to": "00:01:10,600"
 			},
 			"offsets": {
-				"from": 70710,
-				"to": 71200
+				"from": 67000,
+				"to": 70600
+			},
+			"text": " But it is a burden. It's a burden living with this name, especially with"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,600",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 70600,
+				"to": 71000
 			},
 			"text": " Americans."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:11,200",
-				"to": "00:01:15,100"
+				"from": "00:01:11,000",
+				"to": "00:01:15,000"
 			},
 			"offsets": {
-				"from": 71200,
-				"to": 75100
+				"from": 71000,
+				"to": 75000
 			},
-			"text": " We've seen some American guys come up to me and say, \"Yo, what's up, man? Harry"
+			"text": " Recently, an American guy came up to me and was like, \"Yo, what's up, man?"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:15,100",
-				"to": "00:01:18,700"
+				"from": "00:01:15,000",
+				"to": "00:01:19,000"
 			},
 			"offsets": {
-				"from": 75100,
-				"to": 78700
+				"from": 75000,
+				"to": 79000
 			},
-			"text": " Fooks! Harry Fooks what, man? Harry Fooks what?\""
+			"text": " Harry Fox! Harry Fox what, man? Harry Fox what?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:01:18,700",
-				"to": "00:01:22,700"
+				"from": "00:01:19,000",
+				"to": "00:01:21,000"
 			},
 			"offsets": {
-				"from": 78700,
-				"to": 82700
+				"from": 79000,
+				"to": 81000
 			},
-			"text": " \"What? Is that Harry Fooks what, man?\""
+			"text": " I was like, \"What?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:01:22,700",
-				"to": "00:01:28,180"
+				"from": "00:01:21,000",
+				"to": "00:01:23,000"
 			},
 			"offsets": {
-				"from": 82700,
-				"to": 88180
+				"from": 81000,
+				"to": 83000
 			},
-			"text": " And I'm like, hmm, let me throw him off with some adverts like, \"Harry Fooks,"
+			"text": " He was like, \"Harry Fox what, man?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:01:28,180",
-				"to": "00:01:29,700"
+				"from": "00:01:23,000",
+				"to": "00:01:28,400"
 			},
 			"offsets": {
-				"from": 88180,
-				"to": 89700
+				"from": 83000,
+				"to": 88400
 			},
-			"text": " hopefully.\""
+			"text": " I was like, \"Hmm, let me throw him off with some adverts like 'Harry Fox"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:30,000",
-				"to": "00:01:33,000"
+				"from": "00:01:28,400",
+				"to": "00:01:31,000"
 			},
 			"offsets": {
-				"from": 90000,
-				"to": 93000
+				"from": 88400,
+				"to": 91000
 			},
-			"text": " \"Harry Fooks Occasional.\""
+			"text": " Hopefully'.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:01:33,000",
+				"from": "00:01:31,000",
+				"to": "00:01:34,000"
+			},
+			"offsets": {
+				"from": 91000,
+				"to": 94000
+			},
+			"text": " \"Harry Fox Occasionally.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,000",
 				"to": "00:01:37,000"
 			},
 			"offsets": {
-				"from": 93000,
+				"from": 94000,
 				"to": 97000
 			},
-			"text": " \"Harry Fooks Enthusiastically.\""
+			"text": " \"Harry Fox Enthusiastically.\""
 		},
 		{
 			"timestamps": {
 				"from": "00:01:37,000",
-				"to": "00:01:43,010"
+				"to": "00:01:43,030"
 			},
 			"offsets": {
 				"from": 97000,
-				"to": 103010
+				"to": 103030
 			},
-			"text": " He's like, \"No, no, man. Harry Fooks Goats, man. Harry Fooks Chickens. Harry Fooks"
+			"text": " He's like, \"No, no, man. Harry Fox Goats, man. Harry Fox Chickens. Harry Fox"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:43,010",
+				"from": "00:01:43,030",
 				"to": "00:01:44,000"
 			},
 			"offsets": {
-				"from": 103010,
+				"from": 103030,
 				"to": 104000
 			},
 			"text": " Tigers.\""
@@ -284,2235 +339,1278 @@
 		{
 			"timestamps": {
 				"from": "00:01:44,000",
-				"to": "00:01:49,220"
+				"to": "00:01:47,000"
 			},
 			"offsets": {
 				"from": 104000,
-				"to": 109220
+				"to": 107000
 			},
-			"text": " I'm like, Jesus, man, this guy, you know, 'cause in the history of mankind, I'm"
+			"text": " I'm like, \"Jesus, man. This guy.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:01:49,220",
-				"to": "00:01:53,000"
+				"from": "00:01:47,000",
+				"to": "00:01:54,250"
 			},
 			"offsets": {
-				"from": 109220,
-				"to": 113000
+				"from": 107000,
+				"to": 114250
 			},
-			"text": " pretty sure no one has ever successfully fucked a tiger."
+			"text": " Because in the history of mankind, I'm pretty sure no one has ever successfully"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:53,000",
-				"to": "00:01:57,900"
+				"from": "00:01:54,250",
+				"to": "00:01:56,000"
 			},
 			"offsets": {
-				"from": 113000,
-				"to": 117900
+				"from": 114250,
+				"to": 116000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " fucked a tiger."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:57,900",
-				"to": "00:01:57,900"
+				"from": "00:01:56,000",
+				"to": "00:02:01,990"
 			},
 			"offsets": {
-				"from": 117900,
-				"to": 117900
+				"from": 116000,
+				"to": 121990
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " In fact, it made me realize that there's actually a whole category of unfuckable"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:57,900",
-				"to": "00:01:58,900"
+				"from": "00:02:01,990",
+				"to": "00:02:03,000"
 			},
 			"offsets": {
-				"from": 117900,
-				"to": 118900
+				"from": 121990,
+				"to": 123000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " animals."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:58,900",
-				"to": "00:01:59,900"
+				"from": "00:02:03,000",
+				"to": "00:02:06,000"
 			},
 			"offsets": {
-				"from": 118900,
-				"to": 119900
+				"from": 123000,
+				"to": 126000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Take hippos, for example."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:59,900",
-				"to": "00:02:01,900"
+				"from": "00:02:06,000",
+				"to": "00:02:12,000"
 			},
 			"offsets": {
-				"from": 119900,
-				"to": 121900
+				"from": 126000,
+				"to": 132000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " You may get up behind a hippo and think, \"Wow, that is a great answer.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:02:01,900",
-				"to": "00:02:03,900"
+				"from": "00:02:12,000",
+				"to": "00:02:16,000"
 			},
 			"offsets": {
-				"from": 121900,
-				"to": 123900
+				"from": 132000,
+				"to": 136000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Do not do it. Hippos get very pissed off about this."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:03,900",
-				"to": "00:02:05,900"
+				"from": "00:02:16,000",
+				"to": "00:02:21,000"
 			},
 			"offsets": {
-				"from": 123900,
-				"to": 125900
+				"from": 136000,
+				"to": 141000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " They actually kill the most people in Africa every year, about 500."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:05,900",
-				"to": "00:02:07,900"
+				"from": "00:02:21,000",
+				"to": "00:02:25,470"
 			},
 			"offsets": {
-				"from": 125900,
-				"to": 127900
+				"from": 141000,
+				"to": 145470
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Another animal you can't fuck is elephants, you know, because it's just too"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:07,900",
-				"to": "00:02:09,900"
+				"from": "00:02:25,470",
+				"to": "00:02:26,000"
 			},
 			"offsets": {
-				"from": 127900,
-				"to": 129900
+				"from": 145470,
+				"to": 146000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " high up."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:09,900",
-				"to": "00:02:11,900"
+				"from": "00:02:26,000",
+				"to": "00:02:29,000"
 			},
 			"offsets": {
-				"from": 129900,
-				"to": 131900
+				"from": 146000,
+				"to": 149000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " There's probably some guys who are like, \"I could do that.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:02:11,900",
-				"to": "00:02:13,900"
+				"from": "00:02:29,000",
+				"to": "00:02:31,000"
 			},
 			"offsets": {
-				"from": 131900,
-				"to": 133900
+				"from": 149000,
+				"to": 151000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Yeah, you know, they won't."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:13,900",
-				"to": "00:02:15,900"
+				"from": "00:02:31,000",
+				"to": "00:02:36,900"
 			},
 			"offsets": {
-				"from": 133900,
-				"to": 135900
+				"from": 151000,
+				"to": 156900
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But, you know, I mean, if the mom's not watching, you could probably fuck a"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:15,900",
-				"to": "00:02:17,900"
+				"from": "00:02:36,900",
+				"to": "00:02:39,000"
 			},
 			"offsets": {
-				"from": 135900,
-				"to": 137900
+				"from": 156900,
+				"to": 159000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " baby elephant."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:17,900",
-				"to": "00:02:19,900"
+				"from": "00:02:39,000",
+				"to": "00:02:41,000"
 			},
 			"offsets": {
-				"from": 137900,
-				"to": 139900
+				"from": 159000,
+				"to": 161000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " All right, I'm just finding your levels."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:19,900",
-				"to": "00:02:21,900"
+				"from": "00:02:41,000",
+				"to": "00:02:48,000"
 			},
 			"offsets": {
-				"from": 139900,
-				"to": 141900
+				"from": 161000,
+				"to": 168000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " What I'm getting is you're good with bestiality, but not pedophile bestiality."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:21,900",
-				"to": "00:02:23,900"
+				"from": "00:02:48,000",
+				"to": "00:02:51,000"
 			},
 			"offsets": {
-				"from": 141900,
-				"to": 143900
+				"from": 168000,
+				"to": 171000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " So I'll try and keep it a little bit cleaner."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:23,900",
-				"to": "00:02:25,900"
+				"from": "00:02:51,000",
+				"to": "00:02:55,880"
 			},
 			"offsets": {
-				"from": 143900,
-				"to": 145900
+				"from": 171000,
+				"to": 175880
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But the problem, I have to admit, it is me, because I have a lot of dark"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:25,900",
-				"to": "00:02:27,900"
+				"from": "00:02:55,880",
+				"to": "00:02:58,000"
 			},
 			"offsets": {
-				"from": 145900,
-				"to": 147900
+				"from": 175880,
+				"to": 178000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " thoughts going on in my head."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:27,900",
-				"to": "00:02:29,900"
+				"from": "00:02:58,000",
+				"to": "00:03:01,000"
 			},
 			"offsets": {
-				"from": 147900,
-				"to": 149900
+				"from": 178000,
+				"to": 181000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And I think it goes back to my childhood."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:29,900",
-				"to": "00:02:31,900"
+				"from": "00:03:01,000",
+				"to": "00:03:08,000"
 			},
 			"offsets": {
-				"from": 149900,
-				"to": 151900
+				"from": 181000,
+				"to": 188000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " I went to a Catholic school, and I got thrown out for molesting a priest."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:31,900",
-				"to": "00:02:33,900"
+				"from": "00:03:08,000",
+				"to": "00:03:13,250"
 			},
 			"offsets": {
-				"from": 151900,
-				"to": 153900
+				"from": 188000,
+				"to": 193250
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But, you know, it is a stark and strange—do we have any Ph.D. students here"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:33,900",
-				"to": "00:02:35,900"
+				"from": "00:03:13,250",
+				"to": "00:03:14,000"
 			},
 			"offsets": {
-				"from": 153900,
-				"to": 155900
+				"from": 193250,
+				"to": 194000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " tonight?"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:35,900",
-				"to": "00:02:37,900"
+				"from": "00:03:14,000",
+				"to": "00:03:19,000"
 			},
 			"offsets": {
-				"from": 155900,
-				"to": 157900
+				"from": 194000,
+				"to": 199000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Any Ph.D. students that are insane enough to admit to it?"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:37,900",
-				"to": "00:02:39,900"
+				"from": "00:03:19,000",
+				"to": "00:03:23,000"
 			},
 			"offsets": {
-				"from": 157900,
-				"to": 159900
+				"from": 199000,
+				"to": 203000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Anyone who once had a Ph.D.?"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:39,900",
-				"to": "00:02:41,900"
+				"from": "00:03:23,000",
+				"to": "00:03:25,000"
 			},
 			"offsets": {
-				"from": 159900,
-				"to": 161900
+				"from": 203000,
+				"to": 205000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Well, you're all too stupid."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:41,900",
-				"to": "00:02:43,900"
+				"from": "00:03:25,000",
+				"to": "00:03:29,000"
 			},
 			"offsets": {
-				"from": 161900,
-				"to": 163900
+				"from": 205000,
+				"to": 209000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " I set up for this joke. I never did a Ph.D. either."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:43,900",
-				"to": "00:02:45,900"
+				"from": "00:03:29,000",
+				"to": "00:03:33,000"
 			},
 			"offsets": {
-				"from": 163900,
-				"to": 165900
+				"from": 209000,
+				"to": 213000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But think of a Ph.D. student that you really dislike, there's jokes about him."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:45,900",
-				"to": "00:02:47,900"
+				"from": "00:03:33,000",
+				"to": "00:03:38,640"
 			},
 			"offsets": {
-				"from": 165900,
-				"to": 167900
+				"from": 213000,
+				"to": 218640
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Because you know who the most sexually frustrated, raged, like, frustration"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:47,900",
-				"to": "00:02:49,900"
+				"from": "00:03:38,640",
+				"to": "00:03:41,000"
 			},
 			"offsets": {
-				"from": 167900,
-				"to": 169900
+				"from": 218640,
+				"to": 221000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " people on the planet are today?"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:49,900",
-				"to": "00:02:51,900"
+				"from": "00:03:41,000",
+				"to": "00:03:43,000"
 			},
 			"offsets": {
-				"from": 169900,
-				"to": 171900
+				"from": 221000,
+				"to": 223000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Ph.D. students."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:51,900",
-				"to": "00:02:53,900"
+				"from": "00:03:43,000",
+				"to": "00:03:47,100"
 			},
 			"offsets": {
-				"from": 171900,
-				"to": 173900
+				"from": 223000,
+				"to": 227100
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And the reason for this, like, imagine a Ph.D. student, he's, like, done 15"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:53,900",
-				"to": "00:02:55,900"
+				"from": "00:03:47,100",
+				"to": "00:03:48,000"
 			},
 			"offsets": {
-				"from": 173900,
-				"to": 175900
+				"from": 227100,
+				"to": 228000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " hours on a laptop."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:55,900",
-				"to": "00:02:57,900"
+				"from": "00:03:48,000",
+				"to": "00:03:51,570"
 			},
 			"offsets": {
-				"from": 175900,
-				"to": 177900
+				"from": 228000,
+				"to": 231570
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " It's 3 a.m., and he's still typing away, and he's got a head full of"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:57,900",
-				"to": "00:02:59,900"
+				"from": "00:03:51,570",
+				"to": "00:03:54,000"
 			},
 			"offsets": {
-				"from": 177900,
-				"to": 179900
+				"from": 231570,
+				"to": 234000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " statistical models and equations."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:59,900",
-				"to": "00:03:01,900"
+				"from": "00:03:54,000",
+				"to": "00:03:58,000"
 			},
 			"offsets": {
-				"from": 179900,
-				"to": 181900
+				"from": 234000,
+				"to": 238000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " How is this guy ever going to get to sleep?"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:01,900",
-				"to": "00:03:03,900"
+				"from": "00:03:58,000",
+				"to": "00:04:02,000"
 			},
 			"offsets": {
-				"from": 181900,
-				"to": 183900
+				"from": 238000,
+				"to": 242000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And then, oops, uptown, he's over on PornHub."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:03,900",
-				"to": "00:03:05,900"
+				"from": "00:04:02,000",
+				"to": "00:04:05,000"
 			},
 			"offsets": {
-				"from": 183900,
-				"to": 185900
+				"from": 242000,
+				"to": 245000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And there's a big mental leak that just happened there."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:05,900",
-				"to": "00:03:07,900"
+				"from": "00:04:05,000",
+				"to": "00:04:10,000"
 			},
 			"offsets": {
-				"from": 185900,
-				"to": 187900
+				"from": 245000,
+				"to": 250000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And, you know, the average Ph.D. takes about 8 years to complete."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:07,900",
-				"to": "00:03:09,900"
+				"from": "00:04:10,000",
+				"to": "00:04:15,000"
 			},
 			"offsets": {
-				"from": 187900,
-				"to": 189900
+				"from": 250000,
+				"to": 255000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Do you know how dark his habits have become after 8 years of doing this?"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:09,900",
-				"to": "00:03:11,900"
+				"from": "00:04:15,000",
+				"to": "00:04:18,000"
 			},
 			"offsets": {
-				"from": 189900,
-				"to": 191900
+				"from": 255000,
+				"to": 258000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " We're no longer into good, wholesome porn."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:11,900",
-				"to": "00:03:13,900"
+				"from": "00:04:18,000",
+				"to": "00:04:25,000"
 			},
 			"offsets": {
-				"from": 191900,
-				"to": 193900
+				"from": 258000,
+				"to": 265000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " We're, like, deep into BDSM and tentacles and, like, dwarves riding on ponies."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:13,900",
-				"to": "00:03:15,900"
+				"from": "00:04:25,000",
+				"to": "00:04:30,980"
 			},
 			"offsets": {
-				"from": 193900,
-				"to": 195900
+				"from": 265000,
+				"to": 270980
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And then after completing his Ph.D., this guy gets his dream job at a place"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:15,900",
-				"to": "00:03:17,900"
+				"from": "00:04:30,980",
+				"to": "00:04:32,000"
 			},
 			"offsets": {
-				"from": 195900,
-				"to": 197900
+				"from": 270980,
+				"to": 272000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " like Google."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:17,900",
-				"to": "00:03:19,900"
+				"from": "00:04:32,000",
+				"to": "00:04:37,000"
 			},
 			"offsets": {
-				"from": 197900,
-				"to": 199900
+				"from": 272000,
+				"to": 277000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And they put him in an office with 10 other horny Ph.D. students."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:19,900",
-				"to": "00:03:21,900"
+				"from": "00:04:37,000",
+				"to": "00:04:42,720"
 			},
 			"offsets": {
-				"from": 199900,
-				"to": 201900
+				"from": 277000,
+				"to": 282720
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Now, you may have noticed that last month, 20,000 Google employees walked out"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:21,900",
-				"to": "00:03:23,900"
+				"from": "00:04:42,720",
+				"to": "00:04:45,000"
 			},
 			"offsets": {
-				"from": 201900,
-				"to": 203900
+				"from": 282720,
+				"to": 285000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " to protest sexual harassment."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:23,900",
-				"to": "00:03:25,900"
+				"from": "00:04:45,000",
+				"to": "00:04:48,000"
 			},
 			"offsets": {
-				"from": 203900,
-				"to": 205900
+				"from": 285000,
+				"to": 288000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Were we really surprised by this?"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:25,900",
-				"to": "00:03:27,900"
+				"from": "00:04:48,000",
+				"to": "00:04:51,740"
 			},
 			"offsets": {
-				"from": 205900,
-				"to": 207900
+				"from": 288000,
+				"to": 291740
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " They're like, \"Oh, shit, I just can't take it anymore. I've got to get the fuck"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:27,900",
-				"to": "00:03:29,900"
+				"from": "00:04:51,740",
+				"to": "00:04:54,000"
 			},
 			"offsets": {
-				"from": 207900,
-				"to": 209900
+				"from": 291740,
+				"to": 294000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " out. It's like an orgy every day, man."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:29,900",
-				"to": "00:03:31,900"
+				"from": "00:04:54,000",
+				"to": "00:04:56,000"
 			},
 			"offsets": {
-				"from": 209900,
-				"to": 211900
+				"from": 294000,
+				"to": 296000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " I can't take it.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:03:31,900",
-				"to": "00:03:33,900"
+				"from": "00:04:56,000",
+				"to": "00:04:59,000"
 			},
 			"offsets": {
-				"from": 211900,
-				"to": 213900
+				"from": 296000,
+				"to": 299000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But, you know, there is a solution to this."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:33,900",
-				"to": "00:03:35,900"
+				"from": "00:04:59,000",
+				"to": "00:05:04,000"
 			},
 			"offsets": {
-				"from": 213900,
-				"to": 215900
+				"from": 299000,
+				"to": 304000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " This is a solution that might even be a step towards world peace."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:35,900",
-				"to": "00:03:37,900"
+				"from": "00:05:04,000",
+				"to": "00:05:07,000"
 			},
 			"offsets": {
-				"from": 215900,
-				"to": 217900
+				"from": 304000,
+				"to": 307000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Sex robots."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:37,900",
-				"to": "00:03:39,900"
+				"from": "00:05:07,000",
+				"to": "00:05:09,000"
 			},
 			"offsets": {
-				"from": 217900,
-				"to": 219900
+				"from": 307000,
+				"to": 309000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " You know, you're thinking about this. It's a hard question."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:39,900",
-				"to": "00:03:41,900"
+				"from": "00:05:09,000",
+				"to": "00:05:12,000"
 			},
 			"offsets": {
-				"from": 219900,
-				"to": 221900
+				"from": 309000,
+				"to": 312000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Sex robots. Technology can solve everything."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:41,900",
-				"to": "00:03:43,900"
+				"from": "00:05:12,000",
+				"to": "00:05:17,000"
 			},
 			"offsets": {
-				"from": 221900,
-				"to": 223900
+				"from": 312000,
+				"to": 317000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Because imagine if Google gave all their staff a sex box for Christmas."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:43,900",
-				"to": "00:03:45,900"
+				"from": "00:05:17,000",
+				"to": "00:05:20,630"
 			},
 			"offsets": {
-				"from": 223900,
-				"to": 225900
+				"from": 317000,
+				"to": 320630
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " You know, the whole problem is solved because, you know, they'd come out, they'd"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:45,900",
-				"to": "00:03:47,900"
+				"from": "00:05:20,630",
+				"to": "00:05:21,000"
 			},
 			"offsets": {
-				"from": 225900,
-				"to": 227900
+				"from": 320630,
+				"to": 321000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " announce,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:47,900",
-				"to": "00:03:49,900"
+				"from": "00:05:21,000",
+				"to": "00:05:27,960"
 			},
 			"offsets": {
-				"from": 227900,
-				"to": 229900
+				"from": 321000,
+				"to": 327960
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " \"Yeah, we gave all our staff sex bots. We've reduced cases of sexual harassment"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:49,900",
-				"to": "00:03:51,900"
+				"from": "00:05:27,960",
+				"to": "00:05:29,000"
 			},
 			"offsets": {
-				"from": 229900,
-				"to": 231900
+				"from": 327960,
+				"to": 329000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " by 83%."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:51,900",
-				"to": "00:03:53,900"
+				"from": "00:05:29,000",
+				"to": "00:05:34,000"
 			},
 			"offsets": {
-				"from": 231900,
-				"to": 233900
+				"from": 329000,
+				"to": 334000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " We're tracking our staff with sex bot analytics. It's great."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:53,900",
-				"to": "00:03:55,900"
+				"from": "00:05:34,000",
+				"to": "00:05:39,000"
 			},
 			"offsets": {
-				"from": 233900,
-				"to": 235900
+				"from": 334000,
+				"to": 339000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And since we gave all our staff sex bots, they are more focused and productive.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:03:55,900",
-				"to": "00:03:57,900"
+				"from": "00:05:39,000",
+				"to": "00:05:41,000"
 			},
 			"offsets": {
-				"from": 235900,
-				"to": 237900
+				"from": 339000,
+				"to": 341000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " This is a kind of a solution."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:57,900",
-				"to": "00:03:59,900"
+				"from": "00:05:41,000",
+				"to": "00:05:46,240"
 			},
 			"offsets": {
-				"from": 237900,
-				"to": 239900
+				"from": 341000,
+				"to": 346240
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Probably from here, you know, like the idea of, like, sex bots will become"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:59,900",
-				"to": "00:04:01,900"
+				"from": "00:05:46,240",
+				"to": "00:05:47,000"
 			},
 			"offsets": {
-				"from": 239900,
-				"to": 241900
+				"from": 346240,
+				"to": 347000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " mainstream"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:01,900",
-				"to": "00:04:03,900"
+				"from": "00:05:47,000",
+				"to": "00:05:52,400"
 			},
 			"offsets": {
-				"from": 241900,
-				"to": 243900
+				"from": 347000,
+				"to": 352400
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " because, you know, a normal human instinct sort of being so frustrated in so"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:03,900",
-				"to": "00:04:05,900"
+				"from": "00:05:52,400",
+				"to": "00:05:54,000"
 			},
 			"offsets": {
-				"from": 243900,
-				"to": 245900
+				"from": 352400,
+				"to": 354000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " many single people."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:05,900",
-				"to": "00:04:07,900"
+				"from": "00:05:54,000",
+				"to": "00:05:56,000"
 			},
 			"offsets": {
-				"from": 245900,
-				"to": 247900
+				"from": 354000,
+				"to": 356000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " The solution is sex robots."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:07,900",
-				"to": "00:04:09,900"
+				"from": "00:05:56,000",
+				"to": "00:05:59,000"
 			},
 			"offsets": {
-				"from": 247900,
-				"to": 249900
+				"from": 356000,
+				"to": 359000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Anthony, Anthony, would you buy a sex robot?"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:09,900",
-				"to": "00:04:11,900"
+				"from": "00:05:59,000",
+				"to": "00:06:03,000"
 			},
 			"offsets": {
-				"from": 249900,
-				"to": 251900
+				"from": 359000,
+				"to": 363000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " He said yes."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:11,900",
-				"to": "00:04:13,900"
+				"from": "00:06:03,000",
+				"to": "00:06:08,000"
 			},
 			"offsets": {
-				"from": 251900,
-				"to": 253900
+				"from": 363000,
+				"to": 368000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " So, and, you know, once this happens, the big guys are going to be like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:13,900",
-				"to": "00:04:15,900"
+				"from": "00:06:08,000",
+				"to": "00:06:10,000"
 			},
 			"offsets": {
-				"from": 253900,
-				"to": 255900
+				"from": 368000,
+				"to": 370000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " \"This is a billion dollar market.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:15,900",
-				"to": "00:04:17,900"
+				"from": "00:06:10,000",
+				"to": "00:06:14,000"
 			},
 			"offsets": {
-				"from": 255900,
-				"to": 257900
+				"from": 370000,
+				"to": 374000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And you have, like, \"We brought you the iPad. We brought you the iPhone."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:17,900",
-				"to": "00:04:19,900"
+				"from": "00:06:14,000",
+				"to": "00:06:18,000"
 			},
 			"offsets": {
-				"from": 257900,
-				"to": 259900
+				"from": 374000,
+				"to": 378000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Today, we're bringing you the iFuck.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:19,900",
-				"to": "00:04:21,900"
+				"from": "00:06:18,000",
+				"to": "00:06:22,000"
 			},
 			"offsets": {
-				"from": 259900,
-				"to": 261900
+				"from": 378000,
+				"to": 382000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And they'll be followed by Google Ho."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:21,900",
-				"to": "00:04:23,900"
+				"from": "00:06:22,000",
+				"to": "00:06:25,420"
 			},
 			"offsets": {
-				"from": 261900,
-				"to": 263900
+				"from": 382000,
+				"to": 385420
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And Amazon will be like, \"Oh, shit. What are we going to do? We've got to keep"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:23,900",
-				"to": "00:04:25,900"
+				"from": "00:06:25,420",
+				"to": "00:06:26,000"
 			},
 			"offsets": {
-				"from": 263900,
-				"to": 265900
+				"from": 385420,
+				"to": 386000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " up with these guys."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:25,900",
-				"to": "00:04:27,900"
+				"from": "00:06:26,000",
+				"to": "00:06:32,000"
 			},
 			"offsets": {
-				"from": 265900,
-				"to": 267900
+				"from": 386000,
+				"to": 392000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Let's put Alexa with drones. We call it the Flying Fuck.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:27,900",
-				"to": "00:04:29,900"
+				"from": "00:06:32,000",
+				"to": "00:06:36,000"
 			},
 			"offsets": {
-				"from": 267900,
-				"to": 269900
+				"from": 392000,
+				"to": 396000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But, I mean, if you imagine a world where, like, sex bots are mainstream,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:29,900",
-				"to": "00:04:31,900"
+				"from": "00:06:36,000",
+				"to": "00:06:39,000"
 			},
 			"offsets": {
-				"from": 269900,
-				"to": 271900
+				"from": 396000,
+				"to": 399000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " and it's just normal, like, having a phone, you have a sex bot."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:31,900",
-				"to": "00:04:33,900"
+				"from": "00:06:39,000",
+				"to": "00:06:42,000"
 			},
 			"offsets": {
-				"from": 271900,
-				"to": 273900
+				"from": 399000,
+				"to": 402000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " You know, it's like, you invite your bros around for drinks,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:33,900",
-				"to": "00:04:35,900"
+				"from": "00:06:42,000",
+				"to": "00:06:45,000"
 			},
 			"offsets": {
-				"from": 273900,
-				"to": 275900
+				"from": 402000,
+				"to": 405000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " and then the next morning, you go to text your friend, like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:35,900",
-				"to": "00:04:37,900"
+				"from": "00:06:45,000",
+				"to": "00:06:49,000"
 			},
 			"offsets": {
-				"from": 275900,
-				"to": 277900
+				"from": 405000,
+				"to": 409000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " \"Hey, dude, last night, did you fuck my sex bot?"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:37,900",
-				"to": "00:04:39,900"
+				"from": "00:06:49,000",
+				"to": "00:06:53,000"
 			},
 			"offsets": {
-				"from": 277900,
-				"to": 279900
+				"from": 409000,
+				"to": 413000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " I'm sorry, man. I'm sorry she came on to me. I couldn't help myself.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:39,900",
-				"to": "00:04:41,900"
+				"from": "00:06:53,000",
+				"to": "00:06:58,000"
 			},
 			"offsets": {
-				"from": 279900,
-				"to": 281900
+				"from": 413000,
+				"to": 418000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And then you're like, \"Dude, for fuck's sake, man, you didn't even wash her out.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:41,900",
-				"to": "00:04:43,900"
+				"from": "00:06:58,000",
+				"to": "00:07:01,000"
 			},
 			"offsets": {
-				"from": 281900,
-				"to": 283900
+				"from": 418000,
+				"to": 421000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Yeah, we're going to need sex bot security."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:43,900",
-				"to": "00:04:45,900"
+				"from": "00:07:01,000",
+				"to": "00:07:06,000"
 			},
 			"offsets": {
-				"from": 283900,
-				"to": 285900
+				"from": 421000,
+				"to": 426000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " It's going to be like swipe your dick to get in."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:45,900",
-				"to": "00:04:47,900"
+				"from": "00:07:06,000",
+				"to": "00:07:11,160"
 			},
 			"offsets": {
-				"from": 285900,
-				"to": 287900
+				"from": 426000,
+				"to": 431160
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But, yeah, you know, I mean, it's a strange world, technology and sex, how"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:47,900",
-				"to": "00:04:49,900"
+				"from": "00:07:11,160",
+				"to": "00:07:12,000"
 			},
 			"offsets": {
-				"from": 287900,
-				"to": 289900
+				"from": 431160,
+				"to": 432000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " these things mix, you know."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:49,900",
-				"to": "00:04:51,900"
+				"from": "00:07:12,000",
+				"to": "00:07:16,000"
 			},
 			"offsets": {
-				"from": 289900,
-				"to": 291900
+				"from": 432000,
+				"to": 436000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " I'm from the U.K., and recently I read a U.K. study of the use of phones,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:51,900",
-				"to": "00:04:53,900"
+				"from": "00:07:16,000",
+				"to": "00:07:19,000"
 			},
 			"offsets": {
-				"from": 291900,
-				"to": 293900
+				"from": 436000,
+				"to": 439000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " particularly in related to sexual matters."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:53,900",
-				"to": "00:04:55,900"
+				"from": "00:07:19,000",
+				"to": "00:07:23,000"
 			},
 			"offsets": {
-				"from": 293900,
-				"to": 295900
+				"from": 439000,
+				"to": 443000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And what they found is that men between the ages of 20 and 40,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:55,900",
-				"to": "00:04:57,900"
+				"from": "00:07:23,000",
+				"to": "00:07:29,000"
 			},
 			"offsets": {
-				"from": 295900,
-				"to": 297900
+				"from": 443000,
+				"to": 449000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " an amazing 50% have sent a dick pic in the last month."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:57,900",
-				"to": "00:04:59,900"
+				"from": "00:07:29,000",
+				"to": "00:07:32,000"
 			},
 			"offsets": {
-				"from": 297900,
-				"to": 299900
+				"from": 449000,
+				"to": 452000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " 50%. Now, that's a hard number to imagine."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:59,900",
-				"to": "00:05:01,900"
+				"from": "00:07:32,000",
+				"to": "00:07:34,000"
 			},
 			"offsets": {
-				"from": 299900,
-				"to": 301900
+				"from": 452000,
+				"to": 454000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " But for the ladies here, that would be a bit like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:01,900",
-				"to": "00:05:03,900"
+				"from": "00:07:34,000",
+				"to": "00:07:37,000"
 			},
 			"offsets": {
-				"from": 301900,
-				"to": 303900
+				"from": 454000,
+				"to": 457000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " you give your phone number to ten guys here,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:03,900",
-				"to": "00:05:05,900"
+				"from": "00:07:37,000",
+				"to": "00:07:41,000"
 			},
 			"offsets": {
-				"from": 303900,
-				"to": 305900
+				"from": 457000,
+				"to": 461000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " and for Christmas you've got a stack of five dicks on the phone."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:05,900",
-				"to": "00:05:07,900"
+				"from": "00:07:41,000",
+				"to": "00:07:46,000"
 			},
 			"offsets": {
-				"from": 305900,
-				"to": 307900
+				"from": 461000,
+				"to": 466000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " I don't take dick pics myself, not because I'm better than that,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:07,900",
-				"to": "00:05:09,900"
+				"from": "00:07:46,000",
+				"to": "00:07:49,000"
 			},
 			"offsets": {
-				"from": 307900,
-				"to": 309900
+				"from": 466000,
+				"to": 469000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " but it's actually because I'm a bit of a perfectionist."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:09,900",
-				"to": "00:05:11,900"
+				"from": "00:07:49,000",
+				"to": "00:07:51,000"
 			},
 			"offsets": {
-				"from": 309900,
-				"to": 311900
+				"from": 469000,
+				"to": 471000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Because a quality dick pic is hard, you know."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:11,900",
-				"to": "00:05:13,900"
+				"from": "00:07:51,000",
+				"to": "00:07:53,000"
 			},
 			"offsets": {
-				"from": 311900,
-				"to": 313900
+				"from": 471000,
+				"to": 473000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " It's like, you've got a lot to think about."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:13,900",
-				"to": "00:05:15,900"
+				"from": "00:07:53,000",
+				"to": "00:07:58,000"
 			},
 			"offsets": {
-				"from": 313900,
-				"to": 315900
+				"from": 473000,
+				"to": 478000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " The lighting, you go for some soft tones to bring out the fleshy colors."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:15,900",
-				"to": "00:05:17,900"
+				"from": "00:07:58,000",
+				"to": "00:08:02,000"
 			},
 			"offsets": {
-				"from": 315900,
-				"to": 317900
+				"from": 478000,
+				"to": 482000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Maybe some red lighting, something more erotic."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:17,900",
-				"to": "00:05:19,900"
+				"from": "00:08:02,000",
+				"to": "00:08:04,000"
 			},
 			"offsets": {
-				"from": 317900,
-				"to": 319900
+				"from": 482000,
+				"to": 484000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Do you need some props, like some roses,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:19,900",
-				"to": "00:05:21,900"
+				"from": "00:08:04,000",
+				"to": "00:08:06,000"
 			},
 			"offsets": {
-				"from": 319900,
-				"to": 321900
+				"from": 484000,
+				"to": 486000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " just kind of a dick sticking through?"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:21,900",
-				"to": "00:05:23,900"
+				"from": "00:08:06,000",
+				"to": "00:08:09,000"
 			},
 			"offsets": {
-				"from": 321900,
-				"to": 323900
+				"from": 486000,
+				"to": 489000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " That's probably dangerous. I'm not going to do that."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:23,900",
-				"to": "00:05:25,900"
+				"from": "00:08:09,000",
+				"to": "00:08:12,000"
 			},
 			"offsets": {
-				"from": 323900,
-				"to": 325900
+				"from": 489000,
+				"to": 492000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " And what about the angle? It's like the selfie problem."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:25,900",
-				"to": "00:05:27,900"
+				"from": "00:08:12,000",
+				"to": "00:08:14,000"
 			},
 			"offsets": {
-				"from": 325900,
-				"to": 327900
+				"from": 492000,
+				"to": 494000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " How do I do this?"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:27,900",
-				"to": "00:05:29,900"
+				"from": "00:08:14,000",
+				"to": "00:08:16,000"
 			},
 			"offsets": {
-				"from": 327900,
-				"to": 329900
+				"from": 494000,
+				"to": 496000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Luckily, though, I am a bit of an entrepreneur."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:29,900",
-				"to": "00:05:31,900"
+				"from": "00:08:16,000",
+				"to": "00:08:20,000"
 			},
 			"offsets": {
-				"from": 329900,
-				"to": 331900
+				"from": 496000,
+				"to": 500000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " That's why I invented the dick pic selfie stick."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:31,900",
-				"to": "00:05:33,900"
+				"from": "00:08:20,000",
+				"to": "00:08:24,000"
 			},
 			"offsets": {
-				"from": 331900,
-				"to": 333900
+				"from": 500000,
+				"to": 504000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " You can get it from dickpicselfiestick.com, $29.99."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:33,900",
-				"to": "00:05:35,900"
+				"from": "00:08:24,000",
+				"to": "00:08:29,000"
 			},
 			"offsets": {
-				"from": 333900,
-				"to": 335900
+				"from": 504000,
+				"to": 509000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " It is the perfect gift for Anthony."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:35,900",
-				"to": "00:05:37,900"
+				"from": "00:08:29,000",
+				"to": "00:08:31,000"
 			},
 			"offsets": {
-				"from": 335900,
-				"to": 337900
+				"from": 509000,
+				"to": 511000
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " Thank you. Thanks a lot. You've been great."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:37,900",
-				"to": "00:05:39,900"
+				"from": "00:08:32,000",
+				"to": "00:08:35,160"
 			},
 			"offsets": {
-				"from": 337900,
-				"to": 339900
+				"from": 512000,
+				"to": 515160
 			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:39,900",
-				"to": "00:05:41,900"
-			},
-			"offsets": {
-				"from": 339900,
-				"to": 341900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:41,900",
-				"to": "00:05:43,900"
-			},
-			"offsets": {
-				"from": 341900,
-				"to": 343900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:43,900",
-				"to": "00:05:45,900"
-			},
-			"offsets": {
-				"from": 343900,
-				"to": 345900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:45,900",
-				"to": "00:05:47,900"
-			},
-			"offsets": {
-				"from": 345900,
-				"to": 347900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:47,900",
-				"to": "00:05:49,900"
-			},
-			"offsets": {
-				"from": 347900,
-				"to": 349900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:49,900",
-				"to": "00:05:51,900"
-			},
-			"offsets": {
-				"from": 349900,
-				"to": 351900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:51,900",
-				"to": "00:05:53,900"
-			},
-			"offsets": {
-				"from": 351900,
-				"to": 353900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:53,900",
-				"to": "00:05:55,900"
-			},
-			"offsets": {
-				"from": 353900,
-				"to": 355900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:55,900",
-				"to": "00:05:57,900"
-			},
-			"offsets": {
-				"from": 355900,
-				"to": 357900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:57,900",
-				"to": "00:05:59,900"
-			},
-			"offsets": {
-				"from": 357900,
-				"to": 359900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:59,900",
-				"to": "00:06:01,900"
-			},
-			"offsets": {
-				"from": 359900,
-				"to": 361900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:01,900",
-				"to": "00:06:03,900"
-			},
-			"offsets": {
-				"from": 361900,
-				"to": 363900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:03,900",
-				"to": "00:06:05,900"
-			},
-			"offsets": {
-				"from": 363900,
-				"to": 365900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:05,900",
-				"to": "00:06:07,900"
-			},
-			"offsets": {
-				"from": 365900,
-				"to": 367900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:07,900",
-				"to": "00:06:09,900"
-			},
-			"offsets": {
-				"from": 367900,
-				"to": 369900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:09,900",
-				"to": "00:06:11,900"
-			},
-			"offsets": {
-				"from": 369900,
-				"to": 371900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:11,900",
-				"to": "00:06:13,900"
-			},
-			"offsets": {
-				"from": 371900,
-				"to": 373900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:13,900",
-				"to": "00:06:15,900"
-			},
-			"offsets": {
-				"from": 373900,
-				"to": 375900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:15,900",
-				"to": "00:06:17,900"
-			},
-			"offsets": {
-				"from": 375900,
-				"to": 377900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:17,900",
-				"to": "00:06:19,900"
-			},
-			"offsets": {
-				"from": 377900,
-				"to": 379900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:19,900",
-				"to": "00:06:21,900"
-			},
-			"offsets": {
-				"from": 379900,
-				"to": 381900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:21,900",
-				"to": "00:06:23,900"
-			},
-			"offsets": {
-				"from": 381900,
-				"to": 383900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:23,900",
-				"to": "00:06:25,900"
-			},
-			"offsets": {
-				"from": 383900,
-				"to": 385900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:25,900",
-				"to": "00:06:27,900"
-			},
-			"offsets": {
-				"from": 385900,
-				"to": 387900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:27,900",
-				"to": "00:06:29,900"
-			},
-			"offsets": {
-				"from": 387900,
-				"to": 389900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:29,900",
-				"to": "00:06:31,900"
-			},
-			"offsets": {
-				"from": 389900,
-				"to": 391900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:31,900",
-				"to": "00:06:33,900"
-			},
-			"offsets": {
-				"from": 391900,
-				"to": 393900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:33,900",
-				"to": "00:06:35,900"
-			},
-			"offsets": {
-				"from": 393900,
-				"to": 395900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:35,900",
-				"to": "00:06:37,900"
-			},
-			"offsets": {
-				"from": 395900,
-				"to": 397900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:37,900",
-				"to": "00:06:39,900"
-			},
-			"offsets": {
-				"from": 397900,
-				"to": 399900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:39,900",
-				"to": "00:06:41,900"
-			},
-			"offsets": {
-				"from": 399900,
-				"to": 401900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:41,900",
-				"to": "00:06:43,900"
-			},
-			"offsets": {
-				"from": 401900,
-				"to": 403900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:43,900",
-				"to": "00:06:45,900"
-			},
-			"offsets": {
-				"from": 403900,
-				"to": 405900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:45,900",
-				"to": "00:06:47,900"
-			},
-			"offsets": {
-				"from": 405900,
-				"to": 407900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:47,900",
-				"to": "00:06:49,900"
-			},
-			"offsets": {
-				"from": 407900,
-				"to": 409900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:49,900",
-				"to": "00:06:51,900"
-			},
-			"offsets": {
-				"from": 409900,
-				"to": 411900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:51,900",
-				"to": "00:06:53,900"
-			},
-			"offsets": {
-				"from": 411900,
-				"to": 413900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:53,900",
-				"to": "00:06:55,900"
-			},
-			"offsets": {
-				"from": 413900,
-				"to": 415900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:55,900",
-				"to": "00:06:57,900"
-			},
-			"offsets": {
-				"from": 415900,
-				"to": 417900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:57,900",
-				"to": "00:06:59,900"
-			},
-			"offsets": {
-				"from": 417900,
-				"to": 419900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:59,900",
-				"to": "00:07:01,900"
-			},
-			"offsets": {
-				"from": 419900,
-				"to": 421900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:01,900",
-				"to": "00:07:03,900"
-			},
-			"offsets": {
-				"from": 421900,
-				"to": 423900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:03,900",
-				"to": "00:07:05,900"
-			},
-			"offsets": {
-				"from": 423900,
-				"to": 425900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:05,900",
-				"to": "00:07:07,900"
-			},
-			"offsets": {
-				"from": 425900,
-				"to": 427900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:07,900",
-				"to": "00:07:09,900"
-			},
-			"offsets": {
-				"from": 427900,
-				"to": 429900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:09,900",
-				"to": "00:07:11,900"
-			},
-			"offsets": {
-				"from": 429900,
-				"to": 431900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:11,900",
-				"to": "00:07:13,900"
-			},
-			"offsets": {
-				"from": 431900,
-				"to": 433900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:13,900",
-				"to": "00:07:15,900"
-			},
-			"offsets": {
-				"from": 433900,
-				"to": 435900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:15,900",
-				"to": "00:07:17,900"
-			},
-			"offsets": {
-				"from": 435900,
-				"to": 437900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:17,900",
-				"to": "00:07:19,900"
-			},
-			"offsets": {
-				"from": 437900,
-				"to": 439900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:19,900",
-				"to": "00:07:21,900"
-			},
-			"offsets": {
-				"from": 439900,
-				"to": 441900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:21,900",
-				"to": "00:07:23,900"
-			},
-			"offsets": {
-				"from": 441900,
-				"to": 443900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:23,900",
-				"to": "00:07:25,900"
-			},
-			"offsets": {
-				"from": 443900,
-				"to": 445900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:25,900",
-				"to": "00:07:27,900"
-			},
-			"offsets": {
-				"from": 445900,
-				"to": 447900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:27,900",
-				"to": "00:07:29,900"
-			},
-			"offsets": {
-				"from": 447900,
-				"to": 449900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:29,900",
-				"to": "00:07:31,900"
-			},
-			"offsets": {
-				"from": 449900,
-				"to": 451900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:31,900",
-				"to": "00:07:33,900"
-			},
-			"offsets": {
-				"from": 451900,
-				"to": 453900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:33,900",
-				"to": "00:07:35,900"
-			},
-			"offsets": {
-				"from": 453900,
-				"to": 455900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:35,900",
-				"to": "00:07:37,900"
-			},
-			"offsets": {
-				"from": 455900,
-				"to": 457900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:37,900",
-				"to": "00:07:39,900"
-			},
-			"offsets": {
-				"from": 457900,
-				"to": 459900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:39,900",
-				"to": "00:07:41,900"
-			},
-			"offsets": {
-				"from": 459900,
-				"to": 461900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:41,900",
-				"to": "00:07:43,900"
-			},
-			"offsets": {
-				"from": 461900,
-				"to": 463900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:43,900",
-				"to": "00:07:45,900"
-			},
-			"offsets": {
-				"from": 463900,
-				"to": 465900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:45,900",
-				"to": "00:07:47,900"
-			},
-			"offsets": {
-				"from": 465900,
-				"to": 467900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:47,900",
-				"to": "00:07:49,900"
-			},
-			"offsets": {
-				"from": 467900,
-				"to": 469900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:49,900",
-				"to": "00:07:51,900"
-			},
-			"offsets": {
-				"from": 469900,
-				"to": 471900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:51,900",
-				"to": "00:07:53,900"
-			},
-			"offsets": {
-				"from": 471900,
-				"to": 473900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:53,900",
-				"to": "00:07:55,900"
-			},
-			"offsets": {
-				"from": 473900,
-				"to": 475900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:55,900",
-				"to": "00:07:57,900"
-			},
-			"offsets": {
-				"from": 475900,
-				"to": 477900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:57,900",
-				"to": "00:07:59,900"
-			},
-			"offsets": {
-				"from": 477900,
-				"to": 479900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:59,900",
-				"to": "00:08:01,900"
-			},
-			"offsets": {
-				"from": 479900,
-				"to": 481900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:01,900",
-				"to": "00:08:03,900"
-			},
-			"offsets": {
-				"from": 481900,
-				"to": 483900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:03,900",
-				"to": "00:08:05,900"
-			},
-			"offsets": {
-				"from": 483900,
-				"to": 485900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:05,900",
-				"to": "00:08:07,900"
-			},
-			"offsets": {
-				"from": 485900,
-				"to": 487900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:07,900",
-				"to": "00:08:09,900"
-			},
-			"offsets": {
-				"from": 487900,
-				"to": 489900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:09,900",
-				"to": "00:08:11,900"
-			},
-			"offsets": {
-				"from": 489900,
-				"to": 491900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:11,900",
-				"to": "00:08:13,900"
-			},
-			"offsets": {
-				"from": 491900,
-				"to": 493900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:13,900",
-				"to": "00:08:15,900"
-			},
-			"offsets": {
-				"from": 493900,
-				"to": 495900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:15,900",
-				"to": "00:08:17,900"
-			},
-			"offsets": {
-				"from": 495900,
-				"to": 497900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:17,900",
-				"to": "00:08:19,900"
-			},
-			"offsets": {
-				"from": 497900,
-				"to": 499900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:19,900",
-				"to": "00:08:21,900"
-			},
-			"offsets": {
-				"from": 499900,
-				"to": 501900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:21,900",
-				"to": "00:08:23,900"
-			},
-			"offsets": {
-				"from": 501900,
-				"to": 503900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:23,900",
-				"to": "00:08:25,900"
-			},
-			"offsets": {
-				"from": 503900,
-				"to": 505900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:25,900",
-				"to": "00:08:27,900"
-			},
-			"offsets": {
-				"from": 505900,
-				"to": 507900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:27,900",
-				"to": "00:08:29,900"
-			},
-			"offsets": {
-				"from": 507900,
-				"to": 509900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:29,900",
-				"to": "00:08:31,900"
-			},
-			"offsets": {
-				"from": 509900,
-				"to": 511900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:31,900",
-				"to": "00:08:33,900"
-			},
-			"offsets": {
-				"from": 511900,
-				"to": 513900
-			},
-			"text": " In fact, it made me realize that there's actually a whole category of untouchables."
+			"text": " (audience applauding)"
 		}
 	]
 }

@@ -17,171 +17,117 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Gareth Pinto, ladies and gentlemen. So, we only have one last act, then it's
+> Gareth Pinto, ladies and gentlemen. So, we only have one last act and it's time to take a break.
 >
-> time to take a break.
+> Let's go out and drink a little bit, am I right? Am I right? Let's smoke. No.
 >
-> Let's go out and drink a little bit. Am I right? Am I right? Let's smoke. No.
+> Let's bring up this last act, ladies and gentlemen. Give it up. It's Harry Fox, ladies and
 >
-> Let's bring up this last act, ladies and gentlemen. Give it up. It's Harry Fox,
+> gentlemen.
 >
-> ladies and gentlemen.
+> So, my name is actually Harry Fooks. It's a German name. Spell F-O-O-C-K-S. I repeat, F-O-O-C-K-S.
 >
-> So, my name is actually Harry Fox. It's a German name. Spell F-U-C-K-S. I
+> But when I'm in a room with English speakers like this, a lot of you think my name is Harry Fox.
 >
-> repeat, F-U-C-K-S.
+> My name is not Harry Fox.
 >
-> But when I'm in a room with English speakers like this, a lot of you think my
+> And in my family, when we have a family get-together, we get very upset when you call us a group of
 >
-> name is Harry Fox.
+> fuckers.
 >
-> My name is not Harry Fox. And in my family, when we have a family get-together,
+> And I have two kids. I had to call them Halver and Wather just to give them a good starting line.
 >
-> we get very upset when you call us a group of fuckers.
+> But the real problem with a name like Harry Fox is it sets a very high level of expectation.
 >
-> And I have two kids. I had to call them how-the and what-the, just to give them
+> And honestly, there's only really been about this, okay, honestly, there's that much.
 >
-> a good start in life.
+> And part of the reason for that, I think, is because I'm a single dad, you know, and I have two
 >
-> But the real problem with the name Harry Fox is it sets a very high level of
+> teenage kids.
 >
-> expectation.
+> They live with me. And living with teenagers, it's like living in a student baguette, a flat share.
 >
-> And honestly, there's only really been about this. Okay, honestly, it's not
->
-> much.
->
-> And part of the reason for that, I think, is because I'm a single dad, you know,
->
-> and I have two teenage kids.
->
-> They live with me. And living with teenagers, it's like living in a student big
->
-> in a flat share.
->
-> Because there's never any milk. It's always a fucking mess. But I have to pay
->
-> for everything.
+> Because there's never any milk. It's always a fucking mess. But I have to pay for everything.
 >
 > It is the shittest flat share ever.
 >
-> But on the good news side is that tonight, I get to get some revenge.
+> But, on the good news side, is that tonight, I get to get some revenge.
 >
 > Because Ben, my teenage son, is here. Ben, I challenge you to a comedy roast.
 >
 > Get up here, Ben. Bring it up here.
 >
-> Give it up for Ben.
+> Give it up for Ben. Wow.
 >
-> Wow.
+> Carmen, do you approve of this form of family communication?
 >
-> Common, do you approve of this form of family communication?
+> Okay, she's still thinking about it. You can judge at the end.
 >
-> Okay, she's still thinking about it.
->
-> You can judge at the end.
->
-> All right, so, here's what we're going to do.
+> Alright, so, here's what we're going to do.
 >
 > How is this for you, Ben? Is this the most awkward thing I've done for you?
 >
 > Yeah, kind of.
 >
-> All right, so we're going to increase the awkwardness with three jokes.
+> Alright, so we're going to increase the awkwardness with three jokes.
 >
-> So, and then we're going to do that.
+> So, and then we're going to do that, and then at the end, you guys get to decide that I won because
 >
-> And then at the end, you guys get to decide that I won because of my comedic
->
-> genius.
+> of my comedic genius.
 >
 > Okay, that's the rules of this thing.
 >
-> All right, so, round one.
+> Alright, so round one, exactly. Round one. Alright, so I'm going to start.
 >
-> Exactly.
+> You know, I feel kind of sorry for Ben, because when I was a kid, you know, we didn't worry about
 >
-> Round one. All right, so I'm going to start.
+> how our bodies looked.
 >
-> You know, I feel kind of sorry for Ben because when I was a kid, you know, we
+> We're now on Instagram, and Ben, he suffers from negative body image.
 >
-> didn't worry about how our bodies looked.
->
-> But now Instagram and Ben, he suffers from negative body image.
->
-> Because he kind of has some man boobs.
->
-> And the left boob is bigger than the right.
+> Because he kind of has some man boobs, and the left boob is bigger than the right.
 >
 > Wow.
 >
-> Okay, I would expect a better response now.
+> Yeah, I would expect a better response now. Okay, Ben, over to you.
 >
-> Okay, Ben, over to you.
+> So, you know that feeling when you're walking home, it's dark and there's a creepy guy following
 >
-> So, you know that feeling when you're walking home, it's dark and there's a
->
-> creepy guy following you?
+> you?
 >
 > You look back, and it's your dad.
 >
 > He is a creepy motherfucker.
 >
-> Wow.
+> Fuck.
 >
-> Holy shit.
+> Holy shit. Alright, then we're going to go, we're going to, I don't like where this is progressing.
 >
-> All right, then we're going to go.
+> Okay, so we're going to go in a different direction. Ben's love life.
 >
-> I don't like where this is progressing right now.
+> Because, you know, Ben is having a bit of a problem with the ladies, because he's already been
 >
-> Okay, so we're going to go in a different direction.
+> rejected over 50 times by the same girl.
 >
-> Ben's love life.
+> Alright, come back to that.
 >
-> Because, you know, Ben is having a bit of a problem with the ladies.
+> So, my dad is dating at the moment, and I get really stressed when he brings a date home.
 >
-> Because he's already been rejected over 50 times by the same girl.
+> You know, I worry about the future. Am I going to be in an episode of My Two Dads?
 >
-> All right, come back to that.
+> That was an inappropriate joke. Jesus.
 >
-> So, my dad is dating at the moment.
+> Alright, alright, damn. Okay, we're going to go, this is it. I'm going to, Ben, you've asked for
 >
-> And I get really stressed when he brings a date.
+> this, you've pushed it this far.
 >
-> You know, I worry about the future.
->
-> Am I going to be in an episode of My Two Dads?
->
-> What the fuck?
->
-> That was an inappropriate joke.
->
-> Jesus.
->
-> All right, all right, damn.
->
-> Okay, we're going to go.
->
-> This is it.
->
-> I'm going to...
->
-> Ben, you've asked for this.
->
-> You've pushed it this far.
->
-> We're now going all in.
->
-> Because recently, something terrible happened.
+> We're now going all in, because recently, something terrible happened.
 >
 > Recently, I caught Ben watching porn.
 >
-> Luckily, I'm a bit of an expert.
+> Luckily, I'm a bit of an expert. I can point him at all of those categories.
 >
-> I could point him at all the first categories.
->
-> All right, motherfucker.
+> Alright, motherfucker.
 >
 > You know what's worse than getting caught watching porn?
 >
@@ -191,80 +137,38 @@ notes: |
 >
 > Gross.
 >
-> Gross.
+> Alright, so, okay, so now we've just come, and what did you think of this?
 >
-> All right.
+> Was I patient? Did I listen to him?
 >
-> So...
+> Okay, fantastic, we have approval, official approval.
 >
-> Okay, so now we just come...
+> Alright, so let's decide this by your cheers. Give it up for me if you thought I was fantastic.
 >
-> And what did you think of this?
+> Alright, alright, I like this.
 >
-> Was this a...
+> Fuck it, Jesus Christ.
 >
-> Was I patient?
->
-> Did I listen to him?
->
-> Okay, fantastic.
->
-> We have approval.
->
-> Official approval.
->
-> All right.
->
-> So, let's decide this by your cheers.
->
-> Give it up for me.
->
-> If you thought I was fantastic.
->
-> Fantastic.
->
-> All right, all right.
->
-> I like this.
->
-> Fuck it.
->
-> Jesus Christ.
->
-> Getting out of control a bit.
->
-> All right, all right.
->
-> Give it up to this useless teenager.
+> Alright, alright, give it up to this useless teenager.
 >
 > What the fuck?
 >
-> Get back there.
->
-> Go do some homework.
->
-> Wow.
+> Get back there, go do some homework, wow.
 >
 > Jesus.
 >
-> Well, you know, I'm just going to say this.
+> Well, you know, I'm just going to say this, I'm just going to say that at least I'm not a
 >
-> I'm just going to say that at least I'm not a helicopter parent like Kobe
->
-> Bryant.
+> helicopter parent like Kobe Bryant.
 >
 > I'm sorry.
 >
-> I'm sorry.
+> I'm sorry, it didn't land, that joke.
 >
-> I didn't land that joke.
+> So I'm going to get out of here before this show crashes.
 >
-> So, I'm going to get out of here before this show crashes.
->
-> Thank you, guys.
+> Thank you guys.
 >
 > Give it up for Ben.
 >
 > Wow.
->
-> That was fun.

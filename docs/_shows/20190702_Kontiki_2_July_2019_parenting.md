@@ -17,17 +17,21 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Okay, I have to say, she failed to mention Turkish people dancing.
+> I have to say she failed to mention Turkish people dancing.
 >
-> We get arrested if we do that. It's very sad.
+> We'd get arrested if we didn't.
 >
 > Ladies and gentlemen, we only have one last comedian left in our first half.
 >
-> I know, guys. Awww.
+> I know guys.
+>
+> Awww.
 >
 > Do it harder!
 >
-> Don't worry, guys. We've got more comedy in the second half.
+> Awww.
+>
+> Don't worry guys, we've got more comedy in the second half.
 >
 > But for now, the stage is to the last comedian.
 >
@@ -35,103 +39,113 @@ notes: |
 >
 > time.
 >
-> I love this comedian. Ladies and gentlemen, make some noise for Harry Fuchs,
+> I love this comedian.
 >
-> everybody!
+> Ladies and gentlemen, make some noise for Harry Fox everybody!
 >
-> So my name is actually Harry Fuchs.
+> So, my name is actually Harry Fox.
 >
-> What was it?
+> It's a German name.
 >
-> It's a German name spelled F-U-C-K-S. I repeat, F-U-C-K-S.
+> It's spelled F-U-C-K-S-R-E-P.
 >
-> With English speakers like this, a lot of you think my name is Harry Bucks.
+> F-U-C-K-S-R-E-P.
+>
+> With English speakers like this, a lot of you think my name is Harry Fox.
 >
 > In my family, when we have a family get-together, we get very upset when you
 >
-> call us a group of fuckers.
+> call us a group
+>
+> of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them howler and whatler.
+> I had to call them Howler and Whatler.
 >
-> But I am a very proud father.
+> But I am a very proud father, because I know a lot of our parents, and I'm a
 >
-> Because I know a lot about parenting.
+> single dad.
 >
-> I'm a single dad. Both my kids are young. They're teenagers now.
+> Both my kids have only a teenager's head.
 >
-> And I was there. I was there in the room where they were born.
+> And I was there in the room where they were born.
 >
-> And I was behind my partner, propping her up, calming her down.
+> And I was behind my partner, propping her up, hugging her down, and now I can
 >
-> And now I can give some advice to all the young men here.
+> give some
 >
-> Before you become fathers, at a certain point, the nurse will come to you and
+> advice to all the young men here, before you become fathers.
 >
-> say,
+> At a certain point, the nurse will come to you and say, "You can see the head!"
 >
-> "You can see the head. Why don't you come and look?"
+> "Why don't you come and look?"
 >
-> The correct answer is NO!
+> The correct answer is, "No!"
 >
-> Because if you go around there, if you go around there, you are going to see
+> Because if you go around there, you are going to see things that are going to
 >
-> things that are going to disturb you.
+> disturb your
+>
+> life.
 >
 > For example, the bit that you love the most about your partner, the most
 >
-> perfect thing on her,
+> perfect thing
 >
-> just got turned into the Gotthard Tunnel.
+> on her, just got turned into the gutter tunnel.
 >
-> And like the Gotthard Tunnel, in the future it's going to take you a long time
+> And like the gutter tunnel, in the future, it's going to take you a long time
 >
-> to get in there.
+> to get
+>
+> in there.
 >
 > You're still not going to be allowed to use the second tunnel.
 >
 > And once you're inside, you're probably going to fall asleep.
 >
-> It's not good stuff. So that's why you don't do that.
+> It's not good stuff, so that's why you don't do that.
 >
-> In fact, it does kind of upset me.
+> In fact, it does kind of upset me that society has so many misplaced ideas
 >
-> That society has so many misplaced ideas about babies and children.
+> about babies and
+>
+> children.
 >
 > For example, have you ever seen a group of young women, when one of them has
 >
-> just had her first child,
+> just had
 >
-> and they all gather around and go, "Oh, so cute, so sweet, a baby!"
+> her first child, and they're all gathered around her, "Oh, so cute, so sweet, a
 >
-> "I just love the way babies smell!"
+> baby!
 >
-> I hate to break this to you.
+> I just love the way babies smell!"
 >
-> That is not the smell of a baby.
+> I hate to break this to you, but it's not the smell of a baby.
 >
-> That is the smell of something that just spent nine months in your frame.
+> It's the smell of something that just spent nine months in your friend's vagina.
 >
-> Nine months in your friend's vagina.
+> The correct thing you should be saying is, "Oh, so cute, so sweet, I just love
 >
-> The correct thing you should be saying is, "Oh, so cute, so sweet!"
+> the smell
 >
-> "I just love the smell of your pussy."
+> of your pussy!"
 >
 > This is how society gets it wrong.
 >
-> But, you know, for me, parenting is hard, especially as a single parent.
+> You know, for me, parenting is hard, especially as a single parent, and one of
 >
-> And one of the big problems nowadays is dealing with technology.
+> the big problems
 >
-> Parenting and technology brings up a lot of new problems that have never been
+> nowadays is dealing with technology, like parenting and technology brings up a
 >
-> seen before.
+> lot of
+>
+> new problems that have never been seen before.
 >
 > For example, recently, I caught my 13-year-old son looking at porn.
->
-> Hell yeah!
 >
 > Luckily, I could point him at the best categories.
 >
@@ -139,178 +153,164 @@ notes: |
 >
 > We came to an agreement in the end.
 >
-> We said, "Right, son, we're going to sort this on categories."
+> We said, "Son, we're going to sort this on categories.
 >
-> Right now, you get to look at penis and vagina.
+> Right now, you get to look at penis and vagina, you get to look at blowjobs,
 >
-> You get to look at blowjobs.
+> you get to look
 >
-> You get to look at masturbation.
+> at masturbation.
 >
-> For his birthday, he's getting lesbians.
+> For his birthday, he's getting lesbians, because you've got to keep some fantasies
 >
-> You've got to keep some fantasies about things you will never see.
+> about things
 >
-> And then, you know, when he gets older, like at 16, maybe he gets into coup
+> you will never see.
 >
-> shots.
+> And then, you know, when he gets older, like at 16, you know, maybe he gets
 >
-> At 18, we're talking anal.
+> into coup shots,
 >
-> But we're saving strangling, deep throat, this kind of stuff, to when he gets
+> 18, we're talking anal, but we're saving strangling, deep throat, this kind of
 >
-> dumped by his first girlfriend.
+> stuff to when he
+>
+> gets dumped by his first girlfriend.
 >
 > You've got to be a responsible parent.
 >
-> And another problem with this is, you know, he plays Fortnite.
+> Another problem with this is, you know, he plays Fortnite.
 >
 > Have you heard of Fortnite?
 >
-> Just in case you haven't heard of it, it's an online shooter.
+> Just in case you haven't heard of it, it's an online shooter, you play it
 >
-> You play it against other people online.
+> against other
+>
+> people online.
 >
 > Recently, the makers of Fortnite said they had 125 million players online at
 >
-> the same time.
+> the same
 >
-> That is so many kids.
+> time.
 >
-> But they're saying it's ruining an entire generation.
+> That is so many kids, that they're saying it's ruining an entire generation.
 >
-> But for me, as a father, I actually think it's teaching my son some important
+> But for me as a father, I actually think it's teaching my son some important
 >
 > life skills.
 >
 > Because, for example, he's learned to sit still in a chair for eight hours
 >
-> without moving, going to the toilet, or eating.
+> without moving
 >
-> Which is clearly a great experience for future office life.
+> onto the toilet, or eating, which is clearly a great experience for the future
 >
-> And his English.
+> of his life.
 >
-> His English has gone very good.
+> And his English, his English has gone very good.
 >
-> He's learned some key phrases like...
+> He's learned some key phrases like, "Bitch, I will fuck you up!"
 >
-> "Bitch, I will fuck you up!"
+> Or, "I will piss on you like Donald Trump!"
 >
-> "And I will piss on you like Donald Trump!"
+> Again, I'm very proud, very proud.
 >
-> Again, I'm very proud.
+> If you have a little bit longer, you know what's coming up.
 >
-> You have a little bit longer.
+> Because I also have a daughter, and you're already, the anticipation is
 >
-> Okay, you know what's coming up.
+> wonderful.
 >
-> Because I also have a daughter.
+> Because it's really like, for me as a man, bringing up a daughter is really
 >
-> You're already...
+> tough.
 >
-> The anticipation is going through you.
+> Because I'm really there confronted with situations I'm wholly unprepared for.
 >
-> Because it's really like...
+> Because recently I came back from work, I went into the bathroom, and oh my god,
 >
-> For me, it's a memory that the daughter is really tough.
+> it
 >
-> You know, because I'm really there confronted with situations I'm wholly unprepared
+> looked like a crime scene.
 >
-> for.
+> There was a bloody hand print on the mirror, drops of blood in the sink, more
 >
-> Because, like, recently I came back from work.
+> on the floor,
 >
-> I went into the bathroom.
+> and the toilet looked like something from a horror movie.
 >
-> And, oh my God, it looked like a crime scene.
+> And then I heard a screaming, and I looked around, and I realized the screaming
 >
-> There was a bloody handprint on the mirror.
+> was coming
 >
-> Drops of blood in the sink.
+> from me.
 >
-> More on the floor.
+> But at that moment, at that moment, my daughter showed up, and she said, "Dad,
 >
-> And the toilet looked like something from a horror movie.
+> guess what?
 >
-> And then I heard a screaming.
+> I got my period!"
 >
-> And I looked around.
+> So after cleaning up my daughter's menstrual block, I was like, "Hey, can I get
 >
-> And I realized the screaming was coming from me.
->
-> But at that moment, at that moment, my daughter showed up.
->
-> And she said, "Dad, guess what? I got my period!"
->
-> So, after cleaning up my daughter's menstrual bed...
->
-> I was like, "Hey, can I get you something?"
+> you something?"
 >
 > And she said, "Dad, get me tampons."
 >
-> Now, obviously, as a man, I have zero qualifications.
+> Now obviously as a man, I have zero qualifications for this, but I thought, "It
 >
-> But I thought, "Can't be so hard."
+> can't be so hard."
 >
-> So, I went over to Miglo.
->
-> And I took a look around.
+> So I went over to Miglo, and I took a look around.
 >
 > And what I learned is that tampon product names are exactly no use whatsoever
 >
-> when it comes to choosing a tampon.
+> when it
 >
-> Because, for example, you have, like, OB Pro.
+> comes to choosing a tampon.
 >
-> What are we talking?
+> Because for example, you have like, OB PRO, what are we talking, for like,
 >
-> For, like, professional women that bleed for a living?
+> professional
 >
-> Yeah, that's strange. Okay.
+> women that bleed for a living?
 >
-> And then we have Tampax Radiance.
+> Yeah, that's strange, okay.
 >
-> Like, what, glow-in-the-dark tampons?
+> And then we have TAMPAX RADIANCE, like what, glow-in-the-dark tampons, when the
 >
-> When the lights are off, just to get it in there?
+> lights
 >
-> The one I like the most, though, is Always Infinity.
+> are off to scare women?
+>
+> The one I like the most, though, is ALWAYS INFINITY.
 >
 > For when your vagina is an unfillable black hole.
 >
-> But I ended up choosing another product from Always.
+> But I ended up choosing another product from ALWAYS, it's called ALWAYS HOME BY
 >
-> It's called Always Home by Eleven.
+> ELEVEN.
 >
-> It is amazing.
+> It is amazing, because right about ten o'clock it starts to leak, and she is ALWAYS,
 >
-> Because right about 10 o'clock, it starts to leak.
+> ALWAYS
 >
-> And she is always, always home by 11:00.
+> HOME BY ELEVEN.
 >
-> And for me, for me again, I was very proud as a father.
+> And for me, for me again, I was very proud as a father, because as a father, it's
 >
-> Because as a father, it's not every day you get to choose what your daughter crams
+> not
 >
-> in her vagina.
+> every day you get to choose what your daughter crams in her vagina.
 >
-> Thank you very much.
->
-> Thank you.
->
-> Thank you.
->
-> Thank you.
->
-> Thank you.
->
-> Thank you.
->
-> Give it up for Harry Flux, everybody!
+> Give it up for Harry Fox, everybody!
 >
 > Oh my goodness!
 >
-> Now, was that a fantastic half of comedy or what?
+> Now, was that a fantastic half of comedy, or what?
 >
 > Okay, what we're gonna do now, we're gonna take a very quick break, okay?
+>
+> ♪ Can't get some drinks ♪

@@ -16,396 +16,270 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> We're off tonight. Before that, I have to tell you guys something about the
+> Tonight before that I have to tell you guys something about the donation box.
 >
-> donation box.
+> We really appreciate you guys giving us anything
 >
-> We really appreciate you guys giving us anything. We really will accept
+> We really will accept anything
 >
-> anything.
+> Except maybe not 11. Okay, so please
 >
-> Except, uh, maybe not a lemon, okay? So please keep it simple. I'll give this
+> Keep it simple. I'll give this to you. You deserve 11 tonight
 >
-> to you.
+> Okay, ladies and gentlemen, are you guys ready for your last performer of
 >
-> You deserve a lemon tonight. Um, okay, ladies and gentlemen.
+> tonight?
 >
-> Are you guys ready for your last performer of tonight?
+> Also after the show Michelle will be at the door if you if the box missed you
 >
-> Also, after the show, Michelle will be at the door if the box missed you.
+> but now it's time for the last performer
 >
-> But now, it's time for the last performer of tonight.
+> Of tonight. This guy's very funny. He's originally from the UK, but he's been
 >
-> This guy is very funny. He's originally from the UK, but he's been living here
+> living here for a very long time
 >
-> for a very long time.
+> Ladies and gentlemen, make some noise for Harry Fox everybody
 >
-> Ladies and gentlemen, make some noise for Harry Fox, everybody!
+> So my name is actually Harry books
 >
-> Thank you!
+> a
 >
-> So my name is actually Harry Fox.
+> German name it's spelled if you CKS are a PFU
 >
-> It's a German name.
+> CKS
 >
-> It's spelled F-U-C-K-S. I repeat, F-U-C-K-S.
+> But for Joe the American at the back you think it's Harry Fox, then
 >
-> But for Joe the American at the back, you think it's Harry Fucks, don't it?
+> And you know in my family when we have a family get-together we get very upset
 >
-> That's a better name.
+> when you call us a group of fuckers
 >
-> My name is not Harry Fucks, then.
+> And I have two kids I had to call them Albert and water
 >
-> And, you know, in my family, when we have a family get-together, we get very
+> But you know the real problem with the name like Harry Fox is it sets a very
 >
-> upset when you call us a group of fuckers.
+> high level of expectation
 >
-> And I have two kids.
+> Honestly, there's only been about this much fucking okay honest
 >
-> I had to call them Halber and Watber.
+> But and you know and recently this has actually been starting to worry me
 >
-> But, you know, the real problem with the name, like, Harry Fucks, is it sets a
+> because because if the thought occurred to me recently
 >
-> very high level of expectation.
+> How do I know actually if I'm any good at sex?
 >
-> And, honestly, there's only been about this much fucking.
+> Because I read a thing recently said to be good at anything
 >
-> Okay, honestly, there's not much fucking.
+> It takes 10,000 hours
 >
-> But, and, you know, and recently this has actually been starting to worry me.
+> That's right 10,000 hours is a lot of fucking
 >
-> Because the thought occurred to me recently, how do I know, actually, if I'm
+> Probably I get to about
 >
-> any good at sex?
+> If I include masturbation
 >
-> Because I read a thing recently, it said, to be good at anything, it takes 10,000
+> You know to me this is a really depressing thought you know because because
 >
-> hours.
+> when I come here on a night like this
 >
-> That's right, 10,000 hours is a lot of fucking.
+> And I see all of you wasting time listening to me. I know that all of you must
 >
-> If I add it all up, if I add it all up, probably I get to about 5,000.
+> suck at sex, too
 >
-> If I include masturbation.
+> Wasting time in here because you know if you fuck for 24 hours for an entire
 >
-> I think you understand this, don't you?
+> year
 >
-> I think you understand this, don't you?
+> You're only at 8,000 hours
 >
-> I think you understand this, don't you?
+> If you live to 70 years you have to fuck ten times a day from the day you were
 >
-> I think you understand this, don't you?
+> born
 >
-> I think you understand this, don't you?
+> What's worse about that the idea of newborn babies fucking
 >
-> I think you understand this, don't you?
+> Or the idea of sex with old people
 >
-> I think you understand this, don't you?
+> But at this point at this point someone in this crowd is like this is bullshit
 >
-> I think you understand this, don't you?
+> I know I'm good at sex like Joe over there. You know I am American
 >
-> I think you understand this, don't you?
+> Way too much muscle. I am good at sex Joe Joe. I hate to tell you this
 >
-> I think you understand this, don't you?
+> There are only two types of people that think that prostitutes and compulsive
 >
-> I think you understand this, don't you?
+> liars
 >
-> I think you understand this, don't you?
+> Stop lying Joe. You know you're a hoe
 >
-> You know, to me, this is a really depressing thought, you know, because when I
+> But you know to me the thing actually the real problem here is that you know
 >
-> come here
+> men and women
 >
-> on a night like this, and I see all of you wasting time listening to me, I know
+> We don't really know what the opposite likes about sex you know because I went
 >
-> that
+> on a date recently with a girl
 >
-> all of you must suck at sex, too.
+> We ended up in bed, and she could not even tell me where her own clitoris was
 >
-> Just wasting time in here, because, you know, if you fuck for 24 hours for an
+> she couldn't tell me
 >
-> entire year,
+> Now it might have been because I forgot to remove the gag. I can't remember
 >
-> you're only at 8,000 hours.
+> Yes, there was a girl involved in this joke, thank you, we got a hopelessly
 >
-> You may have done the maths on this.
+> confused
 >
-> If you live to sex, you're only at 8,000 hours.
+> For the rest of the crowd
 >
-> If you live to sex, you're only at 8,000 hours.
+> No, so I've been thinking about this a lot
 >
-> If you live to sex, you're only at 8,000 hours.
+> I've been thinking you know what can we do so that men and women understand
 >
-> If you live to sex, you're only at 8,000 hours.
+> each other better, and then it hit me
 >
-> If you live to sex, you're only at 8,000 hours.
+> All it's really simple all you have to do is take a number three tram through
 >
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
->
-> If you live to sex, you're only at 8,000 hours.
+> Zurich
 >
 > If you take a number three tram, it's going to stop at places that will blow
 >
-> your mind.
+> your mind
 >
-> Because first of all, it's going to stop outside Sensuel.
+> Because first of all it's going to stop outside
 >
-> Now, Sensuel is a sex shop for women.
+> sensual
 >
-> It's full of feathers and aromas and sexy underwear and erotic literature.
+> Now sensual is a sex shop for women. It's full of feathers and aromas and sexy
 >
-> Because for women, a lot about what makes sex enjoyable is what's going on in
+> underwear and erotic literature
 >
-> their head.
+> Because for women a lot about what makes sex enjoyable is what's going on in
 >
-> In their head.
+> their head in the head
 >
-> Which I think means I need to put my...
+> Which I think means I need to come
 >
 > What do you mean now?
 >
-> With this, you just ruined my joke about putting my dick in your mouth.
+> With this you just ruined my joke about putting my dick in your mouth
 >
-> Fuck you.
+> This is a participatory common bath
 >
-> Point to me at the end.
+> Okay, so you know so let's get let's get the current focus again
 >
-> I'm not talking about it so much.
+> Yes, let's get back on our tram through Zurich you with me on the number three
 >
-> God damn it.
+> You're cruising through and you're going to come to another sex shop a sex shop
 >
-> This is a patisserie common bath.
+> for men
 >
-> Whatever.
+> called the erotic factory
 >
-> Okay, so...
+> because for men
 >
-> You know, so...
+> Nothing is more erotic than a factory
 >
-> Let's get the crowd focus again.
+> Full of underpaid workers
 >
-> So...
+> in a first world country
 >
-> Let's...
+> It's a very sexy thing and you can get it in the names
 >
-> Let's...
+> You know like erotic factory men sensual women this thing is never really going
 >
-> Let's get back on our tram through Zurich.
+> to work is it you know?
 >
-> Are you with me on the number three tram through Zurich?
+> But that's when I realized you know this is actually the key to our happiness
 >
-> Thank you.
+> Because you know you could come to a night light and tonight like sweaty here,
 >
-> And someone gag her, please.
+> and you see someone you like like Chris and sweaty
 >
-> Bondage girls, do you have something for her?
+> So it's a lot of hair I just had
 >
-> Alright, back on the tram.
+> You came here you saw Chris the intern you thought
 >
-> You're cruising through Zurich.
+> It's really simple because as you both suck at sex you can just so Chris I feel
 >
-> And you're going to come to another sex shop.
+> you man
 >
-> A sex shop for men.
+> You suck at sex so do I let's have bad sex together
 >
-> Called the Erotic Factory.
+> Do we have some more time one minute I'm gonna climb it one fast minute. Yeah,
 >
-> Because for men, nothing is more erotic than a factory.
+> this which is probably gonna last about four minutes
 >
-> It's full of underpaid workers in a first world country.
+> So you know I wonder about this stuff actually I think about you know gender
 >
-> It's a very sexy thing.
+> issues a lot because I'm actually a single dad
 >
-> And you can get it in the names.
+> I have a I have a teenage daughter and
 >
-> You know, like Erotic Factory, men, sensual, women.
+> Being a single dad with a teenage daughter. It's hard because you know you're
 >
-> This thing is never really going to work, is it?
+> being confronted with things. You're just completely unprepared for
 >
-> But that's when I realized, you know, this is actually the key to our happiness.
+> Like like recently I came back from work. I went into the bathroom. Oh my god.
 >
-> Because, you know, you could come to a night like tonight, like Sweaty here.
+> It looked like a crime scene
 >
-> And you see someone you like, like Chris.
+> There was a bloody hand print on the mirror
 >
-> And Sweaty...
+> Drops of blood in the sink drops of blood on the floor and the toilet looked
 >
-> Sorry, that's Sweaty.
+> like something from a horror movie
 >
-> I don't know who I am.
+> And then I heard a screaming and I looked around
 >
-> Sorry, it's a lot of hair.
+> And I realized the screaming was coming from me
 >
-> I just have hair.
+> But that moment to rescue me my daughter came up and she said hey dad I got my
 >
-> Okay, Sweaty, you came here.
+> period
 >
-> You saw Chris, the intern.
+> Yeah, so after cleaning out my daughter's menstrual blood I was like
 >
-> You thought, hmm, can I get you a coffee?
+> Can I get you something and she said dad get me tampons
 >
-> Some of that special coffee.
+> Now obviously this is a job. I'm completely unqualified for
 >
-> But, you know, what are you going to do?
+> But I thought this can't be so hard so I went over to me girl
 >
-> It's really simple.
+> I took a look around and what I found is the tampon product names are no use
 >
-> Because as you both suck at sex, you can just say, Chris, I feel you, man.
+> whatsoever
 >
-> I feel you, baby, Chris.
+> When it comes to choosing a tampon because you have names like OB pro
 >
-> You suck at sex, so do I.
+> This is like for professional women that bleed for a living
 >
-> Let's have bad sex together.
+> Or
 >
-> Or the coffee.
+> Tampax radiance like glow-in-the-dark tampons when the lights are off just so
 >
-> Do we have some more time?
+> you can cram it in there
 >
-> One minute.
+> The one I like the most was was was always infinity because that's for when
 >
-> One minute.
+> your vagina is an undeterrable black hole
 >
-> Okay, I'm going to cram it one fast minute.
+> But that's not what you know my daughter in fact
 >
-> You know, this...
+> What I ended up getting for my daughter was another product from or was it's
 >
-> Which is probably going to last about four minutes.
+> called always home by 11
 >
-> So, you know, I wonder about this stuff, actually.
+> Bring the clamps after because what this tampon does is right about 10 o'clock
 >
-> I think about, you know, gender issues a lot.
+> it starts leaking
 >
-> Because I'm actually a single dad.
+> For me, you know
 >
-> I have a teenage daughter.
+> It's not often you're this proud as a father because it's not every day that
 >
-> And being a single dad with a teenage daughter, it's hard.
+> you get to choose all your daughter crowns in that
 >
-> Because, you know, you're being...
+> vagina
 >
-> You're being confronted with things you're just completely unprepared for.
->
-> Like recently, you know.
->
-> I came back from work.
->
-> I went into the bathroom.
->
-> And, oh, my God.
->
-> It looked like a crime scene in there.
->
-> There was a bloody handprint on the mirror.
->
-> Drops of blood in the sink.
->
-> Drops of blood on the floor.
->
-> And the toilet looked like something from a horror movie.
->
-> And then I heard a screaming.
->
-> And I looked around.
->
-> And I realized the screaming was coming.
->
-> It was coming from me.
->
-> But at that moment, to rescue me, my daughter came up.
->
-> And she said, hey, Dad, I got my period.
->
-> Yeah, so after cleaning out my daughter's menstrual blood,
->
-> I was like, hey, can I get you something?
->
-> And she said, Dad, get me tampons.
->
-> Now, obviously, this is a job I'm completely unqualified for.
->
-> But I thought, this can't be so hard.
->
-> So I went over.
->
-> I went to Amigro.
->
-> And I took a look around.
->
-> And what I found is that tampon product names are no use whatsoever
->
-> when it comes to choosing a tampon.
->
-> Because you have names like OB Pro.
->
-> This is like for professional women that bleed for a living.
->
-> Or Tampax Radiance.
->
-> Like glow-in-the-dark tampons.
->
-> And the lights are off just so you can climb in there.
->
-> The one I liked the most was...
->
-> was Always Infinity.
->
-> Because that's for when your vagina is an unfillable black hole.
->
-> But that's obviously not my daughter.
->
-> In fact, what I ended up getting for my daughter
->
-> was another product from Always.
->
-> It's called Always Home by Eleven.
->
-> It is amazing.
->
-> It's fantastic.
->
-> Wait, wait.
->
-> The story continues.
->
-> Wait one second.
->
-> Bring the claps after.
->
-> Because...
->
-> Because...
->
-> What this tampon does is around about 10 o'clock it starts leaking.
->
-> And she's always home by eleven.
->
-> And for me, you know, it made me a very proud father.
->
-> It's not often you're this proud as a father.
->
-> Because it's not every day that you get to choose what your daughter crams in
->
-> her vagina.
->
-> Because it's not every day that you get to choose what your daughter crams in
->
-> her vagina.
+> I

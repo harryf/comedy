@@ -18,31 +18,33 @@ notes: ""
 
 > That's that white privilege we've been talking about.
 >
-> That was hilarious. Very nice.
+> That was hilarious, very nice.
 >
 > Ladies and gentlemen, we have one act left tonight.
 >
-> I know, oh my god. Oh, it's over. It's almost over.
+> I know, oh my god, oh, it's over, it's almost over.
 >
-> We have one last act tonight, everybody.
+> We have one last act tonight, everybody,
 >
-> And this guy is very funny. He's originally from the UK.
+> and this guy's very funny.
 >
-> He's been living here four years. He's done our shows before.
+> He's originally from the UK, he's been living here
 >
-> Ladies and gentlemen, make some noise for your last act tonight.
+> four years, he's done our shows before.
 >
-> Harry Fox, everybody!
+> Ladies and gentlemen, make some noise
 >
-> So my name is actually Harry Fuchs.
+> for your last act tonight, Harry Fox, everybody!
 >
-> It's a German name.
+> - So my name is actually Harry Fooks.
 >
-> Spelled F-U-C-K-S. I repeat, F-U-C-K-S.
+> It's a German name, spelled F-O-O-C-K-S.
 >
-> But with English speakers like this, a lot of you think my name is Harry Fox.
+> I repeat, F-O-O-C-K-S, but with English speakers like this,
 >
-> My name is not Harry Fox.
+> a lot of them think my name is Harry Fux.
+>
+> But my name is not Harry Fux.
 >
 > In my family, when we have a family get-together,
 >
@@ -50,133 +52,159 @@ notes: ""
 >
 > And I have two kids.
 >
-> I had to call them Halber and Wopper.
+> I had to call them Howler and Whatler.
 >
-> Yeah, it's tough, you know.
+> Yeah, it's tough, you know, and the problem, actually,
 >
-> And the problem actually with a name like Harry Fuchs
+> with a name like Harry Fux is often people come up
 >
-> is often people come up and they just say stupid shit.
+> and they just say stupid shit.
 >
-> Like recently this American tourist came up and he was like,
+> Like recently, this American tourist came up
 >
-> Yo, man, Harry Fuchs! Harry Fuchs!
+> and he was like, "Yo, man, Harry Fux.
 >
-> What, man?
+> "Harry Fux what, man?"
 >
-> And I'm like, what?
+> I'm like, "What?"
 >
-> He's like, Harry Fuchs what? Exactly!
+> He's like, "Harry Fux what, exactly?"
 >
-> And I'm like, uh, okay, let's see if we can throw him off with some adverbs.
+> I'm like, "Okay, let's see if we can throw him off
 >
-> Uh, Harry Fuchs, hopefully.
+> "with some adverbs.
 >
-> Harry Fuchs, occasionally.
+> "Harry Fux hopefully.
 >
-> Harry Fuchs, enthusiastically.
+> "Harry Fux occasionally.
 >
-> That threw him off. He just, like, melted down at that point.
+> "Harry Fux enthusiastically."
 >
-> But, you know, honestly, the real thing about Harry Fuchs is it sets a very
+> That threw him off.
 >
-> high level of expectation.
+> He just melted down at that point.
+>
+> But, you know, honestly, the real thing about Harry Fux,
+>
+> it sets a very high level of expectation.
 >
 > I've only really done about this much fucking.
 >
-> Like, recently, it's been this much fucking.
+> In fact, recently, it's been this much fucking.
 >
 > It's been a long time.
 >
-> And, you know, actually, put your hand up if you haven't had sex in a long time.
+> And, you know, actually, put your hand up
 >
-> Okay. I hadn't realized I was coming to the Zurich Nymphomaniac Sonoma Theater.
+> if you haven't had sex in a long time.
 >
-> So maybe to help you guys understand how it is when you haven't had sex for a
+> - It's been a long time.
 >
-> long time,
+> - Okay, I hadn't realized I was coming
 >
-> it's kind of like...
+> to the Zurich nymphomaniacs and nuns theater.
 >
-> hallucinating.
+> So, maybe to help you guys understand
 >
-> Because you could be, like, walking down the street and you see a couple of
+> how it is when you haven't had sex for a long time,
 >
-> dogs
+> it's kind of like you're hallucinating.
 >
-> sniffing each other's asses and you look at them and you're like,
+> 'Cause you could be like walking down the street
 >
-> "I wish that was me!"
+> and you see a couple of dogs sniffing each other's asses
 >
-> Or you go over to a negro and you see an acción on watermelon.
+> and you look at them and you're like,
+>
+> "I wish that was me."
+>
+> Or you go up to a micro
+>
+> and you see an action on a watermelon.
 >
 > You know, one hand on that watermelon, maybe two.
 >
-> Bam! It's like you're in a different dimension.
+> Bam, it's like you're in a different dimension.
 >
-> It's this watermelon, it's getting hot, you've forgotten people are watching
+> This is really a watermelon.
 >
-> you,
+> It's getting hot, you've forgotten,
 >
-> it's getting steamy, and then you hear this,
+> people are watching you, it's getting steamy.
 >
-> "Jungemann, schämen Sie sich nicht!"
+> And then you hear this,
 >
-> And you look, and there's an old lady about to hit you with that handbag.
+> "You're not sharing this information!"
+>
+> And you look and there's an old lady
+>
+> about to hit you with her handbag.
 >
 > And you think she's nice.
 >
 > And that's how it is.
 >
-> But, you know, it actually gets worse because recently I started to wonder,
+> But, you know, it actually gets worse
 >
-> "Am I even any good at sex?"
+> because recently I started to wonder,
 >
-> Because I read recently that to be good at anything takes 10,000 hours.
+> am I even any good at sex?
+>
+> Because I read recently that to be good at anything,
+>
+> it takes 10,000 hours.
 >
 > Have you heard this?
 >
-> See, 10,000 hours is a lot of work.
+> See, 10,000 hours is a lot of fucking.
 >
-> It's a lot of fucking.
+> I've thought about this, you know,
 >
-> I've thought about this, you know, because if you fuck for 24 hours a day for
+> because if you fuck for 24 hours a day
 >
-> an entire year,
+> for an entire year, you're only at 8,000 hours.
 >
-> you're only at 8,000 hours.
+> If you live to the age of 70,
 >
-> If you live to the age of 70, you have to fuck 10 times a day from the day you're
+> you have to fuck 10 times a day
 >
-> born
+> from the day you're born until the day you die.
 >
-> until the day you die.
+> And I know what's worse about that,
 >
-> And I know what's worse about that, the idea of newborn babies fucking,
+> the idea of newborn babies fucking
 >
-> or the idea of
+> or the idea of sex with old people
 >
-> sex with old people on the day they're dying.
+> on the day they're dying.
 >
 > It's very dark.
 >
 > But, you know, I've been thinking about this a lot.
 >
-> And, you know, a while back, a long time ago, as we've ascertained here,
+> And, you know, a while back,
 >
-> what I realized is that the big problem is that men and women,
+> a long time ago as a teenager,
 >
-> we don't really understand what the opposite likes about sex.
+> what I realized is that the big problem
 >
-> Because a long time ago, I was on a date with this girl,
+> is that men and women,
 >
-> and she could not even tell me where her own clitoris was.
+> we don't really understand what the opposite likes
+>
+> about sex.
+>
+> 'Cause a long time ago, I was on a date with this girl,
+>
+> and she could not even tell me
+>
+> where her own clitoris was.
 >
 > Can you believe that?
 >
 > She couldn't tell me.
 >
-> That might have been because I forgot to remove the gag.
+> Now, it might have been 'cause I forgot to remove the gag.
 >
 > I can't remember.
 >
@@ -186,190 +214,182 @@ notes: ""
 >
 > And I've been thinking about this a lot.
 >
-> And I think I've found a simple solution for everyone living in Europe.
+> And I think I found a simple solution
 >
-> All you have to do is take a number three tram through the city.
+> for everyone living in Europe.
 >
-> If you take a number three tram, it's going to stop at places that will blow
+> All you have to do is take a number three tram
 >
-> your mind.
+> through the city.
 >
-> Like, first of all, it's going to stop outside Sensuel.
+> If you take a number three tram,
+>
+> it's gonna stop at places that will blow your mind.
+>
+> Like, first of all, it's gonna stop outside Sensuel.
 >
 > Now, Sensuel is a sex shop for women.
 >
-> It's full of feathers and aromas and sexy underwear and erotic literature.
+> It's full of feathers and aromas
 >
-> Because for women, a lot about what makes sex enjoyable is what's happening in
+> and sexy underwear and erotic literature.
 >
-> their head.
+> Because for women, a lot about what makes sex enjoyable
 >
-> In their head, you know.
+> is what's happening in their head, in their head, you know?
 >
 > Which I think that means I need to put my dick in her mouth.
 >
-> Okay, so I know it's an edgy joke because I thought, oh god, I guess we're
+> Okay, I know that's an edgy joke.
 >
-> gonna laugh.
+> It's like, "Oh, God, I guess we gotta laugh at this one.
 >
-> We're gonna laugh at this one.
+> "Thank you, thank you for making the effort.
 >
-> Thank you.
+> "Let's quickly get back on the tram through Zurich
 >
-> Thank you for making the effort.
+> "and move on past."
 >
-> Let's quickly get back on the tram through Zurich and move on past.
+> If you carry on through Zurich,
 >
-> If you carry on through Zurich, eventually that tram is going to stop outside
+> eventually that tram is gonna stop outside another sex shop,
 >
-> another sex shop.
->
-> A sex shop for men called the Erotic Factory.
+> a sex shop for men called the erotic factory.
 >
 > Because for men, nothing is more erotic than a factory.
 >
-> Full of underpaid workers.
+> Full of underpaid workers, but in a first world country.
 >
-> But in the first world, come on.
+> And if you think about it, it's right there in the names.
 >
-> We're a country, you know.
+> You know, like erotic factory men, Sensuel women.
 >
-> And if you think about it, it's right there in the names, you know.
+> It's kind of never gonna work.
 >
-> Like erotic factory men, sensual women.
+> But when I got thinking about this,
 >
-> It's kind of never going to work.
+> maybe, maybe this is actually the key to our happiness.
 >
-> But what I got thinking about this, maybe, maybe this is actually the key to
+> Because you could come to a place like this tonight
 >
-> our happiness.
+> and you see someone you like and you'd be like,
 >
-> Because, you know, you could come to a place like this tonight and you see
+> "Hey, I feel you, yeah, I know.
 >
-> someone you like
+> "I know you suck at sex.
 >
-> and you'd be like, hey, I feel you.
+> "So do I.
 >
-> Yeah, I know.
+> "Let's have bad sex together."
 >
-> I know you suck at sex.
->
-> So do I.
->
-> Let's have bad sex together.
->
-> Should I carry on a bit, or should I just...
+> Should I carry on a bit, or should I just?
 >
 > So, all right, I do a little bit more.
 >
 > A little bit more.
 >
-> Just to tell more about myself.
+> Just sort of tell more about myself.
 >
 > That's what we do here on stage.
 >
-> I'm also a single dad and I have teenage kids.
+> I'm also a single dad, and I have teenage kids.
 >
 > I have a teenage daughter.
 >
-> Being a father of a teenage daughter is hard because I'm always being
+> Being a father of a teenage daughter is hard,
 >
-> confronted with
+> because I'm always being confronted with situations
 >
-> situations I'm just wholly unprepared for.
+> I'm just wholly unprepared for.
 >
-> Like recently, I came back from work and went
+> Like recently, I came back from work,
 >
-> in the bathroom and, oh my God, it looked like a crime scene in there.
+> and went in the bathroom, and oh my God,
 >
-> There was like a bloody handprint on the mirror, drops of blood in the sink,
+> it looked like a crime scene in there.
 >
-> more blood on
+> There was like a bloody hand print on the mirror,
 >
-> the floor, and the toilet looked like something from a horror movie.
+> drops of blood in the sink, more blood on the floor,
 >
-> And then I heard a screaming.
+> and the toilet looked like something from a horror movie.
 >
-> And I looked around and I realized that the screaming was coming from me.
+> And then I heard a screaming, and I looked around,
 >
-> But at that moment, my daughter showed up and said, hey, dad, I got my period.
+> and I realized that the screaming was coming from me.
 >
-> So after cleaning, I went to the bathroom.
+> But at that moment, my daughter showed up and said,
 >
-> I was cleaning up that menstrual blood.
+> "Hey, Dad, I got my period."
 >
-> I was like, hey, can I get you something?
+> So after cleaning up her menstrual blood,
 >
-> And she said, dad, get me tampons.
+> I was like, "Hey, can I get you something?"
 >
-> So I thought, okay, I'm completely unqualified for this job, but okay, it can't
+> And she said, "Dad, get me tampons."
 >
-> be so hard.
+> So I thought, okay, I'm completely unqualified
 >
-> So I went back to Migros wearing a wig and I took a look around and what I
+> for this job, but okay, it can't be so hard.
 >
-> found is that
+> So I went back to me, you know, wearing a wig,
 >
-> tampon product names are no use whatsoever when it comes to choosing a tampon.
+> and I took a look around, and what I found
 >
-> Because, you know, for example, there are names like OB Pro, because it's like
+> is that tampon product names are no use whatsoever
 >
-> foot
+> when it comes to choosing a tampon.
 >
-> professional women that bleed for a living.
+> Because, you know, for example, there are names like OB Pro.
 >
-> I don't think I want that for my daughter.
+> What is this, like, for professional women
+>
+> that bleed for a living?
+>
+> Don't think I want that for my daughter.
 >
 > Or there's Tampax Radiance.
 >
-> What are we talking here?
->
-> Like glow-in-the-dark tampons?
+> What are we talking here, like, glow-in-the-dark tampons?
 >
 > For when the lights are off, you need to get it in?
 >
-> I don't know.
+> I don't know, I don't understand.
 >
-> I don't understand.
+> But to me, the one I like the most,
 >
-> But to me, the one I like the most, the one I could kind of connect with to is
+> the one I could kind of connect with, too,
 >
-> always
+> is Always Infinity, for when your vagina
 >
-> infinity.
+> is an unfitable black hole.
 >
-> For when your vagina is an unfittable black hole.
+> But, you know, what I ended up doing, though,
 >
-> But, you know, what I ended up doing though, I ended
+> I ended up choosing another product from Always.
 >
-> up choosing another product from Always.
+> It's called Always Promo 11, it's fantastic.
 >
-> It's called Always Home by Eleven.
+> Around about 10 o'clock, it starts leaking,
 >
-> It's fantastic.
+> and she is always promo by 11, it's amazing.
 >
-> Around about 10 o'clock it starts leaking and she is always home by eleven.
+> And for me, the whole experience,
 >
-> It's amazing.
+> it made me very proud as a father,
 >
-> And for me, for me, the whole experience, it made me very proud as a father,
+> because, honestly, it's not every day you get to choose
 >
-> because
+> what your daughter crowns in her vagina.
 >
-> honestly, it's not every day you get to choose what your daughter crowns in her
+> Okay, I'm gonna leave you in that dark place.
 >
-> vagina.
+> I know you've been super hot, I got a few weak laughs,
 >
-> Okay, I'm going to leave you in that dark place.
->
-> I know you've been super hot.
->
-> Yeah, I've got a few wee gloves, but thanks for making that much effort.
+> but thanks for making that much effort.
 >
 > Have a good evening.
 >
-> Give it up for Harry Foster, everybody!
+> - Give it up for Harry Fox, everybody!
 >
-> Give it up.
->
-> Wow.
+> - Bring it on.

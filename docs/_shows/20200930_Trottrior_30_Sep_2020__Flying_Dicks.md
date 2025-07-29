@@ -25,6 +25,8 @@ notes: |
 >
 > Good night.
 >
+> Good night.
+>
 > Suicide.
 >
 > Good night, everybody.
@@ -37,9 +39,9 @@ notes: |
 >
 > Okay, we make these free shows possible with your donations.
 >
-> So I'll be standing right there between those two pillars after the show
+> So I'll be standing right there between those two pillars
 >
-> with a little donation box.
+> after the show with a little donation box.
 >
 > So please give it so we can do it.
 >
@@ -47,7 +49,7 @@ notes: |
 >
 > I think we're ready for our last comedian of tonight.
 >
-> Trotar, are you guys ready?
+> Toronto, are you guys ready?
 >
 > Let's break up this room.
 >
@@ -55,29 +57,35 @@ notes: |
 >
 > This is one side of the room.
 >
-> And you're the third group.
+> And you're the third group, okay?
 >
-> Okay, cool?
->
-> This side of the room, are you ready?
+> Cool?
 >
 > This side of the room, are you ready?
 >
-> This guy, are you ready?
+> - Yeah!
 >
-> You ruined it.
+> - This side of the room, are you ready?
+>
+> - Ready!
+>
+> - This guy, are you ready?
+>
+> - Yeah!
+>
+> - You ruined it.
 >
 > I'm joking.
 >
 > Ladies and gentlemen, give it up for your last comedian tonight.
 >
-> It's Harry Fox.
+> It's Harry Fox, give it up for him!
 >
-> Give it up for him.
+> - Nothing happened, William.
 >
-> I'm just going to wait.
+> - I'm just gonna wait.
 >
-> Can you, can you do something about this?
+> - Can you do something about it?
 >
 > Okay.
 >
@@ -87,1000 +95,576 @@ notes: |
 >
 > And I suffer from PPS.
 >
-> That's perfect penis syndrome.
+> Perfect Penis Syndrome.
 >
 > I'm also the most humble person I know.
 >
-> And it's hard.
+> And it's hard, it's hard to be this humble
 >
-> It's hard to be this humble when your penis is this perfect.
+> when your penis is this perfect.
 >
-> Sometimes in, sometimes I go to the supermarket, I go to the vegetable section,
+> Sometimes I go to the supermarket,
 >
-> I find the
+> I go to the vegetable section,
 >
-> cucumbers and I stare them down just to let them know I'm not intimidated.
+> I find the cucumbers and I stare them down
 >
-> And actually, I only discovered that I suffer from PPS last Christmas, because
+> just to let them know I'm not intimidated.
 >
-> I met this lady, she was a bit of an expert, a dick-spert, if you will.
+> And actually I only discovered that I suffer from PPS
 >
-> And when she told me, wait, wait, hold on a second, could you, could you keep
+> last Christmas.
 >
-> up with the jokes, please?
+> Because I met this lady, she was a bit of an expert,
+>
+> a dick-spert, if you will.
+>
+> And when she told me...
+>
+> Wait, wait, hold on a second.
+>
+> Could you keep up with the jokes, please?
 >
 > You're throwing off the whole rhythm here.
 >
-> Okay.
+> Okay, let's just return.
 >
-> Let's just return, she told me that I suffer from PPS and I was shocked.
+> She told me that I suffer from PPS.
 >
-> I was stunned because I needed that information 30 years ago.
+> And I was shocked, I was stunned,
+>
+> because I needed that information 30 years ago.
 >
 > It could have changed my life.
 >
-> I could have been like a pool boy or a pizza delivery guy or a snake charmer or
+> I could have been like a pool boy
 >
-> something.
+> or a pizza delivery guy,
+>
+> or a snake charmer or something.
 >
 > I don't know.
 >
-> Instead, I have spent my whole life working with computers.
+> Instead, I have spent my whole life
 >
-> I've been working with entirely the wrong.
+> working with computers.
 >
-> Hardware all these years.
+> I've been working with entirely the wrong hardware
 >
-> Okay.
+> all these years.
 >
-> A weak reaction to that and expected more.
+> Okay, a weak reaction to that.
+>
+> I'd expected more.
 >
 > Can I call it a new joke?
 >
-> Yeah, sure.
+> - Yeah, sure.
 >
-> I read, I heard something recently, I read something and this is real.
+> - I heard something recently, I read something,
 >
-> It blew my mind.
+> and this is real, it blew my mind.
 >
-> So some psychologists studying men, they figured out that men only reach
+> So some psychologists studying men,
 >
-> emotional and mental maturity at the age of 40.
+> they figured out that men only reach
 >
-> 43.
+> emotional and mental maturity at the age of 43.
 >
-> That is crazy.
+> That is crazy, I'm like a four-year-old.
 >
-> I'm like, I'm like a four year old.
+> I think this lady here understands
 >
-> I think this lady here understands what I'm talking about.
+> what I'm talking about.
 >
-> It's unusual.
+> - It's a new joke.
 >
-> I mean, actually, when you think about this, it just, I do, sir, I just want to
+> - I mean, actually, when you think about this,
 >
-> say I love
+> it just, I do, sir, I just want to say
 >
-> the lesbian haircut.
+> I love the lesbian haircut that you're wearing.
 >
 > I'm with you there.
 >
-> How, how old are you, sir?
+> How old are you, sir?
 >
-> I'm 42.
+> - I'm 42.
 >
-> 42.
+> - 42, okay, you're up there.
 >
-> Okay.
+> So you're one year to go, you're gonna be there.
 >
-> You're out there.
+> You know, and sometimes when I see a young couple,
 >
-> So you're one year to go.
+> like they're both 24, and I just think,
 >
-> You're going to be there.
->
-> You know, and sometimes when I see a young couple, you know, you're going to be
->
-> there.
->
-> You're going to be there.
->
-> You know, you're going to be there.
->
-> You're going to be there.
->
-> You're going to be there.
->
-> You know, I just think, okay, so women apparently reach maturity at 32.
+> okay, so women apparently reach maturity at 32.
 >
 > That's 11 years before men, 11 years.
 >
-> So when you see a couple that's 24, that's actually like a 13 year old with
+> So when you see a couple that's 24,
 >
-> someone that
+> that's actually like a 13-year-old
 >
-> has a strange love of young boys.
+> with someone that has a strange love of young boys.
 >
 > It is a very weird thing.
 >
-> It actually changes your whole perspective on anything like weddings, for
+> It actually changes your whole perspective on anything,
 >
-> example, you
+> like weddings, for example.
 >
-> know, like, oh, I'm going to be a man.
+> You have the bride and the groom.
 >
-> I'm going to be a woman.
+> Is that 'cause she spent five years grooming him
 >
-> I'm going to be a man.
+> to come to this event?
 >
-> I'm going to be a woman.
+> I don't know.
 >
-> I'm going to be a woman.
+> Just a thought, okay.
 >
-> I'm going to be a woman.
+> I read another thing recently.
 >
-> I'm going to be a woman.
+> Let's move on from the idea
 >
-> I'm going to be a woman.
+> that all women are pedophiles.
 >
-> I'm going to be a woman.
+> 'Cause that is clearly making people uncomfortable.
 >
-> I'm going to be a woman.
+> I read another thing.
 >
-> I'm going to be a woman.
+> Let's make it a bit more uncomfortable for the guys,
 >
-> I'm going to be a woman.
+> 'cause I read that they did a survey,
 >
-> I'm going to be a woman.
+> and they discovered that in the age range 20 to 40,
 >
-> I'm going to be a woman.
+> almost 50% of men sent a dick pic
 >
-> I'm going to be a woman.
+> in the last three months.
 >
-> I'm going to be a woman.
+> That is a crazy statistic.
 >
-> I'm going to be a woman.
+> Maybe I can help you.
 >
-> I'm going to be a woman.
+> Ma'am, can I use you for the purposes of this show
 >
-> I'm going to be a woman.
+> to be sure? (audience laughing)
 >
-> I'm going to be a woman.
+> I'm not gonna send you a dick pic.
 >
-> I'm going to be a woman.
+> I just, what's your name, ma'am?
 >
-> I'm going to be a woman.
+> - Stephanie. - Stephanie, so Stephanie.
 >
-> I'm going to be a woman.
+> To help you visualize this number, Stephanie,
 >
-> I'm going to be a woman.
+> if you gave your number to 10 guys in this room,
 >
-> I'm going to be a woman.
+> by Christmas time, you got a stack of five dicks,
 >
-> I'm going to be a woman.
+> and that's fantastic.
 >
-> I'm going to be a woman.
+> You can then print them out,
 >
-> I'm going to be a woman.
+> use them as Christmas cards,
 >
-> I'm going to be a woman.
+> hang 'em from your tree,
 >
-> I'm going to be a woman.
+> put 'em in an album, give it as a present to your dad.
 >
-> I'm going to be a woman.
+> There's so much you can do with this.
 >
-> I'm going to be a woman.
+> I see, Stephanie, you're still struggling with this.
 >
-> I'm going to be a woman.
+> I'm just looking around.
 >
-> I'm going to be a woman.
+> Who of these guys could be in that 50%?
 >
-> I'm going to be a woman.
+> Obviously, you. (audience laughing)
 >
-> I'm going to be a woman.
+> Dick.
 >
-> I'm going to be a woman.
+> When you send us a selfie, just of your face,
 >
-> I'm going to be a woman.
+> are you like, "Hey, I just sent you a dick pic."
 >
-> I'm going to be a woman.
+> Do you do that sometimes?
 >
-> I'm going to be a woman.
+> Have you ever done that?
 >
-> I'm going to be a woman.
+> 'Cause it's a dick pic.
 >
-> I'm going to be a woman.
+> I get it.
 >
-> I'm going to be a woman.
+> You never made that connection.
 >
-> I'm going to be a woman.
+> Okay, thank you.
 >
-> I'm going to be a woman.
+> Please do that this evening after the show.
 >
-> I'm going to be a woman.
+> I didn't believe it.
 >
-> I'm going to be a woman.
+> What?
 >
-> I'm going to be a woman.
+> - What's your number?
 >
-> I'm going to be a woman.
+> - Wow, ah.
 >
-> I'm going to be a woman.
+> This just turned into the greatest show I've ever done.
 >
-> I'm going to be a woman.
+> Ah, thank you.
 >
-> I'm going to be a woman.
+> Chris, I feel that you, you know,
 >
-> I'm going to be a woman.
+> maybe you could support me in my comedy career
 >
-> I'm going to be a woman.
+> in anything, right?
 >
-> I'm going to be a woman.
+> - Yeah.
 >
-> I'm going to be a woman.
+> - You could pay me on dick pics.
 >
-> I'm going to be a woman.
+> Now, I don't take dick pics myself.
 >
-> I'm going to be a woman.
+> Now, you may not believe that, you know,
 >
-> I'm going to be a woman.
+> when you have a perfect penis,
 >
-> I'm going to be a woman.
+> obviously you'd think you would,
 >
-> I'm going to be a woman.
+> but the reason why I don't take dick pics myself
 >
-> I'm going to be a woman.
+> is I'm a bit of a perfectionist.
 >
-> I'm going to be a woman.
+> Because taking a quality dick pic is hard.
 >
-> I'm going to be a woman.
+> You know, there's a lot to think about.
 >
-> I'm going to be a woman.
+> You gotta think about the lighting.
 >
-> I'm going to be a woman.
+> Do you go for like a soft, mellow tone
 >
-> I'm going to be a woman.
+> to bring out the skin colors
 >
-> I'm going to be a woman.
+> or something more red and erotic?
 >
-> I'm going to be a woman.
+> Do I need some props, you know?
 >
-> I'm going to be a woman.
+> Do I need to put some roses around here
 >
-> I'm going to be a woman.
+> for this dick pic?
 >
-> I'm going to be a woman.
+> I don't wanna prick my dick as I'm doing this.
 >
-> I'm going to be a woman.
+> And, you know, you also gotta think about the angle
 >
-> I'm going to be a woman.
+> 'cause it's a selfie.
 >
-> I'm going to be a woman.
+> Is it like here or here?
 >
-> I'm going to be a woman.
+> Or like under there?
 >
-> I'm going to be a woman.
+> I don't know.
 >
-> I'm going to be a woman.
+> Luckily for you guys, I'm a bit of an entrepreneur.
 >
-> I'm going to be a woman.
+> That's why I invented the dick pic selfie stick.
 >
-> I'm going to be a woman.
+> Okay, I think, but I'm not gonna give it to you guys
 >
-> I'm going to be a woman.
+> 'cause I don't feel that you appreciate
 >
-> I'm going to be a woman.
+> the genius of that invention enough this evening.
 >
-> I'm going to be a woman.
+> - Give it to us.
 >
-> I'm going to be a woman.
+> - I'll give it to you for free,
 >
-> I'm going to be a woman.
+> a free sample for you, sir.
 >
-> I'm going to be a woman.
+> Okay, so, you know, sometimes when I think about
 >
-> I'm going to be a woman.
+> all the dick pics that I'm not able to take
 >
-> I'm going to be a woman.
+> because I'm a perfectionist, I get very depressed.
 >
-> I'm going to be a woman.
+> And when that happens, I do what a real man does.
 >
-> I'm going to be a woman.
+> I get on YouTube and watch animal videos.
 >
-> I'm going to be a woman.
+> And recently, I discovered an animal.
 >
-> I'm going to be a woman.
+> This creature blew my mind.
 >
-> I'm going to be a woman.
+> This is the greatest sea creature in all the oceans.
 >
-> I'm going to be a woman.
+> Dick, can you guess what animal I'm talking about?
 >
-> I'm going to be a woman.
+> - A mantis shrimp.
 >
-> I'm going to be a woman.
+> - A what?
 >
-> I'm going to be a woman.
+> - What?
 >
-> I'm going to be a woman.
+> - No, that was the last joke again
 >
-> I'm going to be a woman.
+> that you just reacted to.
 >
-> I'm going to be a woman.
+> Dick, dick, tell me, greatest sea creature.
 >
-> I'm going to be a woman.
+> She's just throwing me off.
 >
-> I'm going to be a woman.
+> - A shark.
 >
-> I'm going to be a woman.
+> - A shark, a shark is a very good choice, but wrong.
 >
-> I'm going to be a woman.
+> - Whale.
 >
-> I'm going to be a woman.
+> - The great, no, not whale, you only get one guess,
 >
-> I'm going to be a woman.
+> people, fuck it up, but you're all wrong.
 >
-> I'm going to be a woman.
+> The greatest animal in all the oceans,
 >
-> I'm going to be a woman.
+> not a dolphin either, Sasha.
 >
-> I'm going to be a woman.
+> It is the?
 >
-> I'm going to be a woman.
+> - A sheep.
 >
-> I'm going to be a woman.
+> - A sheep.
 >
-> I'm going to be a woman.
+> - In the ocean.
 >
-> I'm going to be a woman.
+> - Did you, what did you do to the sheep
 >
-> I'm going to be a woman.
+> after it ended up in the ocean?
 >
-> I'm going to be a woman.
+> - A shrimp.
 >
-> I'm going to be a woman.
+> - A shrimp, oh, a shrimp.
 >
-> I'm going to be a woman.
+> No, do we have any, okay.
 >
-> I'm going to be a woman.
+> - Your mother's swimming.
 >
-> I'm going to be a woman.
+> - No, that's not right, let's work this out now.
 >
-> I'm going to be a woman.
+> You don't want the joke, come on, give me more sea creatures,
 >
-> I'm going to be a woman.
+> let's get it out of your system.
 >
-> I'm going to be a woman.
+> - Plankton.
 >
-> I'm going to be a woman.
+> - What, plankton?
 >
-> I'm going to be a woman.
+> You call a plankton a great sea creature.
 >
-> I'm going to be a woman.
+> Now I understand what's happening in this relationship.
 >
-> I'm going to be a woman.
+> Anyone else, any more sea creatures?
 >
-> I'm going to be a woman.
+> Oh, can I tell my joke now?
 >
-> I'm going to be a woman.
+> All right.
 >
-> I'm going to be a woman.
+> - A sea sheep.
 >
-> I'm going to be a woman.
+> - A what?
 >
-> I'm going to be a woman.
+> - A sea sheep.
 >
-> I'm going to be a woman.
+> - A sea sheep.
 >
-> I'm going to be a woman.
+> - You didn't think of sheep on Earth, right?
 >
-> I'm going to be a woman.
+> - Dick, I think you need to focus on your dick, Dick.
 >
-> I'm going to be a woman.
+> So, it's true, oh, do you have an animal?
 >
-> I'm going to be a woman.
+> - An octopus.
 >
-> I'm going to be a woman.
+> - An octopus.
 >
-> I'm going to be a woman.
+> - Thank you, ma'am, one person, give it up for her.
 >
-> I'm going to be a woman.
+> What is your name, ma'am?
 >
-> I'm going to be a woman.
+> - Deanna.
 >
-> I'm going to be a woman.
+> - Deanna, Deanna, I don't know what your price is,
 >
-> I'm going to be a woman.
+> but you deserve a prize after showing up
 >
-> I'm going to be a woman.
+> the entire audience here tonight.
 >
-> I'm going to be a woman.
+> The greatest, exactly, it's an octopus,
 >
-> I'm going to be a woman.
+> but it's a very special type of octopus,
 >
-> I'm going to be a woman.
+> it's called the argonaut octopus.
 >
-> I'm going to be a woman.
+> Now I need to explain this to you,
 >
-> I'm going to be a woman.
+> I know that's gonna be tough for the IQ level here,
 >
-> I'm going to be a woman.
+> so pay close attention.
 >
-> I'm going to be a woman.
+> Oh, this crowd is getting upset now,
 >
-> I'm going to be a woman.
+> I insulted their intelligence.
 >
-> I'm going to be a woman.
+> No, you're all great people,
 >
-> I'm going to be a woman.
+> you're very imaginative with your sea creatures.
 >
-> I'm going to be a woman.
+> All right, so, argonaut octopus.
 >
-> I'm going to be a woman.
+> Now to explain this, the female argonaut is very aggressive,
 >
-> I'm going to be a woman.
+> and so the male, if he gets anywhere near the female,
 >
-> I'm going to be a woman.
+> she's gonna eat him,
 >
-> I'm going to be a woman.
+> so the men are terrified of the females,
 >
-> I'm going to be a woman.
+> and I'm sensing there could be a few of these two guys,
 >
-> I'm going to be a woman.
+> especially here, understand this octopus.
 >
-> I'm going to be a woman.
+> So, the male has developed a unique solution,
 >
-> I'm going to be a woman.
+> I need to explain this in my David Attenborough voice.
 >
-> I'm going to be a woman.
+> When the male of a species spots a female,
 >
-> I'm going to be a woman.
+> he detaches his penis, it swims through the water,
 >
-> I'm going to be a woman.
+> and it hones in on her vagina.
 >
-> I'm going to be a woman.
+> Oh, sorry, not your vagina, that was accidental.
 >
-> I'm going to be a woman.
+> Yeah, shit, you know, Google this stuff,
 >
-> I'm going to be a woman.
+> there is an octopus out there, I'll put it in layman's terms,
 >
-> I'm going to be a woman.
+> it has a detachable, heat-seeking dick.
 >
-> I'm going to be a woman.
+> This is the greatest,
 >
-> I'm going to be a woman.
+> why are we not teaching kids in school about this?
 >
-> I'm going to be a woman.
+> It is insanely brilliant.
 >
-> I'm going to be a woman.
+> And what it made me realize, it just got me thinking,
 >
-> I'm going to be a woman.
+> I was like, wow, why is it only octopuses?
 >
-> I'm going to be a woman.
+> What if human beings had detachable dicks?
 >
-> I'm going to be a woman.
+> That would be crazy, that would be insane.
 >
-> I'm going to be a woman.
+> We probably have, like, dick-related sports, you know?
 >
-> I'm going to be a woman.
+> You'd have, like, dick racing,
 >
-> I'm going to be a woman.
+> you'd have, like, the dickathlon,
 >
-> I'm going to be a woman.
+> Nike changes its slogan to just dick it,
 >
-> I'm going to be a woman.
+> and you'd have a whole new set of dick-related problems,
 >
-> I'm going to be a woman.
+> like, what if you lost your dick?
 >
-> I'm going to be a woman.
+> My God, that would be insane,
 >
-> I'm going to be a woman.
+> you just gotta hope you don't have on your phone,
 >
-> I'm going to be a woman.
+> like, find my penis.
 >
-> I'm going to be a woman.
+> - Dick insurance.
 >
-> I'm going to be a woman.
+> - Dick insurance, good, but do you work in insurance?
 >
-> I'm going to be a woman.
+> He's immediately spotted an opportunity.
 >
-> I'm going to be a woman.
+> Very, I like the entrepreneurial level here.
 >
-> I'm going to be a woman.
+> Could you borrow your friend's dick?
 >
-> I'm going to be a woman.
+> You know, he'd be like,
 >
-> I'm going to be a woman.
+> I wasn't cheating, it was his dick.
 >
-> I'm going to be a woman.
+> Yeah, I don't know, it's a lot of things.
 >
-> I'm going to be a woman.
+> And the more I thought about it, the more crazy it gets,
 >
-> I'm going to be a woman.
+> and, you know, Stephanie was like,
 >
-> I'm going to be a woman.
+> can I use you again for another example joke?
 >
-> I'm going to be a woman.
+> What would you do as a professional, Stephanie?
 >
-> I'm going to be a woman.
+> - Event coordinator.
 >
-> I'm going to be a woman.
+> - You, I'm sorry?
 >
-> I'm going to be a woman.
+> - Event coordinator.
 >
-> I'm going to be a woman.
+> - Event coordinator, very nice.
 >
-> I'm going to be a woman.
+> So imagine, it's Monday morning,
 >
-> I'm going to be a woman.
+> you've got Stephanie, she's at the tram stop,
 >
-> I'm going to be a woman.
+> she's on her phone just trying to,
 >
-> I'm going to be a woman.
+> in the calendar, coordinating events,
 >
-> I'm going to be a woman.
+> and she's, like, just kind of oblivious
 >
-> I'm going to be a woman.
+> to the world around her, and suddenly, bam!
 >
-> I'm going to be a woman.
+> This dick just slaps her in the face!
 >
-> I'm going to be a woman.
+> She's like, oh, fuck!
 >
-> I'm going to be a woman.
+> She hides behind some old lady just to throw it off,
 >
-> I'm going to be a woman.
+> she gets down, she pulls out her dick shield
 >
-> I'm going to be a woman.
+> like Captain America, dicks are just flying all around,
 >
-> I'm going to be a woman.
+> hitting the shield, boom, boom, boom.
 >
-> I'm going to be a woman.
+> She's like, oh, fuck, the tram arrives,
 >
-> I'm going to be a woman.
+> she jumps in, she arrives at work,
 >
-> I'm going to be a woman.
+> and luckily, there's a sign saying,
 >
-> I'm going to be a woman.
+> please keep your penis attached during office hours.
 >
-> I'm going to be a woman.
+> Moral of the story, would you like a moral
 >
-> I'm going to be a woman.
+> just to wrap this up?
 >
-> I'm going to be a woman.
+> So the moral is that even though we live
 >
-> I'm going to be a woman.
+> in these strange times of COVID and Donald Trump
 >
-> I'm going to be a woman.
+> and environmental meltdown, look on the bright side.
 >
-> I'm going to be a woman.
+> At least you're not being chased down the street
 >
-> I'm going to be a woman.
+> by a flying penis.
 >
-> I'm going to be a woman.
+> All right, it's a happy ending for the show.
 >
-> I'm going to be a woman.
+> Thanks a lot, guys.
 >
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
->
-> I'm going to be a woman.
+> Okay, well, this was a great show.

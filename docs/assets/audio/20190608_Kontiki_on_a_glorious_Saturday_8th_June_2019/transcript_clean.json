@@ -2,1495 +2,961 @@
     {
         "type": "text",
         "start": 0.0,
-        "end": 2.24,
-        "text": "Ladies and gentlemen, we've made it. We have made it."
+        "end": 4.64,
+        "text": "Ladies and gentlemen, we've made it. We have made it. This is the last act of"
     },
     {
         "type": "text",
-        "start": 2.24,
-        "end": 5.14,
-        "text": "This is the last act of tonight."
+        "start": 4.64,
+        "end": 5.22,
+        "text": "tonight."
     },
     {
         "type": "text",
-        "start": 5.14,
-        "end": 8.68,
-        "text": "I know you guys are excited to meet this last comedian of tonight."
+        "start": 5.22,
+        "end": 9.44,
+        "text": "I know you guys are excited to meet this last comedian of tonight, so let's not"
     },
     {
         "type": "text",
-        "start": 8.68,
-        "end": 10.52,
-        "text": "So let's not waste any time."
+        "start": 9.44,
+        "end": 10.72,
+        "text": "waste any time."
     },
     {
         "type": "text",
-        "start": 10.52,
-        "end": 14.48,
+        "start": 10.72,
+        "end": 14.92,
         "text": "Ladies and gentlemen, he is the sexiest comedian here in the Zurich comedy"
     },
     {
         "type": "text",
-        "start": 14.48,
-        "end": 15.1,
+        "start": 14.92,
+        "end": 15.34,
         "text": "scene."
     },
     {
         "type": "text",
-        "start": 15.1,
-        "end": 17.44,
+        "start": 15.34,
+        "end": 18.2,
         "text": "Give it up for Harry Fuchs, everybody!"
     },
     {
         "type": "text",
-        "start": 17.44,
-        "end": 17.78,
-        "text": "Hey!"
+        "start": 28.2,
+        "end": 36.58,
+        "text": "So my name is actually Harry Fuchs. It's a German name, spelled F-U-C-K-S, I"
     },
     {
         "type": "text",
-        "start": 27.86,
-        "end": 30.12,
-        "text": "So my name is actually Harry Fuchs."
+        "start": 36.58,
+        "end": 39.74,
+        "text": "repeat, F-U-C-K-S."
     },
     {
         "type": "text",
-        "start": 30.12,
-        "end": 32.86,
-        "text": "It's a German name."
-    },
-    {
-        "type": "text",
-        "start": 32.86,
-        "end": 38.36,
-        "text": "Spelled F-U-C-K-S. I repeat, F-U-C-K-S."
-    },
-    {
-        "type": "text",
-        "start": 38.36,
-        "end": 42.82,
+        "start": 39.74,
+        "end": 43.87,
         "text": "But in a room of English speakers like this, a lot of you think my name is"
     },
     {
         "type": "text",
-        "start": 42.82,
-        "end": 43.64,
-        "text": "Harry Fuchs."
+        "start": 43.87,
+        "end": 47.38,
+        "text": "Harry Fuchs, but my name is not Harry Fuchs."
     },
     {
         "type": "text",
-        "start": 43.64,
-        "end": 46.54,
-        "text": "My name is not Harry Fuchs."
-    },
-    {
-        "type": "text",
-        "start": 46.54,
-        "end": 51.27,
+        "start": 47.38,
+        "end": 53.49,
         "text": "My family, when we have a family get-together, we get very upset when you call"
     },
     {
         "type": "text",
-        "start": 51.27,
-        "end": 52.86,
+        "start": 53.49,
+        "end": 55.52,
         "text": "us a group of fuckers."
     },
     {
         "type": "text",
-        "start": 52.86,
-        "end": 56.62,
-        "text": "And I have two kids."
+        "start": 55.52,
+        "end": 62.3,
+        "text": "And I have two kids. I had to call them Halbert and Walbert."
     },
     {
         "type": "text",
-        "start": 57.86,
-        "end": 60.26,
-        "text": "I had to call them \"how-the\" and \"what-the\"."
+        "start": 62.3,
+        "end": 65.58,
+        "text": "I didn't want them to get bullied at school, you know."
     },
     {
         "type": "text",
-        "start": 60.26,
-        "end": 70.04,
+        "start": 65.58,
+        "end": 70.2,
         "text": "But, you know, the problem with a name like Harry Fuchs is people are always"
     },
     {
         "type": "text",
-        "start": 70.04,
-        "end": 72.08,
+        "start": 70.2,
+        "end": 72.04,
         "text": "coming up to me and saying stupid shit."
     },
     {
         "type": "text",
-        "start": 72.08,
-        "end": 75.28,
-        "text": "For example, recently, this American tourist came up to me and he's like,"
+        "start": 72.04,
+        "end": 75.73,
+        "text": "For example, recently this American tourist came up to me and he's like, \"Yo,"
     },
     {
         "type": "text",
-        "start": 75.28,
-        "end": 79.12,
-        "text": "\"Yo, what's up, man? Harry Fuchs. Harry Fuchs what, man?\""
+        "start": 75.73,
+        "end": 79.5,
+        "text": "what's up, man? Harry Fuchs! Harry Fuchs what, man?\""
     },
     {
         "type": "text",
-        "start": 79.12,
-        "end": 80.5,
+        "start": 79.5,
+        "end": 80.9,
         "text": "And I'm like, \"What?\""
     },
     {
         "type": "text",
-        "start": 80.5,
-        "end": 84.44,
-        "text": "\"So, Harry Fuchs what, man? Exactly. Harry Fuchs what?\""
+        "start": 80.9,
+        "end": 84.98,
+        "text": "\"Harry Fuchs what, man? Exactly. Harry Fuchs what?\""
     },
     {
         "type": "text",
-        "start": 84.44,
-        "end": 85.72,
-        "text": "I'm like, \"Okay."
+        "start": 84.98,
+        "end": 90.13,
+        "text": "I'm like, \"Okay, let me see if I can throw him off with some adverbs. Harry Fuchs"
     },
     {
         "type": "text",
-        "start": 85.72,
-        "end": 87.72,
-        "text": "Let me see if I can throw him off with some adverts.\""
+        "start": 90.13,
+        "end": 100.18,
+        "text": "hopefully. Harry Fuchs occasionally. Harry Fuchs enthusiastically.\""
     },
     {
         "type": "text",
-        "start": 87.72,
-        "end": 91.04,
-        "text": "Uh, \"Harry Fuchs, uh, hopefully.\""
-    },
-    {
-        "type": "text",
-        "start": 91.04,
-        "end": 95.88,
-        "text": "\"Harry Fuchs occasionally.\""
-    },
-    {
-        "type": "text",
-        "start": 95.88,
-        "end": 98.92,
-        "text": "\"Harry Fuchs enthusiastically.\""
-    },
-    {
-        "type": "text",
-        "start": 98.92,
-        "end": 105.09,
+        "start": 100.18,
+        "end": 106.7,
         "text": "He's like, \"No, man. No. Harry Fuchs goats, man. Harry Fuchs chickens. Harry Fuchs"
     },
     {
         "type": "text",
-        "start": 105.09,
-        "end": 106.16,
+        "start": 106.7,
+        "end": 107.68,
         "text": "tigers.\""
     },
     {
         "type": "text",
-        "start": 106.16,
-        "end": 111.84,
+        "start": 107.68,
+        "end": 113.01,
         "text": "Now, I don't know about you, but I'm pretty sure that in the entire history of"
     },
     {
         "type": "text",
-        "start": 111.84,
-        "end": 112.34,
-        "text": "mankind,"
+        "start": 113.01,
+        "end": 119.84,
+        "text": "mankind, no one has ever successfully fucked a tiger."
     },
     {
         "type": "text",
-        "start": 112.34,
-        "end": 116.36,
-        "text": "no one has ever successfully fucked a tiger."
+        "start": 119.84,
+        "end": 126.39,
+        "text": "But actually, I realized at that moment that actually there is a whole class of"
     },
     {
         "type": "text",
-        "start": 117.72,
-        "end": 124.99,
-        "text": "Well, actually, I realized at that moment that actually there is a whole class"
+        "start": 126.39,
+        "end": 131.18,
+        "text": "unfuckable animals, like hippos, for example."
     },
     {
         "type": "text",
-        "start": 124.99,
-        "end": 126.92,
-        "text": "of unfuckable animals."
+        "start": 131.18,
+        "end": 137.01,
+        "text": "Now, you may get up behind a hippo and think, \"Hmm, that is a sweet ass. Don't"
     },
     {
         "type": "text",
-        "start": 126.92,
-        "end": 130.22,
-        "text": "Like, like hippos, for example."
+        "start": 137.01,
+        "end": 142.06,
+        "text": "do it. Hippos kill 500 people every year in Africa. They're the most dangerous"
     },
     {
         "type": "text",
-        "start": 130.22,
-        "end": 135.28,
-        "text": "Now, you may get up behind a hippo and think, \"Mmm, that is a sweet ass.\""
+        "start": 142.06,
+        "end": 148.04,
+        "text": "mammal. Do not fuck with hippos.\""
     },
     {
         "type": "text",
-        "start": 135.28,
-        "end": 141.34,
-        "text": "Don't do it. Hippos kill 500 people every year in Africa. They're the most"
+        "start": 148.04,
+        "end": 154.15,
+        "text": "Well, elephants. Elephants, for example, because it's so high up. I mean, maybe"
     },
     {
         "type": "text",
-        "start": 141.34,
-        "end": 142.32,
-        "text": "dangerous mammal."
+        "start": 154.15,
+        "end": 159.08,
+        "text": "Tim Comanche is like, \"Yeah, I can do that.\""
     },
     {
         "type": "text",
-        "start": 142.32,
-        "end": 144.24,
-        "text": "Do not fuck with hippos."
+        "start": 159.08,
+        "end": 168.29,
+        "text": "It's not happening. But maybe if the mum isn't looking, you could probably fuck"
     },
     {
         "type": "text",
-        "start": 147.58,
-        "end": 151.98,
-        "text": "Well, elephants. Elephants, for example, you know, 'cause it's, it's so high up,"
+        "start": 168.29,
+        "end": 170.86,
+        "text": "a baby elephant."
     },
     {
         "type": "text",
-        "start": 151.98,
-        "end": 152.54,
-        "text": "you know."
+        "start": 170.86,
+        "end": 176.16,
+        "text": "All right. I'm just finding your level. I'm finding your level. You're okay"
     },
     {
         "type": "text",
-        "start": 152.54,
-        "end": 155.54,
-        "text": "I mean, maybe Tim Comanche is like, \"Yeah, I can do that.\""
+        "start": 176.16,
+        "end": 179.7,
+        "text": "with bestiality, but not pedophile bestiality."
     },
     {
         "type": "text",
-        "start": 155.54,
-        "end": 162.44,
-        "text": "It's not true. It's not happening in, you know, but, but maybe, uh, maybe if"
+        "start": 179.7,
+        "end": 185.3,
+        "text": "I'll avoid that from now on. But I do have to confess, I do have a lot of dark"
     },
     {
         "type": "text",
-        "start": 162.44,
-        "end": 166.52,
-        "text": "the mum isn't looking, uh, you could probably fuck a baby elephant."
+        "start": 185.3,
+        "end": 189.46,
+        "text": "thoughts going on in my head, a lot of dark and twisted stuff."
     },
     {
         "type": "text",
-        "start": 166.52,
-        "end": 175.14,
-        "text": "All right, I'm just finding your level, 'cause I'm, I'm finding your level. You're"
+        "start": 189.46,
+        "end": 196.65,
+        "text": "And I think it goes back to my childhood, you know, because I went to a"
     },
     {
         "type": "text",
-        "start": 175.14,
-        "end": 177.44,
-        "text": "okay with bestiality, but not pedophiles."
+        "start": 196.65,
+        "end": 203.04,
+        "text": "Catholic school and I got thrown out for molesting a priest."
     },
     {
         "type": "text",
-        "start": 177.44,
-        "end": 184.44,
-        "text": "I'll avoid that from now on because, you know, but I do have to confess, I, I"
+        "start": 203.04,
+        "end": 210.04,
+        "text": "- That's Tim from Manchester. - Tim, welcome back. Tim! Tim! Tim knows what I'm"
     },
     {
         "type": "text",
-        "start": 184.44,
-        "end": 188.32,
-        "text": "do have a lot of dark thoughts going on in my head, you know, a lot of dark and"
+        "start": 210.04,
+        "end": 211.46,
+        "text": "talking about."
     },
     {
         "type": "text",
-        "start": 188.32,
-        "end": 193.54,
-        "text": "twisted stuff, and I think it goes back to my childhood, you know, because I"
+        "start": 211.46,
+        "end": 215.13,
+        "text": "But actually, I'm not the only person with dark and twisted thoughts. You know"
     },
     {
         "type": "text",
-        "start": 193.54,
-        "end": 199.3,
-        "text": "went to a Catholic school, and I got thrown out for molesting a priest."
-    },
-    {
-        "type": "text",
-        "start": 199.3,
-        "end": 203.4,
-        "text": "And, uh, Tim."
-    },
-    {
-        "type": "text",
-        "start": 203.4,
-        "end": 204.6,
-        "text": "That's Tim from Manchester."
-    },
-    {
-        "type": "text",
-        "start": 204.6,
-        "end": 207.3,
-        "text": "Tim, welcome back. Tim! Tim!"
-    },
-    {
-        "type": "text",
-        "start": 207.3,
-        "end": 211.26,
-        "text": "Tim knows what I'm talking about."
-    },
-    {
-        "type": "text",
-        "start": 211.26,
-        "end": 214.73,
-        "text": "But, actually, I'm not the only person with dark and twisted thoughts. You know"
-    },
-    {
-        "type": "text",
-        "start": 214.73,
-        "end": 218.26,
+        "start": 215.13,
+        "end": 218.74,
         "text": "who else has got a lot of fucked up shit going on in their head?"
     },
     {
         "type": "text",
-        "start": 218.26,
-        "end": 225.26,
-        "text": "PhD students. Seriously, PhD students. Like, take Cedric, for example."
+        "start": 218.74,
+        "end": 227.02,
+        "text": "PhD students. Seriously, PhD students. Take Cedric, for example. Cedric, he's"
     },
     {
         "type": "text",
-        "start": 225.26,
-        "end": 230.5,
-        "text": "Like, Cedric, he's there, he's been working on his thesis all day, on his robot"
+        "start": 227.02,
+        "end": 231.46,
+        "text": "there. He's been working on his thesis all day, on his robot thesis."
     },
     {
         "type": "text",
-        "start": 230.5,
-        "end": 235.51,
-        "text": "thesis, and he's like, it's three in the morning, he's been typing since 9am,"
+        "start": 231.46,
+        "end": 236.27,
+        "text": "And he's like, it's three in the morning. He's been typing since 9 a.m. Three"
     },
     {
         "type": "text",
-        "start": 235.51,
-        "end": 237.16,
-        "text": "three in the morning now."
+        "start": 236.27,
+        "end": 238.54,
+        "text": "in the morning now. He's tired."
     },
     {
         "type": "text",
-        "start": 237.16,
-        "end": 242.6,
-        "text": "Like, he's tired, but he's got a head full of, like, equations and statistical"
+        "start": 238.54,
+        "end": 245.14,
+        "text": "But he's got a head full of equations and statistical models and robot limbs."
     },
     {
         "type": "text",
-        "start": 242.6,
-        "end": 247.51,
-        "text": "models and, like, robot limbs and, you know, he's like, how am I going to get"
+        "start": 245.14,
+        "end": 247.74,
+        "text": "And he's like, \"How am I going to get to sleep?"
     },
     {
         "type": "text",
-        "start": 247.51,
-        "end": 248.12,
-        "text": "to sleep?"
+        "start": 247.74,
+        "end": 251.7,
+        "text": "I haven't even... And then he remembers, \"I haven't seen my girlfriend for,"
     },
     {
         "type": "text",
-        "start": 248.12,
-        "end": 251.42,
-        "text": "I haven't even, you know, and then, and then he remembers, I haven't seen my"
+        "start": 251.7,
+        "end": 257.86,
+        "text": "like, nine months.\" And, old timey, he's on Pornhub."
     },
     {
         "type": "text",
-        "start": 251.42,
-        "end": 258.12,
-        "text": "girlfriend for, like, nine months, and Octav, he's on Pornhub."
-    },
-    {
-        "type": "text",
-        "start": 258.12,
-        "end": 264.4,
+        "start": 257.86,
+        "end": 263.46,
         "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
     },
     {
         "type": "text",
-        "start": 264.4,
-        "end": 267.02,
+        "start": 263.46,
+        "end": 265.76,
         "text": "about eight years to complete."
     },
     {
         "type": "text",
-        "start": 267.02,
-        "end": 269.12,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 265.76,
+        "end": 271.76,
+        "text": "Cedric, we're not talking wholesome porn here, are we? We're talking, like,"
     },
     {
         "type": "text",
-        "start": 269.12,
-        "end": 269.98,
-        "text": "about eight years to complete."
+        "start": 271.76,
+        "end": 276.5,
+        "text": "stuff about porn with your stent mom, DDSM,"
     },
     {
         "type": "text",
-        "start": 269.98,
-        "end": 275.6,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 276.5,
+        "end": 283.66,
+        "text": "dwarves riding on ponies, you know, because Cedric also watched Game of Thrones."
     },
     {
         "type": "text",
-        "start": 275.6,
-        "end": 277.98,
-        "text": "about eight years to complete."
+        "start": 283.66,
+        "end": 288.78,
+        "text": "For you to think about, I want to give it to you. But, you know, the thing is,"
     },
     {
         "type": "text",
-        "start": 277.98,
-        "end": 280.78,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 288.78,
+        "end": 291.74,
+        "text": "it's really, like, with these fucked-up PhD students,"
     },
     {
         "type": "text",
-        "start": 280.78,
-        "end": 281.98,
-        "text": "about eight years to complete."
+        "start": 291.74,
+        "end": 295.87,
+        "text": "what happens is, at some point, they get their dream job. They get their dream"
     },
     {
         "type": "text",
-        "start": 281.98,
-        "end": 284.78,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 295.87,
+        "end": 297.4,
+        "text": "job at a place like Google."
     },
     {
         "type": "text",
-        "start": 284.78,
-        "end": 285.98,
-        "text": "about eight years to complete."
+        "start": 297.4,
+        "end": 303.87,
+        "text": "And Google stuffs them in an office, in these tiny offices, with 10 other horny"
     },
     {
         "type": "text",
-        "start": 285.98,
-        "end": 290.19,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 303.87,
+        "end": 304.74,
+        "text": "PhDs."
     },
     {
         "type": "text",
-        "start": 290.19,
-        "end": 291.98,
-        "text": "about eight years to complete."
+        "start": 304.74,
+        "end": 310.8,
+        "text": "But were you really surprised that, last year, 30,000 Google employees worked"
     },
     {
         "type": "text",
-        "start": 291.98,
-        "end": 295.48,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 310.8,
+        "end": 313.26,
+        "text": "out to protest sexual harassment?"
     },
     {
         "type": "text",
-        "start": 295.48,
-        "end": 296.98,
-        "text": "about eight years to complete."
+        "start": 313.26,
+        "end": 317.68,
+        "text": "Did you hear about this? This really happened? Because they were like, \"Fuck,"
     },
     {
         "type": "text",
-        "start": 296.98,
-        "end": 299.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 317.68,
+        "end": 319.66,
+        "text": "man. We can't take it anymore."
     },
     {
         "type": "text",
-        "start": 299.08,
-        "end": 299.98,
-        "text": "about eight years to complete."
+        "start": 319.66,
+        "end": 324.75,
+        "text": "It's like an orgy in there every day, all these horny PhDs,\" you know. But"
     },
     {
         "type": "text",
-        "start": 299.98,
-        "end": 302.78,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 324.75,
+        "end": 326.34,
+        "text": "there is a simple solution to this."
     },
     {
         "type": "text",
-        "start": 302.78,
-        "end": 303.98,
-        "text": "about eight years to complete."
+        "start": 326.34,
+        "end": 331.19,
+        "text": "There's a simple answer. Now, I'm sensing a level of awkwardness already, but,"
     },
     {
         "type": "text",
-        "start": 303.98,
-        "end": 306.78,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 331.19,
+        "end": 333.46,
+        "text": "you know, you guys kind of like Cedric,"
     },
     {
         "type": "text",
-        "start": 306.78,
-        "end": 307.98,
-        "text": "about eight years to complete."
+        "start": 333.46,
+        "end": 337.39,
+        "text": "and I was even asking things to Cedric. It's going to get worse, because the"
     },
     {
         "type": "text",
-        "start": 307.98,
-        "end": 310.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 337.39,
+        "end": 343.5,
+        "text": "solution to the problem is sex robots."
     },
     {
         "type": "text",
-        "start": 310.08,
-        "end": 310.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 310.98,
-        "end": 313.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 313.08,
-        "end": 313.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 313.98,
-        "end": 316.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 316.08,
-        "end": 316.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 316.98,
-        "end": 319.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 319.08,
-        "end": 319.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 319.98,
-        "end": 323.48,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 323.48,
-        "end": 324.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 324.98,
-        "end": 327.07,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 327.07,
-        "end": 327.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 327.98,
-        "end": 330.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 330.08,
-        "end": 330.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 330.98,
-        "end": 333.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 333.08,
-        "end": 333.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 333.98,
-        "end": 336.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 336.08,
-        "end": 336.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 336.98,
-        "end": 339.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 339.08,
-        "end": 339.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 339.98,
-        "end": 342.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 342.08,
-        "end": 342.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 342.98,
-        "end": 345.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 345.08,
-        "end": 345.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 345.98,
+        "start": 343.5,
         "end": 347.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "text": "Cedric, are you working on a sex robot? Do you have one at home?"
     },
     {
         "type": "text",
         "start": 347.38,
-        "end": 347.98,
-        "text": "about eight years to complete."
+        "end": 350.3,
+        "text": "Not yet."
     },
     {
         "type": "text",
-        "start": 347.98,
-        "end": 349.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 350.3,
+        "end": 355.02,
+        "text": "Respect to this man. How long is it going to take? Every week you're away from"
     },
     {
         "type": "text",
-        "start": 349.38,
-        "end": 349.98,
-        "text": "about eight years to complete."
+        "start": 355.02,
+        "end": 359.58,
+        "text": "your girlfriend, a little bit more sex bulk gets developed."
     },
     {
         "type": "text",
-        "start": 349.98,
-        "end": 351.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 359.58,
+        "end": 363.54,
+        "text": "Because, you know, think about it. If Google was to give, the solution is this."
     },
     {
         "type": "text",
-        "start": 351.38,
-        "end": 351.98,
-        "text": "about eight years to complete."
+        "start": 363.54,
+        "end": 366.42,
+        "text": "If Google was to give all their staff a sex bot,"
     },
     {
         "type": "text",
-        "start": 351.98,
-        "end": 353.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 366.42,
+        "end": 370.05,
+        "text": "can you imagine what would happen? They could announce, you know, \"We rolled"
     },
     {
         "type": "text",
-        "start": 353.38,
-        "end": 353.98,
-        "text": "about eight years to complete."
+        "start": 370.05,
+        "end": 372.22,
+        "text": "out sex bots to all our staff,"
     },
     {
         "type": "text",
-        "start": 353.98,
-        "end": 355.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 372.22,
+        "end": 378.77,
+        "text": "and sexual harassment has dropped an amazing 83 percent, and we're using sex"
     },
     {
         "type": "text",
-        "start": 355.38,
-        "end": 355.98,
-        "text": "about eight years to complete."
+        "start": 378.77,
+        "end": 383.18,
+        "text": "bot analytics to track employee performance."
     },
     {
         "type": "text",
-        "start": 355.98,
-        "end": 357.43,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 383.18,
+        "end": 387.94,
+        "text": "Since we rolled out sex bots, our staff are more focused and productive.\""
     },
     {
         "type": "text",
-        "start": 357.43,
-        "end": 357.98,
-        "text": "about eight years to complete."
+        "start": 387.94,
+        "end": 392.04,
+        "text": "You know, and what you're seeing here is that sex bots are going to become"
     },
     {
         "type": "text",
-        "start": 357.98,
-        "end": 360.11,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 392.04,
+        "end": 393.1,
+        "text": "mainstream."
     },
     {
         "type": "text",
-        "start": 360.11,
-        "end": 360.98,
-        "text": "about eight years to complete."
+        "start": 393.1,
+        "end": 396.42,
+        "text": "And then the big guys are going to get in, because they're going to be like, \"Wow,"
     },
     {
         "type": "text",
-        "start": 360.98,
-        "end": 362.37,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 396.42,
+        "end": 398.22,
+        "text": "this is a billion dollar market."
     },
     {
         "type": "text",
-        "start": 362.37,
-        "end": 362.98,
-        "text": "about eight years to complete."
+        "start": 398.22,
+        "end": 402.59,
+        "text": "You're going to have Apple.\" They're going to be like, \"We brought you the iPod."
     },
     {
         "type": "text",
-        "start": 362.98,
-        "end": 364.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 402.59,
+        "end": 404.66,
+        "text": "We brought you the iPhone."
     },
     {
         "type": "text",
-        "start": 364.38,
-        "end": 364.98,
-        "text": "about eight years to complete."
+        "start": 404.66,
+        "end": 409.99,
+        "text": "Today we bring you the iFuck.\" And then Google is like, \"Shit, we've got to"
     },
     {
         "type": "text",
-        "start": 364.98,
-        "end": 366.39,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 409.99,
+        "end": 412.82,
+        "text": "move fast, man. We've got to move fast."
     },
     {
         "type": "text",
-        "start": 366.39,
-        "end": 366.98,
-        "text": "about eight years to complete."
+        "start": 412.82,
+        "end": 417.28,
+        "text": "Give them the Google ho.\" And then Amazon is like, \"Shit, these guys are really"
     },
     {
         "type": "text",
-        "start": 366.98,
-        "end": 368.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 417.28,
+        "end": 420.7,
+        "text": "moving fast. Take Alexa, take flying drones."
     },
     {
         "type": "text",
-        "start": 368.38,
-        "end": 368.98,
-        "text": "about eight years to complete."
+        "start": 420.7,
+        "end": 425.71,
+        "text": "Call it the flying fuck.\" You know, and these guys are really not on board with"
     },
     {
         "type": "text",
-        "start": 368.98,
-        "end": 370.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 425.71,
+        "end": 427.22,
+        "text": "sex bots, man."
     },
     {
         "type": "text",
-        "start": 370.38,
-        "end": 370.98,
-        "text": "about eight years to complete."
+        "start": 427.22,
+        "end": 431.14,
+        "text": "What's happening here, you know, because it's an inevitability. Because, you"
     },
     {
         "type": "text",
-        "start": 370.98,
-        "end": 372.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
+        "start": 431.14,
+        "end": 432.42,
+        "text": "know, you'll be, one day,"
     },
     {
         "type": "text",
-        "start": 372.38,
-        "end": 372.98,
-        "text": "about eight years to complete."
+        "start": 432.42,
+        "end": 436.1,
+        "text": "you're like all the guys here, you know, where you have your own sex bot, and"
     },
     {
         "type": "text",
-        "start": 372.98,
-        "end": 375.08,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 375.08,
-        "end": 375.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 375.98,
-        "end": 377.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 377.38,
-        "end": 377.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 377.98,
-        "end": 379.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 379.38,
-        "end": 379.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 379.98,
-        "end": 381.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 381.38,
-        "end": 381.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 381.98,
-        "end": 383.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 383.38,
-        "end": 383.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 383.98,
-        "end": 385.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 385.38,
-        "end": 385.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 385.98,
-        "end": 387.38,
-        "text": "And then, you know, I mean, the average PhD, you've got to understand, it takes"
-    },
-    {
-        "type": "text",
-        "start": 387.38,
-        "end": 387.98,
-        "text": "about eight years to complete."
-    },
-    {
-        "type": "text",
-        "start": 387.98,
-        "end": 392.98,
-        "text": "And what you're seeing here is that sex bots are going to become mainstream."
-    },
-    {
-        "type": "text",
-        "start": 392.98,
-        "end": 396.26,
-        "text": "And then the big guys are going to get in because they're going to be like, \"Wow,"
-    },
-    {
-        "type": "text",
-        "start": 396.26,
-        "end": 398.98,
-        "text": "this is a billion dollar market. You've got to have Apple.\""
-    },
-    {
-        "type": "text",
-        "start": 398.98,
-        "end": 405.35,
-        "text": "They're going to be like, \"We brought you the iPod. We brought you the iPhone."
-    },
-    {
-        "type": "text",
-        "start": 405.35,
-        "end": 407.98,
-        "text": "Today we bring you the iFuck.\""
-    },
-    {
-        "type": "text",
-        "start": 407.98,
-        "end": 412.91,
-        "text": "And then Google is like, \"Shit, we've got to move fast, man. We've got to move"
-    },
-    {
-        "type": "text",
-        "start": 412.91,
-        "end": 414.98,
-        "text": "fast. Give them the Google Ho.\""
-    },
-    {
-        "type": "text",
-        "start": 414.98,
-        "end": 416.98,
-        "text": "And then Amazon is like, \"Shit, these guys are really moving fast.\""
-    },
-    {
-        "type": "text",
-        "start": 416.98,
-        "end": 417.98,
-        "text": "And then Amazon is like, \"Shit, these guys are really moving fast.\""
-    },
-    {
-        "type": "text",
-        "start": 417.98,
-        "end": 422.98,
-        "text": "\"Take Alexa. Take flying drones. Call it a flying fuck.\""
-    },
-    {
-        "type": "text",
-        "start": 422.98,
-        "end": 426.98,
-        "text": "You know, and these guys are really not on board with sex bots, man."
-    },
-    {
-        "type": "text",
-        "start": 426.98,
-        "end": 429.98,
-        "text": "What's happening here, you know, because it's an inevitability."
-    },
-    {
-        "type": "text",
-        "start": 429.98,
-        "end": 434.49,
-        "text": "Because, you know, you'll be one day, you're like all the guys here, you know,"
-    },
-    {
-        "type": "text",
-        "start": 434.49,
-        "end": 435.98,
-        "text": "where you have your own sex bot."
-    },
-    {
-        "type": "text",
-        "start": 435.98,
+        "start": 436.1,
         "end": 438.98,
-        "text": "And then you invite your friends around for beers, you know."
+        "text": "then you invite your friends around for beers, you know."
     },
     {
         "type": "text",
         "start": 438.98,
-        "end": 442.95,
-        "text": "And the next morning, you've got to text your bro like, \"Hey, man, last night,"
+        "end": 443.77,
+        "text": "And next morning, you've got to text your bro like, \"Hey, man, last night, did"
     },
     {
         "type": "text",
-        "start": 442.95,
-        "end": 444.98,
-        "text": "did you fuck my sex bot?\""
+        "start": 443.77,
+        "end": 446.26,
+        "text": "you fuck my sex bot?\""
     },
     {
         "type": "text",
-        "start": 444.98,
-        "end": 446.98,
-        "text": "And he's like, \"I know, man. I'm sorry.\""
+        "start": 446.26,
+        "end": 450.05,
+        "text": "And he's like, \"I know, man. I'm sorry. I'm really sorry. She came on to me. I"
     },
     {
         "type": "text",
-        "start": 446.98,
-        "end": 446.98,
-        "text": "And he's like, \"I know, man. I'm sorry.\""
+        "start": 450.05,
+        "end": 451.9,
+        "text": "didn't mean to.\""
     },
     {
         "type": "text",
-        "start": 446.98,
-        "end": 446.98,
-        "text": "And he's like, \"I know, man. I'm sorry.\""
-    },
-    {
-        "type": "text",
-        "start": 446.98,
-        "end": 446.98,
-        "text": "And he's like, \"I know, man. I'm sorry.\""
-    },
-    {
-        "type": "text",
-        "start": 446.98,
-        "end": 446.98,
-        "text": "And he's like, \"I know, man. I'm sorry.\""
-    },
-    {
-        "type": "text",
-        "start": 446.98,
-        "end": 447.98,
-        "text": "And he's like, \"I know, man. I'm sorry.\""
-    },
-    {
-        "type": "text",
-        "start": 447.98,
-        "end": 450.98,
-        "text": "\"I'm really sorry. She came on to me. I didn't mean to.\""
-    },
-    {
-        "type": "text",
-        "start": 450.98,
-        "end": 454.98,
+        "start": 451.9,
+        "end": 457.46,
         "text": "And you're like, \"Dude, you didn't even wash her out.\""
     },
     {
         "type": "text",
-        "start": 454.98,
-        "end": 461.22,
-        "text": "\"Cedric, we're going to need sex bot security, you know. Like, swipe your dick"
+        "start": 457.46,
+        "end": 464.64,
+        "text": "Cedric, we're going to need sex bot security, you know, like swipe your dick to"
     },
     {
         "type": "text",
-        "start": 461.22,
-        "end": 461.98,
-        "text": "to get in.\""
+        "start": 464.64,
+        "end": 465.62,
+        "text": "get in."
     },
     {
         "type": "text",
-        "start": 461.98,
-        "end": 467.98,
-        "text": "But yeah, I don't know. I was telling this story."
+        "start": 465.62,
+        "end": 470.88,
+        "text": "But yeah, I don't know. I was telling this story to a friend of mine, a girl,"
     },
     {
         "type": "text",
-        "start": 467.98,
-        "end": 470.98,
-        "text": "I was telling this story to a friend of mine, a girl."
+        "start": 470.88,
+        "end": 475.38,
+        "text": "and she was equally as shocked and perplexed as you guys are."
     },
     {
         "type": "text",
-        "start": 470.98,
-        "end": 474.98,
-        "text": "And she was equally as shocked and perplexed as you guys are."
+        "start": 475.38,
+        "end": 480.5,
+        "text": "Because, you know, she's like, \"Are men really that bad? Are they really that"
     },
     {
         "type": "text",
-        "start": 474.98,
-        "end": 475.98,
-        "text": "Because, you know, she's like,"
+        "start": 480.5,
+        "end": 481.34,
+        "text": "horny?\""
     },
     {
         "type": "text",
-        "start": 475.98,
-        "end": 480.98,
-        "text": "\"Are men really that bad? Are they really that horny?\""
+        "start": 481.34,
+        "end": 488.47,
+        "text": "And I said to her, \"Well, you've heard of glory holes, right? Okay, now we're"
     },
     {
         "type": "text",
-        "start": 480.98,
-        "end": 483.98,
-        "text": "And I said to her,"
+        "start": 488.47,
+        "end": 490.1,
+        "text": "getting to somewhere really dark.\""
     },
     {
         "type": "text",
-        "start": 483.98,
-        "end": 487.98,
-        "text": "\"Well, you've heard of glory holes, right?\""
+        "start": 490.1,
+        "end": 494.82,
+        "text": "Because sometimes I wonder, who the fuck came up with the name \"glory hole,\""
     },
     {
         "type": "text",
-        "start": 487.98,
-        "end": 489.98,
-        "text": "Okay, now we're getting to somewhere really dark."
+        "start": 494.82,
+        "end": 498.68,
+        "text": "you know? Was it a guy who had his dick in the wall, and he was just like, \"This"
     },
     {
         "type": "text",
-        "start": 489.98,
-        "end": 493.98,
-        "text": "Because sometimes I wonder, who the fuck came up with the name \"glory hole\"?"
-    },
-    {
-        "type": "text",
-        "start": 493.98,
-        "end": 497.98,
-        "text": "You know, was it a guy who had his dick in the wall and he was just like,"
-    },
-    {
-        "type": "text",
-        "start": 497.98,
+        "start": 498.68,
         "end": 501.98,
-        "text": "\"This hole is glorious! Glorious hole!\""
+        "text": "hole is glorious! Glorious hole!\""
     },
     {
         "type": "text",
         "start": 501.98,
-        "end": 503.98,
-        "text": "No, I mean, this glorious..."
+        "end": 506.42,
+        "text": "No, I mean, this glorious... I mean, nowadays, wouldn't we call it a glory hole?"
     },
     {
         "type": "text",
-        "start": 503.98,
-        "end": 504.98,
-        "text": "I mean, nowadays,"
+        "start": 506.42,
+        "end": 513.77,
+        "text": "We'd probably call it, like, a dick slit or a cock slot or maybe even a trunk"
     },
     {
         "type": "text",
-        "start": 504.98,
-        "end": 506.98,
-        "text": "wouldn't we call it a glory hole?"
+        "start": 513.77,
+        "end": 514.7,
+        "text": "dump."
     },
     {
         "type": "text",
-        "start": 506.98,
-        "end": 508.98,
-        "text": "We'd probably call it, like, a dick slit,"
+        "start": 514.7,
+        "end": 520.31,
+        "text": "But the word \"glory,\" who uses that nowadays, you know? Probably it was, like,"
     },
     {
         "type": "text",
-        "start": 508.98,
-        "end": 510.98,
-        "text": "or a cogs slot,"
+        "start": 520.31,
+        "end": 525.54,
+        "text": "in 1869, the famous British explorer Sir Richard Cogsworthy."
     },
     {
         "type": "text",
-        "start": 510.98,
-        "end": 512.98,
-        "text": "or maybe even a trunk dump."
+        "start": 525.54,
+        "end": 530.45,
+        "text": "He was in the darkest part of Africa. He found a hole, and he said, \"I call"
     },
     {
         "type": "text",
-        "start": 512.98,
-        "end": 518.98,
-        "text": "The word \"glory\", who uses that nowadays, you know?"
+        "start": 530.45,
+        "end": 535.1,
+        "text": "this the glory hole,\" after my favorite niece, Gloria."
     },
     {
         "type": "text",
-        "start": 518.98,
-        "end": 521.98,
-        "text": "Probably it was, like, in 1869,"
+        "start": 535.1,
+        "end": 539.76,
+        "text": "And that's where it all began, you know? But, I mean, think about it, you know?"
     },
     {
         "type": "text",
-        "start": 521.98,
-        "end": 525.98,
-        "text": "the famous British explorer, Sir Richard Coxworthy."
+        "start": 539.76,
+        "end": 545.04,
+        "text": "If you want to understand male sexuality, how insane do you have to be to stick"
     },
     {
         "type": "text",
-        "start": 525.98,
-        "end": 527.98,
-        "text": "He was in the darkest part of Africa."
+        "start": 545.04,
+        "end": 547.3,
+        "text": "your dick through a wall?"
     },
     {
         "type": "text",
-        "start": 527.98,
-        "end": 529.98,
-        "text": "He found a hole, and he said,"
+        "start": 547.3,
+        "end": 551.66,
+        "text": "How insane do you have to be? Because there could be anything on the other side."
     },
     {
         "type": "text",
-        "start": 529.98,
-        "end": 531.98,
-        "text": "\"I call this the glory hole.\""
-    },
-    {
-        "type": "text",
-        "start": 531.98,
-        "end": 533.98,
-        "text": "After my favorite niece, Gloria."
-    },
-    {
-        "type": "text",
-        "start": 534.98,
-        "end": 536.98,
-        "text": "And that's where it all began, you know?"
-    },
-    {
-        "type": "text",
-        "start": 536.98,
-        "end": 538.98,
-        "text": "But, I mean, think about it."
-    },
-    {
-        "type": "text",
-        "start": 538.98,
-        "end": 541.98,
-        "text": "You know, if you want to understand male sexuality,"
-    },
-    {
-        "type": "text",
-        "start": 541.98,
-        "end": 546.98,
-        "text": "how insane do you have to be to stick your dick through a wall?"
-    },
-    {
-        "type": "text",
-        "start": 546.98,
-        "end": 548.98,
-        "text": "How insane do you have to be?"
-    },
-    {
-        "type": "text",
-        "start": 548.98,
-        "end": 550.98,
-        "text": "Because there could be anything on the other side."
-    },
-    {
-        "type": "text",
-        "start": 550.98,
-        "end": 553.98,
+        "start": 551.66,
+        "end": 555.38,
         "text": "There could be, like, a hungry wolf."
     },
     {
         "type": "text",
-        "start": 553.98,
-        "end": 556.98,
-        "text": "There could be, like, a guillotine."
+        "start": 555.38,
+        "end": 562.31,
+        "text": "There could be, like, a guillotine. There could be your grandmother. There"
     },
     {
         "type": "text",
-        "start": 556.98,
-        "end": 560.98,
-        "text": "There could be your grandmother."
+        "start": 562.31,
+        "end": 563.9,
+        "text": "could be anything, you know?"
     },
     {
         "type": "text",
-        "start": 560.98,
-        "end": 563.98,
-        "text": "There could be anything, you know?"
+        "start": 563.9,
+        "end": 569.38,
+        "text": "Now, of course, of course, no man here would ever stick his dick in a glory"
     },
     {
         "type": "text",
-        "start": 563.98,
-        "end": 566.98,
-        "text": "Now, of course, of course, no man here"
+        "start": 569.38,
+        "end": 574.28,
+        "text": "hole. Except maybe Tim, you know? Because the streets of Manchester are full of"
     },
     {
         "type": "text",
-        "start": 566.98,
-        "end": 569.98,
-        "text": "would ever stick his dick in a glory hole."
+        "start": 574.28,
+        "end": 575.62,
+        "text": "glory, aren't they, Tim?"
     },
     {
         "type": "text",
-        "start": 569.98,
-        "end": 571.98,
-        "text": "Except maybe Tim, you know?"
-    },
-    {
-        "type": "text",
-        "start": 571.98,
-        "end": 575.98,
-        "text": "Because the streets of Manchester are full of glory, aren't they, Tim?"
-    },
-    {
-        "type": "text",
-        "start": 575.98,
-        "end": 577.98,
+        "start": 575.62,
+        "end": 578.82,
         "text": "They certainly are."
     },
     {
         "type": "text",
-        "start": 577.98,
-        "end": 579.98,
-        "text": "I'm with you, Tim."
+        "start": 578.82,
+        "end": 583.82,
+        "text": "I'm with you, Tim. But, you know, because none of you would do that, I know,"
     },
     {
         "type": "text",
-        "start": 579.98,
-        "end": 583.98,
-        "text": "But, you know, because none of you would do that, I know,"
+        "start": 583.82,
+        "end": 584.54,
+        "text": "unless..."
     },
     {
         "type": "text",
-        "start": 583.98,
-        "end": 589.98,
-        "text": "unless, what if, what if you got abducted by the CIA"
+        "start": 584.54,
+        "end": 591.18,
+        "text": "What if, what if you got abducted by the CIA and taken to a secret detention"
     },
     {
         "type": "text",
-        "start": 589.98,
-        "end": 592.98,
-        "text": "and taken to a secret detention center,"
+        "start": 591.18,
+        "end": 598.46,
+        "text": "center, and they put you in a room, a room where you're all alone, with nothing"
     },
     {
         "type": "text",
-        "start": 592.98,
-        "end": 593.98,
-        "text": "and put you in a room,"
+        "start": 598.46,
+        "end": 600.02,
+        "text": "but a glory hole?"
     },
     {
         "type": "text",
-        "start": 593.98,
-        "end": 595.98,
-        "text": "a room where you're all alone,"
+        "start": 600.02,
+        "end": 603.86,
+        "text": "How long would it take, guys? Because, first of all, you'd be like, \"Oh, no, I"
     },
     {
         "type": "text",
-        "start": 595.98,
-        "end": 598.98,
-        "text": "with nothing but a glory hole?"
+        "start": 603.86,
+        "end": 608.58,
+        "text": "can't do this. No, I'm not, I'm not going to stick my dick in that hole. No way."
     },
     {
         "type": "text",
-        "start": 598.98,
-        "end": 600.98,
-        "text": "How long would it take, guys?"
+        "start": 608.58,
+        "end": 610.5,
+        "text": "It's not happening.\""
     },
     {
         "type": "text",
-        "start": 600.98,
-        "end": 602.98,
-        "text": "Because, first of all, you'd be like,"
+        "start": 610.5,
+        "end": 614.48,
+        "text": "But then, you know, time passes, time passes, and you'd be like, \"Allah, Allah,"
     },
     {
         "type": "text",
-        "start": 602.98,
-        "end": 607.47,
-        "text": "\"Oh, no, I can't do this. No, I'm not, I'm not going to stick my dick in that"
+        "start": 614.48,
+        "end": 619.2,
+        "text": "give me strength. Give me strength. Inshallah, I will not put my dick in that"
     },
     {
         "type": "text",
-        "start": 607.47,
-        "end": 607.98,
-        "text": "hole."
+        "start": 619.2,
+        "end": 619.98,
+        "text": "hole.\""
     },
     {
         "type": "text",
-        "start": 607.98,
-        "end": 609.98,
-        "text": "No way. It's not happening.\""
+        "start": 619.98,
+        "end": 624.13,
+        "text": "But eventually, it's like, \"Oh, Jesus Christ, fuck it. All right, come on, I'll"
     },
     {
         "type": "text",
-        "start": 609.98,
-        "end": 611.98,
-        "text": "But then, you know, time passes, time passes,"
+        "start": 624.13,
+        "end": 625.62,
+        "text": "stick my dick in the hole.\""
     },
     {
         "type": "text",
-        "start": 611.98,
-        "end": 614.98,
-        "text": "and you'd be like, \"Allah, Allah, give me strength."
+        "start": 625.62,
+        "end": 629.59,
+        "text": "And that's where it goes downhill. But, you know, and I sense that this is a"
     },
     {
         "type": "text",
-        "start": 614.98,
-        "end": 618.98,
-        "text": "Give me strength. Inshallah, I will not put my dick in that hole.\""
+        "start": 629.59,
+        "end": 633.14,
+        "text": "very awkward topic here, especially maybe for you, for the women here."
     },
     {
         "type": "text",
-        "start": 618.98,
-        "end": 621.98,
-        "text": "But eventually, it's like, \"Oh, Jesus Christ, fuck it.\""
+        "start": 633.14,
+        "end": 637.32,
+        "text": "This is probably a depressing thing to think about, that men are that stupid"
     },
     {
         "type": "text",
-        "start": 621.98,
-        "end": 624.98,
-        "text": "\"All right, come on, I'll stick my dick in the hole.\""
+        "start": 637.32,
+        "end": 640.06,
+        "text": "that they would put their dick in a glory hole."
     },
     {
         "type": "text",
-        "start": 624.98,
-        "end": 626.98,
-        "text": "And that's where it goes downhill."
+        "start": 640.06,
+        "end": 644.81,
+        "text": "There is a bit of good news, because think about it. You're talking about a"
     },
     {
         "type": "text",
-        "start": 626.98,
-        "end": 630.98,
-        "text": "But, you know, and I sense that this is a very awkward topic here,"
+        "start": 644.81,
+        "end": 646.34,
+        "text": "wall with a hole."
     },
     {
         "type": "text",
-        "start": 630.98,
-        "end": 632.98,
-        "text": "especially maybe for the women here."
+        "start": 646.34,
+        "end": 653.7,
+        "text": "If you're a little bit flat-chested, you're probably okay. You're probably okay."
     },
     {
         "type": "text",
-        "start": 632.98,
-        "end": 635.98,
-        "text": "This is probably a depressing thing to think about,"
-    },
-    {
-        "type": "text",
-        "start": 635.98,
-        "end": 639.98,
-        "text": "that men are that stupid that they would put their dick in a glory hole."
-    },
-    {
-        "type": "text",
-        "start": 639.98,
-        "end": 642.98,
-        "text": "There is a bit of good news, because think about it."
-    },
-    {
-        "type": "text",
-        "start": 642.98,
-        "end": 645.98,
-        "text": "You're talking about a wall with a hole."
-    },
-    {
-        "type": "text",
-        "start": 645.98,
-        "end": 649.98,
-        "text": "If you're a little bit flat-chested, you're probably okay."
-    },
-    {
-        "type": "text",
-        "start": 651.98,
-        "end": 654.98,
+        "start": 653.7,
+        "end": 655.26,
         "text": "All that matters is the hole."
     },
     {
         "type": "text",
-        "start": 654.98,
-        "end": 657.98,
-        "text": "All right, I'm leaving you guys there."
+        "start": 655.26,
+        "end": 661.62,
+        "text": "All right, I'm leaving you guys there. You have been glorious. I love you guys."
     },
     {
         "type": "text",
-        "start": 657.98,
-        "end": 659.98,
-        "text": "You have been glorious."
+        "start": 661.62,
+        "end": 662.58,
+        "text": "Thank you."
     },
     {
         "type": "text",
-        "start": 659.98,
-        "end": 662.98,
-        "text": "I love you guys. Thank you."
-    },
-    {
-        "type": "text",
-        "start": 662.98,
-        "end": 668.98,
-        "text": "You're going for Harry Fox, everybody."
-    },
-    {
-        "type": "text",
-        "start": 668.98,
-        "end": 672.98,
-        "text": "His name is Harry Fox. I'm his friend."
-    },
-    {
-        "type": "text",
-        "start": 672.98,
-        "end": 675.98,
+        "start": 673.58,
+        "end": 676.06,
         "text": "Ladies and gentlemen, we've made it to the end."
     }
 ]

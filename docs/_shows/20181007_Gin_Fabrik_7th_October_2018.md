@@ -17,262 +17,248 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Fox everybody, give it up!
->
 > I think it's going to be an easy night tonight.
 >
 > So my name is actually Harry Fuchs, it's a German name.
 >
-> I think I'm going to tell a story about my great-grandfather.
+> I think I'm going to tell a story about my great-grandfather, just to drum it
 >
-> I'm going to turn it down a bit.
+> down a
 >
-> So, yeah, my name is Harry Fuchs, it's a German name.
+> bit.
 >
-> Unfortunately, I'm just not going to need to tell any jokes tonight.
+> So, yeah, my name is Harry Fuchs, it's a German name, and unfortunately, I'm
 >
-> Because I need to stop being an idiot.
+> just not going
+>
+> to need to tell any jokes tonight, because I need to stop being a joke.
 >
 > When I'm in a group of, in a room of English speakers like this, of course you'll
 >
-> think my name is Harry Fuchs.
+> think
 >
-> My name is not Harry Fuchs.
+> my name is Harry Fuchs.
 >
-> You can understand it as far away from me.
+> My name is not Harry Fuchs, I stand as far away from this as possible.
 >
-> You can understand this as far away.
+> In fact, in my family, in my family, we get very upset when we have a family
 >
-> In fact, in my family, in my family we get very upset when we have a family
+> reunion and
 >
-> reunion if they call us a group of fuckers.
+> they call us a group of fuckers, because we're clearly a pack of fucks.
 >
-> Because we're clearly a pack of fucks.
+> Actually, I'm a single dad, I have two teenage kids, I call them "how the" and
 >
-> See, I'm a single dad, I have two teenage kids, I call them "how-the" and "what-the".
+> "what the".
 >
-> I'm going to tell them it'll be all spot on.
+> I'm meant to be a good spouse, but yeah, it's tricky with this name, recently
 >
-> But, yeah, it's tricky with this name.
+> this American
 >
-> Recently, this American guy came up to me with, you know, like, enthusiasm,
+> guy came up to me with enthusiasm, like all Americans, he's like, "Hey, man,
 >
-> like a little American.
+> Harry Fuchs,
 >
-> He's like, "Hey, man, Harry Fuchs. Harry Fuchs what, man?"
+> Harry Fuchs what, man?"
 >
 > And I'm like, "What?"
 >
-> And he's like, "Yeah, Harry Fuchs what, man?"
+> He's like, "Yeah, Harry Fuchs what, man?"
 >
-> And I'm like, "Hmm."
+> And I'm like, "Hmm," so I thought I'd throw him off with a few adverbs, like "Harry
 >
-> So I thought I'd throw him off with a few adverbs, like, "Harry Fuchs hopefully."
+> Fuchs
 >
-> "Harry Fuchs occasionally."
+> hopefully," "Harry Fuchs occasionally," "Harry Fuchs enthusiast," but he's like,
 >
-> "Harry Fuchs enthusiastically."
+> "No, man,
 >
-> But he's like, "No, man. Harry Fuchs goats, man. Harry Fuchs chickens. Harry Fuchs
->
-> tigers."
+> Harry Fuchs goats, man, Harry Fuchs chickens, Harry Fuchs tigers."
 >
 > I don't know about you, but I'm pretty sure in the entire history of mankind,
 >
-> no one has successfully fucked a tiger.
+> no one has
 >
-> Probably a few people got fucked up by a tiger.
+> successfully fucked a tiger.
 >
-> And it made me realize that there's actually a whole class of unfuckable
+> Probably a few people got fucked up by a tiger, but it made me realize that
 >
-> animals.
+> there's actually
 >
-> Like hippos, for example.
+> a whole class of unfuckable animals, like hippos, for example.
 >
-> You may get up behind a hippo and think, "Wow, that is a great ass."
+> You may get up behind a hippo and think, "Wow, that is a great ass," just slide
 >
-> Just slide on in there.
+> on in there,
 >
-> But don't do it, because hippos are actually the most dangerous mammal.
+> but don't do it, because hippos are actually the most dangerous mammal, they
 >
-> They kill about 500 people every year.
+> kill about
 >
-> Yeah, so don't do that.
->
-> Don't do...
+> 500 people every year, so don't do that.
 >
 > Don't do elephants either, because you're going to find it's too high up.
 >
-> You know, you may be like, "Yeah."
+> You may be like, "Yeah, of course, it's huge," but it's not going to reach, it's
 >
-> Of course, it's huge, but it's not going to reach.
+> just too
 >
-> It's just too far.
+> far.
 >
-> Of course, if the mom's not watching, you could probably fuck a baby up.
+> Of course, if the mom's not watching, you could probably fuck a baby elephant.
 >
-> All right, I'm just finding your level.
+> I'm just finding your level, so you're good with bestiality, you're pretty much
 >
-> So you're good with bestiality.
+> a pedophile
 >
-> You're not going to petrify the bestiality.
+> this year.
 >
-> I'll try and keep away from that.
+> I'm trying to keep away from that, but it's true, I do have a lot of dark
 >
-> But it's true, I do have a lot of dark thoughts, you know.
+> thoughts, and
 >
-> And this actually, I think it goes back to my childhood.
+> this actually, I think it goes back to my childhood, because I went to a
 >
-> Because I went to a Catholic school.
+> Catholic school,
 >
-> But I got thrown out for molesting a priest.
+> but I got thrown out for molesting a priest, and actually, I think there I
 >
-> And actually, I think there is actually...
+> found the solution
 >
-> I found the solution to a big problem we're having, you know.
+> to a big problem we're having.
 >
-> Every time a priest molests a child, we need to get out there on the streets,
+> Every time a priest molests a child, we need to get out there, on the streets,
 >
-> go out and molest the priest.
+> go out and
 >
-> Be like, "Butt man and rape him."
+> molest a priest, be like, "Butt man and raping, vigilante justice, we can clear
 >
-> Vigilante justice.
+> this up in
 >
-> We can clear this up in a month or so.
+> a month or so."
 >
-> Okay, so...
+> Okay, so, okay, it's not comfortable with the Catholic pedo-politics.
 >
-> Okay, it's not comfortable with the Catholic people.
+> Yeah, I don't know, it's tough, but it's also tough being a guy these days,
 >
-> Yeah, I don't know.
+> because society
 >
-> It's tough.
+> thinks so many bad things about us, and okay, it's justified, men did all the
 >
-> But, you know, it's also tough being a guy these days.
+> bad shit in
 >
-> Because society thinks so many bad things about us, you know.
+> history, but recently I found out, I'm guilty of this myself, I just think bad
 >
-> And, okay, it's justified.
+> stuff about
 >
-> Men did all the bad shit in history.
+> men, you know, I was on a tram, and there's a couple, and there's a guy kissing
 >
-> But, you know, recently I found that I'm guilty of this myself.
+> a girl,
 >
-> I just think bad stuff about men, you know.
+> and then I noticed that the girl actually had Down syndrome, and I thought, "That
 >
-> I was on a tramp.
+> sly
 >
-> And there's a couple.
+> motherfucker."
 >
-> And there's a guy kissing a girl.
+> Now think about this, like, if that had been a woman, and the guy had Down
 >
-> And then I noticed that the girl actually had Down syndrome.
+> syndrome, I
 >
-> And I thought, "That slime motherfucker."
+> would have been thinking like, "Wow, what a wonderful person she is, that she
 >
-> Now, think about this.
+> can carry
 >
-> Like, if that had been a woman and the guy had Down syndrome,
+> the responsibility, the burden of having a relationship with someone with a
 >
-> I would have been thinking, like, "Wow, what a wonderful person she is."
+> disability,
 >
-> That she can carry the responsibility, the burden of having a relationship with
->
-> someone with a disability.
->
-> Like, she is the greatest person ever.
+> like, she is the greatest person ever."
 >
 > But when I saw this guy, I was like, "Motherfucker."
 >
-> Because you know what he's doing, you know.
+> Because you know what he's doing, you know, he's tapped into the unlimited
 >
-> He's tapped into the unlimited source of free sex.
+> source of free
 >
-> Now, you know, you may not know this about people with Down syndrome.
+> sex.
 >
-> They're very affectionate.
+> Now, you may not know this about people with Down syndrome, they're very
 >
-> Sometimes that crosses into sexual behavior.
+> affectionate,
 >
-> And probably this guy is like, "Hey, you know, honey, it's time to play the lollipop
+> sometimes that crosses into sexual behavior, and probably this guy is like, "Hey,
 >
-> game."
+> you
 >
-> "I'm very bad tonight. I'm sorry."
+> know, honey, it's time to play the lollipop game."
 >
-> Because he's probably got another game like, you know, "Hide the Rabbit."
+> We've got very bad luck tonight, I'm sorry.
 >
-> Which holds tonight.
+> Because he's probably got another game, like, you know, hide the rabbit, which
 >
-> We're getting there.
+> holds tonight.
 >
-> You're finding that sex with Down syndrome is funny.
+> We're getting there, you're finding that sex with Down syndrome funny.
 >
 > In fact, they're still, they're like, "We're getting out of this."
 >
-> But, you know, it's tough.
+> But you know, it's tough, but this is the kind of stuff that society thinks
 >
-> But this is the kind of stuff that society thinks about men.
+> about men,
 >
-> And, you know, I feel this personally because, you know, I'm in my mid-forties.
+> and you know, I feel this personally because, you know, I'm in my mid-forties,
 >
-> I'm bald.
+> I'm bald,
 >
-> Beard.
+> beard, white, you know, all the things that people hate.
 >
-> White.
+> It's like, you hear about me on the news, a man was seen running, witnesses say
 >
-> You know, all the things that people hate.
+> he was
 >
-> You know, it's like you hear about me on the news.
+> in his mid-forties, white, shaved with a beard.
 >
-> A man was seen running.
+> It's like everyone thinks I'm some kind of serial rapist.
 >
-> Witnesses say he was in his mid-forties, white, shaved with a beard.
+> And you know, and this is tough because, you know, when you're dealing with
 >
-> You know, it's like everyone thinks I'm some kind of serial rapist.
+> this all the
 >
-> And, you know, this is tough because, you know, when you're dealing with this
+> time, you realize that there's something which I've started to call the rapiness
 >
-> all the time,
+> scale.
 >
-> you realize that there's something which I've started to call the rapiness.
+> And this is a scale that, like, out here you've got, like, the axe murderers,
 >
-> And this is a scale that, like, out here you've got like the axe murderers, the
->
-> serial killers,
+> the serial killers,
 >
 > these kind of people.
 >
 > But over here on the left, you've got the friend zone.
 >
-> And, you know, the nice guys out there that are in the friend zone, every time,
+> And you know, the nice guys out there that are in the friend zone, every time,
 >
 > like,
 >
-> they meet the girl, they're like, "Where am I going to put myself?
+> they need to go, they're like, where am I going to put myself?
 >
 > I've got to get out of the friend zone.
 >
-> I've got to get a bit more pretty.
+> I've got to get a bit more creepy.
 >
-> But for me, I'm coming this way."
+> But for me, I'm coming this way.
 >
-> "That's a very nice dress you have on."
+> That's a very nice dress you have on.
 >
-> It doesn't matter what I do, though.
+> Doesn't matter what I do, though.
 >
 > It's just still creepy.
 >
-> My one tip to all the guys here is when you're on a date, never start with, "Listen,
+> My one tip to all the guys here is when you're on a date, never start with this.
 >
-> I just
+> I just want you to know I'm not a rapist.
 >
-> want you to know I'm not a rapist."
+> It never goes well for me.
 >
-> It never goes well from there.
->
-> Okay, thank you.
->
-> Give it up for Harry, everybody.
+> Thank you.

@@ -17,29 +17,25 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> A British man who's been living here in Switzerland for the past 17 years
+> British man, he's been living here in Switzerland for the past 17 years and yes, this is his real
 >
-> and yes, this is his real name.
+> name.
 >
-> Give it up for Harry Fuchs, everybody!
+> Give it up for Harry Fox, everybody! Give it up!
 >
-> Give it up!
->
-> So my name is actually Harry Fuchs.
+> So my name is actually Harry Fux.
 >
 > It's a German name.
 >
 > Spelled F-U.
 >
-> C-K-S-R-O-P-F-U.
+> C-K-S-R-E-P-E-F-U.
 >
 > C-K-S.
 >
-> When I'm in a room with English speakers like this,
+> When I'm in a room with English speakers like this, a lot of you think my name is Harry Fux.
 >
-> a lot of you think my name is Harry Fuchs.
->
-> My name is not Harry Fuchs.
+> My name is not Harry Fux.
 >
 > And in my family, when we have a family get-together,
 >
@@ -47,17 +43,15 @@ notes: |
 >
 > And I have two kids.
 >
-> I had to call them Halbert and Wilbur.
+> I had to call them Halber and Watber.
 >
-> What the?
+> Just to give them a good starting line.
 >
-> Just to give them a good start.
->
-> Yeah, but anyway, it's seasonal time.
+> Yeah, but, you know, anyway, it's seasonal time.
 >
 > Did you guys feel it last weekend?
 >
-> Did you feel it, that first chill of autumn?
+> Did you feel it? That first chill of autumn?
 >
 > You know, the leaves are turning, the days are getting shorter,
 >
@@ -65,39 +59,27 @@ notes: |
 >
 > I sense a lot of that might be happening back here.
 >
-> Yeah.
+> Yeah, because I'm 47.
 >
-> Now, because I'm 47, I've been on this planet
+> I've been on this planet studying the human race for a long time.
 >
-> studying the human race for a long time.
+> And this is the stuff that you learn is that is that ladies,
 >
-> And this is the stuff that you learn,
->
-> is that ladies, the female of the species,
->
-> has seasonal dating habits.
+> the female of the species, has seasonal dating habits.
 >
 > This is true.
 >
-> In springtime, in springtime,
+> In springtime, in springtime, they seek out a nice muscly man,
 >
-> they seek out a nice muscly man,
+> a man with a six pack that you can take to the pool to show to your friends.
 >
-> a man with a six-pack that you can take to the pool
+> Like Cruz over there, you know, he has a name like Cruz.
 >
-> to show to your friends, like,
->
-> cruise over there, you know?
->
-> He has a name like Cruise.
->
-> But right about August, you dump him,
->
-> because let's face it, he's a fucking idiot.
+> But round about August, you dump him because his face, he's a fucking idiot.
 >
 > And then you move on to someone like Saeed.
 >
-> Doesn't he have a cute smile?
+> Does he have a cute smile?
 >
 > Like, you know, he's a nice guy.
 >
@@ -109,43 +91,35 @@ notes: |
 >
 > It's not happening for you this winter.
 >
-> You're going to be snuggled.
+> You're going to be snuggled. What games do you play, Saeed?
 >
-> What games do you play, Saeed?
+> -No. -You don't play?
 >
-> No.
->
-> You don't play?
->
-> No.
->
-> This is perfect winter boyfriend.
+> -No. -This is perfect winter boyfriend material.
 >
 > Don't let him leave that door, ladies.
 >
 > But I do have a lot of sympathy for women,
 >
-> especially, I read something recently that blew my mind.
+> especially I read something recently that blew my mind.
 >
-> So, scientists have figured out
+> So scientists have figured out
 >
-> that men only reach mental and emotional maturity
->
-> at the age of 43.
+> that men only reach mental and emotional maturity at the age of 43.
 >
 > That is insane, isn't it?
 >
-> I'm mature for only four years.
+> I haven't matured for only four years.
 >
 > That's fucking crazy.
 >
-> For women, it happens at 34.
+> For women, it happens at 32.
 >
 > Women are 11 years ahead of us.
 >
 > That is insane.
 >
-> And it's like, I really feel for you ladies
+> And it's like, I really feel for you, ladies,
 >
 > that you have to deal with this stupid shit for so long.
 >
@@ -153,110 +127,86 @@ notes: |
 >
 > They're both about 25 from the looks of it.
 >
-> Are they about right?
->
-> 25?
+> Is that about right, 25?
 >
 > 25, yeah.
 >
 > And what that actually is with this 11-year gap
 >
-> is a 13-year-old.
+> is a 13-year-old...
 >
-> With someone that has a strange love of you.
->
-> Young men.
+> with someone that has a strange love of young men.
 >
 > I feel very uncomfortable.
 >
-> So, if you need rescuing from this situation,
+> So if you need rescuing from this situation, I'm there for you.
 >
-> I'm there for you.
->
-> I don't want to imply that, you know,
->
-> that women are a bit child-honest-y.
+> And I don't want to imply that women are a bit child-blessed.
 >
 > But it does explain a lot of things.
 >
-> Like, at the wedding, it's always puzzled me.
+> Like at the wedding, it's always puzzled me.
 >
 > You know, you have the bride and the bridegroom.
 >
 > Like, why is he called the bridegroom?
 >
-> Is it because she spent five years grooming him for this moment?
+> Is it 'cause she spent five years grooming him for this moment?
 >
-> Okay, too much truth there.
->
-> I'm sorry.
+> OK, too much truth there. I'm sorry.
 >
 > We'll move swiftly on.
 >
-> So, for me, all of this stuff, I'm out of this thing.
+> So for me, all of this stuff, I'm out of this thing.
 >
-> I'm old, I'm a dad, I'm a single dad.
+> I'm old. I'm a dad. I'm a single dad.
 >
 > But I have kids that live with me.
 >
-> So, I don't have time for all this dating thing.
+> So I don't have time for all this dating thing.
 >
-> And if I can share something with you,
+> And if I can share something with you...
 >
-> it has actually been a long time since I've had sex.
+> It has actually been a long time since I've had sex.
 >
 > Hands up if you haven't had sex in a long time.
 >
-> Okay, okay.
+> OK. OK, I hadn't realised that I was coming to the Zurich Nymphomaniacs meet-up.
 >
-> I hadn't realized that I was coming to the Zurich Nymphomaniacs meetup.
->
-> All right.
->
-> Okay, well, then maybe if I can explain my condition to you,
+> All right. OK, well, then maybe if I can explain my condition to you,
 >
 > how it is when you haven't had sex in a long time,
 >
 > it's kind of like you're hallucinating.
 >
-> Because you could be walking down the street,
+> Cos you could be walking down the street,
 >
 > you see a couple of dogs sniffing each other's asses,
 >
-> and you look at them and think,
+> and you look at them and think, "I wish that was me."
 >
-> I wish that was me.
+> Or you go into Migros, you go into Migros,
 >
-> Or you go into Migo, you go into Migo,
->
-> you spot,
->
-> and that's your own on watermelon.
+> you spot an action on watermelon.
 >
 > You get one hand on that watermelon, maybe two.
 >
-> Bam, it's like you're in a new dimension.
+> Bam! It's like you're in a new dimension.
 >
-> It's just you and that watermelon.
+> It's just you and that watermelon, it's getting hot, it's getting steamy,
 >
-> It's getting hot, it's getting steamy.
+> you're oblivious to all the people watching.
 >
-> You're oblivious to all the people watching.
+> And then you hear, "There's a young man shaving his neck," and you look,
 >
-> And then you hear this,
+> and there's an old lady about to hit you with her handbag,
 >
-> "You're my man's shaman, Zizek, can you look?"
->
-> And there's an old lady about to hit you with her handbag.
->
-> And you think, "She's nice."
+> and you think, "She's nice."
 >
 > All right, that's all I've got to you.
 >
-> You go there and we'll check out.
+> You go there and we'll take care of it.
 >
-> Don't yet.
->
-> We'll check out if you're alive.
+> Don't you ever try and get out of here alone.
 >
 > Yes, that was hairy, ladies and gentlemen.

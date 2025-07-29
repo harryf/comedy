@@ -16,31 +16,27 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Anybody can get on stage, okay?
+> Anybody can get on stage, okay? Like Max. Do you think you can do comedy?
 >
-> Like Max, do you think you could do comedy?
+> I liked your answer before. I thought it was funny.
 >
-> I liked your answer before, I thought it was funny.
+> So if anybody amongst you guys is like, "You know what? I think I can do comedy,
 >
-> So if anybody amongst you guys is like,
+> Matt."
 >
-> you know what, I think I could do comedy, man.
+> Just come to me after the show or go online on our page and sign up to do a
 >
-> Just come to me after the show,
+> spot in.
 >
-> or go online on our page and sign up to do a spot,
+> You can totally be on stage next Tuesday.
 >
-> and you can totally be on stage next Tuesday.
+> But for now, let's move along with our next comedian of the night.
 >
-> But for now, let's move along with our next comedian of the night,
->
-> ladies and gentlemen.
->
-> He's done an open mic a bunch of times before.
+> Ladies and gentlemen, he's done an open mic a bunch of times before.
 >
 > Give it up for Harry Fox, everybody!
 >
-> So my name is actually Harry Fuchs.
+> So my name is actually Harry Fux.
 >
 > It's a German name.
 >
@@ -48,75 +44,61 @@ notes: ""
 >
 > I repeat, F-U-C-K-S.
 >
-> When I'm in a room with English speakers,
+> When we're in a room with English speakers like this, a lot of you think my
 >
-> a lot of you think my name is Harry Fox.
+> name is Harry Fox.
 >
-> Don't say no.
+> What's he though?
 >
 > We're coming to that.
 >
-> Stay calm.
+> And, you know, it's hard with this name because, you know, when we have a
 >
-> And, you know, it's hard with this name,
->
-> because, you know, when we have a family get-together,
+> family get-together,
 >
 > we get really upset when you call us a group of fuckers.
 >
 > And I have two kids.
 >
-> And I had to call them Halbert and Walter.
+> And I have to call them Albert and Walter.
 >
-> And, you know, I don't know.
+> And, you know, but actually a real problem with this name is I get a lot of
 >
-> But actually, a real problem with this name is
+> stupid comments like this comment earlier.
 >
-> it's like a lot of stupid comments, like this comment earlier.
+> Like recently this American tourist came up to me and he's like,
 >
-> You know, like recently, this American tourist came up to me.
+> "Yo, what's up, man? Harry Fox. Harry Fox what, man?"
 >
-> He's like, yo, what's up, man?
+> I'm like, "What?"
 >
-> Harry Fuchs.
+> He's like, "Yeah, Harry Fox what, man?"
 >
-> Harry Fuchs what, man?
+> So I thought, I'm smart. Smarter than him, at least.
 >
-> I'm like, what?
+> Let me try him off with some adverbs, you know.
 >
-> He's like, yeah, Harry Fuchs what, man?
+> Harry Fox, uh, hopefully.
 >
-> So I thought, I'm smart.
+> Harry Fox, occasionally.
 >
-> Smarter than him, at least.
+> Harry Fox, enthusiastically.
 >
-> Let me throw him off with some adverts, you know.
+> And that was it for this man. He just melted down.
 >
-> Harry Fuchs.
+> But no, actually the real problem with this name is it just sets a very high
 >
-> Now, hopefully, Harry Fuchs occasionally.
+> level of expectation.
 >
-> Harry Fuchs enthusiastically.
+> And I've only really done about this much, but I feel like, well, it's more
 >
-> And that was it for this man.
+> like that much.
 >
-> He just melted down.
+> And actually if I can share something, you know, I'm in a bit of a tricky spot.
 >
-> But no, actually, the real problem with this name
+> Because, you know, for 20 years I was in a long-term relationship with one
 >
-> is it just sets a very high level of expectation.
->
-> And I've only really done about this much for a film.
->
-> Well, I think, like, more like that much.
->
-> And actually, if I can share something, you know,
->
-> I'm in a bit of a tricky spot.
->
-> Because, you know, for 20 years,
->
-> I was in a long-term relationship with one woman or another.
+> woman or another.
 >
 > But since about a year...
 >
@@ -126,19 +108,13 @@ notes: ""
 >
 > That's horrible.
 >
-> Like, I'm sharing, like, deep, intimate parts of my life here.
+> I'm sharing deep, intimate parts of my life here.
 >
-> And, but, you know, and I've been single for about a year.
->
-> I don't really know why.
+> And I've been single for about a year. I don't really know why.
 >
 > It's been tough to find someone.
 >
-> And, you know, but 20 years ago,
->
-> we didn't have...
->
-> We didn't have Tinder.
+> But 20 years ago, we didn't have Tinder.
 >
 > And so I thought, okay, I'll give Tinder a try.
 >
@@ -146,103 +122,71 @@ notes: ""
 >
 > How wrong I was.
 >
-> Because for you guys, for you guys,
->
-> you're mostly under 30.
+> Because for you guys, for you guys, you're mostly under 30.
 >
 > Tinder for you guys is an amazing place.
 >
-> Because you get to swipe your way through hot, sexy bodies
+> You get to swipe your way through hot, sexy bodies.
 >
-> and potential erotic encounters.
+> And potential erotic encounters.
 >
-> And the dream, the dream that your prince,
+> And the dream, the dream that your prince, your ideal man, might somehow be in
 >
-> your ideal man might somehow be in there.
+> there.
 >
-> But for me,
+> But for me, Tinder over 40 is a dark place.
 >
-> for me, Tinder over 40 is a dark place.
+> I get to swipe my way through broken marriages.
 >
-> I get to swipe my way through broken marriages,
+> Drug and alcohol problems.
 >
-> drug and alcohol problems,
->
-> psychiatrists.
+> Psychiatrists.
 >
 > Fucking hard, man.
 >
-> And, you know,
+> And you know, the worst is when you see the tattoos and say, "No regrets!"
 >
-> the worst is when you see the tattoos and say,
->
-> no regrets.
->
-> Philippa, do you have tattoos?
->
-> Back there?
->
-> On your...
+> Philippa, do you have tattoos back there?
 >
 > You do?
 >
-> What kind of tattoos do you have, Philippa?
+> You do. What kind of tattoos do you have, Philippa?
 >
 > Quite different ones.
 >
-> Yeah, you know, dropped in Congress in different cities.
+> Yeah, you know, dropped in Congress in a different city.
 >
-> And it just couldn't stay simple.
+> And in the United States, I would never be able to get them.
 >
-> Never be able to do that.
->
-> So you've been collecting tattoos in every city around the world?
->
-> Yeah.
+> So you've been collecting tattoos in every city around the world.
 >
 > Is it all guys' names?
 >
-> Okay.
+> Okay, we don't need to get upset.
 >
-> We don't need to go.
+> "Oh, I'm a bad guy."
 >
-> Oh, I'm a bad guy.
+> Because, you know, and the thing is actually, if we go back to Tinder for a
 >
-> Because, you know...
+> second,
 >
-> And the thing is, actually,
->
-> but if we go back to Tinder for a second,
->
-> the hard part is actually...
->
-> more that, you know,
->
-> when you see older women,
+> the hard part is actually more that, you know, when you see older women,
 >
 > they're oddly specific in their profiles on Tinder
 >
 > about what they don't want from their next relationship.
 >
-> It's kind of like this is what their guy last did to them.
+> It's kind of like this is what their guide last did to them.
 >
-> You know, it's like,
->
-> swipe left if you hate my children.
+> You know, it's like, "Swipe left if you hate my children.
 >
 > Swipe left if you're planning to run off with my sister.
 >
-> Swipe left if you fantasize about adult diapers.
+> Swipe left if you fantasize about adult diapers."
 >
-> Yeah, I know, it's hard.
+> Yeah, I know, it's hard. It's hard.
 >
-> It's hard.
->
-> And I have to ask,
->
-> women, what is it?
->
-> Ladies here,
+> And I have to ask women, what is it, ladies here,
 >
 > what is it that happens to you in the next 10 to 15 years
 >
@@ -250,35 +194,19 @@ notes: ""
 >
 > Men.
 >
-> Men.
+> Exactly, it's that prince you found on Tinder.
 >
-> Exactly.
+> But you know, it's actually not the scariest thing about Tinder.
 >
-> It's that prince you found on Tinder.
+> To me, personally, the scariest thing on Tinder
 >
-> But, you know,
+> is the sight of a 50-year-old woman making a duck face.
 >
-> it's actually not the scariest thing about Tinder.
->
-> To me, personally,
->
-> the scariest thing on Tinder
->
-> is the sight of a 50-year-old woman
->
-> making a...
->
-> duck face.
->
-> Because, honestly,
->
-> how the fuck do you get to 50
+> Because, honestly, how the fuck do you get to 50
 >
 > thinking that a duck face is okay?
 >
-> It's like the only time
->
-> a duck face is ever okay
+> It's like the only time a duck face is ever okay
 >
 > is if both your parents are ducks.
 >

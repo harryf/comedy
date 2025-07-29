@@ -3,7 +3,7 @@
 	"model": {
 		"type": "large",
 		"multilingual": true,
-		"vocab": 51866,
+		"vocab": 51865,
 		"audio": {
 			"ctx": 1500,
 			"state": 1280,
@@ -16,11 +16,11 @@
 			"head": 20,
 			"layer": 32
 		},
-		"mels": 128,
+		"mels": 80,
 		"ftype": 1
 	},
 	"params": {
-		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
 		"language": "en",
 		"translate": false
 	},
@@ -31,3467 +31,2367 @@
 		{
 			"timestamps": {
 				"from": "00:00:00,000",
-				"to": "00:00:10,320"
+				"to": "00:00:04,800"
 			},
 			"offsets": {
 				"from": 0,
-				"to": 10320
+				"to": 4800
 			},
-			"text": " have one last comedian left in our first half i know right do it harder"
+			"text": " We have one last comedian left in our first half."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:10,320",
-				"to": "00:00:15,980"
+				"from": "00:00:04,800",
+				"to": "00:00:06,220"
 			},
 			"offsets": {
-				"from": 10320,
-				"to": 15980
+				"from": 4800,
+				"to": 6220
 			},
-			"text": " oh don't worry guys we got more comedy ready for you in the second half but"
+			"text": " I know, right?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:15,980",
-				"to": "00:00:17,260"
+				"from": "00:00:06,220",
+				"to": "00:00:07,060"
 			},
 			"offsets": {
-				"from": 15980,
-				"to": 17260
+				"from": 6220,
+				"to": 7060
 			},
-			"text": " right now i want to"
+			"text": " Aw."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:17,260",
-				"to": "00:00:22,280"
+				"from": "00:00:07,060",
+				"to": "00:00:08,800"
 			},
 			"offsets": {
-				"from": 17260,
-				"to": 22280
+				"from": 7060,
+				"to": 8800
 			},
-			"text": " bring up the last performer of this first half here he's originally from the uk"
+			"text": " - Aw."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:22,280",
-				"to": "00:00:23,320"
+				"from": "00:00:08,800",
+				"to": "00:00:11,060"
 			},
 			"offsets": {
-				"from": 22280,
-				"to": 23320
+				"from": 8800,
+				"to": 11060
 			},
-			"text": " right adam you"
+			"text": " - Do it harder!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:23,320",
-				"to": "00:00:27,940"
+				"from": "00:00:11,060",
+				"to": "00:00:11,900"
 			},
 			"offsets": {
-				"from": 23320,
-				"to": 27940
+				"from": 11060,
+				"to": 11900
 			},
-			"text": " guys also yeah he's a person from the uk and he's been living here in switzerland"
+			"text": " - Aw."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:27,940",
-				"to": "00:00:28,880"
+				"from": "00:00:11,900",
+				"to": "00:00:13,800"
 			},
 			"offsets": {
-				"from": 27940,
-				"to": 28880
+				"from": 11900,
+				"to": 13800
 			},
-			"text": " for a very long"
+			"text": " - Oh, don't worry, guys."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:28,880",
-				"to": "00:00:33,060"
+				"from": "00:00:13,800",
+				"to": "00:00:16,160"
 			},
 			"offsets": {
-				"from": 28880,
-				"to": 33060
+				"from": 13800,
+				"to": 16160
 			},
-			"text": " time ladies and gentlemen please give him a big round of applause here he is"
+			"text": " We got more comedy ready for you in the second half."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:33,060",
-				"to": "00:00:34,320"
+				"from": "00:00:16,160",
+				"to": "00:00:18,880"
 			},
 			"offsets": {
-				"from": 33060,
-				"to": 34320
+				"from": 16160,
+				"to": 18880
 			},
-			"text": " harry fox everybody"
+			"text": " But right now, I want to bring up the last performer"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:34,320",
-				"to": "00:00:49,630"
+				"from": "00:00:18,880",
+				"to": "00:00:20,360"
 			},
 			"offsets": {
-				"from": 34320,
-				"to": 49630
+				"from": 18880,
+				"to": 20360
 			},
-			"text": " so my name is actually harry fuchs it's a german name spelled f-u-c-k-s i"
+			"text": " of this first half here."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:49,630",
-				"to": "00:00:51,980"
+				"from": "00:00:20,360",
+				"to": "00:00:23,240"
 			},
 			"offsets": {
-				"from": 49630,
-				"to": 51980
+				"from": 20360,
+				"to": 23240
 			},
-			"text": " repeat f-u-c-k-s"
+			"text": " He's originally from the UK, right, Adam?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:51,980",
-				"to": "00:00:56,860"
+				"from": "00:00:23,240",
+				"to": "00:00:26,480"
 			},
 			"offsets": {
-				"from": 51980,
-				"to": 56860
+				"from": 23240,
+				"to": 26480
 			},
-			"text": " but as we have english speakers a lot of you think my name is harry fuchs"
+			"text": " You guys also, you know, he's not a person from the UK."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:58,880",
-				"to": "00:01:04,160"
+				"from": "00:00:26,480",
+				"to": "00:00:28,240"
 			},
 			"offsets": {
-				"from": 58880,
-				"to": 64160
+				"from": 26480,
+				"to": 28240
 			},
-			"text": " my name is not harry fox in my family we get very upset when we have a family"
+			"text": " And he's been living here in Switzerland"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:04,160",
-				"to": "00:01:04,860"
+				"from": "00:00:28,240",
+				"to": "00:00:29,520"
 			},
 			"offsets": {
-				"from": 64160,
-				"to": 64860
+				"from": 28240,
+				"to": 29520
 			},
-			"text": " get together"
+			"text": " for a very long time."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:04,860",
-				"to": "00:01:12,150"
+				"from": "00:00:29,520",
+				"to": "00:00:30,520"
 			},
 			"offsets": {
-				"from": 64860,
-				"to": 72150
+				"from": 29520,
+				"to": 30520
 			},
-			"text": " and you call us a group of fuckers and i have two kids i call them howler and"
+			"text": " Ladies and gentlemen,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:12,150",
-				"to": "00:01:13,240"
+				"from": "00:00:30,520",
+				"to": "00:00:32,080"
 			},
 			"offsets": {
-				"from": 72150,
-				"to": 73240
+				"from": 30520,
+				"to": 32080
 			},
-			"text": " whatler"
+			"text": " please give him a big round of applause."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:13,240",
-				"to": "00:01:18,610"
+				"from": "00:00:32,080",
+				"to": "00:00:34,900"
 			},
 			"offsets": {
-				"from": 73240,
-				"to": 78610
+				"from": 32080,
+				"to": 34900
 			},
-			"text": " i wanted to give them a good start to my life actually real talk my daughter's"
+			"text": " Here he is, Harry Fox, everybody!"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:18,610",
-				"to": "00:01:19,040"
+				"from": "00:00:34,900",
+				"to": "00:00:37,900"
 			},
 			"offsets": {
-				"from": 78610,
-				"to": 79040
+				"from": 34900,
+				"to": 37900
 			},
-			"text": " here at the"
+			"text": " (audience cheering)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:19,040",
-				"to": "00:01:24,860"
+				"from": "00:00:37,900",
+				"to": "00:00:44,960"
 			},
 			"offsets": {
-				"from": 79040,
-				"to": 84860
+				"from": 37900,
+				"to": 44960
 			},
-			"text": " back tonight and adam i'm watching you man keep your fingers off adam"
+			"text": " - So my name is actually Harry Fooks."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:24,860",
-				"to": "00:01:25,200"
+				"from": "00:00:44,960",
+				"to": "00:00:46,200"
 			},
 			"offsets": {
-				"from": 84860,
-				"to": 85200
+				"from": 44960,
+				"to": 46200
 			},
-			"text": " you"
+			"text": " It's a German name."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:28,880",
-				"to": "00:01:33,440"
+				"from": "00:00:46,200",
+				"to": "00:00:52,120"
 			},
 			"offsets": {
-				"from": 88880,
-				"to": 93440
+				"from": 46200,
+				"to": 52120
 			},
-			"text": " but yeah now the real problem with a name like harry fox is is sets of very"
+			"text": " Spelled F-O-C-K-S, I repeat, F-O-C-K-S."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:33,440",
-				"to": "00:01:34,820"
+				"from": "00:00:52,120",
+				"to": "00:00:54,760"
 			},
 			"offsets": {
-				"from": 93440,
-				"to": 94820
+				"from": 52120,
+				"to": 54760
 			},
-			"text": " high expectations"
+			"text": " But as we have English speakers,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:34,820",
-				"to": "00:01:41,200"
+				"from": "00:00:54,760",
+				"to": "00:00:57,320"
 			},
 			"offsets": {
-				"from": 94820,
-				"to": 101200
+				"from": 54760,
+				"to": 57320
 			},
-			"text": " and i've only done about as much fucking and honestly this is something that i"
+			"text": " a lot of you think my name is Harry Fox."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:41,200",
-				"to": "00:01:41,620"
+				"from": "00:00:57,320",
+				"to": "00:00:58,920"
 			},
 			"offsets": {
-				"from": 101200,
-				"to": 101620
+				"from": 57320,
+				"to": 58920
 			},
-			"text": " feel"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:41,620",
-				"to": "00:01:47,250"
+				"from": "00:00:58,920",
+				"to": "00:01:01,500"
 			},
 			"offsets": {
-				"from": 101620,
-				"to": 107250
+				"from": 58920,
+				"to": 61500
 			},
-			"text": " a bit insecure about you know a bit a bit uncomfortable because at this age i"
+			"text": " But my name is not Harry Fox."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:47,250",
-				"to": "00:01:47,800"
+				"from": "00:01:01,500",
+				"to": "00:01:03,360"
 			},
 			"offsets": {
-				"from": 107250,
-				"to": 107800
+				"from": 61500,
+				"to": 63360
 			},
-			"text": " still"
+			"text": " In my family, we get very upset"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:47,800",
-				"to": "00:01:54,220"
+				"from": "00:01:03,360",
+				"to": "00:01:05,600"
 			},
 			"offsets": {
-				"from": 107800,
-				"to": 114220
+				"from": 63360,
+				"to": 65600
 			},
-			"text": " don't know if i'm any good at sex because very recently to be good at anything"
+			"text": " when we have a family get-together,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:54,220",
-				"to": "00:01:56,380"
+				"from": "00:01:05,600",
+				"to": "00:01:07,840"
 			},
 			"offsets": {
-				"from": 114220,
-				"to": 116380
+				"from": 65600,
+				"to": 67840
 			},
-			"text": " you need 10 000"
+			"text": " and you call us a group of fuckers."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:56,380",
-				"to": "00:01:56,780"
+				"from": "00:01:07,840",
+				"to": "00:01:09,360"
 			},
 			"offsets": {
-				"from": 116380,
-				"to": 116780
+				"from": 67840,
+				"to": 69360
 			},
-			"text": " hours"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:56,780",
-				"to": "00:02:05,800"
+				"from": "00:01:09,360",
+				"to": "00:01:10,960"
 			},
 			"offsets": {
-				"from": 116780,
-				"to": 125800
+				"from": 69360,
+				"to": 70960
 			},
-			"text": " 10 000 hours is a lot of fucking if i add up all the fucking i've done maybe i'm"
+			"text": " And I have two kids."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:05,800",
-				"to": "00:02:07,280"
+				"from": "00:01:10,960",
+				"to": "00:01:13,640"
 			},
 			"offsets": {
-				"from": 125800,
-				"to": 127280
+				"from": 70960,
+				"to": 73640
 			},
-			"text": " at 5 000 hours"
+			"text": " I call them Howler and Wopper."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:07,280",
-				"to": "00:02:13,580"
+				"from": "00:01:13,640",
+				"to": "00:01:15,280"
 			},
 			"offsets": {
-				"from": 127280,
-				"to": 133580
+				"from": 73640,
+				"to": 75280
 			},
-			"text": " if i include masturbation and i find this like very depressing because it"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:13,580",
-				"to": "00:02:15,220"
+				"from": "00:01:15,280",
+				"to": "00:01:16,840"
 			},
 			"offsets": {
-				"from": 133580,
-				"to": 135220
+				"from": 75280,
+				"to": 76840
 			},
-			"text": " really means i must"
+			"text": " I wanted to give them a good start in life."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:15,220",
-				"to": "00:02:21,810"
+				"from": "00:01:16,840",
+				"to": "00:01:20,400"
 			},
 			"offsets": {
-				"from": 135220,
-				"to": 141810
+				"from": 76840,
+				"to": 80400
 			},
-			"text": " suck at sex but what's even more depressing is right here in this room you all"
+			"text": " Actually, real talk, my daughter's here at the back tonight."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:21,810",
-				"to": "00:02:23,140"
+				"from": "00:01:20,400",
+				"to": "00:01:22,920"
 			},
 			"offsets": {
-				"from": 141810,
-				"to": 143140
+				"from": 80400,
+				"to": 82920
 			},
-			"text": " suck at sex too"
+			"text": " And Adam, I'm watching you, man."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:23,140",
-				"to": "00:02:26,420"
+				"from": "00:01:22,920",
+				"to": "00:01:25,120"
 			},
 			"offsets": {
-				"from": 143140,
-				"to": 146420
+				"from": 82920,
+				"to": 85120
 			},
-			"text": " because you're wasting time listening to me"
+			"text": " You need to keep your fingers off Adam."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:26,780",
-				"to": "00:02:32,340"
+				"from": "00:01:25,120",
+				"to": "00:01:28,120"
 			},
 			"offsets": {
-				"from": 146780,
-				"to": 152340
+				"from": 85120,
+				"to": 88120
 			},
-			"text": " you need to get on with it people because uh because actually if you're fucking"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:32,340",
-				"to": "00:02:33,960"
+				"from": "00:01:29,120",
+				"to": "00:01:31,600"
 			},
 			"offsets": {
-				"from": 152340,
-				"to": 153960
+				"from": 89120,
+				"to": 91600
 			},
-			"text": " for 24 hours a"
+			"text": " But yeah, now, the real problem with a name like Harry Fox"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:33,960",
-				"to": "00:02:40,270"
+				"from": "00:01:31,600",
+				"to": "00:01:35,120"
 			},
 			"offsets": {
-				"from": 153960,
-				"to": 160270
+				"from": 91600,
+				"to": 95120
 			},
-			"text": " day for an entire year you're only at 8 000 hours believe me i've done the"
+			"text": " is it sets a very high level of expectation."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:40,270",
-				"to": "00:02:43,000"
+				"from": "00:01:35,120",
+				"to": "00:01:38,560"
 			},
 			"offsets": {
-				"from": 160270,
-				"to": 163000
+				"from": 95120,
+				"to": 98560
 			},
-			"text": " maths in fact if you live"
+			"text": " And I've only done about as much as I can."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:43,000",
-				"to": "00:02:50,340"
+				"from": "00:01:38,560",
+				"to": "00:01:41,240"
 			},
 			"offsets": {
-				"from": 163000,
-				"to": 170340
+				"from": 98560,
+				"to": 101240
 			},
-			"text": " for 70 years you need to have sex 11 times a day from the day you were born to"
+			"text": " And honestly, this is something"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:50,340",
-				"to": "00:02:52,380"
+				"from": "00:01:41,240",
+				"to": "00:01:43,520"
 			},
 			"offsets": {
-				"from": 170340,
-				"to": 172380
+				"from": 101240,
+				"to": 103520
 			},
-			"text": " the day you die"
+			"text": " that I feel a bit insecure about, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:52,380",
-				"to": "00:02:56,540"
+				"from": "00:01:43,520",
+				"to": "00:01:47,320"
 			},
 			"offsets": {
-				"from": 172380,
-				"to": 176540
+				"from": 103520,
+				"to": 107320
 			},
-			"text": " and i don't know what's worse about that the idea of"
+			"text": " a bit uncomfortable, because at this age,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:56,780",
-				"to": "00:03:03,500"
+				"from": "00:01:47,320",
+				"to": "00:01:51,440"
 			},
 			"offsets": {
-				"from": 176780,
-				"to": 183500
+				"from": 107320,
+				"to": 111440
 			},
-			"text": " newborn babies fucking or the idea of sex with old people on the day of their"
+			"text": " I still don't know if I'm any good at sex."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:03,500",
-				"to": "00:03:03,920"
+				"from": "00:01:51,440",
+				"to": "00:01:54,600"
 			},
 			"offsets": {
-				"from": 183500,
-				"to": 183920
+				"from": 111440,
+				"to": 114600
 			},
-			"text": " dying"
+			"text": " 'Cause very recently, to be good at anything,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:03,920",
-				"to": "00:03:13,030"
+				"from": "00:01:54,600",
+				"to": "00:01:57,360"
 			},
 			"offsets": {
-				"from": 183920,
-				"to": 193030
+				"from": 114600,
+				"to": 117360
 			},
-			"text": " but at this point at this point some of you are thinking this is bullshit i'm"
+			"text": " you need 10,000 hours."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:13,030",
-				"to": "00:03:14,300"
+				"from": "00:01:58,800",
+				"to": "00:02:02,280"
 			},
 			"offsets": {
-				"from": 193030,
-				"to": 194300
+				"from": 118800,
+				"to": 122280
 			},
-			"text": " good at sex i know"
+			"text": " 10,000 hours is a lot of fucking hours."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:14,300",
-				"to": "00:03:19,530"
+				"from": "00:02:02,280",
+				"to": "00:02:03,120"
 			},
 			"offsets": {
-				"from": 194300,
-				"to": 199530
+				"from": 122280,
+				"to": 123120
 			},
-			"text": " it like panos for example i am a greek man of course i am good at sex panos i"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:19,530",
-				"to": "00:03:20,680"
+				"from": "00:02:03,120",
+				"to": "00:02:05,000"
 			},
 			"offsets": {
-				"from": 199530,
-				"to": 200680
+				"from": 123120,
+				"to": 125000
 			},
-			"text": " hate to break"
+			"text": " If I add up all the fucking I've done,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:20,680",
-				"to": "00:03:26,760"
+				"from": "00:02:05,000",
+				"to": "00:02:08,320"
 			},
 			"offsets": {
-				"from": 200680,
-				"to": 206760
+				"from": 125000,
+				"to": 128320
 			},
-			"text": " it to you there are only two types of people that think of prostitutes and compulsive"
+			"text": " maybe I'm at 5,000 hours,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:26,780",
-				"to": "00:03:30,900"
+				"from": "00:02:08,320",
+				"to": "00:02:10,040"
 			},
 			"offsets": {
-				"from": 206780,
-				"to": 210900
+				"from": 128320,
+				"to": 130040
 			},
-			"text": " liars stop lying panels you know you're a hoe"
+			"text": " if I include masturbation."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:30,900",
-				"to": "00:03:38,920"
+				"from": "00:02:10,040",
+				"to": "00:02:11,360"
 			},
 			"offsets": {
-				"from": 210900,
-				"to": 218920
+				"from": 130040,
+				"to": 131360
 			},
-			"text": " and she's very uncomfortable with this idea this could be a new dimension"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:38,920",
-				"to": "00:03:46,060"
+				"from": "00:02:11,360",
+				"to": "00:02:13,440"
 			},
 			"offsets": {
-				"from": 218920,
-				"to": 226060
+				"from": 131360,
+				"to": 133440
 			},
-			"text": " but uh you know it's it's hard actually i think the real problem though i think"
+			"text": " And I find this, like, very depressing,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:46,060",
-				"to": "00:03:47,000"
+				"from": "00:02:13,440",
+				"to": "00:02:17,040"
 			},
 			"offsets": {
-				"from": 226060,
-				"to": 227000
+				"from": 133440,
+				"to": 137040
 			},
-			"text": " the real problem"
+			"text": " because it really means I must suck at sex."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:47,000",
-				"to": "00:03:51,580"
+				"from": "00:02:17,040",
+				"to": "00:02:21,440"
 			},
 			"offsets": {
-				"from": 227000,
-				"to": 231580
+				"from": 137040,
+				"to": 141440
 			},
-			"text": " is that men and women we don't really understand what the opposite half likes"
+			"text": " But what's even more depressing is right here in this room,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:51,580",
-				"to": "00:03:52,780"
+				"from": "00:02:21,440",
+				"to": "00:02:24,120"
 			},
 			"offsets": {
-				"from": 231580,
-				"to": 232780
+				"from": 141440,
+				"to": 144120
 			},
-			"text": " about sex you know"
+			"text": " you all suck at sex too,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:52,780",
-				"to": "00:03:56,580"
+				"from": "00:02:24,120",
+				"to": "00:02:26,560"
 			},
 			"offsets": {
-				"from": 232780,
-				"to": 236580
+				"from": 144120,
+				"to": 146560
 			},
-			"text": " i think that's the key to this problem like recently i went on a date with a"
+			"text": " because you're wasting time listening to me."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:56,780",
-				"to": "00:04:02,300"
+				"from": "00:02:26,560",
+				"to": "00:02:27,400"
 			},
 			"offsets": {
-				"from": 236780,
-				"to": 242300
+				"from": 146560,
+				"to": 147400
 			},
-			"text": " woman we ended up in bed together and she could not even tell me where her own"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:02,300",
-				"to": "00:04:03,340"
+				"from": "00:02:27,400",
+				"to": "00:02:29,040"
 			},
 			"offsets": {
-				"from": 242300,
-				"to": 243340
+				"from": 147400,
+				"to": 149040
 			},
-			"text": " clitoris was"
+			"text": " You need to get on with it, people, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:03,340",
-				"to": "00:04:10,430"
+				"from": "00:02:29,040",
+				"to": "00:02:34,040"
 			},
 			"offsets": {
-				"from": 243340,
-				"to": 250430
+				"from": 149040,
+				"to": 154040
 			},
-			"text": " her own clitoris maybe i forgot to remove the gag i can't remember but uh you"
+			"text": " because actually, if you're fucking for 24 hours a day"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:10,430",
-				"to": "00:04:11,500"
+				"from": "00:02:34,040",
+				"to": "00:02:38,840"
 			},
 			"offsets": {
-				"from": 250430,
-				"to": 251500
+				"from": 154040,
+				"to": 158840
 			},
-			"text": " know i think i"
+			"text": " for an entire year, you're only at 8,000 hours."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:11,500",
-				"to": "00:04:15,740"
+				"from": "00:02:38,840",
+				"to": "00:02:39,680"
 			},
 			"offsets": {
-				"from": 251500,
-				"to": 255740
+				"from": 158840,
+				"to": 159680
 			},
-			"text": " i think i've been thinking about this a lot and i think i have a solution okay"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:15,740",
-				"to": "00:04:16,700"
+				"from": "00:02:39,680",
+				"to": "00:02:41,800"
 			},
 			"offsets": {
-				"from": 255740,
-				"to": 256700
+				"from": 159680,
+				"to": 161800
 			},
-			"text": " you've got one lady"
+			"text": " Believe me, I've done the maths."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:16,700",
-				"to": "00:04:21,350"
+				"from": "00:02:41,800",
+				"to": "00:02:45,360"
 			},
 			"offsets": {
-				"from": 256700,
-				"to": 261350
+				"from": 161800,
+				"to": 165360
 			},
-			"text": " here thank you for appreciating that joke the rest of you you know you're just"
+			"text": " In fact, if you live for 70 years,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:21,350",
-				"to": "00:04:22,140"
+				"from": "00:02:45,360",
+				"to": "00:02:48,520"
 			},
 			"offsets": {
-				"from": 261350,
-				"to": 262140
+				"from": 165360,
+				"to": 168520
 			},
-			"text": " pretending"
+			"text": " you need to have sex 11 times a day,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:22,140",
-				"to": "00:04:25,300"
+				"from": "00:02:48,520",
+				"to": "00:02:52,480"
 			},
 			"offsets": {
-				"from": 262140,
-				"to": 265300
+				"from": 168520,
+				"to": 172480
 			},
-			"text": " i'm so sweet to answer that i didn't understand it"
+			"text": " from the day you were born to the day you die."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:25,300",
-				"to": "00:04:26,560"
+				"from": "00:02:52,480",
+				"to": "00:02:53,800"
 			},
 			"offsets": {
-				"from": 265300,
-				"to": 266560
+				"from": 172480,
+				"to": 173800
 			},
-			"text": " anyway"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:26,780",
-				"to": "00:04:32,170"
+				"from": "00:02:53,800",
+				"to": "00:02:55,800"
 			},
 			"offsets": {
-				"from": 266780,
-				"to": 272170
+				"from": 173800,
+				"to": 175800
 			},
-			"text": " let's get back to it so there is a solution there is a solution in zurich it's"
+			"text": " And I don't know what's worse about that,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:32,170",
-				"to": "00:04:32,780"
+				"from": "00:02:55,800",
+				"to": "00:02:58,280"
 			},
 			"offsets": {
-				"from": 272170,
-				"to": 272780
+				"from": 175800,
+				"to": 178280
 			},
-			"text": " a wonderful"
+			"text": " the idea of newborn babies fucking,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:32,780",
-				"to": "00:04:39,170"
+				"from": "00:02:58,280",
+				"to": "00:02:59,320"
 			},
 			"offsets": {
-				"from": 272780,
-				"to": 279170
+				"from": 178280,
+				"to": 179320
 			},
-			"text": " easy solution take a number three tram if you take a number three tram through"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:39,170",
-				"to": "00:04:39,900"
+				"from": "00:02:59,320",
+				"to": "00:03:01,480"
 			},
 			"offsets": {
-				"from": 279170,
-				"to": 279900
+				"from": 179320,
+				"to": 181480
 			},
-			"text": " the city"
+			"text": " or the idea of sex with old people"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:39,900",
-				"to": "00:04:45,170"
+				"from": "00:03:01,480",
+				"to": "00:03:02,800"
 			},
 			"offsets": {
-				"from": 279900,
-				"to": 285170
+				"from": 181480,
+				"to": 182800
 			},
-			"text": " it's going to stop the places that are going to change everything because first"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:45,170",
-				"to": "00:04:46,340"
+				"from": "00:03:02,800",
+				"to": "00:03:04,320"
 			},
 			"offsets": {
-				"from": 285170,
-				"to": 286340
+				"from": 182800,
+				"to": 184320
 			},
-			"text": " of all it's going"
+			"text": " on the day they're dying."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:46,340",
-				"to": "00:04:55,130"
+				"from": "00:03:04,320",
+				"to": "00:03:07,760"
 			},
 			"offsets": {
-				"from": 286340,
-				"to": 295130
+				"from": 184320,
+				"to": 187760
 			},
-			"text": " to stop outside sensual now sensual is a sex shop for ladies if you go in sensual"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:55,130",
-				"to": "00:04:56,480"
+				"from": "00:03:07,760",
+				"to": "00:03:08,600"
 			},
 			"offsets": {
-				"from": 295130,
-				"to": 296480
+				"from": 187760,
+				"to": 188600
 			},
-			"text": " you'll find this"
+			"text": " Yeah, it's hard."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:56,780",
-				"to": "00:04:57,780"
+				"from": "00:03:08,600",
+				"to": "00:03:10,760"
 			},
 			"offsets": {
-				"from": 296780,
-				"to": 297780
+				"from": 188600,
+				"to": 190760
 			},
-			"text": " it's going to stop outside sensual now sensual if you go in sensual you'll find"
+			"text": " But at this point, at this point,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:57,780",
-				"to": "00:04:57,780"
+				"from": "00:03:10,760",
+				"to": "00:03:13,040"
 			},
 			"offsets": {
-				"from": 297780,
-				"to": 297780
+				"from": 190760,
+				"to": 193040
 			},
-			"text": " this"
+			"text": " some of you are thinking, \"This is bullshit."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:57,780",
-				"to": "00:04:58,780"
+				"from": "00:03:13,040",
+				"to": "00:03:14,480"
 			},
 			"offsets": {
-				"from": 297780,
-				"to": 298780
+				"from": 193040,
+				"to": 194480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"I'm good at sex, I know it."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:58,780",
-				"to": "00:04:59,780"
+				"from": "00:03:14,480",
+				"to": "00:03:17,200"
 			},
 			"offsets": {
-				"from": 298780,
-				"to": 299780
+				"from": 194480,
+				"to": 197200
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"Like Panos, for example, I am a Greek man."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:59,780",
-				"to": "00:05:00,780"
+				"from": "00:03:17,200",
+				"to": "00:03:19,640"
 			},
 			"offsets": {
-				"from": 299780,
-				"to": 300780
+				"from": 197200,
+				"to": 199640
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"Of course I am good at sex.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:05:00,780",
-				"to": "00:05:01,780"
+				"from": "00:03:19,640",
+				"to": "00:03:21,680"
 			},
 			"offsets": {
-				"from": 300780,
-				"to": 301780
+				"from": 199640,
+				"to": 201680
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Panos, I hate to break it to you,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:01,780",
-				"to": "00:05:02,780"
+				"from": "00:03:21,680",
+				"to": "00:03:24,640"
 			},
 			"offsets": {
-				"from": 301780,
-				"to": 302780
+				"from": 201680,
+				"to": 204640
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " but there are only two types of people that think that."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:02,780",
-				"to": "00:05:03,780"
+				"from": "00:03:24,640",
+				"to": "00:03:27,440"
 			},
 			"offsets": {
-				"from": 302780,
-				"to": 303780
+				"from": 204640,
+				"to": 207440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Prostitutes and compulsive liars."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:03,780",
-				"to": "00:05:04,780"
+				"from": "00:03:27,440",
+				"to": "00:03:28,400"
 			},
 			"offsets": {
-				"from": 303780,
-				"to": 304780
+				"from": 207440,
+				"to": 208400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:04,780",
-				"to": "00:05:05,780"
+				"from": "00:03:28,400",
+				"to": "00:03:29,600"
 			},
 			"offsets": {
-				"from": 304780,
-				"to": 305780
+				"from": 208400,
+				"to": 209600
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Stop lying, Panos."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:05,780",
-				"to": "00:05:06,780"
+				"from": "00:03:29,600",
+				"to": "00:03:31,280"
 			},
 			"offsets": {
-				"from": 305780,
-				"to": 306780
+				"from": 209600,
+				"to": 211280
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " You know you're a hoe."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:06,780",
-				"to": "00:05:07,780"
+				"from": "00:03:31,280",
+				"to": "00:03:33,440"
 			},
 			"offsets": {
-				"from": 306780,
-				"to": 307780
+				"from": 211280,
+				"to": 213440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:07,780",
-				"to": "00:05:08,780"
+				"from": "00:03:33,440",
+				"to": "00:03:35,960"
 			},
 			"offsets": {
-				"from": 307780,
-				"to": 308780
+				"from": 213440,
+				"to": 215960
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And she's very uncomfortable with this idea."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:08,780",
-				"to": "00:05:09,780"
+				"from": "00:03:35,960",
+				"to": "00:03:37,440"
 			},
 			"offsets": {
-				"from": 308780,
-				"to": 309780
+				"from": 215960,
+				"to": 217440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:09,780",
-				"to": "00:05:10,780"
+				"from": "00:03:37,440",
+				"to": "00:03:40,000"
 			},
 			"offsets": {
-				"from": 309780,
-				"to": 310780
+				"from": 217440,
+				"to": 220000
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " This could be a new dimension of your marriage."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:10,780",
-				"to": "00:05:11,780"
+				"from": "00:03:40,000",
+				"to": "00:03:42,080"
 			},
 			"offsets": {
-				"from": 310780,
-				"to": 311780
+				"from": 220000,
+				"to": 222080
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:11,780",
-				"to": "00:05:12,780"
+				"from": "00:03:42,080",
+				"to": "00:03:44,280"
 			},
 			"offsets": {
-				"from": 311780,
-				"to": 312780
+				"from": 222080,
+				"to": 224280
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " But, you know, it's hard."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:12,780",
-				"to": "00:05:13,780"
+				"from": "00:03:44,280",
+				"to": "00:03:46,120"
 			},
 			"offsets": {
-				"from": 312780,
-				"to": 313780
+				"from": 224280,
+				"to": 226120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Actually, I think the real problem, though,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:13,780",
-				"to": "00:05:14,780"
+				"from": "00:03:46,120",
+				"to": "00:03:48,880"
 			},
 			"offsets": {
-				"from": 313780,
-				"to": 314780
+				"from": 226120,
+				"to": 228880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I think the real problem is that men and women,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:14,780",
-				"to": "00:05:15,780"
+				"from": "00:03:48,880",
+				"to": "00:03:50,320"
 			},
 			"offsets": {
-				"from": 314780,
-				"to": 315780
+				"from": 228880,
+				"to": 230320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " we don't really understand"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:15,780",
-				"to": "00:05:16,780"
+				"from": "00:03:50,320",
+				"to": "00:03:52,960"
 			},
 			"offsets": {
-				"from": 315780,
-				"to": 316780
+				"from": 230320,
+				"to": 232960
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " what the opposite half likes about sex, you know?"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:16,780",
-				"to": "00:05:17,780"
+				"from": "00:03:52,960",
+				"to": "00:03:55,160"
 			},
 			"offsets": {
-				"from": 316780,
-				"to": 317780
+				"from": 232960,
+				"to": 235160
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I think that's the key to this problem."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:17,780",
-				"to": "00:05:18,780"
+				"from": "00:03:55,160",
+				"to": "00:03:57,000"
 			},
 			"offsets": {
-				"from": 317780,
-				"to": 318780
+				"from": 235160,
+				"to": 237000
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Like recently, I went on a date with this girl,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:18,780",
-				"to": "00:05:19,780"
+				"from": "00:03:57,000",
+				"to": "00:03:59,320"
 			},
 			"offsets": {
-				"from": 318780,
-				"to": 319780
+				"from": 237000,
+				"to": 239320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and we ended up in bed together,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:19,780",
-				"to": "00:05:20,780"
+				"from": "00:03:59,320",
+				"to": "00:04:01,400"
 			},
 			"offsets": {
-				"from": 319780,
-				"to": 320780
+				"from": 239320,
+				"to": 241400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and she could not even tell me"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:20,780",
-				"to": "00:05:21,780"
+				"from": "00:04:01,400",
+				"to": "00:04:06,040"
 			},
 			"offsets": {
-				"from": 320780,
-				"to": 321780
+				"from": 241400,
+				"to": 246040
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " where her own clitoris was, her own clitoris."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:21,780",
-				"to": "00:05:22,780"
+				"from": "00:04:06,040",
+				"to": "00:04:08,840"
 			},
 			"offsets": {
-				"from": 321780,
-				"to": 322780
+				"from": 246040,
+				"to": 248840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Maybe I forgot to remove the gag, I can't remember."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:22,780",
-				"to": "00:05:23,780"
+				"from": "00:04:08,840",
+				"to": "00:04:09,680"
 			},
 			"offsets": {
-				"from": 322780,
-				"to": 323780
+				"from": 248840,
+				"to": 249680
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:23,780",
-				"to": "00:05:24,780"
+				"from": "00:04:09,680",
+				"to": "00:04:12,080"
 			},
 			"offsets": {
-				"from": 323780,
-				"to": 324780
+				"from": 249680,
+				"to": 252080
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " But, you know, I think, I think,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:24,780",
-				"to": "00:05:25,780"
+				"from": "00:04:12,080",
+				"to": "00:04:13,280"
 			},
 			"offsets": {
-				"from": 324780,
-				"to": 325780
+				"from": 252080,
+				"to": 253280
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I've been thinking about this a lot,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:25,780",
-				"to": "00:05:26,780"
+				"from": "00:04:13,280",
+				"to": "00:04:15,480"
 			},
 			"offsets": {
-				"from": 325780,
-				"to": 326780
+				"from": 253280,
+				"to": 255480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and I think I have a solution."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:26,780",
-				"to": "00:05:27,780"
+				"from": "00:04:15,480",
+				"to": "00:04:17,400"
 			},
 			"offsets": {
-				"from": 326780,
-				"to": 327780
+				"from": 255480,
+				"to": 257400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Okay, you've got one lady here."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:27,780",
-				"to": "00:05:28,780"
+				"from": "00:04:17,400",
+				"to": "00:04:19,160"
 			},
 			"offsets": {
-				"from": 327780,
-				"to": 328780
+				"from": 257400,
+				"to": 259160
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Thank you for appreciating that joke."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:28,780",
-				"to": "00:05:29,780"
+				"from": "00:04:19,160",
+				"to": "00:04:20,280"
 			},
 			"offsets": {
-				"from": 328780,
-				"to": 329780
+				"from": 259160,
+				"to": 260280
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:29,780",
-				"to": "00:05:30,780"
+				"from": "00:04:20,280",
+				"to": "00:04:22,680"
 			},
 			"offsets": {
-				"from": 329780,
-				"to": 330780
+				"from": 260280,
+				"to": 262680
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " The rest of you, you know, you're just pretending."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:30,780",
-				"to": "00:05:31,780"
+				"from": "00:04:22,680",
+				"to": "00:04:24,040"
 			},
 			"offsets": {
-				"from": 330780,
-				"to": 331780
+				"from": 262680,
+				"to": 264040
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " It's so sweet to answer that."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:31,780",
-				"to": "00:05:32,780"
+				"from": "00:04:24,040",
+				"to": "00:04:26,160"
 			},
 			"offsets": {
-				"from": 331780,
-				"to": 332780
+				"from": 264040,
+				"to": 266160
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I didn't understand that joke."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:32,780",
-				"to": "00:05:33,780"
+				"from": "00:04:26,160",
+				"to": "00:04:28,880"
 			},
 			"offsets": {
-				"from": 332780,
-				"to": 333780
+				"from": 266160,
+				"to": 268880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Anyway, let's get back to it."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:33,780",
-				"to": "00:05:34,780"
+				"from": "00:04:28,880",
+				"to": "00:04:30,240"
 			},
 			"offsets": {
-				"from": 333780,
-				"to": 334780
+				"from": 268880,
+				"to": 270240
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " So, there is a solution."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:34,780",
-				"to": "00:05:35,780"
+				"from": "00:04:30,240",
+				"to": "00:04:32,000"
 			},
 			"offsets": {
-				"from": 334780,
-				"to": 335780
+				"from": 270240,
+				"to": 272000
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " There is a solution in Zurich."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:35,780",
-				"to": "00:05:36,780"
+				"from": "00:04:32,000",
+				"to": "00:04:34,520"
 			},
 			"offsets": {
-				"from": 335780,
-				"to": 336780
+				"from": 272000,
+				"to": 274520
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " It's a wonderful, easy solution."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:36,780",
-				"to": "00:05:37,780"
+				"from": "00:04:34,520",
+				"to": "00:04:36,120"
 			},
 			"offsets": {
-				"from": 336780,
-				"to": 337780
+				"from": 274520,
+				"to": 276120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Take a number three tram."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:37,780",
-				"to": "00:05:38,780"
+				"from": "00:04:36,120",
+				"to": "00:04:40,480"
 			},
 			"offsets": {
-				"from": 337780,
-				"to": 338780
+				"from": 276120,
+				"to": 280480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " If you take a number three tram through the city,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:38,780",
-				"to": "00:05:39,780"
+				"from": "00:04:40,480",
+				"to": "00:04:42,400"
 			},
 			"offsets": {
-				"from": 338780,
-				"to": 339780
+				"from": 280480,
+				"to": 282400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " it's gonna stop at places"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:39,780",
-				"to": "00:05:40,780"
+				"from": "00:04:42,400",
+				"to": "00:04:44,880"
 			},
 			"offsets": {
-				"from": 339780,
-				"to": 340780
+				"from": 282400,
+				"to": 284880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " that are gonna change everything."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:40,780",
-				"to": "00:05:41,780"
+				"from": "00:04:44,880",
+				"to": "00:04:45,960"
 			},
 			"offsets": {
-				"from": 340780,
-				"to": 341780
+				"from": 284880,
+				"to": 285960
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Because, first of all,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:41,780",
-				"to": "00:05:42,780"
+				"from": "00:04:45,960",
+				"to": "00:04:48,920"
 			},
 			"offsets": {
-				"from": 341780,
-				"to": 342780
+				"from": 285960,
+				"to": 288920
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " it's gonna stop outside Sensuel."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:42,780",
-				"to": "00:05:43,780"
+				"from": "00:04:50,120",
+				"to": "00:04:54,320"
 			},
 			"offsets": {
-				"from": 342780,
-				"to": 343780
+				"from": 290120,
+				"to": 294320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Now, Sensuel is a sex shop for ladies."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:43,780",
-				"to": "00:05:44,780"
+				"from": "00:04:54,320",
+				"to": "00:04:58,120"
 			},
 			"offsets": {
-				"from": 343780,
-				"to": 344780
+				"from": 294320,
+				"to": 298120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " If you go in Sensuel, you'll find it's full of feathers,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:44,780",
-				"to": "00:05:45,780"
+				"from": "00:04:58,120",
+				"to": "00:05:03,120"
 			},
 			"offsets": {
-				"from": 344780,
-				"to": 345780
+				"from": 298120,
+				"to": 303120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and aromas, and sexy underwear, and erotic books."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:45,780",
-				"to": "00:05:46,780"
+				"from": "00:05:03,120",
+				"to": "00:05:05,920"
 			},
 			"offsets": {
-				"from": 345780,
-				"to": 346780
+				"from": 303120,
+				"to": 305920
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Because, for women, a lot about what makes sex great"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:46,780",
-				"to": "00:05:47,780"
+				"from": "00:05:05,920",
+				"to": "00:05:08,240"
 			},
 			"offsets": {
-				"from": 346780,
-				"to": 347780
+				"from": 305920,
+				"to": 308240
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " is what's happening in their heads."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:47,780",
-				"to": "00:05:48,780"
+				"from": "00:05:08,240",
+				"to": "00:05:09,080"
 			},
 			"offsets": {
-				"from": 347780,
-				"to": 348780
+				"from": 308240,
+				"to": 309080
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " In their heads."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:48,780",
-				"to": "00:05:49,780"
+				"from": "00:05:09,080",
+				"to": "00:05:13,440"
 			},
 			"offsets": {
-				"from": 348780,
-				"to": 349780
+				"from": 309080,
+				"to": 313440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I think that means I need to put my dick in that outfit."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:49,780",
-				"to": "00:05:50,780"
+				"from": "00:05:13,440",
+				"to": "00:05:14,840"
 			},
 			"offsets": {
-				"from": 349780,
-				"to": 350780
+				"from": 313440,
+				"to": 314840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:50,780",
-				"to": "00:05:51,780"
+				"from": "00:05:14,840",
+				"to": "00:05:17,320"
 			},
 			"offsets": {
-				"from": 350780,
-				"to": 351780
+				"from": 314840,
+				"to": 317320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Okay, I see a girlfriend here."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:51,780",
-				"to": "00:05:52,780"
+				"from": "00:05:17,320",
+				"to": "00:05:18,720"
 			},
 			"offsets": {
-				"from": 351780,
-				"to": 352780
+				"from": 317320,
+				"to": 318720
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " For a minute, she was just thinking,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:52,780",
-				"to": "00:05:53,780"
+				"from": "00:05:18,720",
+				"to": "00:05:20,640"
 			},
 			"offsets": {
-				"from": 352780,
-				"to": 353780
+				"from": 318720,
+				"to": 320640
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"Finally, a man that gets it.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:05:53,780",
-				"to": "00:05:54,780"
+				"from": "00:05:20,640",
+				"to": "00:05:21,480"
 			},
 			"offsets": {
-				"from": 353780,
-				"to": 354780
+				"from": 320640,
+				"to": 321480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:54,780",
-				"to": "00:05:55,780"
+				"from": "00:05:21,480",
+				"to": "00:05:22,320"
 			},
 			"offsets": {
-				"from": 354780,
-				"to": 355780
+				"from": 321480,
+				"to": 322320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Oh, my."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:55,780",
-				"to": "00:05:56,780"
+				"from": "00:05:22,320",
+				"to": "00:05:24,240"
 			},
 			"offsets": {
-				"from": 355780,
-				"to": 356780
+				"from": 322320,
+				"to": 324240
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Okay, I'm sorry about that."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:56,780",
-				"to": "00:05:57,780"
+				"from": "00:05:24,240",
+				"to": "00:05:26,480"
 			},
 			"offsets": {
-				"from": 356780,
-				"to": 357780
+				"from": 324240,
+				"to": 326480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Let's get back on the tram quickly."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:57,780",
-				"to": "00:05:58,780"
+				"from": "00:05:26,480",
+				"to": "00:05:28,320"
 			},
 			"offsets": {
-				"from": 357780,
-				"to": 358780
+				"from": 326480,
+				"to": 328320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Let's carry on through Zurich."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:58,780",
-				"to": "00:05:59,780"
+				"from": "00:05:28,320",
+				"to": "00:05:30,400"
 			},
 			"offsets": {
-				"from": 358780,
-				"to": 359780
+				"from": 328320,
+				"to": 330400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And, if you carry on,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:59,780",
-				"to": "00:06:00,780"
+				"from": "00:05:30,400",
+				"to": "00:05:34,840"
 			},
 			"offsets": {
-				"from": 359780,
-				"to": 360780
+				"from": 330400,
+				"to": 334840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " eventually that tram will stop outside the erotic factory."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:00,780",
-				"to": "00:06:01,780"
+				"from": "00:05:34,840",
+				"to": "00:05:39,400"
 			},
 			"offsets": {
-				"from": 360780,
-				"to": 361780
+				"from": 334840,
+				"to": 339400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " The erotic factory is a sex shop for men."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:01,780",
-				"to": "00:06:02,780"
+				"from": "00:05:39,400",
+				"to": "00:05:42,840"
 			},
 			"offsets": {
-				"from": 361780,
-				"to": 362780
+				"from": 339400,
+				"to": 342840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Because there's nothing that men find more erotic"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:02,780",
-				"to": "00:06:03,780"
+				"from": "00:05:42,840",
+				"to": "00:05:43,880"
 			},
 			"offsets": {
-				"from": 362780,
-				"to": 363780
+				"from": 342840,
+				"to": 343880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " than a factory."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:03,780",
-				"to": "00:06:04,780"
+				"from": "00:05:43,880",
+				"to": "00:05:45,440"
 			},
 			"offsets": {
-				"from": 363780,
-				"to": 364780
+				"from": 343880,
+				"to": 345440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:04,780",
-				"to": "00:06:05,780"
+				"from": "00:05:45,480",
+				"to": "00:05:50,200"
 			},
 			"offsets": {
-				"from": 364780,
-				"to": 365780
+				"from": 345480,
+				"to": 350200
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Full of underpaid workers in a third world country."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:05,780",
-				"to": "00:06:06,780"
+				"from": "00:05:50,200",
+				"to": "00:05:52,520"
 			},
 			"offsets": {
-				"from": 365780,
-				"to": 366780
+				"from": 350200,
+				"to": 352520
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And, I think, if you think about it,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:06,780",
-				"to": "00:06:07,780"
+				"from": "00:05:52,520",
+				"to": "00:05:55,160"
 			},
 			"offsets": {
-				"from": 366780,
-				"to": 367780
+				"from": 352520,
+				"to": 355160
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " everything you need to know about men and sex"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:07,780",
-				"to": "00:06:08,780"
+				"from": "00:05:55,160",
+				"to": "00:05:58,840"
 			},
 			"offsets": {
-				"from": 367780,
-				"to": 368780
+				"from": 355160,
+				"to": 358840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " is right there in that name, erotic, erotic factory."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:08,780",
-				"to": "00:06:09,780"
+				"from": "00:05:58,840",
+				"to": "00:05:59,880"
 			},
 			"offsets": {
-				"from": 368780,
-				"to": 369780
+				"from": 358840,
+				"to": 359880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " You know, it's all there."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:09,780",
-				"to": "00:06:10,780"
+				"from": "00:05:59,880",
+				"to": "00:06:03,120"
 			},
 			"offsets": {
-				"from": 369780,
-				"to": 370780
+				"from": 359880,
+				"to": 363120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " So, between the erotic factory and Sensuel,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:10,780",
-				"to": "00:06:11,780"
+				"from": "00:06:03,120",
+				"to": "00:06:05,720"
 			},
 			"offsets": {
-				"from": 370780,
-				"to": 371780
+				"from": 363120,
+				"to": 365720
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " you know, it's just, the bad news is,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:11,780",
-				"to": "00:06:12,780"
+				"from": "00:06:05,720",
+				"to": "00:06:08,800"
 			},
 			"offsets": {
-				"from": 371780,
-				"to": 372780
+				"from": 365720,
+				"to": 368800
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " there's just never gonna be good sex."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:12,780",
-				"to": "00:06:13,780"
+				"from": "00:06:08,800",
+				"to": "00:06:10,480"
 			},
 			"offsets": {
-				"from": 372780,
-				"to": 373780
+				"from": 368800,
+				"to": 370480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I'm really sorry to tell you this,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:13,780",
-				"to": "00:06:14,780"
+				"from": "00:06:10,480",
+				"to": "00:06:12,400"
 			},
 			"offsets": {
-				"from": 373780,
-				"to": 374780
+				"from": 370480,
+				"to": 372400
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " but I've realized that, actually,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:14,780",
-				"to": "00:06:15,780"
+				"from": "00:06:12,400",
+				"to": "00:06:14,760"
 			},
 			"offsets": {
-				"from": 374780,
-				"to": 375780
+				"from": 372400,
+				"to": 374760
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " this might be a message of hope."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:15,780",
-				"to": "00:06:16,780"
+				"from": "00:06:14,760",
+				"to": "00:06:16,480"
 			},
 			"offsets": {
-				"from": 375780,
-				"to": 376780
+				"from": 374760,
+				"to": 376480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Something, this could actually be"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:16,780",
-				"to": "00:06:17,780"
+				"from": "00:06:16,480",
+				"to": "00:06:18,640"
 			},
 			"offsets": {
-				"from": 376780,
-				"to": 377780
+				"from": 376480,
+				"to": 378640
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " the key to our happiness."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:17,780",
-				"to": "00:06:18,780"
+				"from": "00:06:18,640",
+				"to": "00:06:21,320"
 			},
 			"offsets": {
-				"from": 377780,
-				"to": 378780
+				"from": 378640,
+				"to": 381320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " 'Cause you can come to a place like this tonight,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:18,780",
-				"to": "00:06:19,780"
+				"from": "00:06:21,320",
+				"to": "00:06:23,520"
 			},
 			"offsets": {
-				"from": 378780,
-				"to": 379780
+				"from": 381320,
+				"to": 383520
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and if you see someone you like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:19,780",
-				"to": "00:06:20,780"
+				"from": "00:06:23,520",
+				"to": "00:06:27,920"
 			},
 			"offsets": {
-				"from": 379780,
-				"to": 380780
+				"from": 383520,
+				"to": 387920
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " you can be like, \"Yeah, I know, I feel this, you know."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:20,780",
-				"to": "00:06:21,780"
+				"from": "00:06:27,920",
+				"to": "00:06:29,800"
 			},
 			"offsets": {
-				"from": 380780,
-				"to": 381780
+				"from": 387920,
+				"to": 389800
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"I know you suck at sex."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:21,780",
-				"to": "00:06:22,780"
+				"from": "00:06:29,800",
+				"to": "00:06:33,320"
 			},
 			"offsets": {
-				"from": 381780,
-				"to": 382780
+				"from": 389800,
+				"to": 393320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"So do I, let's make this as awkward as possible."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:22,780",
-				"to": "00:06:23,780"
+				"from": "00:06:33,320",
+				"to": "00:06:35,720"
 			},
 			"offsets": {
-				"from": 382780,
-				"to": 383780
+				"from": 393320,
+				"to": 395720
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " \"Let's have bad sex together.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:06:23,780",
-				"to": "00:06:24,780"
+				"from": "00:06:35,720",
+				"to": "00:06:37,880"
 			},
 			"offsets": {
-				"from": 383780,
-				"to": 384780
+				"from": 395720,
+				"to": 397880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " We could do that, but, yeah."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:24,780",
-				"to": "00:06:25,780"
+				"from": "00:06:37,880",
+				"to": "00:06:39,760"
 			},
 			"offsets": {
-				"from": 384780,
-				"to": 385780
+				"from": 397880,
+				"to": 399760
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Okay, so, probably at this point,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:25,780",
-				"to": "00:06:26,780"
+				"from": "00:06:39,760",
+				"to": "00:06:41,920"
 			},
 			"offsets": {
-				"from": 385780,
-				"to": 386780
+				"from": 399760,
+				"to": 401920
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " you're wondering, like, how the fuck"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:26,780",
-				"to": "00:06:27,780"
+				"from": "00:06:41,920",
+				"to": "00:06:45,760"
 			},
 			"offsets": {
-				"from": 386780,
-				"to": 387780
+				"from": 401920,
+				"to": 405760
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " is this guy, at this age, such a messed up person?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:27,780",
-				"to": "00:06:28,780"
+				"from": "00:06:45,760",
+				"to": "00:06:48,320"
 			},
 			"offsets": {
-				"from": 387780,
-				"to": 388780
+				"from": 405760,
+				"to": 408320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And I think part of it, it relates to my daughter."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:28,780",
-				"to": "00:06:29,780"
+				"from": "00:06:48,320",
+				"to": "00:06:50,640"
 			},
 			"offsets": {
-				"from": 388780,
-				"to": 389780
+				"from": 408320,
+				"to": 410640
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " It's because I'm a father."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:29,780",
-				"to": "00:06:30,780"
+				"from": "00:06:50,640",
+				"to": "00:06:52,560"
 			},
 			"offsets": {
-				"from": 389780,
-				"to": 390780
+				"from": 410640,
+				"to": 412560
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And as a father, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:30,780",
-				"to": "00:06:31,780"
+				"from": "00:06:52,560",
+				"to": "00:06:54,360"
 			},
 			"offsets": {
-				"from": 390780,
-				"to": 391780
+				"from": 412560,
+				"to": 414360
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " you have to deal with a lot of stuff."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:31,780",
-				"to": "00:06:32,780"
+				"from": "00:06:54,360",
+				"to": "00:06:58,520"
 			},
 			"offsets": {
-				"from": 391780,
-				"to": 392780
+				"from": 414360,
+				"to": 418520
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And, you know, it's stuff that really, like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:32,780",
-				"to": "00:06:33,780"
+				"from": "00:06:58,520",
+				"to": "00:07:00,000"
 			},
 			"offsets": {
-				"from": 392780,
-				"to": 393780
+				"from": 418520,
+				"to": 420000
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " it's hard to deal with."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:33,780",
-				"to": "00:06:34,780"
+				"from": "00:07:00,000",
+				"to": "00:07:02,520"
 			},
 			"offsets": {
-				"from": 393780,
-				"to": 394780
+				"from": 420000,
+				"to": 422520
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Like, you know, a while back,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:34,780",
-				"to": "00:06:35,780"
+				"from": "00:07:02,520",
+				"to": "00:07:05,120"
 			},
 			"offsets": {
-				"from": 394780,
-				"to": 395780
+				"from": 422520,
+				"to": 425120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I came back from work, and I came home."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:35,780",
-				"to": "00:06:36,780"
+				"from": "00:07:05,120",
+				"to": "00:07:07,840"
 			},
 			"offsets": {
-				"from": 395780,
-				"to": 396780
+				"from": 425120,
+				"to": 427840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I went to the bathroom, and oh my God,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:36,780",
-				"to": "00:06:37,780"
+				"from": "00:07:07,840",
+				"to": "00:07:10,320"
 			},
 			"offsets": {
-				"from": 396780,
-				"to": 397780
+				"from": 427840,
+				"to": 430320
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " it looked like a crime scene in there."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:37,780",
-				"to": "00:06:38,780"
+				"from": "00:07:10,320",
+				"to": "00:07:12,520"
 			},
 			"offsets": {
-				"from": 397780,
-				"to": 398780
+				"from": 430320,
+				"to": 432520
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " 'Cause there was, like, blood on the mirror,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:38,780",
-				"to": "00:06:39,780"
+				"from": "00:07:12,520",
+				"to": "00:07:15,440"
 			},
 			"offsets": {
-				"from": 398780,
-				"to": 399780
+				"from": 432520,
+				"to": 435440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " blood in the sink, drops of blood on the floor."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:39,780",
-				"to": "00:06:40,780"
+				"from": "00:07:15,440",
+				"to": "00:07:18,960"
 			},
 			"offsets": {
-				"from": 399780,
-				"to": 400780
+				"from": 435440,
+				"to": 438960
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And the toilet looked like something out of a horror movie."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:40,780",
-				"to": "00:06:41,780"
+				"from": "00:07:18,960",
+				"to": "00:07:23,080"
 			},
 			"offsets": {
-				"from": 400780,
-				"to": 401780
+				"from": 438960,
+				"to": 443080
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And then I heard this screaming, and I looked around."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:41,780",
-				"to": "00:06:42,780"
+				"from": "00:07:23,080",
+				"to": "00:07:26,440"
 			},
 			"offsets": {
-				"from": 401780,
-				"to": 402780
+				"from": 443080,
+				"to": 446440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And I realized the screaming was coming from me."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:42,780",
-				"to": "00:06:43,780"
+				"from": "00:07:26,440",
+				"to": "00:07:30,160"
 			},
 			"offsets": {
-				"from": 402780,
-				"to": 403780
+				"from": 446440,
+				"to": 450160
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And at that moment, my daughter showed up,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:43,780",
-				"to": "00:06:44,780"
+				"from": "00:07:30,160",
+				"to": "00:07:33,480"
 			},
 			"offsets": {
-				"from": 403780,
-				"to": 404780
+				"from": 450160,
+				"to": 453480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and she said, \"Hey, Dad, I got my period.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:06:44,780",
-				"to": "00:06:45,780"
+				"from": "00:07:33,480",
+				"to": "00:07:36,920"
 			},
 			"offsets": {
-				"from": 404780,
-				"to": 405780
+				"from": 453480,
+				"to": 456920
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " So after cleaning up my daughter's menstrual blood,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:45,780",
-				"to": "00:06:46,780"
+				"from": "00:07:36,920",
+				"to": "00:07:40,200"
 			},
 			"offsets": {
-				"from": 405780,
-				"to": 406780
+				"from": 456920,
+				"to": 460200
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I was like, \"Okay, hey, can I get you anything?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:06:46,780",
-				"to": "00:06:47,780"
+				"from": "00:07:40,200",
+				"to": "00:07:43,880"
 			},
 			"offsets": {
-				"from": 406780,
-				"to": 407780
+				"from": 460200,
+				"to": 463880
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And she said, \"Dad, get me tampons.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:06:47,780",
-				"to": "00:06:48,780"
+				"from": "00:07:43,880",
+				"to": "00:07:45,480"
 			},
 			"offsets": {
-				"from": 407780,
-				"to": 408780
+				"from": 463880,
+				"to": 465480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And I thought, \"Hey, this can't be so hard.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:06:48,780",
-				"to": "00:06:49,780"
+				"from": "00:07:45,480",
+				"to": "00:07:48,640"
 			},
 			"offsets": {
-				"from": 408780,
-				"to": 409780
+				"from": 465480,
+				"to": 468640
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Okay, so I went over to Migros, took a look around."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:49,780",
-				"to": "00:06:50,780"
+				"from": "00:07:48,640",
+				"to": "00:07:51,760"
 			},
 			"offsets": {
-				"from": 409780,
-				"to": 410780
+				"from": 468640,
+				"to": 471760
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And what I learned is that tampon product names"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:50,780",
-				"to": "00:06:51,780"
+				"from": "00:07:51,760",
+				"to": "00:07:54,080"
 			},
 			"offsets": {
-				"from": 410780,
-				"to": 411780
+				"from": 471760,
+				"to": 474080
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " are exactly no use whatsoever"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:51,780",
-				"to": "00:06:52,780"
+				"from": "00:07:54,080",
+				"to": "00:07:56,600"
 			},
 			"offsets": {
-				"from": 411780,
-				"to": 412780
+				"from": 474080,
+				"to": 476600
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " when it comes to choosing a tampon."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:52,780",
-				"to": "00:06:53,780"
+				"from": "00:07:56,600",
+				"to": "00:08:00,600"
 			},
 			"offsets": {
-				"from": 412780,
-				"to": 413780
+				"from": 476600,
+				"to": 480600
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Because, you know, like, they have names like OV Pro."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:53,780",
-				"to": "00:06:54,780"
+				"from": "00:08:00,600",
+				"to": "00:08:02,560"
 			},
 			"offsets": {
-				"from": 413780,
-				"to": 414780
+				"from": 480600,
+				"to": 482560
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " What is this, for, like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:54,780",
-				"to": "00:06:55,780"
+				"from": "00:08:02,560",
+				"to": "00:08:05,120"
 			},
 			"offsets": {
-				"from": 414780,
-				"to": 415780
+				"from": 482560,
+				"to": 485120
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " professional women that flee for a living?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:55,780",
-				"to": "00:06:56,780"
+				"from": "00:08:05,120",
+				"to": "00:08:05,960"
 			},
 			"offsets": {
-				"from": 415780,
-				"to": 416780
+				"from": 485120,
+				"to": 485960
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:56,780",
-				"to": "00:06:57,780"
+				"from": "00:08:05,960",
+				"to": "00:08:07,960"
 			},
 			"offsets": {
-				"from": 416780,
-				"to": 417780
+				"from": 485960,
+				"to": 487960
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Hmm, that's strange."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:57,780",
-				"to": "00:06:58,780"
+				"from": "00:08:07,960",
+				"to": "00:08:10,240"
 			},
 			"offsets": {
-				"from": 417780,
-				"to": 418780
+				"from": 487960,
+				"to": 490240
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Tampax Radiance, what is this,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:58,780",
-				"to": "00:06:59,780"
+				"from": "00:08:10,240",
+				"to": "00:08:13,200"
 			},
 			"offsets": {
-				"from": 418780,
-				"to": 419780
+				"from": 490240,
+				"to": 493200
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " like glow-in-the-dark tampons for when, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:59,780",
-				"to": "00:07:00,780"
+				"from": "00:08:13,200",
+				"to": "00:08:15,000"
 			},
 			"offsets": {
-				"from": 419780,
-				"to": 420780
+				"from": 493200,
+				"to": 495000
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " the light is off?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:00,780",
-				"to": "00:07:01,780"
+				"from": "00:08:15,000",
+				"to": "00:08:18,280"
 			},
 			"offsets": {
-				"from": 420780,
-				"to": 421780
+				"from": 495000,
+				"to": 498280
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " My favorite was Always Infinity,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:01,780",
-				"to": "00:07:02,780"
+				"from": "00:08:18,280",
+				"to": "00:08:21,760"
 			},
 			"offsets": {
-				"from": 421780,
-				"to": 422780
+				"from": 498280,
+				"to": 501760
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " for when your vagina is an unfillable bicop."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:02,780",
-				"to": "00:07:03,780"
+				"from": "00:08:21,760",
+				"to": "00:08:23,480"
 			},
 			"offsets": {
-				"from": 422780,
-				"to": 423780
+				"from": 501760,
+				"to": 503480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:03,780",
-				"to": "00:07:04,780"
+				"from": "00:08:23,480",
+				"to": "00:08:26,360"
 			},
 			"offsets": {
-				"from": 423780,
-				"to": 424780
+				"from": 503480,
+				"to": 506360
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " But I ended up choosing a different product from Always."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:04,780",
-				"to": "00:07:05,780"
+				"from": "00:08:26,360",
+				"to": "00:08:29,680"
 			},
 			"offsets": {
-				"from": 424780,
-				"to": 425780
+				"from": 506360,
+				"to": 509680
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " It's actually called Always Home by Eleven, it's great."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:05,780",
-				"to": "00:07:06,780"
+				"from": "00:08:29,680",
+				"to": "00:08:31,560"
 			},
 			"offsets": {
-				"from": 425780,
-				"to": 426780
+				"from": 509680,
+				"to": 511560
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Around about 10 o'clock, it starts leaking,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:06,780",
-				"to": "00:07:07,780"
+				"from": "00:08:31,560",
+				"to": "00:08:34,840"
 			},
 			"offsets": {
-				"from": 426780,
-				"to": 427780
+				"from": 511560,
+				"to": 514840
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " and my daughter is always home by eleven."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:07,780",
-				"to": "00:07:08,780"
+				"from": "00:08:34,840",
+				"to": "00:08:36,600"
 			},
 			"offsets": {
-				"from": 427780,
-				"to": 428780
+				"from": 514840,
+				"to": 516600
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " And what I realized at the end,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:08,780",
-				"to": "00:07:09,780"
+				"from": "00:08:36,600",
+				"to": "00:08:40,200"
 			},
 			"offsets": {
-				"from": 428780,
-				"to": 429780
+				"from": 516600,
+				"to": 520200
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " that this was a very proud moment for me as a father."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:09,780",
-				"to": "00:07:10,780"
+				"from": "00:08:40,200",
+				"to": "00:08:43,080"
 			},
 			"offsets": {
-				"from": 429780,
-				"to": 430780
+				"from": 520200,
+				"to": 523080
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " Because it's not every day that you get to choose"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:10,780",
-				"to": "00:07:11,780"
+				"from": "00:08:43,080",
+				"to": "00:08:45,440"
 			},
 			"offsets": {
-				"from": 430780,
-				"to": 431780
+				"from": 523080,
+				"to": 525440
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " what your daughter crowns on her vagina."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:11,780",
-				"to": "00:07:12,780"
+				"from": "00:08:45,440",
+				"to": "00:08:47,800"
 			},
 			"offsets": {
-				"from": 431780,
-				"to": 432780
+				"from": 525440,
+				"to": 527800
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:12,780",
-				"to": "00:07:13,780"
+				"from": "00:08:47,800",
+				"to": "00:08:50,360"
 			},
 			"offsets": {
-				"from": 432780,
-				"to": 433780
+				"from": 527800,
+				"to": 530360
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " All right, I think we're done at this point."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:13,780",
-				"to": "00:07:14,780"
+				"from": "00:08:50,360",
+				"to": "00:08:52,680"
 			},
 			"offsets": {
-				"from": 433780,
-				"to": 434780
+				"from": 530360,
+				"to": 532680
 			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " I think, I'm sensing I'm not gonna get"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:14,780",
-				"to": "00:07:15,780"
+				"from": "00:08:52,680",
+				"to": "00:08:55,480"
 			},
 			"offsets": {
-				"from": 434780,
-				"to": 435780
+				"from": 532680,
+				"to": 535480
 			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:15,780",
-				"to": "00:07:16,780"
-			},
-			"offsets": {
-				"from": 435780,
-				"to": 436780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:16,780",
-				"to": "00:07:17,780"
-			},
-			"offsets": {
-				"from": 436780,
-				"to": 437780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:17,780",
-				"to": "00:07:18,780"
-			},
-			"offsets": {
-				"from": 437780,
-				"to": 438780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:18,780",
-				"to": "00:07:19,780"
-			},
-			"offsets": {
-				"from": 438780,
-				"to": 439780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:19,780",
-				"to": "00:07:20,780"
-			},
-			"offsets": {
-				"from": 439780,
-				"to": 440780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:20,780",
-				"to": "00:07:21,780"
-			},
-			"offsets": {
-				"from": 440780,
-				"to": 441780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:21,780",
-				"to": "00:07:22,780"
-			},
-			"offsets": {
-				"from": 441780,
-				"to": 442780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:22,780",
-				"to": "00:07:23,780"
-			},
-			"offsets": {
-				"from": 442780,
-				"to": 443780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:23,780",
-				"to": "00:07:24,780"
-			},
-			"offsets": {
-				"from": 443780,
-				"to": 444780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:24,780",
-				"to": "00:07:25,780"
-			},
-			"offsets": {
-				"from": 444780,
-				"to": 445780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:25,780",
-				"to": "00:07:26,780"
-			},
-			"offsets": {
-				"from": 445780,
-				"to": 446780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:26,780",
-				"to": "00:07:27,780"
-			},
-			"offsets": {
-				"from": 446780,
-				"to": 447780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:27,780",
-				"to": "00:07:28,780"
-			},
-			"offsets": {
-				"from": 447780,
-				"to": 448780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:28,780",
-				"to": "00:07:29,780"
-			},
-			"offsets": {
-				"from": 448780,
-				"to": 449780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:29,780",
-				"to": "00:07:30,780"
-			},
-			"offsets": {
-				"from": 449780,
-				"to": 450780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:30,780",
-				"to": "00:07:31,780"
-			},
-			"offsets": {
-				"from": 450780,
-				"to": 451780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:31,780",
-				"to": "00:07:32,780"
-			},
-			"offsets": {
-				"from": 451780,
-				"to": 452780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:32,780",
-				"to": "00:07:33,780"
-			},
-			"offsets": {
-				"from": 452780,
-				"to": 453780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:33,780",
-				"to": "00:07:34,780"
-			},
-			"offsets": {
-				"from": 453780,
-				"to": 454780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:34,780",
-				"to": "00:07:35,780"
-			},
-			"offsets": {
-				"from": 454780,
-				"to": 455780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:35,780",
-				"to": "00:07:36,780"
-			},
-			"offsets": {
-				"from": 455780,
-				"to": 456780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:36,780",
-				"to": "00:07:37,780"
-			},
-			"offsets": {
-				"from": 456780,
-				"to": 457780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:37,780",
-				"to": "00:07:38,780"
-			},
-			"offsets": {
-				"from": 457780,
-				"to": 458780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:38,780",
-				"to": "00:07:39,780"
-			},
-			"offsets": {
-				"from": 458780,
-				"to": 459780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:39,780",
-				"to": "00:07:40,780"
-			},
-			"offsets": {
-				"from": 459780,
-				"to": 460780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:40,780",
-				"to": "00:07:41,780"
-			},
-			"offsets": {
-				"from": 460780,
-				"to": 461780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:41,780",
-				"to": "00:07:42,780"
-			},
-			"offsets": {
-				"from": 461780,
-				"to": 462780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:42,780",
-				"to": "00:07:43,780"
-			},
-			"offsets": {
-				"from": 462780,
-				"to": 463780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:43,780",
-				"to": "00:07:44,780"
-			},
-			"offsets": {
-				"from": 463780,
-				"to": 464780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:44,780",
-				"to": "00:07:45,780"
-			},
-			"offsets": {
-				"from": 464780,
-				"to": 465780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:45,780",
-				"to": "00:07:46,780"
-			},
-			"offsets": {
-				"from": 465780,
-				"to": 466780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:46,780",
-				"to": "00:07:47,780"
-			},
-			"offsets": {
-				"from": 466780,
-				"to": 467780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:47,780",
-				"to": "00:07:48,780"
-			},
-			"offsets": {
-				"from": 467780,
-				"to": 468780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:48,780",
-				"to": "00:07:49,780"
-			},
-			"offsets": {
-				"from": 468780,
-				"to": 469780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:49,780",
-				"to": "00:07:50,780"
-			},
-			"offsets": {
-				"from": 469780,
-				"to": 470780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:50,780",
-				"to": "00:07:51,780"
-			},
-			"offsets": {
-				"from": 470780,
-				"to": 471780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:51,780",
-				"to": "00:07:52,780"
-			},
-			"offsets": {
-				"from": 471780,
-				"to": 472780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:52,780",
-				"to": "00:07:53,780"
-			},
-			"offsets": {
-				"from": 472780,
-				"to": 473780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:53,780",
-				"to": "00:07:54,780"
-			},
-			"offsets": {
-				"from": 473780,
-				"to": 474780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:54,780",
-				"to": "00:07:55,780"
-			},
-			"offsets": {
-				"from": 474780,
-				"to": 475780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:55,780",
-				"to": "00:07:56,780"
-			},
-			"offsets": {
-				"from": 475780,
-				"to": 476780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:56,780",
-				"to": "00:07:57,780"
-			},
-			"offsets": {
-				"from": 476780,
-				"to": 477780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:57,780",
-				"to": "00:07:58,780"
-			},
-			"offsets": {
-				"from": 477780,
-				"to": 478780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:58,780",
-				"to": "00:07:59,780"
-			},
-			"offsets": {
-				"from": 478780,
-				"to": 479780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:07:59,780",
-				"to": "00:08:00,780"
-			},
-			"offsets": {
-				"from": 479780,
-				"to": 480780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:00,780",
-				"to": "00:08:01,780"
-			},
-			"offsets": {
-				"from": 480780,
-				"to": 481780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:01,780",
-				"to": "00:08:02,780"
-			},
-			"offsets": {
-				"from": 481780,
-				"to": 482780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:02,780",
-				"to": "00:08:03,780"
-			},
-			"offsets": {
-				"from": 482780,
-				"to": 483780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:03,780",
-				"to": "00:08:04,780"
-			},
-			"offsets": {
-				"from": 483780,
-				"to": 484780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:04,780",
-				"to": "00:08:05,780"
-			},
-			"offsets": {
-				"from": 484780,
-				"to": 485780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:05,780",
-				"to": "00:08:06,780"
-			},
-			"offsets": {
-				"from": 485780,
-				"to": 486780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:06,780",
-				"to": "00:08:07,780"
-			},
-			"offsets": {
-				"from": 486780,
-				"to": 487780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:07,780",
-				"to": "00:08:08,780"
-			},
-			"offsets": {
-				"from": 487780,
-				"to": 488780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:08,780",
-				"to": "00:08:09,780"
-			},
-			"offsets": {
-				"from": 488780,
-				"to": 489780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:09,780",
-				"to": "00:08:10,780"
-			},
-			"offsets": {
-				"from": 489780,
-				"to": 490780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:10,780",
-				"to": "00:08:11,780"
-			},
-			"offsets": {
-				"from": 490780,
-				"to": 491780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:11,780",
-				"to": "00:08:12,780"
-			},
-			"offsets": {
-				"from": 491780,
-				"to": 492780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:12,780",
-				"to": "00:08:13,780"
-			},
-			"offsets": {
-				"from": 492780,
-				"to": 493780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:13,780",
-				"to": "00:08:14,780"
-			},
-			"offsets": {
-				"from": 493780,
-				"to": 494780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:14,780",
-				"to": "00:08:15,780"
-			},
-			"offsets": {
-				"from": 494780,
-				"to": 495780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:15,780",
-				"to": "00:08:16,780"
-			},
-			"offsets": {
-				"from": 495780,
-				"to": 496780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:16,780",
-				"to": "00:08:17,780"
-			},
-			"offsets": {
-				"from": 496780,
-				"to": 497780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:17,780",
-				"to": "00:08:18,780"
-			},
-			"offsets": {
-				"from": 497780,
-				"to": 498780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:18,780",
-				"to": "00:08:19,780"
-			},
-			"offsets": {
-				"from": 498780,
-				"to": 499780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:19,780",
-				"to": "00:08:20,780"
-			},
-			"offsets": {
-				"from": 499780,
-				"to": 500780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:20,780",
-				"to": "00:08:21,780"
-			},
-			"offsets": {
-				"from": 500780,
-				"to": 501780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:21,780",
-				"to": "00:08:22,780"
-			},
-			"offsets": {
-				"from": 501780,
-				"to": 502780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:22,780",
-				"to": "00:08:23,780"
-			},
-			"offsets": {
-				"from": 502780,
-				"to": 503780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:23,780",
-				"to": "00:08:24,780"
-			},
-			"offsets": {
-				"from": 503780,
-				"to": 504780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:24,780",
-				"to": "00:08:25,780"
-			},
-			"offsets": {
-				"from": 504780,
-				"to": 505780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:25,780",
-				"to": "00:08:26,780"
-			},
-			"offsets": {
-				"from": 505780,
-				"to": 506780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:26,780",
-				"to": "00:08:27,780"
-			},
-			"offsets": {
-				"from": 506780,
-				"to": 507780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:27,780",
-				"to": "00:08:28,780"
-			},
-			"offsets": {
-				"from": 507780,
-				"to": 508780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:28,780",
-				"to": "00:08:29,780"
-			},
-			"offsets": {
-				"from": 508780,
-				"to": 509780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:29,780",
-				"to": "00:08:30,780"
-			},
-			"offsets": {
-				"from": 509780,
-				"to": 510780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:30,780",
-				"to": "00:08:31,780"
-			},
-			"offsets": {
-				"from": 510780,
-				"to": 511780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:31,780",
-				"to": "00:08:32,780"
-			},
-			"offsets": {
-				"from": 511780,
-				"to": 512780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:32,780",
-				"to": "00:08:33,780"
-			},
-			"offsets": {
-				"from": 512780,
-				"to": 513780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:33,780",
-				"to": "00:08:34,780"
-			},
-			"offsets": {
-				"from": 513780,
-				"to": 514780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:34,780",
-				"to": "00:08:35,780"
-			},
-			"offsets": {
-				"from": 514780,
-				"to": 515780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:35,780",
-				"to": "00:08:36,780"
-			},
-			"offsets": {
-				"from": 515780,
-				"to": 516780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:36,780",
-				"to": "00:08:37,780"
-			},
-			"offsets": {
-				"from": 516780,
-				"to": 517780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:37,780",
-				"to": "00:08:38,780"
-			},
-			"offsets": {
-				"from": 517780,
-				"to": 518780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:38,780",
-				"to": "00:08:39,780"
-			},
-			"offsets": {
-				"from": 518780,
-				"to": 519780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:39,780",
-				"to": "00:08:40,780"
-			},
-			"offsets": {
-				"from": 519780,
-				"to": 520780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:40,780",
-				"to": "00:08:41,780"
-			},
-			"offsets": {
-				"from": 520780,
-				"to": 521780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:41,780",
-				"to": "00:08:42,780"
-			},
-			"offsets": {
-				"from": 521780,
-				"to": 522780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:42,780",
-				"to": "00:08:43,780"
-			},
-			"offsets": {
-				"from": 522780,
-				"to": 523780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:43,780",
-				"to": "00:08:44,780"
-			},
-			"offsets": {
-				"from": 523780,
-				"to": 524780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:44,780",
-				"to": "00:08:45,780"
-			},
-			"offsets": {
-				"from": 524780,
-				"to": 525780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:45,780",
-				"to": "00:08:46,780"
-			},
-			"offsets": {
-				"from": 525780,
-				"to": 526780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:46,780",
-				"to": "00:08:47,780"
-			},
-			"offsets": {
-				"from": 526780,
-				"to": 527780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:47,780",
-				"to": "00:08:48,780"
-			},
-			"offsets": {
-				"from": 527780,
-				"to": 528780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:48,780",
-				"to": "00:08:49,780"
-			},
-			"offsets": {
-				"from": 528780,
-				"to": 529780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:49,780",
-				"to": "00:08:50,780"
-			},
-			"offsets": {
-				"from": 529780,
-				"to": 530780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:50,780",
-				"to": "00:08:51,780"
-			},
-			"offsets": {
-				"from": 530780,
-				"to": 531780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:51,780",
-				"to": "00:08:52,780"
-			},
-			"offsets": {
-				"from": 531780,
-				"to": 532780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:52,780",
-				"to": "00:08:53,780"
-			},
-			"offsets": {
-				"from": 532780,
-				"to": 533780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:53,780",
-				"to": "00:08:54,780"
-			},
-			"offsets": {
-				"from": 533780,
-				"to": 534780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
-		},
-		{
-			"timestamps": {
-				"from": "00:08:54,780",
-				"to": "00:08:55,780"
-			},
-			"offsets": {
-				"from": 534780,
-				"to": 535780
-			},
-			"text": " it's going to stop outside sensual you'll find this"
+			"text": " any more laughs out of you, you're all ready."
 		}
 	]
 }

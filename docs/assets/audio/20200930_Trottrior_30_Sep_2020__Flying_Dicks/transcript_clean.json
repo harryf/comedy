@@ -2,3205 +2,1957 @@
     {
         "type": "text",
         "start": 0.0,
-        "end": 1.66,
+        "end": 2.0,
         "text": "That was a weird way to finish the set."
     },
     {
         "type": "text",
-        "start": 1.66,
-        "end": 5.36,
+        "start": 2.0,
+        "end": 5.38,
         "text": "If I was a guy, I would have killed myself."
     },
     {
         "type": "text",
-        "start": 5.36,
-        "end": 5.98,
+        "start": 5.38,
+        "end": 6.1,
         "text": "Thank you, everybody."
     },
     {
         "type": "text",
-        "start": 5.98,
-        "end": 7.64,
+        "start": 6.1,
+        "end": 7.1,
         "text": "Good night."
     },
     {
         "type": "text",
-        "start": 7.64,
-        "end": 9.14,
+        "start": 7.1,
+        "end": 8.54,
+        "text": "Good night."
+    },
+    {
+        "type": "text",
+        "start": 8.54,
+        "end": 9.18,
         "text": "Suicide."
     },
     {
         "type": "text",
-        "start": 9.14,
-        "end": 9.92,
+        "start": 9.18,
+        "end": 10.38,
         "text": "Good night, everybody."
     },
     {
         "type": "text",
-        "start": 9.92,
-        "end": 14.36,
+        "start": 10.38,
+        "end": 14.42,
         "text": "Folks, we almost made it to the end of the show."
     },
     {
         "type": "text",
-        "start": 14.36,
-        "end": 16.48,
+        "start": 14.42,
+        "end": 17.48,
         "text": "Okay, we only have one last comedian left."
     },
     {
         "type": "text",
-        "start": 16.48,
-        "end": 20.24,
+        "start": 17.48,
+        "end": 20.28,
         "text": "After the show is over, this is a donation-based show."
     },
     {
         "type": "text",
-        "start": 20.24,
-        "end": 23.98,
+        "start": 20.28,
+        "end": 24.06,
         "text": "Okay, we make these free shows possible with your donations."
     },
     {
         "type": "text",
-        "start": 23.98,
-        "end": 27.7,
-        "text": "So I'll be standing right there between those two pillars after the show"
+        "start": 24.06,
+        "end": 26.9,
+        "text": "So I'll be standing right there between those two pillars"
     },
     {
         "type": "text",
-        "start": 27.7,
-        "end": 29.34,
-        "text": "with a little donation box."
+        "start": 26.9,
+        "end": 29.32,
+        "text": "after the show with a little donation box."
     },
     {
         "type": "text",
-        "start": 29.34,
-        "end": 31.32,
+        "start": 29.32,
+        "end": 31.3,
         "text": "So please give it so we can do it."
     },
     {
         "type": "text",
-        "start": 31.32,
-        "end": 32.78,
+        "start": 31.3,
+        "end": 32.96,
         "text": "But enough of that now."
     },
     {
         "type": "text",
-        "start": 32.78,
-        "end": 35.34,
+        "start": 32.96,
+        "end": 35.36,
         "text": "I think we're ready for our last comedian of tonight."
     },
     {
         "type": "text",
-        "start": 35.34,
-        "end": 36.32,
-        "text": "Trotar, are you guys ready?"
+        "start": 35.36,
+        "end": 36.34,
+        "text": "Toronto, are you guys ready?"
     },
     {
         "type": "text",
-        "start": 36.32,
-        "end": 37.28,
+        "start": 36.34,
+        "end": 37.5,
         "text": "Let's break up this room."
     },
     {
         "type": "text",
-        "start": 37.28,
-        "end": 38.54,
+        "start": 37.5,
+        "end": 38.74,
         "text": "This is one side of the room."
     },
     {
         "type": "text",
-        "start": 38.54,
-        "end": 39.8,
+        "start": 38.74,
+        "end": 40.24,
         "text": "This is one side of the room."
     },
     {
         "type": "text",
-        "start": 39.8,
-        "end": 41.4,
-        "text": "And you're the third group."
+        "start": 40.24,
+        "end": 41.98,
+        "text": "And you're the third group, okay?"
     },
     {
         "type": "text",
-        "start": 41.4,
-        "end": 42.28,
-        "text": "Okay, cool?"
+        "start": 41.98,
+        "end": 43.04,
+        "text": "Cool?"
     },
     {
         "type": "text",
-        "start": 42.28,
-        "end": 44.42,
+        "start": 43.04,
+        "end": 44.82,
         "text": "This side of the room, are you ready?"
     },
     {
         "type": "text",
-        "start": 44.42,
-        "end": 48.6,
-        "text": "This side of the room, are you ready?"
+        "start": 44.82,
+        "end": 47.38,
+        "text": "- Yeah!"
     },
     {
         "type": "text",
-        "start": 48.6,
-        "end": 52.56,
-        "text": "This guy, are you ready?"
+        "start": 47.38,
+        "end": 48.78,
+        "text": "- This side of the room, are you ready?"
     },
     {
         "type": "text",
-        "start": 52.56,
-        "end": 55.68,
-        "text": "You ruined it."
+        "start": 48.78,
+        "end": 51.48,
+        "text": "- Ready!"
     },
     {
         "type": "text",
-        "start": 55.68,
-        "end": 56.66,
+        "start": 51.48,
+        "end": 52.76,
+        "text": "- This guy, are you ready?"
+    },
+    {
+        "type": "text",
+        "start": 52.76,
+        "end": 54.92,
+        "text": "- Yeah!"
+    },
+    {
+        "type": "text",
+        "start": 54.92,
+        "end": 55.76,
+        "text": "- You ruined it."
+    },
+    {
+        "type": "text",
+        "start": 55.76,
+        "end": 56.96,
         "text": "I'm joking."
     },
     {
         "type": "text",
-        "start": 56.66,
+        "start": 56.96,
         "end": 58.96,
         "text": "Ladies and gentlemen, give it up for your last comedian tonight."
     },
     {
         "type": "text",
-        "start": 59.08,
-        "end": 59.96,
-        "text": "It's Harry Fox."
+        "start": 58.96,
+        "end": 60.96,
+        "text": "It's Harry Fox, give it up for him!"
     },
     {
         "type": "text",
-        "start": 59.96,
-        "end": 60.9,
-        "text": "Give it up for him."
+        "start": 71.74,
+        "end": 86.32,
+        "text": "- Nothing happened, William."
     },
     {
         "type": "text",
-        "start": 60.9,
-        "end": 87.32,
-        "text": "I'm just going to wait."
+        "start": 86.32,
+        "end": 87.52,
+        "text": "- I'm just gonna wait."
     },
     {
         "type": "text",
-        "start": 89.08,
-        "end": 91.76,
-        "text": "Can you, can you do something about this?"
+        "start": 89.72,
+        "end": 92.16,
+        "text": "- Can you do something about it?"
     },
     {
         "type": "text",
-        "start": 91.76,
-        "end": 96.14,
+        "start": 96.16,
+        "end": 98.6,
         "text": "Okay."
     },
     {
         "type": "text",
-        "start": 96.14,
-        "end": 100.84,
+        "start": 98.6,
+        "end": 101.5,
         "text": "I appreciate the warm welcome."
     },
     {
         "type": "text",
-        "start": 100.84,
-        "end": 105.6,
+        "start": 104.0,
+        "end": 109.08,
         "text": "So my name is Harry."
     },
     {
         "type": "text",
-        "start": 105.6,
-        "end": 112.6,
+        "start": 109.08,
+        "end": 114.44,
         "text": "And I suffer from PPS."
     },
     {
         "type": "text",
-        "start": 112.6,
-        "end": 116.54,
-        "text": "That's perfect penis syndrome."
+        "start": 114.44,
+        "end": 118.48,
+        "text": "Perfect Penis Syndrome."
     },
     {
         "type": "text",
-        "start": 118.42,
-        "end": 122.84,
+        "start": 118.48,
+        "end": 124.86,
         "text": "I'm also the most humble person I know."
     },
     {
         "type": "text",
-        "start": 122.84,
-        "end": 125.78,
-        "text": "And it's hard."
+        "start": 124.86,
+        "end": 129.0,
+        "text": "And it's hard, it's hard to be this humble"
     },
     {
         "type": "text",
-        "start": 125.78,
-        "end": 131.24,
-        "text": "It's hard to be this humble when your penis is this perfect."
+        "start": 129.0,
+        "end": 132.66,
+        "text": "when your penis is this perfect."
     },
     {
         "type": "text",
-        "start": 131.24,
-        "end": 137.94,
-        "text": "Sometimes in, sometimes I go to the supermarket, I go to the vegetable section,"
+        "start": 132.66,
+        "end": 136.2,
+        "text": "Sometimes I go to the supermarket,"
     },
     {
         "type": "text",
-        "start": 137.94,
-        "end": 139.42,
-        "text": "I find the"
+        "start": 136.2,
+        "end": 138.8,
+        "text": "I go to the vegetable section,"
     },
     {
         "type": "text",
-        "start": 139.42,
-        "end": 145.82,
-        "text": "cucumbers and I stare them down just to let them know I'm not intimidated."
+        "start": 138.8,
+        "end": 143.68,
+        "text": "I find the cucumbers and I stare them down"
     },
     {
         "type": "text",
-        "start": 148.42,
-        "end": 158.38,
-        "text": "And actually, I only discovered that I suffer from PPS last Christmas, because"
+        "start": 143.68,
+        "end": 146.68,
+        "text": "just to let them know I'm not intimidated."
     },
     {
         "type": "text",
-        "start": 158.38,
-        "end": 163.22,
-        "text": "I met this lady, she was a bit of an expert, a dick-spert, if you will."
+        "start": 152.04,
+        "end": 155.76,
+        "text": "And actually I only discovered that I suffer from PPS"
     },
     {
         "type": "text",
-        "start": 163.22,
-        "end": 171.36,
-        "text": "And when she told me, wait, wait, hold on a second, could you, could you keep"
+        "start": 155.76,
+        "end": 158.12,
+        "text": "last Christmas."
     },
     {
         "type": "text",
-        "start": 171.36,
-        "end": 173.28,
-        "text": "up with the jokes, please?"
+        "start": 158.12,
+        "end": 161.72,
+        "text": "Because I met this lady, she was a bit of an expert,"
     },
     {
         "type": "text",
-        "start": 173.28,
-        "end": 175.48,
+        "start": 161.72,
+        "end": 165.5,
+        "text": "a dick-spert, if you will."
+    },
+    {
+        "type": "text",
+        "start": 165.5,
+        "end": 168.74,
+        "text": "And when she told me..."
+    },
+    {
+        "type": "text",
+        "start": 168.74,
+        "end": 169.94,
+        "text": "Wait, wait, hold on a second."
+    },
+    {
+        "type": "text",
+        "start": 169.94,
+        "end": 173.36,
+        "text": "Could you keep up with the jokes, please?"
+    },
+    {
+        "type": "text",
+        "start": 173.36,
+        "end": 177.04,
         "text": "You're throwing off the whole rhythm here."
     },
     {
         "type": "text",
-        "start": 175.48,
-        "end": 177.32,
-        "text": "Okay."
+        "start": 177.04,
+        "end": 179.68,
+        "text": "Okay, let's just return."
     },
     {
         "type": "text",
-        "start": 178.42,
-        "end": 184.64,
-        "text": "Let's just return, she told me that I suffer from PPS and I was shocked."
+        "start": 179.68,
+        "end": 183.48,
+        "text": "She told me that I suffer from PPS."
     },
     {
         "type": "text",
-        "start": 184.64,
-        "end": 189.98,
-        "text": "I was stunned because I needed that information 30 years ago."
+        "start": 183.48,
+        "end": 185.34,
+        "text": "And I was shocked, I was stunned,"
     },
     {
         "type": "text",
-        "start": 189.98,
-        "end": 193.06,
+        "start": 185.34,
+        "end": 191.18,
+        "text": "because I needed that information 30 years ago."
+    },
+    {
+        "type": "text",
+        "start": 191.18,
+        "end": 193.78,
         "text": "It could have changed my life."
     },
     {
         "type": "text",
-        "start": 193.06,
-        "end": 199.14,
-        "text": "I could have been like a pool boy or a pizza delivery guy or a snake charmer or"
+        "start": 193.78,
+        "end": 195.42,
+        "text": "I could have been like a pool boy"
     },
     {
         "type": "text",
-        "start": 199.14,
-        "end": 199.58,
-        "text": "something."
+        "start": 195.42,
+        "end": 197.72,
+        "text": "or a pizza delivery guy,"
     },
     {
         "type": "text",
-        "start": 199.58,
-        "end": 200.08,
+        "start": 197.72,
+        "end": 199.56,
+        "text": "or a snake charmer or something."
+    },
+    {
+        "type": "text",
+        "start": 199.56,
+        "end": 200.76,
         "text": "I don't know."
     },
     {
         "type": "text",
-        "start": 200.08,
-        "end": 205.18,
-        "text": "Instead, I have spent my whole life working with computers."
+        "start": 200.76,
+        "end": 203.76,
+        "text": "Instead, I have spent my whole life"
     },
     {
         "type": "text",
-        "start": 205.18,
-        "end": 208.24,
-        "text": "I've been working with entirely the wrong."
+        "start": 203.76,
+        "end": 205.14,
+        "text": "working with computers."
     },
     {
         "type": "text",
-        "start": 208.24,
-        "end": 211.06,
-        "text": "Hardware all these years."
+        "start": 205.14,
+        "end": 210.2,
+        "text": "I've been working with entirely the wrong hardware"
     },
     {
         "type": "text",
-        "start": 211.06,
-        "end": 211.56,
-        "text": "Okay."
+        "start": 210.2,
+        "end": 211.2,
+        "text": "all these years."
     },
     {
         "type": "text",
-        "start": 211.56,
-        "end": 214.38,
-        "text": "A weak reaction to that and expected more."
+        "start": 211.2,
+        "end": 213.18,
+        "text": "Okay, a weak reaction to that."
     },
     {
         "type": "text",
-        "start": 214.38,
-        "end": 216.86,
+        "start": 213.18,
+        "end": 215.6,
+        "text": "I'd expected more."
+    },
+    {
+        "type": "text",
+        "start": 215.6,
+        "end": 217.12,
         "text": "Can I call it a new joke?"
     },
     {
         "type": "text",
-        "start": 216.86,
-        "end": 217.6,
-        "text": "Yeah, sure."
+        "start": 217.12,
+        "end": 217.92,
+        "text": "- Yeah, sure."
     },
     {
         "type": "text",
-        "start": 217.6,
-        "end": 224.92,
-        "text": "I read, I heard something recently, I read something and this is real."
+        "start": 220.98,
+        "end": 224.16,
+        "text": "- I heard something recently, I read something,"
     },
     {
         "type": "text",
-        "start": 224.92,
-        "end": 225.98,
-        "text": "It blew my mind."
+        "start": 224.16,
+        "end": 226.68,
+        "text": "and this is real, it blew my mind."
     },
     {
         "type": "text",
-        "start": 225.98,
+        "start": 226.68,
+        "end": 229.36,
+        "text": "So some psychologists studying men,"
+    },
+    {
+        "type": "text",
+        "start": 229.36,
         "end": 233.1,
-        "text": "So some psychologists studying men, they figured out that men only reach"
+        "text": "they figured out that men only reach"
     },
     {
         "type": "text",
         "start": 233.1,
-        "end": 238.02,
-        "text": "emotional and mental maturity at the age of 40."
+        "end": 240.0,
+        "text": "emotional and mental maturity at the age of 43."
     },
     {
         "type": "text",
-        "start": 238.02,
-        "end": 238.98,
-        "text": "43."
+        "start": 240.0,
+        "end": 243.8,
+        "text": "That is crazy, I'm like a four-year-old."
     },
     {
         "type": "text",
-        "start": 238.98,
-        "end": 240.84,
-        "text": "That is crazy."
+        "start": 243.8,
+        "end": 245.84,
+        "text": "I think this lady here understands"
     },
     {
         "type": "text",
-        "start": 240.84,
-        "end": 243.84,
-        "text": "I'm like, I'm like a four year old."
+        "start": 245.84,
+        "end": 247.04,
+        "text": "what I'm talking about."
     },
     {
         "type": "text",
-        "start": 243.84,
-        "end": 246.7,
-        "text": "I think this lady here understands what I'm talking about."
+        "start": 247.04,
+        "end": 248.44,
+        "text": "- It's a new joke."
     },
     {
         "type": "text",
-        "start": 246.7,
-        "end": 247.7,
-        "text": "It's unusual."
+        "start": 248.44,
+        "end": 250.44,
+        "text": "- I mean, actually, when you think about this,"
     },
     {
         "type": "text",
-        "start": 247.7,
-        "end": 253.37,
-        "text": "I mean, actually, when you think about this, it just, I do, sir, I just want to"
+        "start": 250.44,
+        "end": 253.54,
+        "text": "it just, I do, sir, I just want to say"
     },
     {
         "type": "text",
-        "start": 253.37,
-        "end": 254.02,
-        "text": "say I love"
+        "start": 253.54,
+        "end": 257.18,
+        "text": "I love the lesbian haircut that you're wearing."
     },
     {
         "type": "text",
-        "start": 254.02,
-        "end": 255.02,
-        "text": "the lesbian haircut."
-    },
-    {
-        "type": "text",
-        "start": 255.02,
-        "end": 256.02,
+        "start": 257.18,
+        "end": 258.18,
         "text": "I'm with you there."
     },
     {
         "type": "text",
-        "start": 256.02,
-        "end": 257.02,
-        "text": "How, how old are you, sir?"
+        "start": 258.18,
+        "end": 259.68,
+        "text": "How old are you, sir?"
     },
     {
         "type": "text",
-        "start": 257.02,
-        "end": 258.02,
-        "text": "I'm 42."
+        "start": 259.68,
+        "end": 260.68,
+        "text": "- I'm 42."
     },
     {
         "type": "text",
-        "start": 258.02,
-        "end": 259.02,
-        "text": "42."
+        "start": 260.68,
+        "end": 262.18,
+        "text": "- 42, okay, you're up there."
     },
     {
         "type": "text",
-        "start": 259.02,
-        "end": 260.02,
-        "text": "Okay."
+        "start": 262.18,
+        "end": 265.72,
+        "text": "So you're one year to go, you're gonna be there."
     },
     {
         "type": "text",
-        "start": 260.02,
-        "end": 261.02,
-        "text": "You're out there."
+        "start": 265.72,
+        "end": 268.16,
+        "text": "You know, and sometimes when I see a young couple,"
     },
     {
         "type": "text",
-        "start": 261.02,
-        "end": 262.02,
-        "text": "So you're one year to go."
+        "start": 268.16,
+        "end": 272.2,
+        "text": "like they're both 24, and I just think,"
     },
     {
         "type": "text",
-        "start": 262.02,
-        "end": 263.02,
-        "text": "You're going to be there."
+        "start": 272.2,
+        "end": 275.9,
+        "text": "okay, so women apparently reach maturity at 32."
     },
     {
         "type": "text",
-        "start": 263.02,
-        "end": 263.86,
-        "text": "You know, and sometimes when I see a young couple, you know, you're going to be"
-    },
-    {
-        "type": "text",
-        "start": 263.86,
-        "end": 264.02,
-        "text": "there."
-    },
-    {
-        "type": "text",
-        "start": 264.02,
-        "end": 265.02,
-        "text": "You're going to be there."
-    },
-    {
-        "type": "text",
-        "start": 265.02,
-        "end": 266.02,
-        "text": "You know, you're going to be there."
-    },
-    {
-        "type": "text",
-        "start": 266.02,
-        "end": 267.02,
-        "text": "You're going to be there."
-    },
-    {
-        "type": "text",
-        "start": 267.02,
-        "end": 268.02,
-        "text": "You're going to be there."
-    },
-    {
-        "type": "text",
-        "start": 268.02,
-        "end": 276.16,
-        "text": "You know, I just think, okay, so women apparently reach maturity at 32."
-    },
-    {
-        "type": "text",
-        "start": 276.16,
-        "end": 280.34,
+        "start": 275.9,
+        "end": 280.2,
         "text": "That's 11 years before men, 11 years."
     },
     {
         "type": "text",
-        "start": 280.34,
-        "end": 286.38,
-        "text": "So when you see a couple that's 24, that's actually like a 13 year old with"
+        "start": 280.2,
+        "end": 282.6,
+        "text": "So when you see a couple that's 24,"
     },
     {
         "type": "text",
-        "start": 286.38,
-        "end": 287.16,
-        "text": "someone that"
+        "start": 282.6,
+        "end": 286.34,
+        "text": "that's actually like a 13-year-old"
     },
     {
         "type": "text",
-        "start": 287.16,
-        "end": 289.66,
-        "text": "has a strange love of young boys."
+        "start": 286.34,
+        "end": 290.72,
+        "text": "with someone that has a strange love of young boys."
     },
     {
         "type": "text",
-        "start": 289.66,
-        "end": 292.14,
+        "start": 290.72,
+        "end": 292.12,
         "text": "It is a very weird thing."
     },
     {
         "type": "text",
-        "start": 292.14,
-        "end": 296.83,
-        "text": "It actually changes your whole perspective on anything like weddings, for"
+        "start": 292.12,
+        "end": 294.52,
+        "text": "It actually changes your whole perspective on anything,"
     },
     {
         "type": "text",
-        "start": 296.83,
-        "end": 297.8,
-        "text": "example, you"
+        "start": 294.52,
+        "end": 295.92,
+        "text": "like weddings, for example."
     },
     {
         "type": "text",
-        "start": 297.8,
-        "end": 298.8,
-        "text": "know, like, oh, I'm going to be a man."
+        "start": 295.92,
+        "end": 298.98,
+        "text": "You have the bride and the groom."
     },
     {
         "type": "text",
-        "start": 298.8,
-        "end": 299.8,
-        "text": "I'm going to be a woman."
+        "start": 298.98,
+        "end": 301.86,
+        "text": "Is that 'cause she spent five years grooming him"
     },
     {
         "type": "text",
-        "start": 299.8,
-        "end": 300.8,
-        "text": "I'm going to be a man."
+        "start": 301.86,
+        "end": 303.06,
+        "text": "to come to this event?"
     },
     {
         "type": "text",
-        "start": 300.8,
-        "end": 301.8,
-        "text": "I'm going to be a woman."
+        "start": 303.06,
+        "end": 304.4,
+        "text": "I don't know."
     },
     {
         "type": "text",
-        "start": 301.8,
-        "end": 302.8,
-        "text": "I'm going to be a woman."
+        "start": 304.4,
+        "end": 305.92,
+        "text": "Just a thought, okay."
     },
     {
         "type": "text",
-        "start": 302.8,
-        "end": 303.8,
-        "text": "I'm going to be a woman."
+        "start": 305.92,
+        "end": 307.5,
+        "text": "I read another thing recently."
     },
     {
         "type": "text",
-        "start": 303.8,
-        "end": 304.8,
-        "text": "I'm going to be a woman."
+        "start": 307.5,
+        "end": 310.54,
+        "text": "Let's move on from the idea"
     },
     {
         "type": "text",
-        "start": 304.8,
-        "end": 305.8,
-        "text": "I'm going to be a woman."
+        "start": 310.54,
+        "end": 312.3,
+        "text": "that all women are pedophiles."
     },
     {
         "type": "text",
-        "start": 305.8,
-        "end": 306.8,
-        "text": "I'm going to be a woman."
+        "start": 315.04,
+        "end": 317.54,
+        "text": "'Cause that is clearly making people uncomfortable."
     },
     {
         "type": "text",
-        "start": 306.8,
-        "end": 307.8,
-        "text": "I'm going to be a woman."
+        "start": 317.54,
+        "end": 320.0,
+        "text": "I read another thing."
     },
     {
         "type": "text",
-        "start": 307.8,
-        "end": 308.8,
-        "text": "I'm going to be a woman."
+        "start": 320.0,
+        "end": 322.28,
+        "text": "Let's make it a bit more uncomfortable for the guys,"
     },
     {
         "type": "text",
-        "start": 308.8,
-        "end": 309.8,
-        "text": "I'm going to be a woman."
+        "start": 322.28,
+        "end": 326.02,
+        "text": "'cause I read that they did a survey,"
     },
     {
         "type": "text",
-        "start": 309.8,
-        "end": 310.8,
-        "text": "I'm going to be a woman."
+        "start": 326.02,
+        "end": 330.92,
+        "text": "and they discovered that in the age range 20 to 40,"
     },
     {
         "type": "text",
-        "start": 310.8,
-        "end": 311.8,
-        "text": "I'm going to be a woman."
+        "start": 330.92,
+        "end": 334.98,
+        "text": "almost 50% of men sent a dick pic"
     },
     {
         "type": "text",
-        "start": 311.8,
-        "end": 312.8,
-        "text": "I'm going to be a woman."
+        "start": 334.98,
+        "end": 337.32,
+        "text": "in the last three months."
     },
     {
         "type": "text",
-        "start": 312.8,
-        "end": 313.8,
-        "text": "I'm going to be a woman."
+        "start": 337.32,
+        "end": 338.96,
+        "text": "That is a crazy statistic."
     },
     {
         "type": "text",
-        "start": 313.8,
-        "end": 314.8,
-        "text": "I'm going to be a woman."
+        "start": 338.96,
+        "end": 340.66,
+        "text": "Maybe I can help you."
     },
     {
         "type": "text",
-        "start": 314.8,
-        "end": 315.8,
-        "text": "I'm going to be a woman."
+        "start": 340.66,
+        "end": 343.7,
+        "text": "Ma'am, can I use you for the purposes of this show"
     },
     {
         "type": "text",
-        "start": 315.8,
-        "end": 316.8,
-        "text": "I'm going to be a woman."
+        "start": 343.7,
+        "end": 346.26,
+        "text": "to be sure? (audience laughing)"
     },
     {
         "type": "text",
-        "start": 316.8,
-        "end": 317.8,
-        "text": "I'm going to be a woman."
+        "start": 346.26,
+        "end": 347.74,
+        "text": "I'm not gonna send you a dick pic."
     },
     {
         "type": "text",
-        "start": 317.8,
-        "end": 318.8,
-        "text": "I'm going to be a woman."
+        "start": 347.74,
+        "end": 349.9,
+        "text": "I just, what's your name, ma'am?"
     },
     {
         "type": "text",
-        "start": 318.8,
-        "end": 319.8,
-        "text": "I'm going to be a woman."
+        "start": 349.9,
+        "end": 352.54,
+        "text": "- Stephanie. - Stephanie, so Stephanie."
     },
     {
         "type": "text",
-        "start": 319.8,
-        "end": 320.8,
-        "text": "I'm going to be a woman."
+        "start": 352.54,
+        "end": 354.74,
+        "text": "To help you visualize this number, Stephanie,"
     },
     {
         "type": "text",
-        "start": 320.8,
-        "end": 321.8,
-        "text": "I'm going to be a woman."
+        "start": 354.74,
+        "end": 359.18,
+        "text": "if you gave your number to 10 guys in this room,"
     },
     {
         "type": "text",
-        "start": 321.8,
-        "end": 322.8,
-        "text": "I'm going to be a woman."
+        "start": 359.18,
+        "end": 363.62,
+        "text": "by Christmas time, you got a stack of five dicks,"
     },
     {
         "type": "text",
-        "start": 322.8,
-        "end": 323.8,
-        "text": "I'm going to be a woman."
+        "start": 363.62,
+        "end": 364.66,
+        "text": "and that's fantastic."
     },
     {
         "type": "text",
-        "start": 323.8,
-        "end": 324.8,
-        "text": "I'm going to be a woman."
+        "start": 364.66,
+        "end": 365.92,
+        "text": "You can then print them out,"
     },
     {
         "type": "text",
-        "start": 324.8,
-        "end": 325.8,
-        "text": "I'm going to be a woman."
+        "start": 365.92,
+        "end": 368.38,
+        "text": "use them as Christmas cards,"
     },
     {
         "type": "text",
-        "start": 325.8,
-        "end": 326.8,
-        "text": "I'm going to be a woman."
+        "start": 368.38,
+        "end": 370.26,
+        "text": "hang 'em from your tree,"
     },
     {
         "type": "text",
-        "start": 326.8,
-        "end": 327.8,
-        "text": "I'm going to be a woman."
+        "start": 370.26,
+        "end": 372.86,
+        "text": "put 'em in an album, give it as a present to your dad."
     },
     {
         "type": "text",
-        "start": 327.8,
-        "end": 328.8,
-        "text": "I'm going to be a woman."
+        "start": 372.86,
+        "end": 375.62,
+        "text": "There's so much you can do with this."
     },
     {
         "type": "text",
-        "start": 328.8,
-        "end": 329.8,
-        "text": "I'm going to be a woman."
+        "start": 375.62,
+        "end": 378.86,
+        "text": "I see, Stephanie, you're still struggling with this."
     },
     {
         "type": "text",
-        "start": 329.8,
-        "end": 330.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 330.8,
-        "end": 331.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 331.8,
-        "end": 332.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 332.8,
-        "end": 333.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 333.8,
-        "end": 334.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 334.8,
-        "end": 335.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 335.8,
-        "end": 336.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 336.8,
-        "end": 337.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 337.8,
-        "end": 338.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 338.8,
-        "end": 339.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 339.8,
-        "end": 340.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 348.8,
-        "end": 349.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 349.8,
-        "end": 350.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 350.8,
-        "end": 351.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 351.8,
-        "end": 352.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 352.8,
-        "end": 353.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 353.8,
-        "end": 354.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 354.8,
-        "end": 355.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 355.8,
-        "end": 356.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 356.8,
-        "end": 357.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 357.8,
-        "end": 358.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 358.8,
-        "end": 359.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 359.8,
-        "end": 360.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 360.8,
-        "end": 361.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 361.8,
-        "end": 362.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 362.8,
-        "end": 363.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 363.8,
-        "end": 364.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 364.8,
-        "end": 365.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 365.8,
-        "end": 366.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 366.8,
-        "end": 367.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 367.8,
-        "end": 368.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 368.8,
-        "end": 369.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 369.8,
-        "end": 370.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 378.8,
-        "end": 379.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 379.8,
-        "end": 380.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 380.8,
+        "start": 380.1,
         "end": 381.8,
-        "text": "I'm going to be a woman."
+        "text": "I'm just looking around."
     },
     {
         "type": "text",
         "start": 381.8,
-        "end": 382.8,
-        "text": "I'm going to be a woman."
+        "end": 385.78,
+        "text": "Who of these guys could be in that 50%?"
     },
     {
         "type": "text",
-        "start": 382.8,
-        "end": 383.8,
-        "text": "I'm going to be a woman."
+        "start": 385.78,
+        "end": 389.3,
+        "text": "Obviously, you. (audience laughing)"
     },
     {
         "type": "text",
-        "start": 383.8,
-        "end": 384.8,
-        "text": "I'm going to be a woman."
+        "start": 389.3,
+        "end": 390.14,
+        "text": "Dick."
     },
     {
         "type": "text",
-        "start": 384.8,
-        "end": 385.8,
-        "text": "I'm going to be a woman."
+        "start": 390.14,
+        "end": 393.78,
+        "text": "When you send us a selfie, just of your face,"
     },
     {
         "type": "text",
-        "start": 385.8,
-        "end": 386.8,
-        "text": "I'm going to be a woman."
+        "start": 393.78,
+        "end": 396.32,
+        "text": "are you like, \"Hey, I just sent you a dick pic.\""
     },
     {
         "type": "text",
-        "start": 386.8,
-        "end": 387.8,
-        "text": "I'm going to be a woman."
+        "start": 397.52,
+        "end": 399.12,
+        "text": "Do you do that sometimes?"
     },
     {
         "type": "text",
-        "start": 387.8,
-        "end": 388.8,
-        "text": "I'm going to be a woman."
+        "start": 399.12,
+        "end": 400.76,
+        "text": "Have you ever done that?"
     },
     {
         "type": "text",
-        "start": 388.8,
-        "end": 389.8,
-        "text": "I'm going to be a woman."
+        "start": 400.76,
+        "end": 402.42,
+        "text": "'Cause it's a dick pic."
     },
     {
         "type": "text",
-        "start": 389.8,
-        "end": 390.8,
-        "text": "I'm going to be a woman."
+        "start": 402.42,
+        "end": 403.26,
+        "text": "I get it."
     },
     {
         "type": "text",
-        "start": 390.8,
-        "end": 391.8,
-        "text": "I'm going to be a woman."
+        "start": 404.92,
+        "end": 406.62,
+        "text": "You never made that connection."
     },
     {
         "type": "text",
-        "start": 391.8,
-        "end": 392.8,
-        "text": "I'm going to be a woman."
+        "start": 406.62,
+        "end": 407.86,
+        "text": "Okay, thank you."
     },
     {
         "type": "text",
-        "start": 392.8,
-        "end": 393.8,
-        "text": "I'm going to be a woman."
+        "start": 407.86,
+        "end": 411.1,
+        "text": "Please do that this evening after the show."
     },
     {
         "type": "text",
-        "start": 393.8,
-        "end": 394.8,
-        "text": "I'm going to be a woman."
+        "start": 411.1,
+        "end": 412.46,
+        "text": "I didn't believe it."
     },
     {
         "type": "text",
-        "start": 394.8,
-        "end": 395.8,
-        "text": "I'm going to be a woman."
+        "start": 412.46,
+        "end": 413.3,
+        "text": "What?"
     },
     {
         "type": "text",
-        "start": 395.8,
-        "end": 396.8,
-        "text": "I'm going to be a woman."
+        "start": 413.3,
+        "end": 414.14,
+        "text": "- What's your number?"
     },
     {
         "type": "text",
-        "start": 396.8,
-        "end": 397.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 397.8,
-        "end": 398.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 398.8,
-        "end": 399.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 399.8,
-        "end": 400.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 408.8,
-        "end": 409.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 409.8,
-        "end": 410.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 410.8,
-        "end": 411.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 411.8,
-        "end": 412.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 412.8,
-        "end": 413.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 413.8,
-        "end": 414.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 414.8,
-        "end": 415.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 415.8,
+        "start": 415.96,
         "end": 416.8,
-        "text": "I'm going to be a woman."
+        "text": "- Wow, ah."
     },
     {
         "type": "text",
         "start": 416.8,
-        "end": 417.8,
-        "text": "I'm going to be a woman."
+        "end": 422.28,
+        "text": "This just turned into the greatest show I've ever done."
     },
     {
         "type": "text",
-        "start": 417.8,
-        "end": 418.8,
-        "text": "I'm going to be a woman."
+        "start": 422.28,
+        "end": 423.58,
+        "text": "Ah, thank you."
     },
     {
         "type": "text",
-        "start": 418.8,
-        "end": 419.8,
-        "text": "I'm going to be a woman."
+        "start": 423.58,
+        "end": 425.08,
+        "text": "Chris, I feel that you, you know,"
     },
     {
         "type": "text",
-        "start": 419.8,
-        "end": 420.8,
-        "text": "I'm going to be a woman."
+        "start": 425.08,
+        "end": 427.68,
+        "text": "maybe you could support me in my comedy career"
     },
     {
         "type": "text",
-        "start": 420.8,
-        "end": 421.8,
-        "text": "I'm going to be a woman."
+        "start": 427.68,
+        "end": 428.92,
+        "text": "in anything, right?"
     },
     {
         "type": "text",
-        "start": 421.8,
-        "end": 422.8,
-        "text": "I'm going to be a woman."
+        "start": 428.92,
+        "end": 430.18,
+        "text": "- Yeah."
     },
     {
         "type": "text",
-        "start": 422.8,
-        "end": 423.8,
-        "text": "I'm going to be a woman."
+        "start": 430.18,
+        "end": 431.02,
+        "text": "- You could pay me on dick pics."
     },
     {
         "type": "text",
-        "start": 423.8,
-        "end": 424.8,
-        "text": "I'm going to be a woman."
+        "start": 433.42,
+        "end": 436.86,
+        "text": "Now, I don't take dick pics myself."
     },
     {
         "type": "text",
-        "start": 424.8,
-        "end": 425.8,
-        "text": "I'm going to be a woman."
+        "start": 436.86,
+        "end": 438.76,
+        "text": "Now, you may not believe that, you know,"
     },
     {
         "type": "text",
-        "start": 425.8,
-        "end": 426.8,
-        "text": "I'm going to be a woman."
+        "start": 438.76,
+        "end": 440.2,
+        "text": "when you have a perfect penis,"
     },
     {
         "type": "text",
-        "start": 426.8,
-        "end": 427.8,
-        "text": "I'm going to be a woman."
+        "start": 440.2,
+        "end": 441.46,
+        "text": "obviously you'd think you would,"
     },
     {
         "type": "text",
-        "start": 427.8,
-        "end": 428.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 428.8,
-        "end": 429.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 429.8,
-        "end": 430.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 438.8,
-        "end": 439.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 439.8,
-        "end": 440.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 440.8,
-        "end": 441.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 441.8,
-        "end": 442.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 442.8,
-        "end": 443.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 443.8,
+        "start": 441.46,
         "end": 444.8,
-        "text": "I'm going to be a woman."
+        "text": "but the reason why I don't take dick pics myself"
     },
     {
         "type": "text",
         "start": 444.8,
-        "end": 445.8,
-        "text": "I'm going to be a woman."
+        "end": 447.9,
+        "text": "is I'm a bit of a perfectionist."
     },
     {
         "type": "text",
-        "start": 445.8,
-        "end": 446.8,
-        "text": "I'm going to be a woman."
+        "start": 447.9,
+        "end": 451.94,
+        "text": "Because taking a quality dick pic is hard."
     },
     {
         "type": "text",
-        "start": 446.8,
-        "end": 447.8,
-        "text": "I'm going to be a woman."
+        "start": 451.94,
+        "end": 453.18,
+        "text": "You know, there's a lot to think about."
     },
     {
         "type": "text",
-        "start": 447.8,
-        "end": 448.8,
-        "text": "I'm going to be a woman."
+        "start": 453.18,
+        "end": 455.34,
+        "text": "You gotta think about the lighting."
     },
     {
         "type": "text",
-        "start": 448.8,
-        "end": 449.8,
-        "text": "I'm going to be a woman."
+        "start": 455.34,
+        "end": 458.18,
+        "text": "Do you go for like a soft, mellow tone"
     },
     {
         "type": "text",
-        "start": 449.8,
-        "end": 450.8,
-        "text": "I'm going to be a woman."
+        "start": 458.18,
+        "end": 459.62,
+        "text": "to bring out the skin colors"
     },
     {
         "type": "text",
-        "start": 450.8,
-        "end": 451.8,
-        "text": "I'm going to be a woman."
+        "start": 459.62,
+        "end": 461.68,
+        "text": "or something more red and erotic?"
     },
     {
         "type": "text",
-        "start": 451.8,
-        "end": 452.8,
-        "text": "I'm going to be a woman."
+        "start": 461.68,
+        "end": 464.38,
+        "text": "Do I need some props, you know?"
     },
     {
         "type": "text",
-        "start": 452.8,
-        "end": 453.8,
-        "text": "I'm going to be a woman."
+        "start": 464.38,
+        "end": 467.58,
+        "text": "Do I need to put some roses around here"
     },
     {
         "type": "text",
-        "start": 453.8,
-        "end": 454.8,
-        "text": "I'm going to be a woman."
+        "start": 467.58,
+        "end": 468.42,
+        "text": "for this dick pic?"
     },
     {
         "type": "text",
-        "start": 454.8,
-        "end": 455.8,
-        "text": "I'm going to be a woman."
+        "start": 468.42,
+        "end": 471.56,
+        "text": "I don't wanna prick my dick as I'm doing this."
     },
     {
         "type": "text",
-        "start": 455.8,
-        "end": 456.8,
-        "text": "I'm going to be a woman."
+        "start": 471.56,
+        "end": 473.86,
+        "text": "And, you know, you also gotta think about the angle"
     },
     {
         "type": "text",
-        "start": 456.8,
-        "end": 457.8,
-        "text": "I'm going to be a woman."
+        "start": 473.86,
+        "end": 474.7,
+        "text": "'cause it's a selfie."
     },
     {
         "type": "text",
-        "start": 457.8,
-        "end": 458.8,
-        "text": "I'm going to be a woman."
+        "start": 474.7,
+        "end": 477.26,
+        "text": "Is it like here or here?"
     },
     {
         "type": "text",
-        "start": 458.8,
-        "end": 459.8,
-        "text": "I'm going to be a woman."
+        "start": 477.26,
+        "end": 478.74,
+        "text": "Or like under there?"
     },
     {
         "type": "text",
-        "start": 459.8,
-        "end": 460.8,
-        "text": "I'm going to be a woman."
+        "start": 478.74,
+        "end": 479.56,
+        "text": "I don't know."
     },
     {
         "type": "text",
-        "start": 468.8,
-        "end": 469.8,
-        "text": "I'm going to be a woman."
+        "start": 479.56,
+        "end": 483.3,
+        "text": "Luckily for you guys, I'm a bit of an entrepreneur."
     },
     {
         "type": "text",
-        "start": 469.8,
-        "end": 470.8,
-        "text": "I'm going to be a woman."
+        "start": 483.3,
+        "end": 486.74,
+        "text": "That's why I invented the dick pic selfie stick."
     },
     {
         "type": "text",
-        "start": 470.8,
-        "end": 471.8,
-        "text": "I'm going to be a woman."
+        "start": 490.14,
+        "end": 493.22,
+        "text": "Okay, I think, but I'm not gonna give it to you guys"
     },
     {
         "type": "text",
-        "start": 471.8,
-        "end": 472.8,
-        "text": "I'm going to be a woman."
+        "start": 493.22,
+        "end": 495.7,
+        "text": "'cause I don't feel that you appreciate"
     },
     {
         "type": "text",
-        "start": 472.8,
-        "end": 473.8,
-        "text": "I'm going to be a woman."
+        "start": 495.7,
+        "end": 497.86,
+        "text": "the genius of that invention enough this evening."
     },
     {
         "type": "text",
-        "start": 473.8,
-        "end": 474.8,
-        "text": "I'm going to be a woman."
+        "start": 497.86,
+        "end": 499.18,
+        "text": "- Give it to us."
     },
     {
         "type": "text",
-        "start": 474.8,
-        "end": 475.8,
-        "text": "I'm going to be a woman."
+        "start": 499.18,
+        "end": 500.54,
+        "text": "- I'll give it to you for free,"
     },
     {
         "type": "text",
-        "start": 475.8,
-        "end": 476.8,
-        "text": "I'm going to be a woman."
+        "start": 500.54,
+        "end": 503.06,
+        "text": "a free sample for you, sir."
     },
     {
         "type": "text",
-        "start": 476.8,
-        "end": 477.8,
-        "text": "I'm going to be a woman."
+        "start": 503.06,
+        "end": 507.42,
+        "text": "Okay, so, you know, sometimes when I think about"
     },
     {
         "type": "text",
-        "start": 477.8,
-        "end": 478.8,
-        "text": "I'm going to be a woman."
+        "start": 507.42,
+        "end": 509.62,
+        "text": "all the dick pics that I'm not able to take"
     },
     {
         "type": "text",
-        "start": 478.8,
-        "end": 479.8,
-        "text": "I'm going to be a woman."
+        "start": 509.62,
+        "end": 512.3,
+        "text": "because I'm a perfectionist, I get very depressed."
     },
     {
         "type": "text",
-        "start": 479.8,
-        "end": 480.8,
-        "text": "I'm going to be a woman."
+        "start": 513.18,
+        "end": 517.06,
+        "text": "And when that happens, I do what a real man does."
     },
     {
         "type": "text",
-        "start": 480.8,
-        "end": 481.8,
-        "text": "I'm going to be a woman."
+        "start": 517.06,
+        "end": 519.92,
+        "text": "I get on YouTube and watch animal videos."
     },
     {
         "type": "text",
-        "start": 481.8,
-        "end": 482.8,
-        "text": "I'm going to be a woman."
+        "start": 519.92,
+        "end": 523.84,
+        "text": "And recently, I discovered an animal."
     },
     {
         "type": "text",
-        "start": 482.8,
-        "end": 483.8,
-        "text": "I'm going to be a woman."
+        "start": 523.84,
+        "end": 525.86,
+        "text": "This creature blew my mind."
     },
     {
         "type": "text",
-        "start": 483.8,
-        "end": 484.8,
-        "text": "I'm going to be a woman."
+        "start": 525.86,
+        "end": 530.66,
+        "text": "This is the greatest sea creature in all the oceans."
     },
     {
         "type": "text",
-        "start": 484.8,
-        "end": 485.8,
-        "text": "I'm going to be a woman."
+        "start": 530.66,
+        "end": 533.18,
+        "text": "Dick, can you guess what animal I'm talking about?"
     },
     {
         "type": "text",
-        "start": 485.8,
-        "end": 486.8,
-        "text": "I'm going to be a woman."
+        "start": 533.18,
+        "end": 534.26,
+        "text": "- A mantis shrimp."
     },
     {
         "type": "text",
-        "start": 486.8,
-        "end": 487.8,
-        "text": "I'm going to be a woman."
+        "start": 534.26,
+        "end": 535.1,
+        "text": "- A what?"
     },
     {
         "type": "text",
-        "start": 487.8,
-        "end": 488.8,
-        "text": "I'm going to be a woman."
+        "start": 535.1,
+        "end": 535.92,
+        "text": "- What?"
     },
     {
         "type": "text",
-        "start": 488.8,
-        "end": 489.8,
-        "text": "I'm going to be a woman."
+        "start": 537.46,
+        "end": 539.54,
+        "text": "- No, that was the last joke again"
     },
     {
         "type": "text",
-        "start": 489.8,
-        "end": 490.8,
-        "text": "I'm going to be a woman."
+        "start": 539.54,
+        "end": 540.74,
+        "text": "that you just reacted to."
     },
     {
         "type": "text",
-        "start": 498.8,
-        "end": 499.8,
-        "text": "I'm going to be a woman."
+        "start": 540.74,
+        "end": 544.54,
+        "text": "Dick, dick, tell me, greatest sea creature."
     },
     {
         "type": "text",
-        "start": 499.8,
-        "end": 500.8,
-        "text": "I'm going to be a woman."
+        "start": 544.54,
+        "end": 545.7,
+        "text": "She's just throwing me off."
     },
     {
         "type": "text",
-        "start": 500.8,
-        "end": 501.8,
-        "text": "I'm going to be a woman."
+        "start": 545.7,
+        "end": 546.54,
+        "text": "- A shark."
     },
     {
         "type": "text",
-        "start": 501.8,
-        "end": 502.8,
-        "text": "I'm going to be a woman."
+        "start": 546.54,
+        "end": 550.06,
+        "text": "- A shark, a shark is a very good choice, but wrong."
     },
     {
         "type": "text",
-        "start": 502.8,
-        "end": 503.8,
-        "text": "I'm going to be a woman."
+        "start": 550.06,
+        "end": 550.9,
+        "text": "- Whale."
     },
     {
         "type": "text",
-        "start": 503.8,
-        "end": 504.8,
-        "text": "I'm going to be a woman."
+        "start": 550.9,
+        "end": 555.42,
+        "text": "- The great, no, not whale, you only get one guess,"
     },
     {
         "type": "text",
-        "start": 504.8,
-        "end": 505.8,
-        "text": "I'm going to be a woman."
+        "start": 555.42,
+        "end": 559.34,
+        "text": "people, fuck it up, but you're all wrong."
     },
     {
         "type": "text",
-        "start": 505.8,
-        "end": 506.8,
-        "text": "I'm going to be a woman."
+        "start": 559.34,
+        "end": 563.1,
+        "text": "The greatest animal in all the oceans,"
     },
     {
         "type": "text",
-        "start": 506.8,
-        "end": 507.8,
-        "text": "I'm going to be a woman."
+        "start": 563.1,
+        "end": 565.7,
+        "text": "not a dolphin either, Sasha."
     },
     {
         "type": "text",
-        "start": 507.8,
-        "end": 508.8,
-        "text": "I'm going to be a woman."
+        "start": 565.7,
+        "end": 567.06,
+        "text": "It is the?"
     },
     {
         "type": "text",
-        "start": 508.8,
-        "end": 509.8,
-        "text": "I'm going to be a woman."
+        "start": 567.06,
+        "end": 567.9,
+        "text": "- A sheep."
     },
     {
         "type": "text",
-        "start": 509.8,
-        "end": 510.8,
-        "text": "I'm going to be a woman."
+        "start": 569.54,
+        "end": 570.38,
+        "text": "- A sheep."
     },
     {
         "type": "text",
-        "start": 510.8,
-        "end": 511.8,
-        "text": "I'm going to be a woman."
+        "start": 571.58,
+        "end": 572.42,
+        "text": "- In the ocean."
     },
     {
         "type": "text",
-        "start": 511.8,
-        "end": 512.8,
-        "text": "I'm going to be a woman."
+        "start": 572.42,
+        "end": 576.1,
+        "text": "- Did you, what did you do to the sheep"
     },
     {
         "type": "text",
-        "start": 512.8,
-        "end": 513.8,
-        "text": "I'm going to be a woman."
+        "start": 576.1,
+        "end": 577.7,
+        "text": "after it ended up in the ocean?"
     },
     {
         "type": "text",
-        "start": 513.8,
-        "end": 514.8,
-        "text": "I'm going to be a woman."
+        "start": 577.7,
+        "end": 578.54,
+        "text": "- A shrimp."
     },
     {
         "type": "text",
-        "start": 514.8,
-        "end": 515.8,
-        "text": "I'm going to be a woman."
+        "start": 578.54,
+        "end": 580.42,
+        "text": "- A shrimp, oh, a shrimp."
     },
     {
         "type": "text",
-        "start": 515.8,
-        "end": 516.8,
-        "text": "I'm going to be a woman."
+        "start": 580.42,
+        "end": 582.02,
+        "text": "No, do we have any, okay."
     },
     {
         "type": "text",
-        "start": 516.8,
-        "end": 517.8,
-        "text": "I'm going to be a woman."
+        "start": 582.02,
+        "end": 583.14,
+        "text": "- Your mother's swimming."
     },
     {
         "type": "text",
-        "start": 517.8,
-        "end": 518.8,
-        "text": "I'm going to be a woman."
+        "start": 583.14,
+        "end": 585.74,
+        "text": "- No, that's not right, let's work this out now."
     },
     {
         "type": "text",
-        "start": 518.8,
-        "end": 519.8,
-        "text": "I'm going to be a woman."
+        "start": 585.74,
+        "end": 588.54,
+        "text": "You don't want the joke, come on, give me more sea creatures,"
     },
     {
         "type": "text",
-        "start": 519.8,
-        "end": 520.8,
-        "text": "I'm going to be a woman."
+        "start": 588.54,
+        "end": 590.22,
+        "text": "let's get it out of your system."
     },
     {
         "type": "text",
-        "start": 528.8,
-        "end": 529.8,
-        "text": "I'm going to be a woman."
+        "start": 590.22,
+        "end": 591.06,
+        "text": "- Plankton."
     },
     {
         "type": "text",
-        "start": 529.8,
-        "end": 530.8,
-        "text": "I'm going to be a woman."
+        "start": 591.06,
+        "end": 592.38,
+        "text": "- What, plankton?"
     },
     {
         "type": "text",
-        "start": 530.8,
-        "end": 531.8,
-        "text": "I'm going to be a woman."
+        "start": 593.94,
+        "end": 596.86,
+        "text": "You call a plankton a great sea creature."
     },
     {
         "type": "text",
-        "start": 531.8,
-        "end": 532.8,
-        "text": "I'm going to be a woman."
+        "start": 598.54,
+        "end": 601.62,
+        "text": "Now I understand what's happening in this relationship."
     },
     {
         "type": "text",
-        "start": 532.8,
-        "end": 533.8,
-        "text": "I'm going to be a woman."
+        "start": 604.3,
+        "end": 607.06,
+        "text": "Anyone else, any more sea creatures?"
     },
     {
         "type": "text",
-        "start": 533.8,
-        "end": 534.8,
-        "text": "I'm going to be a woman."
+        "start": 607.06,
+        "end": 608.66,
+        "text": "Oh, can I tell my joke now?"
     },
     {
         "type": "text",
-        "start": 534.8,
-        "end": 535.8,
-        "text": "I'm going to be a woman."
+        "start": 610.1,
+        "end": 610.94,
+        "text": "All right."
     },
     {
         "type": "text",
-        "start": 535.8,
-        "end": 536.8,
-        "text": "I'm going to be a woman."
+        "start": 610.94,
+        "end": 611.78,
+        "text": "- A sea sheep."
     },
     {
         "type": "text",
-        "start": 536.8,
-        "end": 537.8,
-        "text": "I'm going to be a woman."
+        "start": 611.78,
+        "end": 612.62,
+        "text": "- A what?"
     },
     {
         "type": "text",
-        "start": 537.8,
-        "end": 538.8,
-        "text": "I'm going to be a woman."
+        "start": 612.62,
+        "end": 613.46,
+        "text": "- A sea sheep."
     },
     {
         "type": "text",
-        "start": 538.8,
-        "end": 539.8,
-        "text": "I'm going to be a woman."
+        "start": 613.46,
+        "end": 614.3,
+        "text": "- A sea sheep."
     },
     {
         "type": "text",
-        "start": 539.8,
-        "end": 540.8,
-        "text": "I'm going to be a woman."
+        "start": 615.14,
+        "end": 616.9,
+        "text": "- You didn't think of sheep on Earth, right?"
     },
     {
         "type": "text",
-        "start": 540.8,
-        "end": 541.8,
-        "text": "I'm going to be a woman."
+        "start": 616.9,
+        "end": 619.98,
+        "text": "- Dick, I think you need to focus on your dick, Dick."
     },
     {
         "type": "text",
-        "start": 541.8,
-        "end": 542.8,
-        "text": "I'm going to be a woman."
+        "start": 621.26,
+        "end": 626.26,
+        "text": "So, it's true, oh, do you have an animal?"
     },
     {
         "type": "text",
-        "start": 542.8,
-        "end": 543.8,
-        "text": "I'm going to be a woman."
+        "start": 626.26,
+        "end": 628.46,
+        "text": "- An octopus."
     },
     {
         "type": "text",
-        "start": 543.8,
-        "end": 544.8,
-        "text": "I'm going to be a woman."
+        "start": 628.46,
+        "end": 629.3,
+        "text": "- An octopus."
     },
     {
         "type": "text",
-        "start": 544.8,
-        "end": 545.8,
-        "text": "I'm going to be a woman."
+        "start": 629.3,
+        "end": 633.38,
+        "text": "- Thank you, ma'am, one person, give it up for her."
     },
     {
         "type": "text",
-        "start": 545.8,
-        "end": 546.8,
-        "text": "I'm going to be a woman."
+        "start": 635.18,
+        "end": 636.82,
+        "text": "What is your name, ma'am?"
     },
     {
         "type": "text",
-        "start": 546.8,
-        "end": 547.8,
-        "text": "I'm going to be a woman."
+        "start": 636.82,
+        "end": 637.66,
+        "text": "- Deanna."
     },
     {
         "type": "text",
-        "start": 547.8,
-        "end": 548.8,
-        "text": "I'm going to be a woman."
+        "start": 637.66,
+        "end": 639.98,
+        "text": "- Deanna, Deanna, I don't know what your price is,"
     },
     {
         "type": "text",
-        "start": 548.8,
-        "end": 549.8,
-        "text": "I'm going to be a woman."
+        "start": 639.98,
+        "end": 642.78,
+        "text": "but you deserve a prize after showing up"
     },
     {
         "type": "text",
-        "start": 549.8,
-        "end": 550.8,
-        "text": "I'm going to be a woman."
+        "start": 642.78,
+        "end": 645.02,
+        "text": "the entire audience here tonight."
     },
     {
         "type": "text",
-        "start": 558.8,
-        "end": 559.8,
-        "text": "I'm going to be a woman."
+        "start": 645.02,
+        "end": 647.62,
+        "text": "The greatest, exactly, it's an octopus,"
     },
     {
         "type": "text",
-        "start": 559.8,
-        "end": 560.8,
-        "text": "I'm going to be a woman."
+        "start": 647.62,
+        "end": 649.86,
+        "text": "but it's a very special type of octopus,"
     },
     {
         "type": "text",
-        "start": 560.8,
-        "end": 561.8,
-        "text": "I'm going to be a woman."
+        "start": 649.86,
+        "end": 652.94,
+        "text": "it's called the argonaut octopus."
     },
     {
         "type": "text",
-        "start": 561.8,
-        "end": 562.8,
-        "text": "I'm going to be a woman."
+        "start": 652.94,
+        "end": 654.42,
+        "text": "Now I need to explain this to you,"
     },
     {
         "type": "text",
-        "start": 562.8,
-        "end": 563.8,
-        "text": "I'm going to be a woman."
+        "start": 654.42,
+        "end": 657.74,
+        "text": "I know that's gonna be tough for the IQ level here,"
     },
     {
         "type": "text",
-        "start": 563.8,
-        "end": 564.8,
-        "text": "I'm going to be a woman."
+        "start": 657.74,
+        "end": 659.78,
+        "text": "so pay close attention."
     },
     {
         "type": "text",
-        "start": 564.8,
-        "end": 565.8,
-        "text": "I'm going to be a woman."
+        "start": 659.78,
+        "end": 662.62,
+        "text": "Oh, this crowd is getting upset now,"
     },
     {
         "type": "text",
-        "start": 565.8,
-        "end": 566.8,
-        "text": "I'm going to be a woman."
+        "start": 662.62,
+        "end": 664.58,
+        "text": "I insulted their intelligence."
     },
     {
         "type": "text",
-        "start": 566.8,
-        "end": 567.8,
-        "text": "I'm going to be a woman."
+        "start": 664.58,
+        "end": 665.98,
+        "text": "No, you're all great people,"
     },
     {
         "type": "text",
-        "start": 567.8,
-        "end": 568.8,
-        "text": "I'm going to be a woman."
+        "start": 665.98,
+        "end": 668.9,
+        "text": "you're very imaginative with your sea creatures."
     },
     {
         "type": "text",
-        "start": 568.8,
-        "end": 569.8,
-        "text": "I'm going to be a woman."
+        "start": 668.9,
+        "end": 671.5,
+        "text": "All right, so, argonaut octopus."
     },
     {
         "type": "text",
-        "start": 569.8,
-        "end": 570.8,
-        "text": "I'm going to be a woman."
+        "start": 671.5,
+        "end": 676.5,
+        "text": "Now to explain this, the female argonaut is very aggressive,"
     },
     {
         "type": "text",
-        "start": 570.8,
-        "end": 571.8,
-        "text": "I'm going to be a woman."
+        "start": 676.5,
+        "end": 680.3,
+        "text": "and so the male, if he gets anywhere near the female,"
     },
     {
         "type": "text",
-        "start": 571.8,
-        "end": 572.8,
-        "text": "I'm going to be a woman."
+        "start": 680.3,
+        "end": 681.38,
+        "text": "she's gonna eat him,"
     },
     {
         "type": "text",
-        "start": 572.8,
-        "end": 573.8,
-        "text": "I'm going to be a woman."
+        "start": 681.38,
+        "end": 686.38,
+        "text": "so the men are terrified of the females,"
     },
     {
         "type": "text",
-        "start": 573.8,
-        "end": 574.8,
-        "text": "I'm going to be a woman."
+        "start": 686.38,
+        "end": 689.02,
+        "text": "and I'm sensing there could be a few of these two guys,"
     },
     {
         "type": "text",
-        "start": 574.8,
-        "end": 575.8,
-        "text": "I'm going to be a woman."
+        "start": 689.02,
+        "end": 692.14,
+        "text": "especially here, understand this octopus."
     },
     {
         "type": "text",
-        "start": 575.8,
-        "end": 576.8,
-        "text": "I'm going to be a woman."
+        "start": 692.14,
+        "end": 695.06,
+        "text": "So, the male has developed a unique solution,"
     },
     {
         "type": "text",
-        "start": 576.8,
-        "end": 577.8,
-        "text": "I'm going to be a woman."
+        "start": 695.06,
+        "end": 698.66,
+        "text": "I need to explain this in my David Attenborough voice."
     },
     {
         "type": "text",
-        "start": 577.8,
-        "end": 578.8,
-        "text": "I'm going to be a woman."
+        "start": 698.66,
+        "end": 703.66,
+        "text": "When the male of a species spots a female,"
     },
     {
         "type": "text",
-        "start": 578.8,
-        "end": 579.8,
-        "text": "I'm going to be a woman."
+        "start": 703.66,
+        "end": 708.7,
+        "text": "he detaches his penis, it swims through the water,"
     },
     {
         "type": "text",
-        "start": 579.8,
-        "end": 580.8,
-        "text": "I'm going to be a woman."
+        "start": 708.7,
+        "end": 712.22,
+        "text": "and it hones in on her vagina."
     },
     {
         "type": "text",
-        "start": 588.8,
-        "end": 589.8,
-        "text": "I'm going to be a woman."
+        "start": 712.22,
+        "end": 716.1,
+        "text": "Oh, sorry, not your vagina, that was accidental."
     },
     {
         "type": "text",
-        "start": 589.8,
-        "end": 590.8,
-        "text": "I'm going to be a woman."
+        "start": 716.1,
+        "end": 718.14,
+        "text": "Yeah, shit, you know, Google this stuff,"
     },
     {
         "type": "text",
-        "start": 590.8,
-        "end": 591.8,
-        "text": "I'm going to be a woman."
+        "start": 718.14,
+        "end": 721.62,
+        "text": "there is an octopus out there, I'll put it in layman's terms,"
     },
     {
         "type": "text",
-        "start": 591.8,
-        "end": 592.8,
-        "text": "I'm going to be a woman."
+        "start": 721.62,
+        "end": 725.42,
+        "text": "it has a detachable, heat-seeking dick."
     },
     {
         "type": "text",
-        "start": 592.8,
-        "end": 593.8,
-        "text": "I'm going to be a woman."
+        "start": 725.42,
+        "end": 727.98,
+        "text": "This is the greatest,"
     },
     {
         "type": "text",
-        "start": 593.8,
-        "end": 594.8,
-        "text": "I'm going to be a woman."
+        "start": 727.98,
+        "end": 731.22,
+        "text": "why are we not teaching kids in school about this?"
     },
     {
         "type": "text",
-        "start": 594.8,
-        "end": 595.8,
-        "text": "I'm going to be a woman."
+        "start": 731.22,
+        "end": 733.38,
+        "text": "It is insanely brilliant."
     },
     {
         "type": "text",
-        "start": 595.8,
-        "end": 596.8,
-        "text": "I'm going to be a woman."
+        "start": 733.38,
+        "end": 735.74,
+        "text": "And what it made me realize, it just got me thinking,"
     },
     {
         "type": "text",
-        "start": 596.8,
-        "end": 597.8,
-        "text": "I'm going to be a woman."
+        "start": 735.74,
+        "end": 738.7,
+        "text": "I was like, wow, why is it only octopuses?"
     },
     {
         "type": "text",
-        "start": 597.8,
-        "end": 598.8,
-        "text": "I'm going to be a woman."
+        "start": 738.7,
+        "end": 743.54,
+        "text": "What if human beings had detachable dicks?"
     },
     {
         "type": "text",
-        "start": 598.8,
-        "end": 599.8,
-        "text": "I'm going to be a woman."
+        "start": 743.54,
+        "end": 746.06,
+        "text": "That would be crazy, that would be insane."
     },
     {
         "type": "text",
-        "start": 599.8,
-        "end": 600.8,
-        "text": "I'm going to be a woman."
+        "start": 746.06,
+        "end": 750.14,
+        "text": "We probably have, like, dick-related sports, you know?"
     },
     {
         "type": "text",
-        "start": 600.8,
-        "end": 601.8,
-        "text": "I'm going to be a woman."
+        "start": 750.14,
+        "end": 752.78,
+        "text": "You'd have, like, dick racing,"
     },
     {
         "type": "text",
-        "start": 601.8,
-        "end": 602.8,
-        "text": "I'm going to be a woman."
+        "start": 752.78,
+        "end": 755.06,
+        "text": "you'd have, like, the dickathlon,"
     },
     {
         "type": "text",
-        "start": 602.8,
-        "end": 603.8,
-        "text": "I'm going to be a woman."
+        "start": 755.06,
+        "end": 759.1,
+        "text": "Nike changes its slogan to just dick it,"
     },
     {
         "type": "text",
-        "start": 603.8,
-        "end": 604.8,
-        "text": "I'm going to be a woman."
+        "start": 759.1,
+        "end": 764.18,
+        "text": "and you'd have a whole new set of dick-related problems,"
     },
     {
         "type": "text",
-        "start": 604.8,
-        "end": 605.8,
-        "text": "I'm going to be a woman."
+        "start": 764.18,
+        "end": 767.82,
+        "text": "like, what if you lost your dick?"
     },
     {
         "type": "text",
-        "start": 605.8,
-        "end": 606.8,
-        "text": "I'm going to be a woman."
+        "start": 767.82,
+        "end": 769.3,
+        "text": "My God, that would be insane,"
     },
     {
         "type": "text",
-        "start": 606.8,
-        "end": 607.8,
-        "text": "I'm going to be a woman."
+        "start": 769.3,
+        "end": 771.42,
+        "text": "you just gotta hope you don't have on your phone,"
     },
     {
         "type": "text",
-        "start": 607.8,
-        "end": 608.8,
-        "text": "I'm going to be a woman."
+        "start": 771.42,
+        "end": 773.34,
+        "text": "like, find my penis."
     },
     {
         "type": "text",
-        "start": 608.8,
-        "end": 609.8,
-        "text": "I'm going to be a woman."
+        "start": 773.34,
+        "end": 775.3,
+        "text": "- Dick insurance."
     },
     {
         "type": "text",
-        "start": 609.8,
-        "end": 610.8,
-        "text": "I'm going to be a woman."
+        "start": 775.3,
+        "end": 778.42,
+        "text": "- Dick insurance, good, but do you work in insurance?"
     },
     {
         "type": "text",
-        "start": 618.8,
-        "end": 619.8,
-        "text": "I'm going to be a woman."
+        "start": 778.42,
+        "end": 781.3,
+        "text": "He's immediately spotted an opportunity."
     },
     {
         "type": "text",
-        "start": 619.8,
-        "end": 620.8,
-        "text": "I'm going to be a woman."
+        "start": 781.3,
+        "end": 784.86,
+        "text": "Very, I like the entrepreneurial level here."
     },
     {
         "type": "text",
-        "start": 620.8,
-        "end": 621.8,
-        "text": "I'm going to be a woman."
+        "start": 784.86,
+        "end": 787.26,
+        "text": "Could you borrow your friend's dick?"
     },
     {
         "type": "text",
-        "start": 621.8,
-        "end": 622.8,
-        "text": "I'm going to be a woman."
+        "start": 787.26,
+        "end": 788.1,
+        "text": "You know, he'd be like,"
     },
     {
         "type": "text",
-        "start": 622.8,
-        "end": 623.8,
-        "text": "I'm going to be a woman."
+        "start": 788.1,
+        "end": 790.42,
+        "text": "I wasn't cheating, it was his dick."
     },
     {
         "type": "text",
-        "start": 623.8,
-        "end": 624.8,
-        "text": "I'm going to be a woman."
+        "start": 791.74,
+        "end": 793.38,
+        "text": "Yeah, I don't know, it's a lot of things."
     },
     {
         "type": "text",
-        "start": 624.8,
-        "end": 625.8,
-        "text": "I'm going to be a woman."
+        "start": 793.38,
+        "end": 796.18,
+        "text": "And the more I thought about it, the more crazy it gets,"
     },
     {
         "type": "text",
-        "start": 625.8,
-        "end": 626.8,
-        "text": "I'm going to be a woman."
+        "start": 796.18,
+        "end": 798.86,
+        "text": "and, you know, Stephanie was like,"
     },
     {
         "type": "text",
-        "start": 626.8,
-        "end": 627.8,
-        "text": "I'm going to be a woman."
+        "start": 798.86,
+        "end": 801.9,
+        "text": "can I use you again for another example joke?"
     },
     {
         "type": "text",
-        "start": 627.8,
-        "end": 628.8,
-        "text": "I'm going to be a woman."
+        "start": 802.98,
+        "end": 805.7,
+        "text": "What would you do as a professional, Stephanie?"
     },
     {
         "type": "text",
-        "start": 628.8,
-        "end": 629.8,
-        "text": "I'm going to be a woman."
+        "start": 805.7,
+        "end": 806.9,
+        "text": "- Event coordinator."
     },
     {
         "type": "text",
-        "start": 629.8,
-        "end": 630.8,
-        "text": "I'm going to be a woman."
+        "start": 806.9,
+        "end": 807.74,
+        "text": "- You, I'm sorry?"
     },
     {
         "type": "text",
-        "start": 630.8,
-        "end": 631.8,
-        "text": "I'm going to be a woman."
+        "start": 807.74,
+        "end": 808.82,
+        "text": "- Event coordinator."
     },
     {
         "type": "text",
-        "start": 631.8,
-        "end": 632.8,
-        "text": "I'm going to be a woman."
+        "start": 808.82,
+        "end": 810.94,
+        "text": "- Event coordinator, very nice."
     },
     {
         "type": "text",
-        "start": 632.8,
-        "end": 633.8,
-        "text": "I'm going to be a woman."
+        "start": 810.94,
+        "end": 813.02,
+        "text": "So imagine, it's Monday morning,"
     },
     {
         "type": "text",
-        "start": 633.8,
-        "end": 634.8,
-        "text": "I'm going to be a woman."
+        "start": 813.02,
+        "end": 815.42,
+        "text": "you've got Stephanie, she's at the tram stop,"
     },
     {
         "type": "text",
-        "start": 634.8,
-        "end": 635.8,
-        "text": "I'm going to be a woman."
+        "start": 815.42,
+        "end": 817.06,
+        "text": "she's on her phone just trying to,"
     },
     {
         "type": "text",
-        "start": 635.8,
-        "end": 636.8,
-        "text": "I'm going to be a woman."
+        "start": 817.06,
+        "end": 819.58,
+        "text": "in the calendar, coordinating events,"
     },
     {
         "type": "text",
-        "start": 636.8,
-        "end": 637.8,
-        "text": "I'm going to be a woman."
+        "start": 819.58,
+        "end": 821.54,
+        "text": "and she's, like, just kind of oblivious"
     },
     {
         "type": "text",
-        "start": 637.8,
-        "end": 638.8,
-        "text": "I'm going to be a woman."
+        "start": 821.54,
+        "end": 824.38,
+        "text": "to the world around her, and suddenly, bam!"
     },
     {
         "type": "text",
-        "start": 638.8,
-        "end": 639.8,
-        "text": "I'm going to be a woman."
+        "start": 824.38,
+        "end": 827.58,
+        "text": "This dick just slaps her in the face!"
     },
     {
         "type": "text",
-        "start": 639.8,
-        "end": 640.8,
-        "text": "I'm going to be a woman."
+        "start": 827.58,
+        "end": 828.78,
+        "text": "She's like, oh, fuck!"
     },
     {
         "type": "text",
-        "start": 648.8,
-        "end": 649.8,
-        "text": "I'm going to be a woman."
+        "start": 828.78,
+        "end": 831.86,
+        "text": "She hides behind some old lady just to throw it off,"
     },
     {
         "type": "text",
-        "start": 649.8,
-        "end": 650.8,
-        "text": "I'm going to be a woman."
+        "start": 831.86,
+        "end": 834.66,
+        "text": "she gets down, she pulls out her dick shield"
     },
     {
         "type": "text",
-        "start": 650.8,
-        "end": 651.8,
-        "text": "I'm going to be a woman."
+        "start": 834.66,
+        "end": 838.26,
+        "text": "like Captain America, dicks are just flying all around,"
     },
     {
         "type": "text",
-        "start": 651.8,
-        "end": 652.8,
-        "text": "I'm going to be a woman."
+        "start": 838.26,
+        "end": 840.26,
+        "text": "hitting the shield, boom, boom, boom."
     },
     {
         "type": "text",
-        "start": 652.8,
-        "end": 653.8,
-        "text": "I'm going to be a woman."
+        "start": 840.26,
+        "end": 842.42,
+        "text": "She's like, oh, fuck, the tram arrives,"
     },
     {
         "type": "text",
-        "start": 653.8,
-        "end": 654.8,
-        "text": "I'm going to be a woman."
+        "start": 842.42,
+        "end": 844.86,
+        "text": "she jumps in, she arrives at work,"
     },
     {
         "type": "text",
-        "start": 654.8,
-        "end": 655.8,
-        "text": "I'm going to be a woman."
+        "start": 844.86,
+        "end": 846.62,
+        "text": "and luckily, there's a sign saying,"
     },
     {
         "type": "text",
-        "start": 655.8,
-        "end": 656.8,
-        "text": "I'm going to be a woman."
+        "start": 846.62,
+        "end": 849.54,
+        "text": "please keep your penis attached during office hours."
     },
     {
         "type": "text",
-        "start": 656.8,
-        "end": 657.8,
-        "text": "I'm going to be a woman."
+        "start": 852.78,
+        "end": 854.98,
+        "text": "Moral of the story, would you like a moral"
     },
     {
         "type": "text",
-        "start": 657.8,
-        "end": 658.8,
-        "text": "I'm going to be a woman."
+        "start": 854.98,
+        "end": 856.86,
+        "text": "just to wrap this up?"
     },
     {
         "type": "text",
-        "start": 658.8,
-        "end": 659.8,
-        "text": "I'm going to be a woman."
+        "start": 856.86,
+        "end": 858.82,
+        "text": "So the moral is that even though we live"
     },
     {
         "type": "text",
-        "start": 659.8,
-        "end": 660.8,
-        "text": "I'm going to be a woman."
+        "start": 858.82,
+        "end": 861.98,
+        "text": "in these strange times of COVID and Donald Trump"
     },
     {
         "type": "text",
-        "start": 660.8,
-        "end": 661.8,
-        "text": "I'm going to be a woman."
+        "start": 861.98,
+        "end": 865.74,
+        "text": "and environmental meltdown, look on the bright side."
     },
     {
         "type": "text",
-        "start": 661.8,
-        "end": 662.8,
-        "text": "I'm going to be a woman."
+        "start": 865.74,
+        "end": 867.9,
+        "text": "At least you're not being chased down the street"
     },
     {
         "type": "text",
-        "start": 662.8,
-        "end": 663.8,
-        "text": "I'm going to be a woman."
+        "start": 867.9,
+        "end": 869.58,
+        "text": "by a flying penis."
     },
     {
         "type": "text",
-        "start": 663.8,
-        "end": 664.8,
-        "text": "I'm going to be a woman."
+        "start": 870.86,
+        "end": 873.78,
+        "text": "All right, it's a happy ending for the show."
     },
     {
         "type": "text",
-        "start": 664.8,
-        "end": 665.8,
-        "text": "I'm going to be a woman."
+        "start": 873.78,
+        "end": 875.3,
+        "text": "Thanks a lot, guys."
     },
     {
         "type": "text",
-        "start": 665.8,
-        "end": 666.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 666.8,
-        "end": 667.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 667.8,
-        "end": 668.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 668.8,
-        "end": 669.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 669.8,
-        "end": 670.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 678.8,
-        "end": 679.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 679.8,
-        "end": 680.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 680.8,
-        "end": 681.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 681.8,
-        "end": 682.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 682.8,
-        "end": 683.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 683.8,
-        "end": 684.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 684.8,
-        "end": 685.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 685.8,
-        "end": 686.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 686.8,
-        "end": 687.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 687.8,
-        "end": 688.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 688.8,
-        "end": 689.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 689.8,
-        "end": 690.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 690.8,
-        "end": 691.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 691.8,
-        "end": 692.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 692.8,
-        "end": 693.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 693.8,
-        "end": 694.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 694.8,
-        "end": 695.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 695.8,
-        "end": 696.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 696.8,
-        "end": 697.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 697.8,
-        "end": 698.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 698.8,
-        "end": 699.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 699.8,
-        "end": 700.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 708.8,
-        "end": 709.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 709.8,
-        "end": 710.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 710.8,
-        "end": 711.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 711.8,
-        "end": 712.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 712.8,
-        "end": 713.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 713.8,
-        "end": 714.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 714.8,
-        "end": 715.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 715.8,
-        "end": 716.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 716.8,
-        "end": 717.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 717.8,
-        "end": 718.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 718.8,
-        "end": 719.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 719.8,
-        "end": 720.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 720.8,
-        "end": 721.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 721.8,
-        "end": 722.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 722.8,
-        "end": 723.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 723.8,
-        "end": 724.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 724.8,
-        "end": 725.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 725.8,
-        "end": 726.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 726.8,
-        "end": 727.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 727.8,
-        "end": 728.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 728.8,
-        "end": 729.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 729.8,
-        "end": 730.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 738.8,
-        "end": 739.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 739.8,
-        "end": 740.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 740.8,
-        "end": 741.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 741.8,
-        "end": 742.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 742.8,
-        "end": 743.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 743.8,
-        "end": 744.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 744.8,
-        "end": 745.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 745.8,
-        "end": 746.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 746.8,
-        "end": 747.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 747.8,
-        "end": 748.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 748.8,
-        "end": 749.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 749.8,
-        "end": 750.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 750.8,
-        "end": 751.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 751.8,
-        "end": 752.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 752.8,
-        "end": 753.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 753.8,
-        "end": 754.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 754.8,
-        "end": 755.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 755.8,
-        "end": 756.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 756.8,
-        "end": 757.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 757.8,
-        "end": 758.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 758.8,
-        "end": 759.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 759.8,
-        "end": 760.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 768.8,
-        "end": 769.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 769.8,
-        "end": 770.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 770.8,
-        "end": 771.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 771.8,
-        "end": 772.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 772.8,
-        "end": 773.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 773.8,
-        "end": 774.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 774.8,
-        "end": 775.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 775.8,
-        "end": 776.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 776.8,
-        "end": 777.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 777.8,
-        "end": 778.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 778.8,
-        "end": 779.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 779.8,
-        "end": 780.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 780.8,
-        "end": 781.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 781.8,
-        "end": 782.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 782.8,
-        "end": 783.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 783.8,
-        "end": 784.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 784.8,
-        "end": 785.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 785.8,
-        "end": 786.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 786.8,
-        "end": 787.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 787.8,
-        "end": 788.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 788.8,
-        "end": 789.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 789.8,
-        "end": 790.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 798.8,
-        "end": 799.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 799.8,
-        "end": 800.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 800.8,
-        "end": 801.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 801.8,
-        "end": 802.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 802.8,
-        "end": 803.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 803.8,
-        "end": 804.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 804.8,
-        "end": 805.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 805.8,
-        "end": 806.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 806.8,
-        "end": 807.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 807.8,
-        "end": 808.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 808.8,
-        "end": 809.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 809.8,
-        "end": 810.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 810.8,
-        "end": 811.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 811.8,
-        "end": 812.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 812.8,
-        "end": 813.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 813.8,
-        "end": 814.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 814.8,
-        "end": 815.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 815.8,
-        "end": 816.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 816.8,
-        "end": 817.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 817.8,
-        "end": 818.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 818.8,
-        "end": 819.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 819.8,
-        "end": 820.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 828.8,
-        "end": 829.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 829.8,
-        "end": 830.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 830.8,
-        "end": 831.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 831.8,
-        "end": 832.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 832.8,
-        "end": 833.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 833.8,
-        "end": 834.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 834.8,
-        "end": 835.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 835.8,
-        "end": 836.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 836.8,
-        "end": 837.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 837.8,
-        "end": 838.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 838.8,
-        "end": 839.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 839.8,
-        "end": 840.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 840.8,
-        "end": 841.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 841.8,
-        "end": 842.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 842.8,
-        "end": 843.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 843.8,
-        "end": 844.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 844.8,
-        "end": 845.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 845.8,
-        "end": 846.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 846.8,
-        "end": 847.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 847.8,
-        "end": 848.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 848.8,
-        "end": 849.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 849.8,
-        "end": 850.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 858.8,
-        "end": 859.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 859.8,
-        "end": 860.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 860.8,
-        "end": 861.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 861.8,
-        "end": 862.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 862.8,
-        "end": 863.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 863.8,
-        "end": 864.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 864.8,
-        "end": 865.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 865.8,
-        "end": 866.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 866.8,
-        "end": 867.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 867.8,
-        "end": 868.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 868.8,
-        "end": 869.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 869.8,
-        "end": 870.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 870.8,
-        "end": 871.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 871.8,
-        "end": 872.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 872.8,
-        "end": 873.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 873.8,
-        "end": 874.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 874.8,
-        "end": 875.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 875.8,
-        "end": 876.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 876.8,
-        "end": 877.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 877.8,
-        "end": 878.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 878.8,
-        "end": 879.8,
-        "text": "I'm going to be a woman."
-    },
-    {
-        "type": "text",
-        "start": 879.8,
-        "end": 880.8,
-        "text": "I'm going to be a woman."
+        "start": 878.78,
+        "end": 881.7,
+        "text": "Okay, well, this was a great show."
     }
 ]

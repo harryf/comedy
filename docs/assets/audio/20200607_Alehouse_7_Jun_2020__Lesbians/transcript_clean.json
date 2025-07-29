@@ -2,793 +2,949 @@
     {
         "type": "text",
         "start": 0.0,
-        "end": 1.28,
-        "text": "I'll bring up this next guy."
+        "end": 2.0,
+        "text": "I'm going to bring up this next guy."
     },
     {
         "type": "text",
-        "start": 1.28,
-        "end": 4.22,
+        "start": 2.0,
+        "end": 4.0,
         "text": "Uh, he's, uh, he's very funny."
     },
     {
         "type": "text",
-        "start": 4.22,
-        "end": 6.4,
-        "text": "He's been living here since he was a British guy."
+        "start": 4.0,
+        "end": 6.0,
+        "text": "He's been living here in Switzerland."
     },
     {
         "type": "text",
-        "start": 6.4,
-        "end": 7.9,
-        "text": "He's living here since he was a British guy."
+        "start": 6.0,
+        "end": 8.0,
+        "text": "He's a British guy living here in Switzerland."
     },
     {
         "type": "text",
-        "start": 7.9,
-        "end": 12.36,
+        "start": 8.0,
+        "end": 12.0,
         "text": "And, uh, and this is his real name."
     },
     {
         "type": "text",
-        "start": 12.36,
-        "end": 13.28,
+        "start": 12.0,
+        "end": 14.0,
         "text": "Ladies and gentlemen, give it up."
     },
     {
         "type": "text",
-        "start": 13.28,
-        "end": 14.8,
-        "text": "It's Harry Fox, ladies and gentlemen."
+        "start": 14.0,
+        "end": 16.0,
+        "text": "It's Harry Fox, ladies and gentlemen. Give it up!"
     },
     {
         "type": "text",
-        "start": 14.8,
-        "end": 15.52,
-        "text": "Give it up!"
-    },
-    {
-        "type": "text",
-        "start": 15.52,
-        "end": 27.84,
+        "start": 18.0,
+        "end": 28.0,
         "text": "So my name is actually Harry Books."
     },
     {
         "type": "text",
         "start": 30.0,
-        "end": 31.66,
+        "end": 32.0,
         "text": "It's a German name."
     },
     {
         "type": "text",
-        "start": 31.66,
-        "end": 34.46,
-        "text": "Spelled F-U-C-K-S."
+        "start": 32.0,
+        "end": 34.0,
+        "text": "Spelled F. U. C. K. S."
     },
     {
         "type": "text",
-        "start": 34.46,
-        "end": 37.46,
-        "text": "I repeat, F-U-C-K-S."
+        "start": 34.0,
+        "end": 36.0,
+        "text": "I repeat, F. U."
     },
     {
         "type": "text",
-        "start": 37.46,
-        "end": 40.62,
-        "text": "But when I'm in a room with English speakers like this,"
+        "start": 36.0,
+        "end": 38.0,
+        "text": "C. K. S."
     },
     {
         "type": "text",
-        "start": 40.62,
-        "end": 42.94,
-        "text": "a lot of you think my name is Harry Fox."
+        "start": 38.0,
+        "end": 40.0,
+        "text": "But when I'm in a room with English speakers"
     },
     {
         "type": "text",
-        "start": 42.94,
-        "end": 45.84,
+        "start": 40.0,
+        "end": 42.0,
+        "text": "like this one, what do you think?"
+    },
+    {
+        "type": "text",
+        "start": 42.0,
+        "end": 44.0,
+        "text": "My name is Harry Fox."
+    },
+    {
+        "type": "text",
+        "start": 44.0,
+        "end": 46.0,
         "text": "My name is not Harry Fox."
     },
     {
         "type": "text",
-        "start": 45.84,
-        "end": 49.6,
-        "text": "And in my family, when we have a family get-together,"
+        "start": 46.0,
+        "end": 48.0,
+        "text": "And in my family,"
     },
     {
         "type": "text",
-        "start": 49.6,
-        "end": 53.52,
-        "text": "we get very upset when you call us a group of fuckers."
+        "start": 48.0,
+        "end": 50.0,
+        "text": "when we have a family get-together,"
     },
     {
         "type": "text",
-        "start": 53.52,
-        "end": 57.58,
+        "start": 50.0,
+        "end": 52.0,
+        "text": "we get very upset when you call us"
+    },
+    {
+        "type": "text",
+        "start": 52.0,
+        "end": 54.0,
+        "text": "a group of fuckers."
+    },
+    {
+        "type": "text",
+        "start": 56.0,
+        "end": 58.0,
         "text": "And I have two kids."
     },
     {
         "type": "text",
-        "start": 57.58,
-        "end": 59.58,
-        "text": "I had to call them housewives."
+        "start": 58.0,
+        "end": 60.0,
+        "text": "I had to call them"
     },
     {
         "type": "text",
         "start": 60.0,
-        "end": 61.22,
-        "text": "Mother and what-the."
+        "end": 62.0,
+        "text": "Halba and Watba."
     },
     {
         "type": "text",
-        "start": 61.22,
-        "end": 63.76,
-        "text": "Just to give them a good start in life."
+        "start": 64.0,
+        "end": 66.0,
+        "text": "But, uh, honestly,"
     },
     {
         "type": "text",
-        "start": 63.76,
-        "end": 69.36,
-        "text": "But, uh, honestly, the real problem with a name like Harry Fox is, uh,"
+        "start": 66.0,
+        "end": 68.0,
+        "text": "the real problem with a name like"
     },
     {
         "type": "text",
-        "start": 69.36,
-        "end": 71.0,
+        "start": 68.0,
+        "end": 70.0,
+        "text": "Harry Fox is, uh,"
+    },
+    {
+        "type": "text",
+        "start": 70.0,
+        "end": 72.0,
         "text": "there just hasn't been enough fucking."
     },
     {
         "type": "text",
-        "start": 71.0,
-        "end": 76.6,
-        "text": "In fact, uh, recently, it's been a long time since I've had sex."
+        "start": 72.0,
+        "end": 74.0,
+        "text": "In fact, uh,"
     },
     {
         "type": "text",
-        "start": 76.6,
-        "end": 79.28,
-        "text": "Put your hands up if you haven't had sex in a long time."
+        "start": 74.0,
+        "end": 76.0,
+        "text": "recently, it's been a long time"
     },
     {
         "type": "text",
-        "start": 79.28,
-        "end": 80.96,
-        "text": "Yeah."
+        "start": 76.0,
+        "end": 78.0,
+        "text": "since I've had sex. Put your hands up"
     },
     {
         "type": "text",
-        "start": 80.96,
-        "end": 84.72,
+        "start": 78.0,
+        "end": 80.0,
+        "text": "if you haven't had sex in a long time."
+    },
+    {
+        "type": "text",
+        "start": 84.0,
+        "end": 86.0,
         "text": "Yes, thank you."
     },
     {
         "type": "text",
-        "start": 84.72,
-        "end": 84.84,
-        "text": "Thank you."
+        "start": 88.0,
+        "end": 94.0,
+        "text": "I mean, I would say obviously."
     },
     {
         "type": "text",
-        "start": 90.0,
-        "end": 95.22,
-        "text": "I mean, I would say obviously, but, uh..."
+        "start": 96.0,
+        "end": 102.0,
+        "text": "We share the same issues."
     },
     {
         "type": "text",
-        "start": 95.22,
-        "end": 101.58,
-        "text": "I'm funny, I have this, we share the same issues."
+        "start": 102.0,
+        "end": 104.0,
+        "text": "No, uh, but for the rest of you,"
     },
     {
         "type": "text",
-        "start": 101.58,
-        "end": 105.28,
-        "text": "No, uh, but for the rest of you, I'm a bit disappointed"
+        "start": 104.0,
+        "end": 106.0,
+        "text": "I'm a bit disappointed that you haven't"
     },
     {
         "type": "text",
-        "start": 105.28,
-        "end": 108.18,
-        "text": "that you haven't been respecting the social distancing guidelines."
+        "start": 106.0,
+        "end": 108.0,
+        "text": "been respecting the social distancing"
     },
     {
         "type": "text",
-        "start": 108.18,
-        "end": 111.44,
-        "text": "I didn't realize that I'm coming here tonight"
+        "start": 108.0,
+        "end": 110.0,
+        "text": "guidelines. I didn't realize"
     },
     {
         "type": "text",
-        "start": 111.44,
-        "end": 113.66,
-        "text": "for the Zurich Nymphomaniacs Anonymous."
+        "start": 110.0,
+        "end": 112.0,
+        "text": "that I'm coming here tonight for the"
     },
     {
         "type": "text",
-        "start": 113.66,
-        "end": 119.02,
-        "text": "So maybe, uh, so I can explain our condition here,"
+        "start": 112.0,
+        "end": 114.0,
+        "text": "Nymphomaniacs Anonymous."
     },
     {
         "type": "text",
-        "start": 119.02,
-        "end": 119.92,
-        "text": "how it is when..."
+        "start": 116.0,
+        "end": 118.0,
+        "text": "So maybe, uh, so I can explain"
     },
     {
         "type": "text",
-        "start": 119.92,
-        "end": 121.66,
+        "start": 118.0,
+        "end": 120.0,
+        "text": "our condition here, how it is"
+    },
+    {
+        "type": "text",
+        "start": 120.0,
+        "end": 122.0,
         "text": "when you haven't had sex in a long time."
     },
     {
         "type": "text",
-        "start": 121.66,
-        "end": 124.7,
-        "text": "It's kind of like you're hallucinating."
+        "start": 122.0,
+        "end": 124.0,
+        "text": "It's kind of like you're"
     },
     {
         "type": "text",
-        "start": 124.7,
-        "end": 127.98,
+        "start": 124.0,
+        "end": 126.0,
+        "text": "hallucinating."
+    },
+    {
+        "type": "text",
+        "start": 126.0,
+        "end": 128.0,
         "text": "Because you could be walking down the street,"
     },
     {
         "type": "text",
-        "start": 127.98,
-        "end": 132.72,
-        "text": "you see a couple of dogs sniffing each other's asses,"
+        "start": 128.0,
+        "end": 130.0,
+        "text": "you see a couple of dogs"
     },
     {
         "type": "text",
-        "start": 132.72,
-        "end": 135.36,
-        "text": "and you just think, I wish that was me."
+        "start": 130.0,
+        "end": 132.0,
+        "text": "sniffing each other's"
     },
     {
         "type": "text",
-        "start": 135.36,
-        "end": 139.86,
-        "text": "Or you go into Migros,"
+        "start": 132.0,
+        "end": 134.0,
+        "text": "asses, and you just"
     },
     {
         "type": "text",
-        "start": 139.86,
-        "end": 143.46,
-        "text": "you go into Migros and you spot an axion on watermelon."
+        "start": 134.0,
+        "end": 136.0,
+        "text": "think, \"I wish that was me.\""
     },
     {
         "type": "text",
-        "start": 143.46,
-        "end": 146.3,
+        "start": 138.0,
+        "end": 140.0,
+        "text": "Or you go into Migros."
+    },
+    {
+        "type": "text",
+        "start": 140.0,
+        "end": 142.0,
+        "text": "You go into Migros and you spot"
+    },
+    {
+        "type": "text",
+        "start": 142.0,
+        "end": 144.0,
+        "text": "an acci\u00f3n on watermelon."
+    },
+    {
+        "type": "text",
+        "start": 144.0,
+        "end": 146.0,
         "text": "You get one hand on that watermelon,"
     },
     {
         "type": "text",
-        "start": 146.3,
-        "end": 147.78,
+        "start": 146.0,
+        "end": 148.0,
         "text": "maybe two,"
     },
     {
         "type": "text",
-        "start": 147.78,
-        "end": 149.84,
-        "text": "and bam, it's like you're in a..."
+        "start": 148.0,
+        "end": 150.0,
+        "text": "BAM! It's like you're in a new"
     },
     {
         "type": "text",
-        "start": 149.84,
-        "end": 150.54,
-        "text": "a new dimension."
+        "start": 150.0,
+        "end": 152.0,
+        "text": "dimension. It's just you"
     },
     {
         "type": "text",
-        "start": 150.54,
-        "end": 152.72,
-        "text": "It's just you and that watermelon."
+        "start": 152.0,
+        "end": 154.0,
+        "text": "and that watermelon, it's getting hot,"
     },
     {
         "type": "text",
-        "start": 152.72,
-        "end": 154.7,
-        "text": "It's getting hot, it's getting steamy,"
+        "start": 154.0,
+        "end": 156.0,
+        "text": "it's getting steamy, you don't care about"
     },
     {
         "type": "text",
-        "start": 154.7,
-        "end": 156.46,
-        "text": "you don't care about all the people looking."
+        "start": 156.0,
+        "end": 158.0,
+        "text": "what people are looking. And then you hear this,"
     },
     {
         "type": "text",
-        "start": 156.46,
-        "end": 157.56,
-        "text": "And then you hear this,"
+        "start": 158.0,
+        "end": 160.0,
+        "text": "\"Younger man shamans, is it?\""
     },
     {
         "type": "text",
-        "start": 157.56,
-        "end": 158.92,
-        "text": "you're the man's shaman, ZZ."
+        "start": 160.0,
+        "end": 162.0,
+        "text": "And you look and there's an old lady about"
     },
     {
         "type": "text",
-        "start": 158.92,
-        "end": 161.56,
-        "text": "And you look and there's an old lady"
+        "start": 162.0,
+        "end": 164.0,
+        "text": "to hit you with a handbag, and you think,"
     },
     {
         "type": "text",
-        "start": 161.56,
-        "end": 163.22,
-        "text": "about to hit you with a handbag,"
+        "start": 164.0,
+        "end": 166.0,
+        "text": "\"She's nice.\""
     },
     {
         "type": "text",
-        "start": 163.22,
-        "end": 165.62,
-        "text": "and you think, she's nice."
+        "start": 168.0,
+        "end": 170.0,
+        "text": "Yeah, so that's"
     },
     {
         "type": "text",
-        "start": 165.62,
-        "end": 169.96,
-        "text": "Yeah, so that's..."
+        "start": 170.0,
+        "end": 172.0,
+        "text": "how that's been going."
     },
     {
         "type": "text",
-        "start": 169.96,
-        "end": 171.16,
-        "text": "that's how that's been going."
+        "start": 172.0,
+        "end": 174.0,
+        "text": "Yeah, I don't know, this whole COVID thing,"
     },
     {
         "type": "text",
-        "start": 171.16,
-        "end": 174.08,
-        "text": "Um, yeah, I don't know, this whole COVID thing,"
-    },
-    {
-        "type": "text",
-        "start": 174.08,
-        "end": 175.72,
+        "start": 174.0,
+        "end": 176.0,
         "text": "a lot of people have been very bored."
     },
     {
         "type": "text",
-        "start": 175.72,
-        "end": 178.64,
-        "text": "I know not you guys, you've been too busy having sex,"
+        "start": 176.0,
+        "end": 178.0,
+        "text": "I know not you guys, you've been too busy"
     },
     {
         "type": "text",
-        "start": 178.64,
-        "end": 179.08,
-        "text": "but..."
+        "start": 178.0,
+        "end": 180.0,
+        "text": "having sex."
     },
     {
         "type": "text",
-        "start": 179.84,
-        "end": 181.8,
-        "text": "but me, I wasn't bored"
+        "start": 180.0,
+        "end": 182.0,
+        "text": "But me, I wasn't bored"
     },
     {
         "type": "text",
-        "start": 181.8,
-        "end": 185.44,
-        "text": "because I did important work during lockdown."
+        "start": 182.0,
+        "end": 184.0,
+        "text": "because I did important"
     },
     {
         "type": "text",
-        "start": 185.44,
-        "end": 190.24,
-        "text": "I explored one of the universe's greatest mysteries."
+        "start": 184.0,
+        "end": 186.0,
+        "text": "work during lockdown."
     },
     {
         "type": "text",
-        "start": 190.24,
-        "end": 193.2,
-        "text": "Of course, I'm talking about lesbians."
+        "start": 186.0,
+        "end": 188.0,
+        "text": "I explored one of the"
     },
     {
         "type": "text",
-        "start": 193.2,
-        "end": 197.6,
-        "text": "Now, I think that lesbians don't get enough attention,"
+        "start": 188.0,
+        "end": 190.0,
+        "text": "universe's greatest mysteries."
     },
     {
         "type": "text",
-        "start": 197.6,
-        "end": 201.46,
-        "text": "and obviously, who better to speak for lesbians"
+        "start": 190.0,
+        "end": 192.0,
+        "text": "Of course, I'm talking"
     },
     {
         "type": "text",
-        "start": 201.46,
-        "end": 204.08,
-        "text": "than a middle-aged bald guy from England?"
+        "start": 192.0,
+        "end": 194.0,
+        "text": "about lesbians."
     },
     {
         "type": "text",
-        "start": 204.08,
-        "end": 207.02,
+        "start": 194.0,
+        "end": 196.0,
+        "text": "Now, I think that lesbians"
+    },
+    {
+        "type": "text",
+        "start": 196.0,
+        "end": 198.0,
+        "text": "don't get enough attention, and"
+    },
+    {
+        "type": "text",
+        "start": 198.0,
+        "end": 200.0,
+        "text": "obviously, who better"
+    },
+    {
+        "type": "text",
+        "start": 200.0,
+        "end": 202.0,
+        "text": "to speak for lesbians than a middle-aged"
+    },
+    {
+        "type": "text",
+        "start": 202.0,
+        "end": 204.0,
+        "text": "bald guy from New York?"
+    },
+    {
+        "type": "text",
+        "start": 206.0,
+        "end": 208.0,
         "text": "Do we have any lesbians here tonight?"
     },
     {
         "type": "text",
-        "start": 207.02,
-        "end": 209.72,
-        "text": "Okay, lesbians."
+        "start": 208.0,
+        "end": 210.0,
+        "text": "Okay, lesbians are like"
     },
     {
         "type": "text",
-        "start": 209.76,
-        "end": 211.96,
-        "text": "I'm a ninja, so you can never see them."
+        "start": 210.0,
+        "end": 212.0,
+        "text": "ninjas, you can never see them,"
     },
     {
         "type": "text",
-        "start": 211.96,
-        "end": 213.74,
-        "text": "They're just, uh, hiding places."
+        "start": 212.0,
+        "end": 214.0,
+        "text": "they're just hiding places."
     },
     {
         "type": "text",
-        "start": 213.74,
-        "end": 216.64,
-        "text": "So, well, I did some research on lesbians,"
+        "start": 214.0,
+        "end": 216.0,
+        "text": "So, well, I did some research"
     },
     {
         "type": "text",
-        "start": 216.64,
-        "end": 221.18,
-        "text": "and one thing I learned is that only 1.1% of women"
+        "start": 216.0,
+        "end": 218.0,
+        "text": "on lesbians, and one thing I learned"
     },
     {
         "type": "text",
-        "start": 221.18,
-        "end": 223.46,
-        "text": "identify as lesbian,"
+        "start": 218.0,
+        "end": 220.0,
+        "text": "is that only 1.1%"
     },
     {
         "type": "text",
-        "start": 223.46,
-        "end": 227.3,
-        "text": "which to me seems like a surprisingly low number."
+        "start": 220.0,
+        "end": 222.0,
+        "text": "of women"
     },
     {
         "type": "text",
-        "start": 227.3,
-        "end": 228.86,
-        "text": "I would have expected more"
+        "start": 222.0,
+        "end": 224.0,
+        "text": "identify as lesbian."
     },
     {
         "type": "text",
-        "start": 228.86,
-        "end": 231.44,
-        "text": "because of what else would explain"
+        "start": 224.0,
+        "end": 226.0,
+        "text": "Which, to me, seems like a surprisingly"
     },
     {
         "type": "text",
-        "start": 231.44,
-        "end": 234.06,
-        "text": "the most boring prison series ever,"
+        "start": 226.0,
+        "end": 228.0,
+        "text": "low number. I would have"
     },
     {
         "type": "text",
-        "start": 234.06,
-        "end": 235.86,
-        "text": "Orange is the New Black."
+        "start": 228.0,
+        "end": 230.0,
+        "text": "expected more because of what else"
     },
     {
         "type": "text",
-        "start": 235.86,
-        "end": 239.3,
-        "text": "And, in fact, you know, I got thinking about it,"
+        "start": 230.0,
+        "end": 232.0,
+        "text": "would explain the most"
     },
     {
         "type": "text",
-        "start": 239.6,
-        "end": 242.68,
-        "text": "and I'm pretty sure that every woman has had that moment"
+        "start": 232.0,
+        "end": 234.0,
+        "text": "boring prison series ever,"
     },
     {
         "type": "text",
-        "start": 242.68,
-        "end": 245.66,
-        "text": "where she's just lying on her back daydreaming"
+        "start": 234.0,
+        "end": 236.0,
+        "text": "\"Orange is the New Black.\""
     },
     {
         "type": "text",
-        "start": 245.66,
-        "end": 249.72,
-        "text": "while some guy is down here just fiddling around"
+        "start": 236.0,
+        "end": 238.0,
+        "text": "And, in fact,"
     },
     {
         "type": "text",
-        "start": 249.72,
-        "end": 250.7,
-        "text": "and getting it all wrong."
+        "start": 238.0,
+        "end": 240.0,
+        "text": "I got thinking about it, and I'm pretty"
     },
     {
         "type": "text",
-        "start": 250.7,
-        "end": 253.56,
-        "text": "She thought, maybe it's time to be a lesbian."
+        "start": 240.0,
+        "end": 242.0,
+        "text": "sure that every woman has had"
     },
     {
         "type": "text",
-        "start": 253.56,
-        "end": 258.54,
-        "text": "Okay, I'm sensing some identification"
+        "start": 242.0,
+        "end": 244.0,
+        "text": "that moment where she's just"
     },
     {
         "type": "text",
-        "start": 258.54,
-        "end": 261.42,
-        "text": "when it's still at the, uh, the hidden libel."
+        "start": 244.0,
+        "end": 246.0,
+        "text": "lying on her back daydreaming"
     },
     {
         "type": "text",
-        "start": 261.42,
-        "end": 264.12,
-        "text": "Okay, maybe there's some couples discussions there."
+        "start": 246.0,
+        "end": 248.0,
+        "text": "while some guy is down here"
     },
     {
         "type": "text",
-        "start": 264.12,
-        "end": 269.36,
-        "text": "But I think one of the things that I find is a bit strange is,"
+        "start": 248.0,
+        "end": 250.0,
+        "text": "just fiddling around and getting"
     },
     {
         "type": "text",
-        "start": 269.52,
+        "start": 250.0,
+        "end": 252.0,
+        "text": "all wrong. She thought,"
+    },
+    {
+        "type": "text",
+        "start": 252.0,
+        "end": 254.0,
+        "text": "\"Maybe it's time to be a lesbian.\""
+    },
+    {
+        "type": "text",
+        "start": 256.0,
+        "end": 258.0,
+        "text": "Okay, I'm sensing some"
+    },
+    {
+        "type": "text",
+        "start": 258.0,
+        "end": 260.0,
+        "text": "identification, but it's still"
+    },
+    {
+        "type": "text",
+        "start": 260.0,
+        "end": 262.0,
+        "text": "at the hidden level."
+    },
+    {
+        "type": "text",
+        "start": 262.0,
+        "end": 264.0,
+        "text": "Okay, maybe there's some couples discussions."
+    },
+    {
+        "type": "text",
+        "start": 266.0,
+        "end": 268.0,
+        "text": "I think one of the things that I find"
+    },
+    {
+        "type": "text",
+        "start": 268.0,
+        "end": 270.0,
+        "text": "is a bit strange is, I wonder"
+    },
+    {
+        "type": "text",
+        "start": 270.0,
         "end": 272.0,
-        "text": "I wonder if lesbians are really happy"
+        "text": "if lesbians are really happy"
     },
     {
         "type": "text",
         "start": 272.0,
-        "end": 274.78,
-        "text": "being bundled in there with LGBT."
+        "end": 274.0,
+        "text": "being bundled in there"
     },
     {
         "type": "text",
-        "start": 274.78,
-        "end": 279.48,
-        "text": "Because the G's and the B's and the T's,"
+        "start": 274.0,
+        "end": 276.0,
+        "text": "with LGBT."
     },
     {
         "type": "text",
-        "start": 279.48,
-        "end": 283.4,
-        "text": "they, their favorite hobby is ass-fucking."
+        "start": 276.0,
+        "end": 278.0,
+        "text": "Because the G's and the"
     },
     {
         "type": "text",
-        "start": 283.4,
-        "end": 286.04,
+        "start": 278.0,
+        "end": 280.0,
+        "text": "B's and the T's,"
+    },
+    {
+        "type": "text",
+        "start": 280.0,
+        "end": 282.0,
+        "text": "their favorite hobby"
+    },
+    {
+        "type": "text",
+        "start": 282.0,
+        "end": 284.0,
+        "text": "is ass fucking."
+    },
+    {
+        "type": "text",
+        "start": 284.0,
+        "end": 286.0,
         "text": "And lesbians, you know,"
     },
     {
         "type": "text",
-        "start": 286.04,
-        "end": 289.8,
-        "text": "lesbians, they would rather, like, hold hands and, you know,"
+        "start": 286.0,
+        "end": 288.0,
+        "text": "lesbians, they would rather"
     },
     {
         "type": "text",
-        "start": 289.8,
-        "end": 292.32,
-        "text": "go for a walk in the nature, drink some lemon tea."
+        "start": 288.0,
+        "end": 290.0,
+        "text": "hold hands and, you know,"
     },
     {
         "type": "text",
-        "start": 292.32,
-        "end": 294.4,
-        "text": "It seems like an odd collection of people."
+        "start": 290.0,
+        "end": 292.0,
+        "text": "go for a walk in the nature, drink some"
     },
     {
         "type": "text",
-        "start": 294.4,
-        "end": 299.38,
-        "text": "You have, like, an LGBT meet-up and all the G, B's,"
+        "start": 292.0,
+        "end": 294.0,
+        "text": "lemon tea. It seems like an odd collection"
     },
     {
         "type": "text",
-        "start": 299.44,
-        "end": 301.74,
-        "text": "and T's are discussing what lube to buy."
+        "start": 294.0,
+        "end": 296.0,
+        "text": "of people. You have, like, an"
     },
     {
         "type": "text",
-        "start": 301.74,
-        "end": 305.16,
-        "text": "And the lesbians are just in the corner doing some knitting."
+        "start": 296.0,
+        "end": 298.0,
+        "text": "LGBT meet-up, and"
     },
     {
         "type": "text",
-        "start": 305.16,
-        "end": 305.88,
-        "text": "I don't know."
+        "start": 298.0,
+        "end": 300.0,
+        "text": "all the G, B's, and T's"
     },
     {
         "type": "text",
-        "start": 305.88,
-        "end": 311.02,
-        "text": "I don't know if I'm getting the right lesbian stereotypes here."
+        "start": 300.0,
+        "end": 302.0,
+        "text": "are discussing what lube to buy,"
     },
     {
         "type": "text",
-        "start": 311.02,
-        "end": 314.58,
-        "text": "In fact, I don't want to shame any women here"
+        "start": 302.0,
+        "end": 304.0,
+        "text": "and the lesbians are just in the corner"
     },
     {
         "type": "text",
-        "start": 314.58,
-        "end": 317.26,
-        "text": "that are considering as a result of your relationship"
+        "start": 304.0,
+        "end": 306.0,
+        "text": "doing some knitting. I don't know."
     },
     {
         "type": "text",
-        "start": 317.26,
-        "end": 318.38,
-        "text": "becoming a lesbian."
+        "start": 308.0,
+        "end": 310.0,
+        "text": "I don't know if I'm getting the right lesbian"
     },
     {
         "type": "text",
-        "start": 318.38,
-        "end": 321.54,
-        "text": "But, uh, you know, I, like,"
+        "start": 310.0,
+        "end": 312.0,
+        "text": "stereotype here."
     },
     {
         "type": "text",
-        "start": 321.54,
-        "end": 323.82,
-        "text": "I really don't want to end up in a situation"
+        "start": 312.0,
+        "end": 314.0,
+        "text": "In fact, I don't want to shame any"
     },
     {
         "type": "text",
-        "start": 323.82,
-        "end": 326.02,
+        "start": 314.0,
+        "end": 316.0,
+        "text": "women here that are considering, as a"
+    },
+    {
+        "type": "text",
+        "start": 316.0,
+        "end": 318.0,
+        "text": "result of your relationship, becoming"
+    },
+    {
+        "type": "text",
+        "start": 318.0,
+        "end": 320.0,
+        "text": "a lesbian. [laughter]"
+    },
+    {
+        "type": "text",
+        "start": 320.0,
+        "end": 322.0,
+        "text": "But, you know, I really"
+    },
+    {
+        "type": "text",
+        "start": 322.0,
+        "end": 324.0,
+        "text": "don't want to end up in a situation"
+    },
+    {
+        "type": "text",
+        "start": 324.0,
+        "end": 326.0,
         "text": "where I'm being chased down the street"
     },
     {
         "type": "text",
-        "start": 326.02,
-        "end": 328.96,
-        "text": "by a horde of rampaging lesbians"
+        "start": 326.0,
+        "end": 328.0,
+        "text": "by a horde of rampaging"
     },
     {
         "type": "text",
-        "start": 328.96,
-        "end": 329.36,
-        "text": "who just want to, you know,"
+        "start": 328.0,
+        "end": 330.0,
+        "text": "lesbians who just want to kill me."
     },
     {
         "type": "text",
-        "start": 329.36,
-        "end": 330.18,
-        "text": "just want to kill me."
+        "start": 330.0,
+        "end": 332.0,
+        "text": "Although that is surprisingly"
     },
     {
         "type": "text",
-        "start": 330.18,
-        "end": 334.22,
-        "text": "Although that is surprisingly not a very scary thought."
+        "start": 332.0,
+        "end": 334.0,
+        "text": "not a very scary thought."
     },
     {
         "type": "text",
-        "start": 334.22,
-        "end": 337.36,
-        "text": "In fact, I probably wouldn't run that fast"
+        "start": 334.0,
+        "end": 336.0,
+        "text": "In fact, I probably"
     },
     {
         "type": "text",
-        "start": 337.36,
-        "end": 339.36,
-        "text": "and I might just, you know..."
+        "start": 336.0,
+        "end": 338.0,
+        "text": "wouldn't run that fast, and I might"
     },
     {
         "type": "text",
-        "start": 339.36,
-        "end": 342.46,
-        "text": "Oh, uh, please, please don't hurt me."
+        "start": 338.0,
+        "end": 340.0,
+        "text": "just, you know... [laughter]"
     },
     {
         "type": "text",
-        "start": 342.46,
-        "end": 344.28,
-        "text": "I think, uh..."
+        "start": 340.0,
+        "end": 342.0,
+        "text": "Oh, please, please, don't"
     },
     {
         "type": "text",
-        "start": 344.28,
-        "end": 345.58,
-        "text": "Okay, so that's..."
+        "start": 342.0,
+        "end": 344.0,
+        "text": "hurt me. I think..."
     },
     {
         "type": "text",
-        "start": 345.58,
-        "end": 349.52,
-        "text": "That was my, uh, lesbians in lockdown set"
+        "start": 344.0,
+        "end": 346.0,
+        "text": "Okay, so that's... that was"
     },
     {
         "type": "text",
-        "start": 349.52,
-        "end": 350.92,
-        "text": "and I've got nothing more than that."
+        "start": 346.0,
+        "end": 348.0,
+        "text": "my lesbians"
     },
     {
         "type": "text",
-        "start": 350.92,
-        "end": 351.48,
-        "text": "Thank you."
+        "start": 348.0,
+        "end": 350.0,
+        "text": "in lockdown set, and I've"
     },
     {
         "type": "text",
-        "start": 351.48,
-        "end": 354.78,
-        "text": "As you can see, lockdown did me no good whatsoever."
+        "start": 350.0,
+        "end": 352.0,
+        "text": "got nothing more than that. Thank you. As you can"
     },
     {
         "type": "text",
-        "start": 354.78,
-        "end": 356.44,
-        "text": "That's it."
+        "start": 352.0,
+        "end": 354.0,
+        "text": "see, lockdown did me no"
     },
     {
         "type": "text",
-        "start": 359.28,
-        "end": 363.34,
-        "text": "That was Harry Pops, ladies and gentlemen."
+        "start": 354.0,
+        "end": 356.0,
+        "text": "good whatsoever. [laughter]"
     },
     {
         "type": "text",
-        "start": 363.34,
-        "end": 365.12,
-        "text": "Definitely living up to his name."
+        "start": 362.0,
+        "end": 364.0,
+        "text": "This is Harry Fox, ladies and gentlemen."
     },
     {
         "type": "text",
-        "start": 365.12,
-        "end": 366.82,
-        "text": "Uh, ladies and gentlemen."
+        "start": 364.0,
+        "end": 366.0,
+        "text": "He's living up to his name."
     },
     {
         "type": "text",
-        "start": 366.82,
-        "end": 369.14,
-        "text": "Let's, uh, we have one last comment."
+        "start": 366.0,
+        "end": 368.0,
+        "text": "Ladies and gentlemen."
     },
     {
         "type": "text",
-        "start": 369.14,
-        "end": 371.36,
-        "text": "Yes."
-    },
-    {
-        "type": "text",
-        "start": 371.36,
-        "end": 372.76,
-        "text": "You're up."
-    },
-    {
-        "type": "text",
-        "start": 372.76,
-        "end": 373.74,
-        "text": "What do I do?"
-    },
-    {
-        "type": "text",
-        "start": 373.74,
-        "end": 378.44,
-        "text": "Um, I didn't..."
-    },
-    {
-        "type": "text",
-        "start": 378.44,
-        "end": 379.44,
-        "text": "I, I called you."
+        "start": 368.0,
+        "end": 370.0,
+        "text": "We have one last..."
     }
 ]

@@ -25,151 +25,153 @@ notes: |
 >
 > These are the upcoming shows we have next week here in Zurich.
 >
-> On Sunday, it's the American Stand-Up Show with this really funny guy from Los
+> On Sunday, it's the American Stand-Up Show
 >
-> Angeles, Brian Boke.
+> with this really funny guy from Los Angeles, Brian Vogey.
 >
-> That's that.
+> That's that. Also, next Thursday, not this one,
 >
-> Also, next Thursday, not this one, next Thursday, right here in Kon-Tiki,
+> next Thursday, right here in Quintiki,
 >
 > we are going to have Comic Strip Zurich, okay?
 >
-> It's burlesque meets stand-up comedy, so you've got to check that out.
+> It's burlesque meets stand-up comedy, so you gotta check that out.
 >
-> Also, we do have other open mics, like Acid, so please check all of that out.
+> Also, we do have other open mics, like ACID,
 >
-> Also, after the show, Christian will be there at the door with our donation box,
+> so please check all of that out.
 >
-> okay?
+> Also, after the show, Christian will be there at the door
 >
-> Because this is a donation-based show.
+> with our donation box, okay, because this is a donation-based show.
 >
-> We make it run with your donations, so, you know, please donate. That's it.
+> We make it run with your donations, so, you know, please, donate.
+>
+> That's it.
 >
 > I'm always weird asking this.
 >
-> Ladies and gentlemen, so let's bring up our last comedian of tonight.
+> So, let's bring up our last comedian of tonight.
 >
 > Ladies and gentlemen, I'm excited.
 >
-> This guy is originally British, but he's been living here in Switzerland for
+> This guy is originally British, but he's been living here in Switzerland
 >
-> the past 18 years.
+> for the past 18 years.
 >
-> And yes, this...
+> And, yes, this is his real name.
 >
-> This is his real name.
+> Give it up. It's Harry Fox, everybody!
 >
-> Give it up.
->
-> It's Harry Fox, everybody!
->
-> So, my name is actually Harry Fuchs.
+> So, my name is actually Harry "Fux."
 >
 > It's a German name.
 >
 > Spelled F-U-C-K-S.
 >
-> Yes, I repeat, F-U-C-K-S.
+> I repeat, F-U-C-K-S.
 >
-> But when I'm in a room with English speakers like this, a lot of you think my
+> But when I'm in a room with English speakers like this,
 >
-> name is Harry Fuchs.
+> a lot of you think my name is Harry "Fux."
 >
-> My name is not Harry Fuchs.
+> My name is not Harry "Fux."
 >
-> And in my family, when we have a family get-together, we get very upset when
+> And in my family, when we have a family get-together,
 >
-> you call us a group of fuckers.
+> we get very upset when you call us a group of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them Halva and Watha.
+> I had to call them "Halva" and "Walva"
 >
-> Just to give them a good starting line.
+> just to give them a good starting line.
 >
-> No, but actually, and this is true, because I'm a single dad, and I have two
+> No, but actually, this is true, because I'm a single dad,
 >
-> teenage kids.
+> and I have two teenage kids.
 >
-> They live with me.
+> They live with me, and living with two teenage kids,
 >
-> And living with two teenage kids, it's like living in a student Vegas, a
+> it's like living in a student flat share.
 >
-> student flat share.
->
-> Because, like, there's never any milk.
+> 'Cause, like, there's never any milk.
 >
 > It's always a fucking mess.
 >
-> And I get to pay for everything.
+> And I get to pay for everything!
 >
 > It's the shittest flat share ever.
 >
-> But the good news tonight is I get to get some revenge.
+> But the good news tonight is I get to get some revenge,
 >
-> Because Ben is here.
+> because Ben is here, my teenage son.
 >
-> My teenage son.
->
-> Wow.
+> Wow!
 >
 > It's time you get your ass up here, man.
 >
 > Let's come up here.
 >
-> Come on, Ben.
+> Come on, let's see the...
+>
+> I shouldn't be here, so...
 >
 > How are you doing, Ben?
 >
-> Doing alright.
+> - Doing all right.
 >
-> Is this the most awkward?
+> - Is this the most awkward experience
 >
-> Is this the most awkward experience I've ever put you through?
+> I've ever put you through?
 >
-> Yeah, kind of.
+> - Yeah, kind of.
 >
-> Fantastic.
+> - Fantastic, I love it already.
 >
-> I love it already.
+> So, Ben, you know, now, the good thing about this
 >
-> So, Ben, you know, now the good thing about this is that I get to ask questions
+> is that I get to ask questions
 >
 > that normally he wouldn't answer.
 >
-> Like, so, Ben, how's it going with the ladies?
+> Like, "So, Ben, how's it going with the ladies?"
 >
-> Oh, okay.
+> - Oh, okay, that's harsh.
 >
-> That's harsh.
+> - Yeah, exactly, well, yeah.
 >
-> Yeah, exactly.
+> Actually, the truth, he confessed this to me.
 >
-> Yeah, actually, the truth, he confesses to me, you know, he's actually having a
+> You know, he's actually having a really hard time
 >
-> really hard time with the ladies.
+> with the ladies, because he's actually
 >
-> Because he's actually already been rejected over 50 times by the same girl.
+> already been rejected over 50 times
 >
-> Yeah, it's really tough.
+> by the same girl.
 >
-> But, you know, I mean, the thing that I have to give him some sympathy for is
+> Yeah, it's really tough, but, you know,
 >
-> because, you know, when I was young, being a young guy was just easy.
+> I mean, the thing that I have to give him
 >
-> You just did your shit.
+> some sympathy for is 'cause, you know,
 >
-> Nowadays, like, Instagram, you need a six-pack and stuff like that.
+> when I was young, being a young guy,
 >
-> How is that for you?
+> it was just easy, you just did your shit.
 >
-> Doing fucking great.
+> Nowadays, like, Instagram, you need a six-pack
 >
-> Of course, honestly, he has a kind of negative body image, you know, because
+> and stuff like that, how is that for you?
 >
-> there's some man boobs here.
+> - Doing fucking great.
+>
+> - Of course, honestly, he has a kind of
+>
+> negative body image, you know,
+>
+> because there's some man boobs here.
 >
 > And the worst part is the left boob is bigger than the right.
 >
@@ -177,302 +179,324 @@ notes: |
 >
 > Actually, I should stop this.
 >
-> The real stuff is he does Thai boxing, and in a minute, he's just going to knee
+> The real stuff is he does Thai boxing,
 >
-> me in the balls.
+> and in a minute, he's just gonna knee me in the balls.
 >
-> Exactly.
+> Exactly, he's 14, and like, it's ending up here,
 >
-> He's 14, and, like, it's ending up here.
+> and then I'm gonna be like, "I'm sorry, Ben!"
 >
-> And then I'm going to be like, I'm sorry, Ben.
+> Yeah, so, but no, I do think he does some things
 >
-> Yeah, so, but no, I do think he does some things that are really cool.
+> that are really cool, you know.
 >
-> You know, I'm just not going to let him speak.
+> I'm just not gonna let him speak.
 >
 > He just has to stand here awkwardly.
 >
-> Like, for example, you know, he plays GTA a lot.
+> Like for example, you know, he plays GTA a lot.
 >
-> You know, he's a big gamer.
+> You know, he's a big gamer, and, you know,
 >
-> And, you know, wow, well, thank you for that.
+> "Wow, well, thank you for that."
 >
-> I would have expected most people, like, how can you let your son play that
+> I would have expected most people, like,
 >
-> game where he gets to beat?
+> "How can you let your son play that game
 >
-> I would have expected most people, like, how can you let your son play that
+> "where he gets to beat up hookers?"
 >
-> game where he gets to beat?
+> But I'm like, "I think it's actually teaching him
 >
-> I would have expected most people, like, how can you let your son play that
+> "some important life skills."
 >
-> game where he gets to beat?
+> Because, "What the fuck are you doing, motherfucker?
 >
-> I would have expected most people, like, how can you let your son play that
+> "Give me that!
 >
-> game where he gets to beat?
+> "I--
 >
-> I would have expected most people, like, how can you let your son play that
+> "Right, take it back again, man.
 >
-> game where he gets to beat?
+> "Jesus.
 >
-> I would have expected most people, like, how can you let your son play that
+> "Get your horn skills correct, man.
 >
-> game where he gets to beat?
+> "It's for the racism.
 >
-> I would have expected most people, like, how can you let your son play that
+> "We haven't got to the racism part yet.
 >
-> game where he gets to beat?
+> "All right."
 >
-> I would have expected most people, like, how can you let your son play that
+> - I'm trying to defend yourself.
 >
-> game where he gets to beat?
+> - Back to, yeah, well, he can defend himself
 >
-> .
+> after in a few years, okay?
 >
-> bookers. But I'm like, I think it's actually teaching him some important life
+> That's how that's gonna work.
 >
-> skills. What
+> Now, so, you know, let's get back
 >
-> the fuck are you doing, motherfucker? Give me that. I... Wait, take it back
+> to the beating up hookers, because
 >
-> again, man.
+> what I do find is very impressive is that actually,
 >
-> Jesus. Get your horn skills correct, man. It's for the racism. We haven't got
+> as a gamer, he's learned to sit still in a chair
 >
-> to the
+> for eight hours without eating, speaking,
 >
-> racist part yet. All right. I'm trying to defend yourself. Back to... Yeah,
+> or going to the toilet.
 >
-> well, he
+> Which is clearly fantastic preparation
 >
-> can defend himself after in a few years. Okay, that's how it's going to work.
+> for future office life.
 >
-> Now, so, you
+> I'm very happy with this.
 >
-> know, let's get back to the beating up hookers, because what I do find is very
+> And he plays online, and I really like
 >
-> impressive
+> how it's improved his English,
 >
-> is that actually, as a gamer, he's learned to sit still in a chair for eight
+> 'cause he's learned some key phrases like,
 >
-> hours without
+> "Bitch, I will fuck you up!"
 >
-> eating, speaking, or going to the toilet, which is clearly fantastic
+> "I will piss on you like Donald Trump!"
 >
-> preparation for
+> Just makes me like, ah, chip off the old block there.
 >
-> future office life. I'm very happy with this. And he plays online.
+> But, you know, I think the thing is like being a dad
 >
-> And I really like how it's improved his English, because he's learned some key
+> is often I'm confronted with very awkward situations.
 >
-> phrases like,
+> This is gonna get even worse, Ben.
 >
-> bitch, I will fuck you up. I will piss on you like Donald Trump.
+> 'Cause it's time we talk about how recently
 >
-> Just makes me like that. Chip off the old block there. But, you know, I think
+> I caught him looking at porn.
 >
-> the thing
+> Luckily, I'm a bit of an expert.
 >
-> is, like, being a dad is often I'm confronted with very awkward situations.
+> I could point him at all the best categories.
 >
-> This is going
+> And we've come to a kind of an arrangement now.
 >
-> to get even worse, Ben. Because it's time we talk about how recently...
+> Like right now, he gets like boobs and butts
 >
-> I caught him looking at porn. Luckily, I'm a bit of an expert. I could point
+> and blowjobs, you know, just the kind of the safe stuff.
 >
-> him at all
+> For his birthday, he's getting lesbians,
 >
-> the best categories. And we've come to a kind of an arrangement now. Like,
+> because, you know, I think men,
 >
-> right now, he
+> it's important, yeah, thank you, you know.
 >
-> gets, like, boobs and butts and blowjobs, you know, just kind of the safe stuff.
+> Men, we need things to fantasize about
 >
-> For
+> that we will never see in our life, you know?
 >
-> his birthday, he's getting lesbians, because, you know, I think men, it's
+> Any lesbians here tonight?
 >
-> important. Yeah,
+> No, they're like ninjas, you never see them.
 >
-> thank you.
+> Yeah, but how was it for you getting caught
 >
-> Men, we need things to fantasize about that we will never see in our life, you
+> looking at porn, Ben?
 >
-> know? Any
+> You know, it was kind of cringe, I have to say.
 >
-> lesbians here tonight? No, they're like ninjas. You never see them. Yeah, but
+> But you know what's worse?
 >
-> how was it for
->
-> you getting caught looking at porn, Ben?
->
-> You know, it was kind of cringe, I have to say. But you know what's worse?
->
-> What's that?
+> What's what?
 >
 > Getting...
 >
-> Oh, okay.
+> Oh, God.
 >
-> Oh, boy.
+> Sorry, man.
 >
-> Sorry, mate.
+> Sorry.
 >
-> All right, wait, wait, we're going to repeat over. Ben, how was... Okay, we're
+> All right, wait a minute.
 >
-> going to
+> We're gonna make you look at it.
 >
-> rewind. Ben, how was it for you getting caught looking at porn?
+> Ben, how was, okay, we're gonna rewind.
 >
-> You know what's worse? Catching your dad watch porn.
+> Ben, how was it for you getting caught looking at porn?
 >
-> Yeah, that's your... That's your scars for life.
+> You know what's worse?
 >
-> I'm mostly if it's fucking milf porn.
+> Catching your dog watch porn.
 >
-> He's got me. I think on that note, I think I'm, get back to your chair, go do
+> Yeah, that shit goes to the scars for you.
 >
-> some homework.
+> And mostly if it's fucking milk porn.
+>
+> He's got me.
+>
+> I think on that note, I think I'm,
+>
+> get back to your chair, go do some homework.
 >
 > Jesus.
 >
-> That was his first time on stage, you know? That was either the greatest
+> That was his first time on stage, you know.
 >
-> parental moment
+> That was either the greatest parental moment
 >
-> or the worst, you know? But, you know, at least I'm not a helicopter parent
+> or the worst, you know.
+>
+> But, you know, at least I'm not a helicopter parent
 >
 > like Kobe Bryant.
 >
-> I'm sorry. I'm sorry. I'm sorry that joke just didn't land, okay?
+> I'm sorry.
 >
-> All right, so where are we going to go from here? How long have I got? I'm just
+> I'm sorry.
 >
-> sort of...
+> I'm sorry that joke just didn't land, okay.
 >
-> One minute.
+> There's a Kobe sign at the back there.
 >
-> One minute. Ben, should we, should we go, let me, let me make this better for
+> All right, all right.
 >
-> you. So Ben has an older sister.
+> So where are we gonna go from here?
+>
+> How long have I got?
+>
+> I'm just sort of--
+>
+> - One minute.
+>
+> - One minute.
+>
+> Ben, should we go, let me make this better for you.
+>
+> So Ben has an older sister.
 >
 > Should I tell a joke about your older sister?
 >
-> Yeah.
+> - Yeah, you should.
 >
-> Yeah, that's going to, that's going to lift up Ben because I do have a teenage
+> - Yeah, that's gonna lift up Ben
 >
-> daughter
+> because I do have a teenage daughter
 >
-> and being a single dad with a teenage daughter is insanely hard. I'm constantly
+> and being a single dad with a teenage daughter
 >
-> being confronted
+> is insanely hard.
 >
-> with situations I'm wholly unprepared for. Because I recently, I came back from
+> I'm constantly being confronted with situations
 >
-> work.
+> I'm wholly unprepared for.
 >
-> I went into the bathroom and oh my God, it looked like a crime scene in there.
+> 'Cause like recently, I came back from work.
 >
-> There was a bloody handprint on the mirror, drops of blood on the sink.
+> I went into the bathroom and oh my God,
 >
-> More blood on the floor and the toilet looked like something from a horror
+> it looked like a crime scene in there.
 >
-> movie.
+> There was a bloody handprint on the mirror,
 >
-> And then I heard a screaming and I looked around and I realized the screaming
+> drops of blood on the sink, more blood on the floor,
 >
-> was coming from me.
+> and the toilet looked like something from a horror movie.
 >
-> But at that moment, Ben's sister arrived and she said like, hey dad, I got my
+> And then I heard a screaming and I looked around
 >
-> period.
+> and I realized the screaming was coming from me.
 >
-> So after cleaning up her menstrual blood, I was like, hey, can I get you
+> But at that moment, Ben's sister arrived
 >
-> something? And she said,
+> and she said like, "Hey dad, I got my period."
 >
-> dad, get me tampons.
+> So after cleaning up her menstrual blood,
 >
-> Okay, now obviously this is a job that I am wholly unqualified for.
+> I was like, "Hey, can I get you something?"
 >
-> But I thought, you know, naively as a man, I'm like, yeah, this can't be so
+> And she said, "Dad, get me tampons."
 >
-> hard.
+> Okay, now obviously this is a job
 >
-> So I went over to Migo, I took a look around and what I discovered is that tampon
+> that I am wholly unqualified for.
 >
-> product
+> But I thought, you know, naively as a man,
 >
-> names are exactly no use whatsoever when it comes to choosing a tampon.
+> I'm like, "Yeah, this can't be so hard."
 >
-> This guy, Mr. Hip said, do you know what type of tampon she uses?
+> So I went over to Migo, I took a look around
 >
-> Do you have the brand?
+> and what I discovered is that tampon product names
 >
-> You need to know that.
+> are exactly no use whatsoever
 >
-> This relationship is going to have a future.
+> when it comes to choosing a tampon.
 >
-> Figure that shit out, because, you know, here's what I found is that I found
+> This guy, Mr. Hip said,
 >
-> that, you know,
+> "Do you know what type of tampon she uses?
+>
+> "Do you have the brand?
+>
+> "You need to know that shit.
+>
+> "This relationship's gonna have a future.
+>
+> "Figure that shit out."
+>
+> Because, you know, here's what I found,
+>
+> is that I found that, you know,
 >
 > you've got names like OB Pro.
 >
-> What the hell is this for professional women that bleed for a living?
+> What the hell is this?
 >
-> Doesn't sound like something I want for my daughter or Tampax Radiance.
+> For professional women that bleed for a living?
 >
-> What are we saying here? Like glow in the dark tampon.
+> Doesn't sound like something I want for my daughter.
 >
-> So when the lights are up, you can just cram it in there.
+> Or Tampax Radiance.
 >
-> The one I liked the most was Always Infinity, for when your vagina is an unfillable
+> What are we saying here?
 >
-> black hole.
+> Like glow-in-the-dark tampons?
 >
-> But I ended up, I ended up choosing another product from Always.
+> So when the lights are up, you can just cram it in there?
+>
+> The one I liked the most was Always Infinity.
+>
+> For when your vagina is an unfillable black hole.
+>
+> But I ended up choosing another product from Always.
+>
+> It's amazing, it's called Always Home by Eleven.
+>
+> 'Cause around about 10 o'clock, this thing starts to leak
+>
+> and she is always home by 11.
 >
 > It's amazing.
 >
-> It's called Always Home by Eleven.
+> And this whole experience,
 >
-> Because around about 10 o'clock, this thing starts to leak and she is always
+> it was a very proud one for me as a father.
 >
-> home by 11.
+> Because it's not every day you get to choose
 >
-> It's amazing.
->
-> And this whole experience is amazing.
->
-> It was a very proud one for me as a father, because it's not every day you get
->
-> to choose what your daughter crams in her vagina.
+> what your daughter crams in her vagina.
 >
 > All right, so now all of you think I'm a shitty parent.
 >
 > Well, guess what?
 >
-> Adopt this kid.
+> Adopt this kid, I don't care.
 >
-> I don't care.
+> Nah, sorry, man.
 >
-> Give it up.
+> Ben Bigwood, give it up not to me, to Ben.
 >
-> Not to me.
->
-> To Ben.
->
-> Thank you guys.
->
-> You've been a lot of fun.
->
-> Okay, wow, fuck.
->
-> We made it to the end.
+> Okay, wow, fuck, we made it to the end.

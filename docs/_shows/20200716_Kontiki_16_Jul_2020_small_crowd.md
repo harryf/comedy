@@ -17,258 +17,158 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> First comedian of the second half. He is a British man, but he's been living
+> First comedian of the second half, he is a British man, but he's been living here in Switzerland
 >
-> here in Switzerland for the past 17 years.
+> for the past 17 years.
 >
-> And yes, this is his real name. Ladies and gentlemen, give it up for Harry Fox,
+> And yes, this is his real name. Ladies and gentlemen, give it up for Harry Fox, ladies and
 >
-> ladies and gentlemen!
+> gentlemen!
 >
-> Wow. What a cute crowd, you know. It's a nice bunch of people. It's kind of an
+> Wow. What a cute crowd, you know. It's a nice bunch of people, it's kind of an intimate atmosphere,
 >
-> intimate atmosphere. Kind of sexy.
+> kind of sexy.
 >
-> Well, at least for me. For you guys, you've got to look at a bald, creepy dude
+> Well, at least for me. For you guys, you've got to look at a bald, creepy dude on stage for the
 >
-> on stage for the next five minutes.
+> next five minutes.
 >
-> Now, my name is actually Harry Fox. It's a German name. Spelled F-U-C-K-S. I
+> Now, my name is actually Harry Fux. It's a German name, spelled F-U-C-K-S. I repeat, F-U-C-K-S.
 >
-> repeat, F-U-C-K-S.
+> But when I'm in a room with English speakers like this, a lot of you think my name is Harry Fux.
 >
-> But when I'm in a room with English speakers like this, a lot of you think my
+> My name is not Harry Fux. And in my family, when we have a family get-together, we get very upset
 >
-> name is Harry Fox.
+> when you call us a group of fuckers.
 >
-> My name is not Harry Fox. And in my family...
+> And I have two kids. I had to call them "how the" and "what the" just to give them a good starting
 >
-> When we have a family get-together, we get very upset when you call us a group
+> line.
 >
-> of fuckers.
+> So that's one of the things I'm dealing with. Another thing I'm dealing with is, clearly, I'm old.
 >
-> And I have two kids. I had to call them how-the and what-the.
+> Michelle, can you guess how old I am? I don't like that the answer begins with "laughter."
 >
-> Just to give them a good start on life.
+> "How old are you?" "Oh, my God!"
 >
-> So that's one of the things I'm dealing with. Another thing I'm dealing with is
->
-> clearly I'm old.
->
-> Michelle, can you guess how old I am?
->
-> No.
->
-> I don't like that the answer begins with laughter.
->
-> Oh, your age is... Oh, my God.
->
-> No, I'm still laughing for the food and the...
+> I'm still laughing for the "what the" and the...
 >
 > Oh, you're catching up.
 >
-> Let's move. Is it Sidonia? What's your name?
+> Next, let's move. Is it Sidonia? What's your name?
 >
-> Sidonia.
+> Sidonia. Okay, Sidonia. Are you caught up? Are you all with me right there?
 >
-> Sidonia. Okay, Sidonia. Are you caught up? Are you all with me right now?
+> Okay, great. So, how old do you think I am, Sidonia?
 >
-> I'm with you.
+> 40? Okay, that's kind of in the right ballpark. It's a little bit up. 46. How old are you, Sidonia?
 >
-> Okay, great.
+> 26. Jesus Christ. I mean, I could literally be your father.
 >
-> So, how old are you?
+> How old's your mom? 49? 59? Okay, okay.
 >
-> How old do you think I am, Sidonia?
+> So, if she'd slept with me and you produced, that wouldn't make your mom a paedophile.
 >
-> 40.
->
-> 40? Okay, that's kind of in the right ballpark. It's a little bit out of 46.
->
-> How old are you, Sidonia?
->
-> 26.
->
-> 26? Jesus Christ. I mean, I could literally be your father.
->
-> How old's your mom?
->
-> 49?
->
-> 59.
->
-> 59. Okay, okay. So, if she'd slept with me and produced you, that would make
->
-> your mom a pedophile.
->
-> No, it's just the facts. It's just the facts. But, you know, let's keep going
->
-> with this.
+> It's just the facts. But, you know, let's keep going with this.
 >
 > Lisa, can I just ask one more question, Sidonia? Is she hot?
 >
-> I mean, I'm good at this stuff.
+> I mean, I'm good at this stuff. Yeah, obviously, you know, it's the whole genes that you've been
 >
-> Oh, yeah, obviously, you know, it's the whole genes that you've been spreading
+> spreading in this group here.
 >
-> in this group here.
->
-> I sure feel like this...
->
-> This is like some kind of victim support group, like this ex-boyfriend.
+> I should feel like this is, like, some kind of victim support group, like this ex-boyfriend.
 >
 > It's like they meet up to talk shit about the guy.
 >
-> Anyway, I am an old guy. I have... I'm a single dad. I have two teenage kids.
+> Anyway, I am an old guy. I'm a single dad. I have two teenage kids, and actually, they live with me.
 >
-> And, actually, they live with me.
+> And living with teenage kids is like living in a baby, like in a flat share, because it's always a
 >
-> And living with teenage kids is like living in a baby, like in a flat shed.
+> fucking mess.
 >
-> Because it's always a fucking mess. There's never any milk.
+> There's never any milk, and I get to pay for everything. It is the shittest flat share ever.
 >
-> And I get to pay for everything. It's the shittest flat.
+> And also, I have to deal with teenage issues. Like, recently, I caught my teenage son looking at
 >
-> It's the shittest flat shed ever.
->
-> But, and also, I have to deal with teenage issues.
->
-> Like, recently, I caught my teenage son looking at porn.
+> porn.
 >
 > Luckily, I could point him at all the best categories. I'm a bit of an expert.
 >
-> And also, he plays GTA a lot. You guys know GTA: Grand Theft Auto?
+> And also, he plays GTA a lot. You guys know GTA, Grand Theft Auto?
 >
-> And a lot of people say, like, "Why do you let your son play this? That's not a
->
-> good thing for kids."
+> And a lot of people say, like, why do you let your son play this? That's not a good thing for kids.
 >
 > But, actually, I think GTA is teaching him some important life skills.
 >
-> Like, he's learned to sit still in a chair for eight hours without moving,
+> Like, he's learned to sit still in a chair for eight hours without moving, eating, or going to the
 >
-> eating, or going to the toilet.
+> toilet,
 >
-> Which is, obviously, great preparation for future office life.
+> which is obviously great preparation for future office life.
 >
-> And his English has improved a lot. I've heard him saying some key English
+> And his English has improved a lot. I've heard him saying some key English phrases like,
 >
-> phrases like, "Bitch, I will fuck you up!"
->
-> "And I will piss on you like Donald Trump."
+> "Bitch, I will fuck you up! And I will piss on you like Donald Trump!"
 >
 > You know, you've got to be a responsible parent.
 >
-> But I also have a teenage daughter. Now, that, wow, that is hard to deal with.
+> But I also have a teenage daughter. Now that, wow, that is hard to deal with.
 >
-> Because, recently, I came back from work. I went into the bathroom and, oh my
+> Because, recently, I came back from work. I went into the bathroom, and oh my god, it looked like a
 >
-> god, it looked like a crime scene in there.
+> crime scene in there.
 >
-> Wow, there was, like, a bloody handprint on the mirror, drops of blood in the
+> Wow, there was, like, a bloody handprint on the mirror, drops of blood in the sink, more blood on
 >
-> sink, more blood on the floor, and the toilet looked like something from a
+> the floor,
 >
-> horror movie.
+> and the toilet looked like something from a horror movie.
 >
-> And then I heard a screaming. And I looked around. And I realized the screaming
+> And then I heard a screaming, and I looked around, and I realized the screaming was coming from me.
 >
-> was coming from me.
+> At that moment, my daughter showed up and said, "Hey, Dad! I got my period!"
 >
-> At that moment, my daughter showed up and said, "Hey, Dad, I got my period!"
+> And I'm like, "Wow, okay." So after cleaning up her menstrual blood,
 >
-> And I'm like, "Wow, okay." So after cleaning up her menstrual blood... I mean,
+> I mean, I don't think I'm going to let her do that. She's just going to smear it around and shit.
 >
-> you don't think I'm going to let her do that. She's just going to smear it
+> That's her parental stuff. After cleaning that up, I said, "Hey, daughter, can I get you something?"
 >
-> around and shit. That's her parental stuff.
+> And she said, "Dad, get me tampons."
 >
-> After cleaning that up, I said, "Hey, Dad, I got my period." And she said, "Hey,
+> Now, obviously, as a man, I'm completely unqualified for this, but it can't be that hard.
 >
-> Dad, I got my period." And I'm like, "Wow, okay." So after cleaning up her
+> I went over to MeGo, I took a look around, and what I discovered is that tampon product names
 >
-> menstrual blood... I mean, you don't think I'm going to let her do that. She's
+> are exactly no use whatsoever when it comes to choosing a tampon.
 >
-> just going to smear it around and shit. That's her parental stuff.
+> Because you have names like "OB Pro."
 >
-> After cleaning that up, I said, "Hey, Daughter, can I get you something?" And
+> What is that, like, for professional women that bleed for a living?
 >
-> she said, "Dad, get me tampons."
+> I don't think I want that for my daughter. Or "Tampax Radiance."
 >
-> Now, as obviously as a man, I'm completely unqualified for this, but I thought,
+> What are we talking here, like, glow-in-the-dark tampons?
 >
-> "It can't be that hard."
+> So when you got to get it in with the lights off? I don't know.
 >
-> So I went over to Migo. I took a look around. And what I discovered is that
+> There's more. And the one I like the most, I think I'm going to just play to this corner of the
 >
-> tampon product names are exactly no use whatsoever when I'm constituting a tampon.
+> room.
 >
-> Because you have names like OB Pro.
+> The one I like the most is called "Always Infinity." Wow.
 >
-> What is that? For professional women that bleed for a living?
+> That is for when your vagina is an unfillable black hole. It's amazing.
 >
-> I don't think I want that for my daughter.
+> But I ended up choosing another product from Always, it's called "Always Home by Eleven." Wow.
 >
-> Or Tampax Radiance.
+> Wow, because right about ten o'clock it starts to leak, and she is always home by eleven.
 >
-> What are we talking here?
+> And this whole experience for me was a very proud one as a father,
 >
-> Like glow-in-the-dark tampons so when you've got to get it in with the lights
+> because it's not every day that you get to choose what your daughter crams in her vagina.
 >
-> off?
+> Thank you. Thank you. Thank you. Okay. Let's ruin this crowd.
 >
-> I don't know.
->
-> There's more.
->
-> And the one I like the most...
->
-> I think I'm going to just play to this corner of the room.
->
-> The one I like the most is called Always Infinity.
->
-> Wow.
->
-> That is for when your vagina is an unfillable black hole.
->
-> It's amazing.
->
-> But I ended up choosing another product from Always.
->
-> It's called Always Home By 11.
->
-> Wow.
->
-> Wow.
->
-> Because around about 10 o'clock it starts to leak and she is always home by 11.
->
-> And this whole experience for me was a very proud one as a father.
->
-> Because...
->
-> It's not every day that you get to choose what your daughter crams in her
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in her
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in her
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in her
->
-> vagina.
->
-> Thank you.
->
-> Thank you. Thank you.
->
-> That's ruined this crowd.
->
-> Thanks a lot guys.
->
-> - Harry Fox, ladies and gentlemen.
+> Hey, thanks a lot, guys.

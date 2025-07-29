@@ -16,81 +16,105 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> You think funny, do you know what I mean?
+> You know what I mean?
 >
-> You can say anything, "Ah, my tambourine is like a mozzarella, you can stretch
+> He can say anything.
 >
-> it out."
+> "Ah, my tampon, it's like a mozzarella.
 >
-> "I do a 69 and eat this ballsack like gelato."
+> You can stretch it out.
 >
-> Okay, Italians, do you know what you think? Do you like Ludovica?
+> I do a 69 and eat his balls like gelato."
 >
-> I don't know her, I don't know her.
+> Italians, do you know what you think?
+>
+> Do you like Ludovica?
 >
 > Do you think she represented Italy well?
 >
-> She was amazing.
+> Italy was amazing.
 >
-> Okay, what about you, did you also have a good for Italy, or were you like...
+> Okay, what about you?
 >
-> No, I think I'm gonna have pizza problems after this.
+> Did you also do good for Italy or were you like...
 >
-> A lot of mozzarella tops, okay.
+> I think I have pizza problems up here.
 >
-> Okay, so, let's bring up our last act of the first half, ladies and gentlemen,
+> A lot of mozzarella problems.
 >
-> he gets his own music.
+> Okay, so let's bring up our last act of the first half, ladies and gentlemen.
 >
-> I love this guy, ladies and gentlemen, he does a bunch of comedy with us, and
+> He gets his own music.
 >
-> this is in fact his real name.
+> I love this guy, ladies and gentlemen.
 >
-> Ladies and gentlemen, give it up, last performer of the half is Harry Fox, give
+> He does a bunch of comedy with us.
 >
-> it up!
+> And this is, in fact, his real name.
 >
-> Okay, let's just make some space here.
+> Ladies and gentlemen, give it up.
 >
-> So, tonight I want to try something a bit different, I want to try a social
+> Last performer of the half is Harry Fox.
 >
-> experiment.
+> Give it up.
+>
+> Okay.
+>
+> Let's just make some space here.
+>
+> So, tonight I want to try something a bit different.
+>
+> I want to try a social experiment.
 >
 > Are you guys up for a social experiment?
 >
-> No, seriously, are you guys up for a social experiment?
+> No, seriously.
 >
-> Okay, this one isn't, but okay, so...
+> Are you guys up for a social experiment?
 >
-> This is a box of negro cherry tomatoes.
+> Yeah!
 >
-> So what I'm gonna do is I'm gonna go over here and give you these tomatoes, can
+> Okay, this one isn't, but okay.
 >
-> you please take one and pass it on?
+> So, this is a box of negro cherry tomatoes.
 >
-> Some of them got a bit crushed, it feels a bit weird in there, but don't worry,
+> So, what I'm going to do is I'm going to go over here and give you these
 >
-> it's just, it's honestly tomato juice.
+> tomatoes.
 >
-> Now, you can do anything you want with these tomatoes, you can eat it, you can
+> Can you please take one and pass it on?
 >
-> give it to someone you like, you can throw it at someone you hate.
+> Some of them go a bit crushed.
+>
+> It feels a bit weird in there, but don't worry.
+>
+> It's just, it's honestly tomato juice.
+>
+> Now, you can do anything you want with these tomatoes.
+>
+> You can eat it.
+>
+> You can give it to someone you like.
+>
+> You can throw it at someone you hate.
 >
 > Now, while you're passing out the tomatoes, let me tell you a little story.
 >
 > I want to tell you the story of Amina.
 >
-> Amina is a wonderful little nine-year-old girl, she's so full of love and
+> Amina is a wonderful little nine-year-old girl.
 >
-> laughter and happiness, but unfortunately, Amina lives in famine-stricken South
+> She's so full of love and laughter and happiness.
 >
-> Sudan.
+> But, unfortunately, Amina lives in famine-stricken South Sudan.
 >
-> And every night when Amina goes to bed, she goes to bed hungry, and probably,
+> And every night when Amina goes to bed, she goes to bed hungry.
 >
-> this is terrible, the chances that she'll live to 15 are very small.
+> And probably, this is terrible, the chances that she'll live to 15 are very
 >
-> But Amina wanted me to give you these tomatoes.
+> small.
+>
+> But Amina wanted me to give you these tomatoes tonight.
 >
 > Because, you know, she wanted to bring some joy to the people in Switzerland
 >
@@ -98,47 +122,47 @@ notes: ""
 >
 > And Amina, of course, would be very sad to hear of tomatoes getting wasted.
 >
-> Okay, so while you keep that in mind, let's get on with the show.
+> Okay, so why do you keep that in mind?
 >
-> So, yep, as Ahmed said, my name is Harry Fuchs, Harry Fuchs.
+> Let's get on with the show.
+>
+> So, yeah, as I said, my name is Harry Fuchs.
+>
+> Harry Fuchs.
 >
 > And the problem with this name is I have a lot of problems with women, you know.
 >
-> And, you know, I think the problem is that when I get into women, it makes them
->
-> nervous.
+> And I think the problem is that when I get near women, it makes them nervous.
 >
 > And I find that really hard because I think women are fantastic.
 >
 > And by coincidence, women think I'm fantastic, too.
 >
-> And, you know, and sometimes when I think about this, I think this is why it
+> And, you know, sometimes when I think about this, I think this is why it makes
 >
-> makes me nervous.
+> me nervous.
 >
-> And it makes me sad, and I go home after work, and I'm feeling down, and I
+> And it makes me sad and I go home after work and I'm feeling down.
 >
-> think, "What is wrong with me?"
+> What is wrong with me?
 >
-> You know, "What is wrong?"
+> You know, what is wrong?
 >
-> And I think about it.
->
-> And, of course, I find absolutely nothing.
+> And I think about it and, of course, I find absolutely nothing.
 >
 > It's just perfection here.
 >
-> And then I go to bed, and I have a long sleep like a newborn baby.
+> And then I go to bed and I have a long sleep like a newborn baby.
 >
-> And I wake up in the morning, and if I'm still feeling sad, I just go in the
+> And I wake up in the morning and if I'm still feeling sad, I just go in the
 >
 > bathroom.
 >
-> I look at myself in the mirror, and I'm immediately uplifted just to see so
+> I look at myself in the mirror and I'm immediately uplifted just to see so much
 >
-> much perfection.
+> perfection.
 >
-> Oh, hold on a second. Wait, I'm getting a call.
+> Hold on a second, wait, I'm getting a call.
 >
 > Oh, hi, Amina.
 >
@@ -150,9 +174,7 @@ notes: ""
 >
 > They're full of gratitude.
 >
-> Yeah, okay.
->
-> All right, thank you.
+> Yeah, okay, all right, thank you.
 >
 > Have a good evening.
 >
@@ -170,11 +192,15 @@ notes: ""
 >
 > Fox, you have commitment issues."
 >
-> And I said, "Ah, it's not the first time I hear that today."
+> And I said, "Ah, it's not the first time I hear that."
+>
+> Today.
 >
 > And Susan said, "Harry Fox, do you even love me?"
 >
-> And I said, "Of course I love you. How could you say that, Sarah?"
+> And I said, "Of course I love you.
+>
+> How could you say that, Sarah?"
 >
 > You know, that's hard.
 >
@@ -190,9 +216,9 @@ notes: ""
 >
 > We have a bit of a cowardly crowd here.
 >
-> Who will throw the first note?
+> Who will throw the first?
 >
-> It's not going to happen.
+> No, it's not going to happen.
 >
 > Maybe you just don't hate me enough yet.
 >
@@ -208,7 +234,7 @@ notes: ""
 >
 > You're welcome.
 >
-> No, that's OK.
+> No, that's okay.
 >
 > That's two.
 >
@@ -222,50 +248,32 @@ notes: ""
 >
 > They say sociopaths lack empathy for other people.
 >
-> Some people even say, "I might be a sociopath."
+> Some people even say I might be a sociopath.
 >
-> But that's ridiculous because I have a little bit of empathy for other people.
+> But that's ridiculous because I have a lot of empathy and sympathy for all the
 >
-> I don't know.
+> lesser beings.
 >
-> I don't know.
+> Oh, my God.
 >
-> I don't know.
+> Congratulations.
 >
-> I don't know.
+> All right.
 >
-> I don't know.
+> I'm done here.
 >
-> I don't know.
+> You can now toss my salad.
 >
-> I don't know.
+> Let's get the fuck out of here.
 >
-> I don't know.
+> Give it up for Harry Potter, ladies and gentlemen.
 >
-> I don't know.
+> Please don't waste Amina's food here.
 >
-> I don't know.
+> Okay.
 >
-> I don't know.
+> Ladies and gentlemen, that was our first half.
 >
-> I don't know.
+> Stick around.
 >
-> I'm not sure.
->
-> a sociopath. But that's ridiculous because I have a lot of empathy and sympathy
->
-> for all
->
-> the lesser beings. Women. I'm done here. You can now toss my salad. Let's get
->
-> the fuck
->
-> out of here. Give it up for Harry Potter, ladies and gentlemen. Please don't
->
-> waste
->
-> Amina's food here. Okay, ladies and gentlemen, that was our first half. Stick
->
-> around, we've
->
-> got so much more amazing comedy.
+> We've got so much more amazing comedy.

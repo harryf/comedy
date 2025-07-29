@@ -2,1255 +2,649 @@
     {
         "type": "text",
         "start": 0.0,
-        "end": 4.95,
-        "text": "I'm actually Harry Fuchs. It's a German name, but I'm in a lot of English"
+        "end": 4.0,
+        "text": "Actually, Harry \"Fucks\" is a German name."
     },
     {
         "type": "text",
-        "start": 4.95,
-        "end": 8.1,
-        "text": "speakers like this, you all seem to think my name is Harry Fuchs."
+        "start": 4.0,
+        "end": 7.26,
+        "text": "But when I'm with a lot of English speakers like this, you all seem to think my"
     },
     {
         "type": "text",
-        "start": 8.1,
-        "end": 10.9,
-        "text": "It's not Harry Fuchs."
+        "start": 7.26,
+        "end": 10.0,
+        "text": "name is Harry \"Fucks.\""
     },
     {
         "type": "text",
-        "start": 10.9,
-        "end": 16.02,
+        "start": 10.0,
+        "end": 12.0,
+        "text": "It's not Harry \"Fucks.\""
+    },
+    {
+        "type": "text",
+        "start": 12.0,
+        "end": 16.53,
         "text": "In my family, when we have a family get-together, we get very upset when you"
     },
     {
         "type": "text",
-        "start": 16.02,
-        "end": 18.08,
+        "start": 16.53,
+        "end": 20.0,
         "text": "call us a group of fuckers."
     },
     {
         "type": "text",
-        "start": 18.08,
-        "end": 21.36,
+        "start": 20.0,
+        "end": 24.0,
         "text": "We're just a pack of fucks."
     },
     {
         "type": "text",
-        "start": 21.36,
-        "end": 26.28,
-        "text": "But I have two kids, I call them Halder and Wadda."
+        "start": 24.0,
+        "end": 29.0,
+        "text": "I have two kids. I call them \"Howler\" and \"Whatler.\""
     },
     {
         "type": "text",
-        "start": 28.04,
-        "end": 30.42,
-        "text": "I wanted to give them a good start to life."
+        "start": 29.0,
+        "end": 33.0,
+        "text": "Just to give them a good start in life."
     },
     {
         "type": "text",
-        "start": 30.42,
-        "end": 37.21,
-        "text": "Yeah, but sometimes, actually recently, this American tourist came up to me and"
+        "start": 33.0,
+        "end": 38.0,
+        "text": "Recently, this American tourist came up to me and he said,"
     },
     {
         "type": "text",
-        "start": 37.21,
-        "end": 37.9,
-        "text": "he said,"
+        "start": 38.0,
+        "end": 43.0,
+        "text": "\"Yo, man, what's up? Harry \"Fucks,\" man. Harry \"Fucks\" what?\""
     },
     {
         "type": "text",
-        "start": 37.9,
-        "end": 42.1,
-        "text": "Yo man, what's up? Harry Fuchs, man. Harry Fuchs what?"
+        "start": 43.0,
+        "end": 45.0,
+        "text": "I'm like, \"What?\""
     },
     {
         "type": "text",
-        "start": 42.1,
-        "end": 43.36,
-        "text": "I'm like, what?"
+        "start": 45.0,
+        "end": 47.0,
+        "text": "He's like, \"Harry \"Fucks\" what, man?\""
     },
     {
         "type": "text",
-        "start": 43.36,
-        "end": 46.12,
-        "text": "He's like, Harry Fuchs what, man?"
-    },
-    {
-        "type": "text",
-        "start": 46.12,
-        "end": 49.44,
+        "start": 47.0,
+        "end": 50.0,
         "text": "So I thought I'd try and throw him off with a few adverbs."
     },
     {
         "type": "text",
-        "start": 49.44,
-        "end": 52.0,
-        "text": "I'm like, Harry Fuchs hopefully."
+        "start": 50.0,
+        "end": 54.0,
+        "text": "I'm like, \"Harry \"Fucks\" hopefully.\""
     },
     {
         "type": "text",
-        "start": 52.0,
-        "end": 55.92,
-        "text": "Harry Fuchs occasionally."
-    },
-    {
-        "type": "text",
-        "start": 55.92,
+        "start": 54.0,
         "end": 58.0,
-        "text": "Harry Fuchs intentionally."
+        "text": "Harry \"Fucks\" occasionally."
     },
     {
         "type": "text",
-        "start": 59.02,
-        "end": 64.3,
-        "text": "He's like, no, man, no, like Harry Fuchs goats, man, Harry Fuchs chickens,"
+        "start": 58.0,
+        "end": 61.0,
+        "text": "Harry \"Fucks\" enthusiastically."
     },
     {
         "type": "text",
-        "start": 64.3,
-        "end": 66.18,
-        "text": "Harry Fuchs tigers."
+        "start": 61.0,
+        "end": 66.61,
+        "text": "He's like, \"No, man. Harry \"Fucks\" goats, man. Harry \"Fucks\" chickens. Harry \"Fucks\""
     },
     {
         "type": "text",
-        "start": 66.18,
-        "end": 71.13,
-        "text": "I'm like, well, I don't know about you, but I'm pretty sure in the whole"
+        "start": 66.61,
+        "end": 68.0,
+        "text": "tigers.\""
     },
     {
         "type": "text",
-        "start": 71.13,
-        "end": 75.62,
-        "text": "history of mankind, no one has successfully fucked a tiger."
+        "start": 68.0,
+        "end": 72.45,
+        "text": "I'm like, \"I don't know about you, but I'm pretty sure in the whole history of"
     },
     {
         "type": "text",
-        "start": 75.62,
-        "end": 79.8,
-        "text": "Maybe people got fucked by a tiger."
+        "start": 72.45,
+        "end": 73.0,
+        "text": "mankind,"
     },
     {
         "type": "text",
-        "start": 79.8,
-        "end": 84.0,
-        "text": "But, you know, and it made me realize there's actually a whole category of"
+        "start": 73.0,
+        "end": 78.0,
+        "text": "no one has successfully fucked a tiger."
     },
     {
         "type": "text",
-        "start": 84.0,
-        "end": 86.16,
-        "text": "animals that you just can't fuck."
+        "start": 78.0,
+        "end": 82.0,
+        "text": "Maybe people got fucked by a tiger.\""
     },
     {
         "type": "text",
-        "start": 88.04,
-        "end": 90.02,
-        "text": "Like hippos, for example."
+        "start": 82.0,
+        "end": 87.18,
+        "text": "It made me realize there's actually a whole category of animals that you just"
     },
     {
         "type": "text",
-        "start": 90.02,
-        "end": 94.1,
-        "text": "You may get behind a hippo and think, wow, that is a sweet ass."
+        "start": 87.18,
+        "end": 89.0,
+        "text": "can't fuck."
     },
     {
         "type": "text",
-        "start": 94.1,
-        "end": 96.34,
+        "start": 89.0,
+        "end": 91.0,
+        "text": "Hippos, for example."
+    },
+    {
+        "type": "text",
+        "start": 91.0,
+        "end": 95.0,
+        "text": "You may get behind a hippo and think, \"Wow, that is a sweet ass.\""
+    },
+    {
+        "type": "text",
+        "start": 95.0,
+        "end": 97.0,
         "text": "Just kind of slide in there."
     },
     {
         "type": "text",
-        "start": 96.34,
-        "end": 98.44,
+        "start": 97.0,
+        "end": 99.0,
         "text": "Hippos will fuck you up, though."
     },
     {
         "type": "text",
-        "start": 98.44,
-        "end": 100.96,
+        "start": 99.0,
+        "end": 101.0,
         "text": "They are the most dangerous mammal in Africa."
     },
     {
         "type": "text",
-        "start": 100.96,
-        "end": 104.36,
+        "start": 101.0,
+        "end": 105.0,
         "text": "They kill about 500 people every year."
     },
     {
         "type": "text",
-        "start": 104.36,
-        "end": 106.88,
+        "start": 105.0,
+        "end": 108.0,
         "text": "So don't fuck with hippos."
     },
     {
         "type": "text",
-        "start": 106.88,
-        "end": 111.4,
-        "text": "Also elephants, you know, because think about it."
+        "start": 108.0,
+        "end": 114.0,
+        "text": "Also elephants, because if you think about it, it's just too high up."
     },
     {
         "type": "text",
-        "start": 111.4,
-        "end": 112.98,
-        "text": "It's just too high up."
+        "start": 114.0,
+        "end": 119.0,
+        "text": "I don't care how big you claim to be, it's just not going to reach."
     },
     {
         "type": "text",
-        "start": 112.98,
-        "end": 116.62,
-        "text": "I don't care, like, how big you claim to be."
+        "start": 119.0,
+        "end": 124.0,
+        "text": "Most elephants are pretty aggressive, so they will also fuck you up."
     },
     {
         "type": "text",
-        "start": 116.62,
-        "end": 117.84,
-        "text": "It's just not going to reach."
+        "start": 124.0,
+        "end": 131.0,
+        "text": "Maybe if the mom's not watching, you could fuck a baby elephant."
     },
     {
         "type": "text",
-        "start": 118.04,
-        "end": 122.54,
-        "text": "And those elephants are pretty aggressive, so they also fuck you up."
+        "start": 131.0,
+        "end": 135.0,
+        "text": "Just finding your level."
     },
     {
         "type": "text",
-        "start": 122.54,
-        "end": 127.46,
-        "text": "But maybe if the mom's not watching, you could fuck a baby elephant."
+        "start": 135.0,
+        "end": 140.95,
+        "text": "It's clear you're very comfortable with bestiality, but I bet you're not sure"
     },
     {
         "type": "text",
-        "start": 127.46,
-        "end": 133.1,
-        "text": "I'm just finding your level, okay, sir."
+        "start": 140.95,
+        "end": 143.0,
+        "text": "about pedophile history."
     },
     {
         "type": "text",
-        "start": 133.1,
-        "end": 139.39,
-        "text": "And see, it's clear you're very comfortable with bestiality, but I'm sure about"
+        "start": 143.0,
+        "end": 148.0,
+        "text": "It's a dark night, and the jokes are dark."
     },
     {
         "type": "text",
-        "start": 139.39,
-        "end": 140.68,
-        "text": "pedophiles."
+        "start": 148.0,
+        "end": 153.0,
+        "text": "I have a lot of dark and twisted thoughts going on in my head."
     },
     {
         "type": "text",
-        "start": 140.68,
-        "end": 146.58,
-        "text": "All right, well, it's a dark night, and the jokes are dark."
+        "start": 153.0,
+        "end": 160.0,
+        "text": "I think it goes back to my childhood, because I went to a Catholic school."
     },
     {
         "type": "text",
-        "start": 146.58,
-        "end": 147.96,
-        "text": "And, you know..."
-    },
-    {
-        "type": "text",
-        "start": 148.04,
-        "end": 151.62,
-        "text": "Because I have a lot of dark and twisted thoughts going on in my head."
-    },
-    {
-        "type": "text",
-        "start": 151.62,
-        "end": 157.6,
-        "text": "And I think it goes back to my childhood, because I went to a Catholic school."
-    },
-    {
-        "type": "text",
-        "start": 157.6,
-        "end": 162.62,
+        "start": 160.0,
+        "end": 165.0,
         "text": "But I got thrown out for molesting a priest."
     },
     {
         "type": "text",
-        "start": 162.62,
-        "end": 169.65,
-        "text": "But I think, actually, this was a significant moment in the history of mankind,"
+        "start": 165.0,
+        "end": 170.1,
+        "text": "But I think actually this was a significant moment in the history of mankind,"
     },
     {
         "type": "text",
-        "start": 169.65,
-        "end": 171.2,
+        "start": 170.1,
+        "end": 171.0,
         "text": "because this is the answer."
     },
     {
         "type": "text",
-        "start": 171.2,
-        "end": 176.24,
+        "start": 171.0,
+        "end": 176.36,
         "text": "The answer is, every time we hear about a priest molesting a child, we've got"
     },
     {
         "type": "text",
-        "start": 176.24,
-        "end": 177.36,
+        "start": 176.36,
+        "end": 177.0,
         "text": "to hit back, man."
     },
     {
         "type": "text",
-        "start": 177.56,
-        "end": 178.44,
-        "text": "We've got to get back to vigilante justice."
+        "start": 177.0,
+        "end": 181.0,
+        "text": "Vigilante justice. Go out, molest a priest right now."
     },
     {
         "type": "text",
-        "start": 178.44,
-        "end": 181.3,
-        "text": "Go out, molest a priest right now."
-    },
-    {
-        "type": "text",
-        "start": 181.3,
-        "end": 184.66,
+        "start": 181.0,
+        "end": 185.0,
         "text": "It's going to solve this problem in less than one week."
     },
     {
         "type": "text",
-        "start": 184.66,
-        "end": 190.0,
-        "text": "We need vigilantes like, I don't know, Buttman and Rapin."
+        "start": 185.0,
+        "end": 193.0,
+        "text": "We need vigilantes like Buttman and Rapin having sex with a priest."
     },
     {
         "type": "text",
-        "start": 190.0,
-        "end": 193.28,
-        "text": "I don't know, she doesn't like raping other priests."
+        "start": 193.0,
+        "end": 196.0,
+        "text": "This is how it's going to work."
     },
     {
         "type": "text",
-        "start": 193.28,
-        "end": 196.34,
-        "text": "So, you know, this is how it's going to work."
+        "start": 196.0,
+        "end": 201.0,
+        "text": "We're losing some of these. This corner has gone very quiet."
     },
     {
         "type": "text",
-        "start": 196.34,
-        "end": 198.46,
-        "text": "Okay, we're losing some of these..."
+        "start": 201.0,
+        "end": 207.0,
+        "text": "Sex in the city. These guys are down. They're taking out a priest tonight."
     },
     {
         "type": "text",
-        "start": 198.46,
-        "end": 200.48,
-        "text": "This corner's gone very quiet."
+        "start": 207.0,
+        "end": 215.23,
+        "text": "For me, these days, it's actually very tough being a guy, because in the"
     },
     {
         "type": "text",
-        "start": 200.48,
-        "end": 203.6,
-        "text": "Sex in the city."
+        "start": 215.23,
+        "end": 218.0,
+        "text": "history of mankind, all the bad shit's been done by men."
     },
     {
         "type": "text",
-        "start": 203.6,
-        "end": 205.14,
-        "text": "These guys are down."
+        "start": 218.0,
+        "end": 222.85,
+        "text": "These days, society doesn't think a lot of good things about men. It's tough to"
     },
     {
         "type": "text",
-        "start": 205.14,
-        "end": 207.04,
-        "text": "They're taking out priests tonight."
+        "start": 222.85,
+        "end": 224.0,
+        "text": "get over that."
     },
     {
         "type": "text",
-        "start": 207.56,
-        "end": 213.44,
-        "text": "You know, but, I don't know, it's for me, these days it's actually very tough"
+        "start": 224.0,
+        "end": 229.0,
+        "text": "Recently, for example, I was on a tram, and I saw this couple."
     },
     {
         "type": "text",
-        "start": 213.44,
-        "end": 214.12,
-        "text": "being a guy,"
+        "start": 229.0,
+        "end": 233.95,
+        "text": "There's a guy kissing a girl, and then I noticed that the girl had Down"
     },
     {
         "type": "text",
-        "start": 214.12,
-        "end": 217.79,
-        "text": "because, you know, in the history of mankind, all the bad shit's been done by"
+        "start": 233.95,
+        "end": 235.0,
+        "text": "syndrome."
     },
     {
         "type": "text",
-        "start": 217.79,
-        "end": 218.2,
-        "text": "men."
+        "start": 235.0,
+        "end": 240.0,
+        "text": "And I thought, \"That slum motherfucker.\""
     },
     {
         "type": "text",
-        "start": 218.2,
-        "end": 222.12,
-        "text": "And these days, society doesn't think a lot of good things about men, you know."
+        "start": 240.0,
+        "end": 244.0,
+        "text": "Now, think about this for a second. If that had been a girl, and the guy had"
     },
     {
         "type": "text",
-        "start": 222.12,
-        "end": 224.22,
-        "text": "It's tough to get over that."
+        "start": 244.0,
+        "end": 246.0,
+        "text": "Down syndrome, and we'd seen them on the tram,"
     },
     {
         "type": "text",
-        "start": 224.22,
-        "end": 226.56,
-        "text": "Recently, for example, I was on a tram."
+        "start": 246.0,
+        "end": 250.49,
+        "text": "you imagine this. Personally, I would just think, \"Wow, what an amazing person"
     },
     {
         "type": "text",
-        "start": 226.56,
-        "end": 231.96,
-        "text": "I saw this couple, and there's a guy kissing a girl."
+        "start": 250.49,
+        "end": 251.0,
+        "text": "she is."
     },
     {
         "type": "text",
-        "start": 231.96,
-        "end": 234.52,
-        "text": "And then I noticed that the girl had Down syndrome."
+        "start": 251.0,
+        "end": 255.77,
+        "text": "She is so caring, so giving, that she would go through all of that and have a"
     },
     {
         "type": "text",
-        "start": 234.52,
-        "end": 236.96,
-        "text": "And I thought..."
+        "start": 255.77,
+        "end": 258.0,
+        "text": "boyfriend with Down syndrome."
     },
     {
         "type": "text",
-        "start": 237.56,
-        "end": 242.08,
-        "text": "Now, think about this for a second."
+        "start": 258.0,
+        "end": 261.0,
+        "text": "What a wonderful person that she could love.\""
     },
     {
         "type": "text",
-        "start": 242.08,
-        "end": 245.98,
-        "text": "If that had been a girl, and the guy had Down syndrome, and you'd seen them on"
+        "start": 261.0,
+        "end": 266.0,
+        "text": "But I saw this guy, and I'm just like, \"Motherfucker.\""
     },
     {
         "type": "text",
-        "start": 245.98,
-        "end": 246.48,
-        "text": "the tram,"
+        "start": 266.0,
+        "end": 270.22,
+        "text": "Because people with Down syndrome, you may not know this, are very affectionate,"
     },
     {
         "type": "text",
-        "start": 246.48,
-        "end": 247.76,
-        "text": "you'd imagine this, you would..."
+        "start": 270.22,
+        "end": 274.0,
+        "text": "and also it does cross into sexual behavior."
     },
     {
         "type": "text",
-        "start": 247.76,
-        "end": 251.02,
-        "text": "Personally, I would just think, wow, what an amazing person she is."
+        "start": 274.0,
+        "end": 280.0,
+        "text": "This guy is basically tapped into the source of unlimited free sex."
     },
     {
         "type": "text",
-        "start": 251.02,
-        "end": 256.25,
-        "text": "She is, like, so caring, so giving, that she would go through all of that and"
+        "start": 280.0,
+        "end": 286.38,
+        "text": "And I just got thinking, \"This guy is a sick asshole. He's probably got some"
     },
     {
         "type": "text",
-        "start": 256.25,
-        "end": 257.9,
-        "text": "have a boyfriend with Down syndrome."
+        "start": 286.38,
+        "end": 287.0,
+        "text": "games."
     },
     {
         "type": "text",
-        "start": 257.9,
-        "end": 260.72,
-        "text": "What a wonderful person that she could love."
+        "start": 287.0,
+        "end": 293.0,
+        "text": "Like he says to her, 'Hey, honey, time for the lollipop game.'"
     },
     {
         "type": "text",
-        "start": 260.72,
-        "end": 264.5,
-        "text": "But I saw this guy, and I'm just like, motherfucker."
+        "start": 293.0,
+        "end": 299.0,
+        "text": "Or, you know, 'Let's play hide-the-rabbit, which both today?'\""
     },
     {
         "type": "text",
-        "start": 264.5,
-        "end": 267.4,
-        "text": "Because people with Down syndrome..."
+        "start": 299.0,
+        "end": 306.0,
+        "text": "It's getting quieter. It's getting darker."
     },
     {
         "type": "text",
-        "start": 267.56,
-        "end": 271.38,
-        "text": "You may not know this, they're very affectionate, and also, you know, it does"
+        "start": 306.0,
+        "end": 310.0,
+        "text": "Because, you know, he's probably going to invite his French friend and go like,"
     },
     {
         "type": "text",
-        "start": 271.38,
-        "end": 274.16,
-        "text": "cross into, like, sexual behavior."
+        "start": 310.0,
+        "end": 313.0,
+        "text": "\"Hey, sausage party!\""
     },
     {
         "type": "text",
-        "start": 274.16,
-        "end": 279.28,
-        "text": "And this guy is basically tacked into the source of unlimited free sex."
+        "start": 313.0,
+        "end": 321.0,
+        "text": "Sex in the city is still life. Sex and Down syndrome."
     },
     {
         "type": "text",
-        "start": 279.28,
-        "end": 284.45,
-        "text": "And, you know, and I just got thinking, like, this guy is a sick asshole, you"
+        "start": 321.0,
+        "end": 325.0,
+        "text": "I think I'll just stand over here."
     },
     {
         "type": "text",
-        "start": 284.45,
-        "end": 285.08,
-        "text": "know."
+        "start": 325.0,
+        "end": 331.0,
+        "text": "But I know this stuff personally, because I'm in my mid-40s."
     },
     {
         "type": "text",
-        "start": 285.08,
-        "end": 290.05,
-        "text": "He's probably got some games, like, he says to her, \"Hey, honey, time for the"
+        "start": 331.0,
+        "end": 335.0,
+        "text": "I've got a shaved head. I'm white. I'm male. Beard."
     },
     {
         "type": "text",
-        "start": 290.05,
-        "end": 291.26,
-        "text": "lollipop game.\""
-    },
-    {
-        "type": "text",
-        "start": 291.26,
-        "end": 296.96,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 297.56,
-        "end": 298.48,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 298.48,
-        "end": 299.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 299.52,
-        "end": 300.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 300.52,
-        "end": 301.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 301.52,
-        "end": 302.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 302.52,
-        "end": 304.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 304.52,
-        "end": 306.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 306.52,
-        "end": 307.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 307.52,
-        "end": 308.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 308.52,
-        "end": 309.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 309.52,
-        "end": 310.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 310.52,
-        "end": 311.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 311.52,
-        "end": 312.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 312.52,
-        "end": 313.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 313.52,
-        "end": 314.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 314.52,
-        "end": 315.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 315.52,
-        "end": 316.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 316.52,
-        "end": 317.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 317.52,
-        "end": 318.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 318.52,
-        "end": 319.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 319.52,
-        "end": 320.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 320.52,
-        "end": 321.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 321.52,
-        "end": 322.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 322.52,
-        "end": 323.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 323.52,
-        "end": 324.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 324.52,
-        "end": 325.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 325.52,
-        "end": 326.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 326.52,
-        "end": 327.52,
-        "text": "Or, you know, \"Let's play hide the rabbit.\""
-    },
-    {
-        "type": "text",
-        "start": 327.52,
-        "end": 328.52,
-        "text": "That's all right."
-    },
-    {
-        "type": "text",
-        "start": 328.52,
-        "end": 329.52,
-        "text": "That's all right."
-    },
-    {
-        "type": "text",
-        "start": 329.52,
-        "end": 330.52,
-        "text": "You know, it's..."
-    },
-    {
-        "type": "text",
-        "start": 330.52,
-        "end": 331.52,
-        "text": "I'm in my mid-forties."
-    },
-    {
-        "type": "text",
-        "start": 331.52,
-        "end": 332.52,
-        "text": "I've got a shaved head."
-    },
-    {
-        "type": "text",
-        "start": 332.52,
-        "end": 333.52,
-        "text": "I'm white."
-    },
-    {
-        "type": "text",
-        "start": 333.52,
-        "end": 334.52,
-        "text": "I'm male."
-    },
-    {
-        "type": "text",
-        "start": 334.52,
-        "end": 335.52,
-        "text": "Beard."
-    },
-    {
-        "type": "text",
-        "start": 335.52,
-        "end": 336.52,
-        "text": "You know."
-    },
-    {
-        "type": "text",
-        "start": 336.52,
-        "end": 337.52,
+        "start": 335.0,
+        "end": 338.0,
         "text": "And you've probably heard that on the news."
     },
     {
         "type": "text",
-        "start": 337.52,
-        "end": 341.52,
-        "text": "You know, it's like a man was seen running."
+        "start": 338.0,
+        "end": 346.52,
+        "text": "That like a man was seen running. Witnesses say he was mid-40s, white, male,"
     },
     {
         "type": "text",
-        "start": 341.52,
-        "end": 348.52,
-        "text": "Witnesses say he was mid-forties, white, male, bald with a beard."
+        "start": 346.52,
+        "end": 348.0,
+        "text": "bald with a beard."
     },
     {
         "type": "text",
-        "start": 348.52,
-        "end": 352.52,
+        "start": 348.0,
+        "end": 353.0,
         "text": "And, you know, it's like basically I am suspected of being a serial rapist."
     },
     {
         "type": "text",
-        "start": 352.52,
-        "end": 353.52,
-        "text": "And then you look at me."
+        "start": 353.0,
+        "end": 357.26,
+        "text": "The moment you look at me, I just walk into the room, people go, \"Oh shit, it's"
     },
     {
         "type": "text",
-        "start": 353.52,
-        "end": 354.52,
-        "text": "I just walk into the room."
+        "start": 357.26,
+        "end": 359.0,
+        "text": "a serial rapist.\""
     },
     {
         "type": "text",
-        "start": 354.52,
-        "end": 355.52,
-        "text": "People go, \"Oh, shit."
+        "start": 359.0,
+        "end": 363.46,
+        "text": "When actually, when I go out, sometimes I go for a walk at night, because it's"
     },
     {
         "type": "text",
-        "start": 355.52,
-        "end": 356.52,
-        "text": "It's a serial rapist.\""
+        "start": 363.46,
+        "end": 364.0,
+        "text": "just good for you."
     },
     {
         "type": "text",
-        "start": 356.52,
-        "end": 357.52,
-        "text": "And then you look at me."
+        "start": 364.0,
+        "end": 370.09,
+        "text": "But I'm in the woods, and I'm never afraid, because I know that anyone I meet"
     },
     {
         "type": "text",
-        "start": 357.52,
-        "end": 358.52,
-        "text": "I just walk into the room."
+        "start": 370.09,
+        "end": 374.0,
+        "text": "will think, \"Oh fuck!\""
     },
     {
         "type": "text",
-        "start": 358.52,
-        "end": 359.52,
-        "text": "And then you look at me."
+        "start": 374.0,
+        "end": 378.0,
+        "text": "Because I'm the scariest motherfucker in the woods."
     },
     {
         "type": "text",
-        "start": 359.52,
-        "end": 360.52,
-        "text": "I just walk into the room."
+        "start": 378.0,
+        "end": 382.65,
+        "text": "And it's difficult for me dating, because you may not have realized, it's like"
     },
     {
         "type": "text",
-        "start": 360.52,
-        "end": 361.52,
-        "text": "People go, \"Oh, shit."
+        "start": 382.65,
+        "end": 384.0,
+        "text": "a kind of a scale."
     },
     {
         "type": "text",
-        "start": 361.52,
-        "end": 362.52,
-        "text": "It's a serial rapist.\""
+        "start": 384.0,
+        "end": 390.0,
+        "text": "It's like a scale, and I call this the rapiness scale."
     },
     {
         "type": "text",
-        "start": 362.52,
-        "end": 363.52,
-        "text": "And then you look at me."
+        "start": 390.0,
+        "end": 394.43,
+        "text": "Over here you've got maybe serial rapists, and over here you've got the friend"
     },
     {
         "type": "text",
-        "start": 363.52,
-        "end": 364.52,
-        "text": "I just walk into the room."
+        "start": 394.43,
+        "end": 395.0,
+        "text": "zone."
     },
     {
         "type": "text",
-        "start": 364.52,
-        "end": 365.52,
-        "text": "People go, \"Oh, shit."
+        "start": 395.0,
+        "end": 400.0,
+        "text": "And every time a guy talks to a girl, this calculation is going on in our heads."
     },
     {
         "type": "text",
-        "start": 365.52,
-        "end": 366.52,
-        "text": "It's a serial rapist.\""
+        "start": 400.0,
+        "end": 405.0,
+        "text": "It's like, \"Where am I going to position myself on the rapiness scale?\""
     },
     {
         "type": "text",
-        "start": 366.52,
-        "end": 367.52,
-        "text": "And then you look at me."
+        "start": 405.0,
+        "end": 408.0,
+        "text": "I don't want to be in the friend zone. I've got to be a bit more edgy than that."
     },
     {
         "type": "text",
-        "start": 367.52,
-        "end": 368.52,
-        "text": "I just walk into the room."
+        "start": 408.0,
+        "end": 412.0,
+        "text": "Like a lot of nice guys, they're trying to push it this way."
     },
     {
         "type": "text",
-        "start": 368.52,
-        "end": 369.52,
-        "text": "People go, \"Oh, shit."
+        "start": 412.0,
+        "end": 414.0,
+        "text": "I'm going this way."
     },
     {
         "type": "text",
-        "start": 369.52,
-        "end": 370.52,
-        "text": "It's a serial rapist.\""
+        "start": 414.0,
+        "end": 417.0,
+        "text": "I'm trying to be as nice as I can."
     },
     {
         "type": "text",
-        "start": 370.52,
-        "end": 371.52,
-        "text": "And then you look at me."
+        "start": 417.0,
+        "end": 421.0,
+        "text": "\"Wow, wow, wow, that's a really nice dress you have on.\""
     },
     {
         "type": "text",
-        "start": 371.52,
-        "end": 372.52,
-        "text": "I just walk into the room."
+        "start": 421.0,
+        "end": 426.0,
+        "text": "It doesn't matter what I do though, it just comes across as serial rapist."
     },
     {
         "type": "text",
-        "start": 372.52,
-        "end": 373.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 373.52,
-        "end": 374.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 374.52,
-        "end": 375.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 375.52,
-        "end": 376.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 376.52,
-        "end": 377.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 377.52,
-        "end": 378.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 378.52,
-        "end": 379.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 379.52,
-        "end": 380.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 380.52,
-        "end": 381.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 381.52,
-        "end": 382.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 382.52,
-        "end": 383.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 383.52,
-        "end": 384.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 384.52,
-        "end": 385.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 385.52,
-        "end": 386.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 386.52,
-        "end": 387.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 387.52,
-        "end": 388.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 388.52,
-        "end": 389.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 389.52,
-        "end": 390.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 390.52,
-        "end": 391.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 391.52,
-        "end": 392.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 392.52,
-        "end": 393.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 393.52,
-        "end": 394.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 394.52,
-        "end": 395.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 395.52,
-        "end": 396.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 396.52,
-        "end": 397.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 397.52,
-        "end": 398.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 398.52,
-        "end": 399.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 399.52,
-        "end": 400.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 400.52,
-        "end": 401.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 401.52,
-        "end": 402.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 402.52,
-        "end": 403.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 403.52,
-        "end": 404.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 404.52,
-        "end": 405.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 405.52,
-        "end": 406.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 406.52,
-        "end": 407.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 407.52,
-        "end": 408.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 408.52,
-        "end": 409.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 409.52,
-        "end": 410.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 410.52,
-        "end": 411.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 411.52,
-        "end": 412.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 412.52,
-        "end": 413.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 413.52,
-        "end": 414.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 414.52,
-        "end": 415.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 415.52,
-        "end": 416.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 416.52,
-        "end": 417.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 417.52,
-        "end": 418.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 418.52,
-        "end": 419.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 419.52,
-        "end": 420.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 420.52,
-        "end": 421.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 421.52,
-        "end": 422.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 422.52,
-        "end": 423.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 423.52,
-        "end": 424.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 424.52,
-        "end": 425.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 425.52,
-        "end": 426.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 426.52,
-        "end": 427.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 427.52,
-        "end": 428.52,
-        "text": "I just walk into the room."
-    },
-    {
-        "type": "text",
-        "start": 428.52,
-        "end": 429.52,
-        "text": "People go, \"Oh, shit."
-    },
-    {
-        "type": "text",
-        "start": 429.52,
-        "end": 430.52,
-        "text": "It's a serial rapist.\""
-    },
-    {
-        "type": "text",
-        "start": 430.52,
-        "end": 431.52,
-        "text": "And then you look at me."
-    },
-    {
-        "type": "text",
-        "start": 431.52,
-        "end": 432.52,
-        "text": "I just walk into the room."
+        "start": 426.0,
+        "end": 431.0,
+        "text": "So to that, thank you. It's been nice performing for you."
     }
 ]

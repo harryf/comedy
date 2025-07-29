@@ -17,105 +17,97 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Are you ready for the last comedian?
+> The last comedian, are you ready?
 >
-> Our last comedian is originally from England,
+> Our last comedian is originally from England.
 >
-> half German, half English.
+> Half German, half English.
 >
-> The absolutely brilliant combination.
+> The absolute brilliant combination.
 >
-> He's been living in Switzerland for a long time,
+> He has been living in Switzerland for a long time.
 >
-> especially when it comes to English.
+> He mainly comes from English.
 >
-> He's super funny.
+> He is very funny.
 >
 > Please welcome Harry Fox!
 >
-> So my name is Harry Fuchs.
+> My name is Harry Fox.
 >
 > It's a German name.
 >
-> You write F-U-C-K-S.
+> You write F-Ö-C-K-S.
 >
-> I repeat: F-U-C-K-S.
+> I repeat, F-Ö-C-K-S.
 >
 > But because I grew up in England,
 >
-> many people think that my name is Harry Fox.
+> many believe that my name is Harry Fox.
 >
 > My name is not Harry Fox.
 >
 > My family, when we meet,
 >
-> would be very annoyed
->
-> if someone called us a group of fuckers.
+> would be very annoyed if someone called us a group of fuckers.
 >
 > And I have two children.
 >
-> I had to call them "how the" and "what the"
+> I had to call them "Haube" and "Woppe".
 >
-> but it's a good chance to have one.
+> But it's a good chance.
 >
 > But the real problem with a name like Harry Fox
 >
 > is that it sets very high expectations.
 >
-> And to be honest, I've only had so much sex.
+> And to be honest, I only had so much sex.
 >
-> To be honest, I've only had so much sex.
+> To be honest, I only had so much sex.
 >
-> Actually, and the last scene,
->
-> if I may share that,
+> Actually, and in the last time I was allowed to share this,
 >
 > I didn't have any sex.
 >
-> Hands up if you didn't have any sex either.
+> Put your hands up if you didn't have sex either.
 >
-> The last scene.
->
-> Okay.
+> Raise your hands.
 >
 > Of course.
 >
-> But other than that...
+> But otherwise everyone else...
 >
-> But I'm sorry.
+> But I'm surprised.
 >
-> I didn't know that I would come to
->
-> such a nymphomaniac anonymous meeting.
+> I didn't know that I would meet the Syrian nymphomaniac anonymously.
 >
 > Okay, then I'll tell you a little bit
 >
 > so that you can understand me better.
 >
-> So if you haven't had sex in a long time,
+> So if you haven't had sex for a long time,
 >
-> it's wrong as if you hallucinate.
+> it's as if you're hallucinating.
 >
 > So you walk down the street,
 >
 > see a couple of dogs,
 >
-> they sniff your ass,
+> sniffing at each other's asses,
 >
 > and you think,
 >
-> "I want to go too."
+> "I want to be there too."
 >
-> Or you go into the bathroom
+> Or you go to the micro,
 >
-> and you see an action on watermelon.
+> and you see an action on watermelons.
 >
 > You get one hand on this watermelon,
 >
-> maybe two,
+> maybe two.
 >
-> and suddenly you're in a new dimension.
+> Suddenly you're in a new dimension.
 >
 > It's getting warm, it's getting hot,
 >
@@ -123,29 +115,25 @@ notes: |
 >
 > Then suddenly you hear,
 >
-> "Young man, shame on you!"
+> "Young man, are you ashamed?"
 >
-> And you look, there's an old lady,
+> And you look, there's an old lady.
 >
-> and she's going to hit you with her handbag.
+> She wants to hit you with her handbag.
 >
 > And you think,
 >
-> "Looks nice."
+> "She's beautiful."
 >
-> Yes, but...
+> But what makes it all so difficult,
 >
-> What made it all so difficult,
+> I recently found out.
 >
-> in the last scene I got to know,
->
-> in my age,
->
-> I still don't know
+> At my age, I still don't know
 >
 > if I'm good at having sex.
 >
-> Because I've read,
+> Because I read,
 >
 > to be good at anything,
 >
@@ -153,51 +141,47 @@ notes: |
 >
 > 10,000 hours is a lot of fucking.
 >
-> So if I were to sum it all up,
+> So if I summed it all up,
 >
-> maybe I'm at 5,000 hours,
+> I'm at 5,000 hours,
 >
 > if masturbation counts.
 >
-> But I have...
+> But if you fuck 24 hours a day,
 >
-> So if you get 24 hours a day for a whole year,
+> for a whole year,
 >
 > you're only at 8,000 hours.
 >
-> I've calculated that.
+> I calculated that too.
 >
 > Or if you live 70 years,
 >
-> you have to click 10 times a day.
+> you have to fuck 10 times a day.
 >
-> From the day you were born,
+> From the day you were born
 >
 > to the day you die.
 >
 > And I don't know what's worse,
 >
-> the thought of little babies that fuck,
+> the thought of little babies fucking
 >
-> or the idea of having sex with old people.
+> or the idea of having sex with old people
 >
-> On the day they die.
+> on the day they die.
 >
-> But it's too dark for us.
->
-> It's too dark.
+> I think it's too dark, it's too dark.
 >
 > Yes, but...
 >
-> Actually,
+> Actually, the reason why
 >
-> the reason why I've had so little sex lately,
+> I've had so little sex lately
 >
-> is that,
+> is because I was dumped
 >
-> in the end,
->
-> I was dumped by my first Swiss girlfriend.
+> by my first Swiss girlfriend.
 >
 > Thank you, thank you.
 >
@@ -205,708 +189,288 @@ notes: |
 >
 > I'm now an expert on all Swiss women.
 >
-> And one thing that...
+> And one thing...
 >
 > Swiss women,
 >
 > they're not particularly good at communicating.
 >
-> Especially...
+> Especially with men.
 >
-> Yes, exactly.
+> The reason for that
 >
-> Especially to their men.
+> is that it was only until 1991
 >
-> The reason for that is,
+> that the last canton of Appenzell in Rome
 >
-> it was only until 1991,
+> finally voted for women
 >
-> that the last canton of Appenzell in Rome,
+> to have the right to orgasm.
 >
-> finally voted,
+> But what I learned from that...
 >
-> that women have the right to orgasms.
+> I thought, if any other man
 >
-> And...
+> finds himself in the same situation...
 >
-> But what I assumed from that,
+> I have a few important sentences
 >
-> I thought,
->
-> if any other man finds himself in the same situation...
->
-> So,
->
-> I have a few important sentences,
->
-> that might help you,
+> that might help you
 >
 > to understand your Swiss girlfriend.
 >
-> For example,
+> For example, when she says,
 >
-> if she says,
+> "Oh, darling."
 >
-> "Oh, honey,
+> That's a good thing.
 >
-> that's something good,
+> That means, maybe later
 >
-> that means,
+> there will be a sexual experience.
 >
-> because later on,
+> But if she says, "Honey!"
 >
-> there will be a sexual experience."
+> That's a bad thing.
 >
-> But if she says,
+> You'll probably have to spend the night
 >
-> "Honey,
+> with her.
 >
-> that's something bad,
+> But if she says, "Oh, honey!"
 >
-> you'll probably have to spend the night on the couch."
+> That's a good thing.
 >
-> But if she says,
+> That means, she's as hot as a honey.
 >
-> "Hurray,
+> But if she says, "Lick my ass!"
 >
-> that's something good,
+> Under no circumstances
 >
-> that means,
+> should she lick your ass.
 >
-> she's as horny as a whore."
+> Unless she says,
 >
-> And if she says,
+> "That's a piece of shit, man!"
 >
-> "Hurray,
+> And that means,
 >
-> that's something good,
+> you could lick her ass,
 >
-> that means,
+> but maybe there will be
 >
-> she's as horny as a whore."
+> a bad surprise.
 >
-> That means,
+> How's the time going?
 >
-> that means,
+> Everything's fine.
 >
-> she's as horny as a whore.
+> I'll just keep going.
 >
-> That means,
+> I think, right now,
 >
-> she's as horny as a whore.
+> it's a difficult time for dating.
 >
-> But if she says,
+> Especially for women.
 >
-> "Hurray,
+> Because I read recently,
 >
-> that's something good,
+> that almost 50% of men,
 >
-> you'll probably have to spend the night on the couch."
+> all men, in the years 20 to 40,
 >
-> But if she says,
+> have sent a dick pic in the last 3 months.
 >
-> "Hurray,
+> Yes, and that's perhaps
 >
-> that's something good,
+> a difficult number to understand.
 >
-> you'll probably have to spend the night on the couch."
+> But, ladies and gentlemen,
 >
-> That means,
+> if you give your number
 >
-> she's as horny as a whore.
+> to 10 men in this room,
 >
-> But if she says,
+> before Christmas,
 >
-> "Hurray,
+> you'll have a stack of 5 dick pics
 >
-> that's something good,
+> on your phone.
 >
-> you'll probably have to spend the night on the couch."
+> That could be expressed
 >
-> That means,
+> as Christmas cards,
 >
-> she's as horny as a whore.
+> to decorate your arm.
 >
-> But if she says,
+> Yes.
 >
-> "Hurray,
+> I think he looks a bit dicky, too.
 >
-> that's something good,
+> With this t-shirt.
 >
-> you'll probably have to spend the night on the couch."
+> But I personally,
 >
-> That means,
+> I personally don't send dick pics.
 >
-> she's as horny as a whore.
+> Not because I think it's bad,
 >
-> But if she says,
+> but because I'm a perfectionist.
 >
-> "Hurray,
+> Because making a good dick pic
 >
-> that's something good,
+> is difficult.
 >
-> you'll probably have to spend the night on the couch."
+> You have to think about a lot of things.
 >
-> That means,
+> For example, the light.
 >
-> she's as horny as a whore.
+> Do I need a nice, warm color
 >
-> But if she says,
+> to bring out the main color,
 >
-> "Hurray,
+> or more of something red and reddish?
 >
-> that's something good,
+> And, well, maybe I need
 >
-> you'll probably have to spend the night on the couch."
+> some kind of shadow,
 >
-> That means,
+> a bit of pink around it, maybe.
 >
-> she's as horny as a whore.
+> Is it dangerous?
 >
-> But if she says,
+> It has thorns,
 >
-> "Hurray,
+> that could be dangerous.
 >
-> that's something good,
+> But above all,
 >
-> you'll probably have to spend the night on the couch."
+> you have to think about the angle of view,
 >
-> That means,
+> because it's a selfie.
 >
-> she's as horny as a whore.
+> Do I have to do it from here,
 >
-> But if she says,
+> or here, or there?
 >
-> "Hurray,
+> I don't know.
 >
-> that's something good,
+> I don't know.
 >
-> you'll probably have to spend the night on the couch."
+> Luckily, I'm a bit of an entrepreneur,
 >
-> That means,
+> that's why I invented the dick pic selfie stick.
 >
-> she's as horny as a whore.
+> For all of you,
 >
-> But if she says,
+> tonight, dickpicselfiestick.com,
 >
-> "Hurray,
+> at 9.29, 9.90.
 >
-> that's something good,
+> Do I have more time?
 >
-> you'll probably have to spend the night on the couch."
+> Do something, Veggie.
 >
-> That means,
+> Okay, oh, it goes on.
 >
-> she's as horny as a whore.
+> Yes, well,
 >
-> But if she says,
+> I'm sorry it's such a funny joke,
 >
-> "Hurray,
+> but actually, the reason for it is,
 >
-> that's something good,
+> when I was little,
 >
-> you'll probably have to spend the night on the couch."
+> something got taken away from me.
 >
-> That means,
+> Exactly, I was circumcised.
 >
-> she's as horny as a whore.
+> Okay, when I listen to this reaction,
 >
-> But if she says,
+> I understand,
 >
-> "Hurray,
+> nobody here knows what circumcision is.
 >
-> that's something good,
+> We'll talk about it later,
 >
-> you'll probably have to spend the night on the couch."
+> I can show it to you.
 >
-> That means,
+> But what was a very bad childhood experience for me,
 >
-> she's as horny as a whore.
+> when I grew up,
 >
-> But if she says,
+> it became a real advantage,
 >
-> "Hurray,
+> because on the rare moments,
 >
-> that's something good,
+> when a woman finds her head next to my penis,
 >
-> you'll probably have to spend the night on the couch."
+> she always frowns like this.
 >
-> That means,
+> And I ask her,
 >
-> she's as horny as a whore.
+> why are you frowning on my penis?
 >
-> But if she says,
+> And she says,
 >
-> "Hurray,
+> you have no idea,
 >
-> that's something good,
+> how many dirty snowflakes there are out there.
 >
-> you'll probably have to spend the night on the couch."
+> Oh, I'm sorry.
 >
-> That means,
+> I'm sorry I had to say that.
 >
-> she's as horny as a whore.
+> Okay, I'll correct it for you.
 >
-> But if she says,
+> Because, what I understood,
 >
-> "Hurray,
+> for many uncircumcised men,
 >
-> that's something good,
+> there is far too little attention in this area.
 >
-> you'll probably have to spend the night on the couch."
+> And that's why I'll end with a few tips,
 >
-> That means,
+> that will annoy your girlfriend today.
 >
-> she's as horny as a whore.
+> For example, in the car,
 >
-> But if she says,
+> do you know this colorful tree?
 >
-> "Hurray,
+> You can just hang it from your penis.
 >
-> that's something good,
+> The professional scene of women is very strong,
 >
-> you'll probably have to spend the night on the couch."
+> that will help you immediately.
 >
-> That means,
+> What you could also do,
 >
-> she's as horny as a whore.
+> is to make a nice tattoo on the top of your penis.
 >
-> But if she says,
+> For example, a field full of green grass and flowers,
 >
-> "Hurray,
+> or a tree with birds,
 >
-> that's something good,
+> something like that,
 >
-> you'll probably have to spend the night on the couch."
+> so that she doesn't have to look at these terrible blinks anymore.
 >
-> That means,
+> But there is a very simple solution.
 >
-> she's as horny as a whore.
+> You just have to bring a box of crackers.
 >
-> But if she says,
+> And while she's down there,
 >
-> "Hurray,
+> you can just feed her the crackers.
 >
-> that's something good,
+> Because cheese goes well with crackers.
 >
-> you'll probably have to spend the night on the couch."
+> Yes, that's nice.
 >
-> That means,
+> I know now,
 >
-> she's as horny as a whore.
+> no one will get sex tonight.
 >
-> But if she says,
+> We're on the same team now.
 >
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
->
-> That means,
->
-> she's as horny as a whore.
->
-> But if she says,
->
-> "Hurray,
->
-> that's something good,
->
-> you'll probably have to spend the night on the couch."
+> Okay, thank you.

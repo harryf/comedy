@@ -17,67 +17,61 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Comedian #2 is half British, half German.
+> - Comedian number two is half British, half German.
 >
 > 100% confused.
 >
-> What else about him?
+> Okay, what else about him?
 >
 > I need to prepare this intro better.
 >
-> He's also a regular here at Comedy House.
+> So he's also a regular here at Comedy House.
 >
-> It's his 4th time here on this stage, so super happy to have him here.
+> It's his, I think, fourth time here on this stage.
 >
-> Please, make a big round of applause, everybody!
+> He's super happy to have him here.
 >
-> Come on!
+> Please make a big round of applause, everybody.
 >
-> So my name is Harry.
+> Come on.
 >
-> And I suffer from PPS.
+> - So my name is Eric, and I suffer from PPS.
 >
-> That's Perfect Penis Syndrome.
+> That's perfect penis syndrome.
 >
 > And I'm also the most humble person I know.
 >
-> And it's hard, it's really hard to be this humble.
+> And it's hard, it's really hard to be this humble
 >
-> When your penis is this perfect.
+> when your penis is this perfect.
 >
-> Sometimes I go to the supermarket.
+> Sometimes I go to the supermarket,
 >
-> I go into the vegetable section.
+> I go into the vegetable section,
 >
 > I see some cucumbers, I just stare them down.
 >
 > Just to let them know I'm not intimidated.
 >
-> And actually, this has been a big surprise for me.
+> And actually, this has been a big surprise for me
 >
-> Because I only learned that I have PPS last Christmas.
+> because I only learned that I have PPS last Christmas
 >
-> Because I met this lady.
+> because I met this lady, she was a bit of an expert,
 >
-> She was a bit of an expert.
+> expert, if you will.
 >
-> Dixpert, if you will.
+> And when she told me, I was stunned, I was shocked,
 >
-> And when she told me, I was stunned.
->
-> I was shocked.
->
-> Because I needed to have this information 30 years ago.
+> because I needed to have this information 30 years ago.
 >
 > You know, it would have changed everything.
 >
 > It could have changed my whole life.
 >
-> I could have just been like a poor boy.
+> I could have just been like a poor boy
 >
-> Or a pizza delivery guy.
->
-> Maybe a snake charmer.
+> or a pizza delivery guy, maybe a snake charmer, I don't know.
 >
 > Instead, I've spent my whole life working with computers.
 >
@@ -91,780 +85,266 @@ notes: |
 >
 > Give me a round of applause.
 >
-> A big respect to that.
+> And a big respect to that because, you know,
 >
-> Because, you know, I really appreciate that you have come out here.
+> I really appreciate that you have come out here.
 >
-> Hiring a babysitter in this city costs as much as these management consultants.
+> Hiring a babysitter in this city
 >
-> So, I actually really appreciate the effort tonight.
+> costs as much as these management consultants.
+>
+> So I actually really appreciate your effort tonight.
 >
 > No, it's true.
 >
-> So, I'm a single dad.
+> So I'm a single dad.
 >
-> And I have two teenage kids.
+> I have two teenage kids, and they live with me.
 >
-> And they live with me.
+> And living with teenagers is like living
 >
-> And living with teenagers is like living in a student baby as a flight chair.
+> in a student bedroom with a flat chair.
 >
-> Because there's never any milk.
+> 'Cause there's never any milk.
 >
-> It's always a mess.
->
-> And I get to pay for everything.
+> It's always a mess, and I get to pay for everything.
 >
 > It's the shittest flat chair ever.
 >
-> Well, actually, I can imagine one thing even worse might be being a flat chair
+> Although, actually, I can imagine one thing even worse
 >
-> with these embryos.
+> might be being in a flat chair with these umbrellas.
 >
-> Can you imagine when it comes to cleaning up?
+> Can you imagine, when it comes to cleaning up?
 >
 > Hmm, we need a strategy for vacuum cleaning.
 >
-> Like, I'll explain the strategy and you do it.
+> I'll explain the strategy, and you do it,
 >
-> And she'll be like, "No, no, I'm not insured for any vacuum cleaning."
+> and she'll be like, "No, no, I'm not insured
 >
-> That would be that flat chair.
+> "for any vacuum cleaning.
 >
-> No.
+> "That would be that flat chair."
 >
-> But I live with these teenagers.
+> No, but I live with these teenagers, and yeah.
 >
-> And, yeah.
+> And it's been tough, but there is some good news.
 >
-> And it's been tough.
+> There is some amazing news, because tonight,
 >
-> But there is some good news.
+> I get to get some revenge, because they're actually
 >
-> There is some amazing news.
+> both there in the back, my two teenage kids.
 >
-> Because tonight, I get to get some revenge.
+> Give them a little wave.
 >
-> Because they're actually both there in the back.
+> Just to give you some context, two nights ago,
 >
-> My two teenage kids.
+> they basically destroyed our flat.
 >
-> Give it a little wave.
+> There was complete mess.
 >
-> I'll just give you some context.
+> I got back home, pizza boxes.
 >
-> Two nights ago, they basically just came out of the bathroom.
+> It was just a disaster.
 >
-> And they were just sitting there.
+> So tonight, we're gonna have a little discussion,
 >
-> And I was like, "What's going on?"
+> aren't we, guys?
 >
-> And they were like, "What's going on?"
+> So I have a, first I've got a teenage boy.
 >
-> And I was like, "What's going on?"
+> He's 14, and he's having a bit of a tough time right now
 >
-> And they were like, "What's going on?"
+> with the ladies, because he's actually been rejected
 >
-> And I was like, "What's going on?"
+> over 50 times by the same girl.
 >
-> And they were like, "What's going on?"
+> I'm glad you're keeping up the family tradition, then.
 >
-> And I was like, "What's going on?"
+> But I do hope you don't get PPS.
 >
-> And they were like, "What's going on?"
+> And actually, recently, we had a very awkward situation,
 >
-> And I was like, "What's going on?"
+> because I caught him looking at porn.
 >
-> And they were like, "What's going on?"
+> Wow, that's an awkward situation, definitely.
 >
-> And I was like, "What's going on?"
+> Luckily, luckily, I'm a bit of an expert.
 >
-> And they were like, "What's going on?"
+> I could point him at all the best categories.
 >
-> And I was like, "What's going on?"
+> It's important to be a responsible parent.
 >
-> And they were like, "What's going on?"
+> And actually, another thing about my son
 >
-> And I was like, "What's going on?"
+> is he plays a lot of GTA, Grand Theft Auto.
 >
-> And they were like, "What's going on?"
+> Now, some of you who know this game may be thinking,
 >
-> And I was like, "What's going on?"
+> "You can't let him play that.
 >
-> And they were like, "What's going on?"
+> "That's that game where he gets to beat up hookers
 >
-> And I was like, "What's going on?"
+> "and run over old ladies."
 >
-> And they were like, "What's going on?"
+> But you know, I think, I think, actually,
 >
-> And I was like, "What's going on?"
+> GTA is teaching him some important life skills.
 >
-> And they were like, "What's going on?"
+> For example, he's learned to sit in a chair for eight hours
 >
-> And I was like, "What's going on?"
+> without moving, eating, or going to the toilet.
 >
-> And they were like, "What's going on?"
+> Which is clearly great preparation for the future
 >
-> And I was like, "What's going on?"
+> of his life.
 >
-> And they were like, "What's going on?"
+> And also, he plays online.
 >
-> And I was like, "What's going on?"
+> Thank you, Andrea, for saying that.
 >
-> And they were like, "What's going on?"
+> The rest, I've lost them.
 >
-> And I was like, "What's going on?"
+> So I was going to say anything.
 >
-> And they were like, "What's going on?"
+> So he plays online, and one thing I really appreciate
 >
-> And I was like, "What's going on?"
+> as I've come originally from England,
 >
-> And they were like, "What's going on?"
+> is it's radically improved his English.
 >
-> And I was like, "What's going on?"
+> His English has got a lot better.
 >
-> And they were like, "What's going on?"
+> He's learned some key phrases like,
 >
-> And I was like, "What's going on?"
+> "Bitch, I will fuck you up!"
 >
-> And they were like, "What's going on?"
+> "I will piss on you like Donald Trump!"
 >
-> And I was like, "What's going on?"
+> It's great.
 >
-> And they were like, "What's going on?"
+> It makes me feel like we're making good progress.
 >
-> And I was like, "What's going on?"
+> But, you know, we've done, like, the teenage son.
 >
-> And they were like, "What's going on?"
+> Of course, my other kid is the teenage girl.
 >
-> And I was like, "What's going on?"
+> And as a single dad, with a teenage daughter,
 >
-> And they were like, "What's going on?"
+> I'm constantly being confronted with situations
 >
-> And I was like, "What's going on?"
+> that I'm wholly unprepared for.
 >
-> And they were like, "What's going on?"
+> I can feel the tension.
 >
-> And I was like, "What's going on?"
+> That's good.
 >
-> And they were like, "What's going on?"
+> Because I remember this time,
 >
-> And I was like, "What's going on?"
+> this happened a little while ago.
 >
-> And they were like, "What's going on?"
+> I came back from work, I went into the bathroom,
 >
-> And I was like, "What's going on?"
+> and oh my God, it looked like a crime scene.
 >
-> And they were like, "What's going on?"
+> There was a bloody handprint on the mirror.
 >
-> And I was like, "What's going on?"
+> Drops of blood in the sink, more blood on the floor,
 >
-> And they were like, "What's going on?"
+> and that toilet looked like something from a horror movie.
 >
-> And I was like, "What's going on?"
+> And then I heard a screaming, and I looked around,
 >
-> And they were like, "What's going on?"
+> and I realized the screaming was coming from me.
 >
-> And I was like, "What's going on?"
+> And at that moment, my daughter turned up and said,
 >
-> And they were like, "What's going on?"
+> "Hey Dad, I got my period!"
 >
-> And I was like, "What's going on?"
+> So after cleaning up her menstrual blood,
 >
-> And they were like, "What's going on?"
+> yeah, now I have to do that, she's a teenager,
 >
-> And I was like, "What's going on?"
+> she just smeared around and shit,
 >
-> And they were like, "What's going on?"
+> that's unfortunately my job.
 >
-> And I was like, "What's going on?"
+> After that, I said to her, "Hey, can I get you something?"
 >
-> And they were like, "What's going on?"
+> She said, "Dad, get me tampons."
 >
-> And I was like, "What's going on?"
+> Now obviously as a man, this is a job
 >
-> And they were like, "What's going on?"
+> I have zero qualifications for.
 >
-> And I was like, "What's going on?"
+> So I said, "Hey, this can't be so hard."
 >
-> And they were like, "What's going on?"
+> So I went over to Migo, I took a look around,
 >
-> And I was like, "What's going on?"
+> and what I discovered is that tampon product names
 >
-> And they were like, "What's going on?"
+> are useless when it comes to choosing a tampon.
 >
-> And I was like, "What's going on?"
+> Because they have names like OB Pro,
 >
-> And they were like, "What's going on?"
+> and what is that, like professional women
 >
-> And I was like, "What's going on?"
+> that bleed for a living?
 >
-> And they were like, "What's going on?"
+> I think I want that for my daughter.
 >
-> And I was like, "What's going on?"
+> Or Tampax Radiance, like what is this,
 >
-> And they were like, "What's going on?"
+> like glow-in-the-dark tampons, or what is that, I don't know.
 >
-> And I was like, "What's going on?"
+> And what I like the most is Always Infinity.
 >
-> And they were like, "What's going on?"
+> For her vagina, it's an unfillable black hole.
 >
-> And I was like, "What's going on?"
+> But I ended up choosing another product from Always.
 >
-> And they were like, "What's going on?"
+> It's called Always Home by Eleven, wow.
 >
-> And I was like, "What's going on?"
+> This is fantastic.
 >
-> And they were like, "What's going on?"
+> 'Cause it's right about 10 o'clock, it's so sleek,
 >
-> And I was like, "What's going on?"
+> and she's Always Home by Eleven, it's amazing.
 >
-> And they were like, "What's going on?"
+> And for me, as a father, I have to say,
 >
-> And I was like, "What's going on?"
+> it was a very proud moment.
 >
-> And they were like, "What's going on?"
+> Because it's not every day that you get to choose
 >
-> And I was like, "What's going on?"
+> what your daughter crams in her vagina.
 >
-> And they were like, "What's going on?"
+> I had a better response to that than I expected.
 >
-> And I was like, "What's going on?"
+> Thank you very much.
 >
-> And they were like, "What's going on?"
+> All right, well let me just wrap it up by saying this,
 >
-> And I was like, "What's going on?"
+> is that these days, actually, my daughter
 >
-> And they were like, "What's going on?"
+> is currently thinking about becoming,
 >
-> And I was like, "What's going on?"
+> oh, thank you, this guy really gets it.
 >
-> And they were like, "What's going on?"
+> I appreciate it, he must be a dad or something.
 >
-> And I was like, "What's going on?"
+> And no, these days, my daughter's actually thinking
 >
-> And they were like, "What's going on?"
+> about becoming a massage therapist.
 >
-> And I was like, "What's going on?"
+> So this story, at least, does have a happy ending.
 >
-> And they were like, "What's going on?"
+> Give it up to these two guys.
 >
-> And I was like, "What's going on?"
+> I love them, they're lovely people.
 >
-> And they were like, "What's going on?"
+> In this case, thank you.
 >
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
->
-> And they were like, "What's going on?"
->
-> And I was like, "What's going on?"
+> Thank you, Donuts! Thank you, McDonough!

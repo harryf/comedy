@@ -16,446 +16,348 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> One last comedian left, okay?
+> Last comedian left, okay? We're very happy to get him here.
 >
-> We're very happy to get him here.
+> Ladies and gentlemen, the headliner of tonight, this guy is the sexiest guy in Zurich comedy.
 >
-> Ladies and gentlemen, the headliner of tonight.
+> This is his real name, everybody. Give him a big round of applause.
 >
-> This guy is the sexiest guy in Zurich comedy.
+> It's Harry Fox, everybody! Give it up!
 >
-> This is his real name, everybody.
+> So my name is actually Harry Fox. It's a German name, spelled F-O-C-K-S.
 >
-> Give him a big round of applause.
+> I repeat, F-O-C-K-S. But in a room with English speakers like this,
 >
-> It's Harry Fox, everybody.
->
-> Give it up.
->
-> So, my name is actually Harry Fox.
->
-> It's a German name.
->
-> Spelled F-U-C-K-S.
->
-> I repeat, F-U-C-K-S.
->
-> But in a room with English speakers like this,
->
-> I don't know what you think my name is.
->
-> My name is Harry Fox.
->
-> My name is not Harry Fox.
+> a lot of you think my name is Harry Fox. My name is not Harry Fox.
 >
 > And in my family, when we have a family get-together,
 >
 > we get very upset when you call us a group of fuckers.
 >
-> And I have two kids.
+> And I have two kids. I had to call them Halver and Whather.
 >
-> I had to call them Halver and Wotther.
+> But you see, the real problem with a name like Harry Fox is it sets a very high level of
 >
-> But you see the real problem, the real problem with a name like Harry Fox
+> expectation.
 >
-> is it sets a very high level of expectation.
+> And honestly, I've really only done about this much fucking, but honestly it was...
 >
-> And honestly, I've really only done about this much fucking.
->
-> But honestly, it was...
->
-> In fact, recently, if I can share this with you,
->
-> it has been a long time since I've had sex.
+> In fact, recently, if I can share this with you, it has been a long time since I've had sex.
 >
 > Put your hands up if you haven't had sex in a long time.
 >
-> *laughter*
+> Okay, we have IT people here. There's more at the back of their line.
 >
-> Okay, we have IT people here.
->
-> There's more at the back, they're lying.
->
-> Julian here's hoping he can end a long dry spell.
->
-> *laughter*
+> Julian here is hoping he can end a long dry spell.
 >
 > But it looks like Victoria's been having a lot of fun on Tinder recently.
 >
-> *laughter*
+> But you know, maybe I need to explain this to these guys,
 >
-> Oh dear.
->
-> But, you know, maybe I need to explain this to these guys
->
-> because this seems to be the Zurich nymphomaniacs on this meter.
->
-> *laughter*
+> because this seems to be the Zurich Nymphomaniacs anonymous heater.
 >
 > So to help you guys understand my condition and all the rest of you,
 >
-> you know, when you haven't had sex for a long time,
+> you know, when you haven't had sex for a long time, it's kind of like you're hallucinating.
 >
-> it's kind of like you're hallucinating.
+> Because, you know, you could be like walking down the streets and
 >
-> *laughter*
->
-> Because, you know, you could be like walking down the streets
->
-> and you see a couple of dogs and they're sniffing each other's asses.
->
-> *laughter*
+> you see a couple of dogs and they're sniffing each other's asses.
 >
 > And you think, "I wish that was me."
 >
-> *laughter*
+> Or you go into Migros, you spell an "acción" on watermelon.
 >
-> Or you go into Migo, you spell an acción on watermelon.
+> You get one hand on that watermelon, maybe two.
 >
-> *laughter*
+> It's like you're in a new dimension.
 >
-> You get one hand on that watermelon, maybe two, *bang*
+> It's just you and that watermelon. It's getting hot.
 >
-> it's like you're in a new dimension.
+> It's getting steamy. You're oblivious to all the people watching.
 >
-> *laughter*
+> And then you hear this voice saying, "You got my enchantments!"
 >
-> It's just you on that watermelon, it's getting hot, it's getting steamy,
+> And you look and there's an old lady about to hit you with a handbag.
 >
-> you're oblivious to all the people watching.
->
-> And then you hear this voice saying, "You're my man's shaman, Zizek!"
->
-> *laughter*
->
-> And you look and there's an old lady about to hit you with her handbag
->
-> and you think, "She's nice."
->
-> *laughter*
+> And you think, "She's nice."
 >
 > So that's how it is for me.
 >
-> *laughter*
+> But, you know, actually, recently something strange happened.
 >
-> But you know, actually, recently something strange happened.
+> Because I was walking down Bahnerstrasse,
 >
-> Because I was walking down Bar Neshtar, over there in the cool part of Zurich
->
-> where the hipsters live.
+> like over there in the cool part of Zurich where the hipsters live.
 >
 > And this young man came past me on his bicycle, on his hipster bicycle.
 >
 > And he looked me in the eye and did this.
 >
-> *laughter*
->
-> Now, at first, I was actually kind of impressed.
->
-> He was right next to the tram tracks.
+> Now, at first, I was actually kind of impressed because he was right next to the tram tracks.
 >
 > He pulled that off without wiping out.
 >
-> *laughter*
->
-> But then I thought, "Wait a second, this young man is completely right."
->
-> *laughter*
+> But then I thought, "Wait a second. This young man is completely right."
 >
 > Because I am a first-class masturbator.
 >
-> *laughter*
->
 > My hand and my penis is a love affair of over 40 years.
->
-> *laughter*
 >
 > It's longer than most of you have been on the planet.
 >
-> *laughter*
->
 > Okay, there's Alex here.
 >
-> *laughter*
+> His is in retirement, I understand.
 >
-> His is in retirement.
+> But, you know, and actually when I think about it, like my hand, you know,
 >
-> I understand that.
+> it just knows amazing things about my penis.
 >
-> *laughter*
+> And it's reached the point that sometimes if I go on a date with a woman,
 >
-> But, you know, and actually, when I think about it, like, my hand, you know, it
->
-> just knows amazing things about my penis.
->
-> And it's reached the point that sometimes if I go on a date with a woman, I
->
-> think, "She's kind of cute. But could she be my hand?"
->
-> *laughter*
+> I think, "She's kind of cute, but could she be my hand?"
 >
 > Because my hand is not trying to post every moment on Instagram.
 >
 > My hand doesn't want to take me to brunch.
 >
-> *laughter*
->
 > My hand is not hoping for babies one day.
->
-> *laughter*
 >
 > So when I look at my hand, I just think, "It's kind of perfect."
 >
-> Like, if I bring it together with the other, I've got a ten.
+> Like, if I bring it together with the other, I've got a 10.
 >
-> *laughter*
+> But, you know, it's kind of a strange situation to be in because,
 >
-> But, you know, it's kind of a strange situation to be in because, you know, I've
+> you know, I've actually started to think at this point in my life,
 >
-> actually started to think at this point in my life, "Maybe, maybe I don't
+> "Maybe, maybe I don't actually need a woman in my life."
 >
-> actually need a woman."
+> You know, that's a shocking concept.
 >
-> Now, that's a shocking concept, but, you know, I have to give you a bit of
+> You know, I have to give you a bit of context because I'm actually a single father.
 >
-> context because I'm actually a single father.
+> I have two teenage kids.
 >
-> I have two teenage kids. They live with me. I have a career. I do comedy.
+> They live with me.
 >
-> Where am I going to fit a woman into this hectic schedule of working and
+> I have a career.
 >
-> parenting and jacking off?
+> I do comedy.
 >
-> *laughter*
+> Where am I going to fit a woman into this hectic schedule
 >
-> You know, and recently, I went to this parents' evening with my son.
+> of working and parenting and jacking off?
 >
-> And I met this single mum, and when I told her I'm a single dad, she
+> You know, and recently, I went to this parents' evening at my son's school.
 >
-> immediately started to tell me how to cook pasta.
+> And I met this single mum.
 >
-> *laughter*
+> And when I told her I'm a single dad,
+>
+> she immediately started to tell me how to cook pasta.
 >
 > And I thought, "Oh my God, this asshole is mumsplaining me right now."
 >
-> *laughter*
+> But I didn't say that, of course.
 >
-> But I didn't say that, of course. I was like, "Hmm, okay. That's a very
+> I was like, "Hmm, okay, that's a very interesting pasta tip."
 >
-> interesting pasta tip."
+> But then she said something to me that blew my mind.
 >
-> *laughter*
+> She said, "Maybe, just maybe, you need a woman in your life."
 >
-> But then she said something to me that blew my mind. She said, "Maybe."
+> And I thought to myself, "Hmm, that's very interesting.
 >
-> "Just maybe, you need a woman in your life."
+> And maybe it isn't you."
 >
-> And I thought to myself, "Hmm, that's very interesting. And maybe it isn't you."
+> And you see, you know, this is kind of the situation I'm in
 >
-> *laughter*
+> because, you know, I've been in a long-term relationship for almost 20 years.
 >
-> And you see, you know, this is kind of the situation I'm in because, you know,
+> And, you know, it was a breakup of kind of a year ago.
 >
-> I've been in a long-term relationship for almost 20 years.
+> And, you know, actually, when I think about it,
 >
-> And, you know, it was a breakup a year ago. And, you know, actually when I
->
-> think about it,
->
-> I have a lot of experience what it's like to live with women.
+> I have a lot of experience of what it's like to live with women.
 >
 > And I have to say that living with a woman is hard.
 >
-> *laughter*
+> Okay, I'm sending a lot of tension in this room.
 >
-> Okay, I'm setting a lot of tension in this room.
+> There's a lot of tension.
 >
-> *laughter*
+> There are boyfriends with a girl like, "Don't tell her, don't tell her.
 >
-> There's a lot of tension. There are boyfriends with a girl like, "Don't tell
+> This row at the front is glaring."
 >
-> her. Don't tell her. This row at the front is glaring."
+> No, but let me just say this.
 >
-> *laughter*
+> Let me just say this.
 >
-> No, but let me just say this. Let me just say this. I don't hate women. I think
+> I don't hate women.
 >
-> women are wonderful.
+> I think women are wonderful.
 >
-> But living with a woman is kind of hard.
+> But living with a woman is kind of like living with a werewolf.
 >
-> It's kind of like living with a werewolf.
+> Because once a month, your darling, your beautiful woman,
 >
-> Because once a month, your darling, your beautiful woman will transform into
+> will transform into this terrifying monster.
 >
-> this terrifying monster.
+> There's going to be blood everywhere.
 >
-> There's going to be blood everywhere, and she's growling at you because you put
+> And she's growling at you because you put a sock in the wrong drawer.
 >
-> a sock in the wrong drawer.
+> All right, we're going to have a few of the guys,
 >
-> *laughter*
+> like, they're going to fight for their rights, laughing.
 >
-> Alright, we're going to have a few of the guys that are going to fight for
->
-> their rights laughing.
->
-> I need all the support right now.
+> We're going to need all the support right now.
 >
 > I'm terrified at this moment.
 >
-> Because, you know, actually the thing that
+> Because, you know, actually, the thing that gets me now is, you know, living singly.
 >
-> gets me now is, you know, living singly, like, once I got used to it, I'm
->
-> actually starting to kind of like it.
+> Like, once I got used to it, I actually started to kind of like it.
 >
 > Because, you know, in the evening, if I want to do something, I just do it.
 >
-> It's incredible. It's like 20 years. I couldn't do this. Now I can just do it.
+> It's incredible.
+>
+> It's, like, 20 years.
+>
+> I couldn't do this.
+>
+> Now I can just do it.
 >
 > I'm no longer spending my evenings on the sofa watching romantic comedies.
 >
-> A new girl. I got to watch The Punisher on the day it came out.
+> And you go, I got to watch The Punisher on the day it came out.
 >
-> It's reached the point where, you know, when I'm standing there in front of my
+> Yeah, and it's reached the point where, you know,
 >
-> toilet with the seat up and I'm feeling that warm, wet, freedom spray hitting
+> when I'm standing there in front of my toilet with the seat up,
 >
-> my legs,
+> and I'm feeling that warm, wet, freedom spray hitting my face,
 >
-> I just think, "I'm living a dream right now. I'm living it."
+> I just think, I'm living a dream right now.
 >
-> Alright, so, judging from the faces of all the women, I'm going to need an
+> I'm living it.
 >
-> escort from all the guys here to leave this place safely.
+> All right, so judging from the faces of all the women,
 >
-> Maybe I can wrap this up with
+> I'm going to need an escort from all the guys here to leave this place safely.
 >
-> a more friendly, a joke that might appeal more to you ladies.
+> Maybe I can wrap this up with a more friendlier,
 >
-> Because, you know, I am a single dad and I have a teenage daughter and she
+> a joke that might appeal more to you ladies.
 >
-> matters a lot to me.
+> Because, you know, I am a single dad, and I have a teenage daughter,
 >
-> But being a single dad with a teenage daughter, I am constantly being
+> and she matters a lot to me.
 >
-> confronted with situations I'm just not prepared for.
+> But being a single dad with a teenage daughter,
 >
-> Like recently, I came back from work. I went into the bathroom and, oh my god,
+> I am constantly being confronted with situations I'm just not prepared for.
 >
-> it looked like a crime scene.
+> Like recently, I came back from work.
 >
-> There was a bloody handprint on the mirror.
+> I went into the bathroom, and oh my god, it looked like a crime scene.
 >
-> Drops of blood in the sink, more blood on the floor and the toilet looked like
+> There was a bloody handprint on the mirror,
 >
-> something from a horror movie.
+> drops of blood in the sink,
 >
-> And then I heard a screaming and I looked around and I realized the screaming
+> more blood on the floor,
 >
-> was coming from me.
+> and the toilet looked like something from a horror movie.
 >
-> And at that moment, at that moment, my daughter turned up and she said, "Hey
+> And then I heard a screaming, and I looked around,
 >
-> dad, I got my period."
+> and I realized the screaming was coming from me.
 >
-> And I was like, okay. After cleaning up her menstrual blood, I said,
+> And at that moment, at that moment, my daughter turned up,
 >
-> "Hey, can I get you something?"
+> and she said, "Hey dad, I got my period."
+>
+> And I was like, okay, after cleaning up her menstrual blood,
+>
+> I said, "Hey, can I get you something?"
 >
 > And she said, "Dad, get me tampons."
 >
-> And I thought, obviously as a man I'm not qualified for this at all, but I
+> Now I thought, obviously as a man, I'm not qualified for this at all,
 >
-> thought this can't be so hard.
+> but I thought this can't be so hard.
 >
-> So I went over to Migros again, wearing the wig.
+> So I went over to Mika again, wearing the wig,
 >
-> And I took a look around and what I discovered is that tampon product names are
+> and I took a look around,
 >
-> exactly no use whatsoever when it comes to choosing a tampon.
+> and what I discovered is that tampon product names
 >
-> Because they have names like OB Pro.
+> are exactly no use whatsoever when it comes to choosing a tampon.
 >
-> Like, what is this, for professional women that bleed for a living?
+> Because they have names like OB-PRO.
 >
-> I don't think I want that for my daughter.
+> Like, what is this?
+>
+> For professional women that bleed for a living?
+>
+> I think I want that for my daughter.
 >
 > Or Tampax Radiance.
 >
-> We're talking like, what, glow-in-the-dark tampons, so when the lights are off?
+> We're talking like, what, glow-in-the-dark tampons?
+>
+> When the lights are off?
 >
 > I'm just confused.
 >
 > One I thought was very creative was Always Infinity.
 >
-> For when your vagina is an unfittable black hole.
+> For when your vagina is an unfitable black hole.
 >
-> But I ended up choosing another product by Always Infinity.
+> But I ended up choosing another product by Always.
 >
-> It's actually called Always Home by Eleven.
+> It's actually, it's called Always Home by Eleven.
 >
 > It is amazing.
 >
-> Around about 10 o'clock it starts to leak and she is always home by eleven.
+> Round about 10 o'clock, it starts to leak,
 >
-> And for me this whole experience as a father, it was a very positive one, I was
+> and she is always home by eleven.
 >
-> very proud.
+> And for me, this whole experience as a father,
 >
-> Because it's not every day that you get to choose what your daughter crams in
+> it was a very positive one.
 >
-> her vagina.
+> I was very proud.
 >
-> It's not every day that you get to choose what your daughter crams in her
+> Because it's not every day that you get to choose
 >
-> vagina.
+> what your daughter crams in her vagina.
 >
-> It's not every day that you get to choose what your daughter crams in her
+> All right.
 >
-> vagina.
+> Security, can someone escort me out of the building, please?
 >
-> It's not every day that you get to choose what your daughter crams in her
+> All right.
 >
-> vagina.
+> Ladies, just forget this ever happens.
 >
-> It's not every day that you get to choose what your daughter crams in her
+> Just have a nice dream tonight, and it will all be over.
 >
-> vagina.
+> Thank you, guys.
 >
-> It's not every day that you get to choose what your daughter crams in her
+> You've been a lot of fun.
 >
-> vagina.
+> That was Harry Fox, everybody.
 >
-> It's not every day that you get to choose what your daughter crams in your
+> Give it up again for him.
 >
-> vagina.
+> Yes.
 >
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
->
-> It's not every day that you get to choose what your daughter crams in your
->
-> vagina.
+> Ladies and gentlemen, we've made it to the end of the Starz X Comic Con.

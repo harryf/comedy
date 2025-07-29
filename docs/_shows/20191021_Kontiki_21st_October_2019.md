@@ -16,359 +16,249 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> ...act of the night!
+> of the night. All right, all right. That was what I was hoping for.
 >
-> Alright, alright, that was what I was hoping for.
+> It's not worth it. Let's try that again.
 >
-> It's not weird, let's try that again.
+> He's one of the sexiest people
 >
-> He's one of the sexiest people that does Swiss comedy.
+> that does Swiss comedy. So one more time, please welcome to the stage, ladies and gentlemen,
 >
-> So one more time, please welcome to the stage, ladies and gentlemen, Mr. Harry
+> Mr. Harry Fox.
 >
-> Fox!
+> So my name is actually Harry Fux.
 >
-> So my name is actually Harry Fuchs, it's a German name, spelled F-U-C-K-S, I
+> It's a German name.
 >
-> repeat, F-U-C-K-S.
+> Spelled F-U-C-K-S. I repeat, F-U-C-K-S.
 >
-> But in this room of English speakers, you'll think my name is Harry Fuchs.
+> But in this room of English speakers, you'll think my name is Harry Fux.
 >
-> My name is not Harry Fuchs.
+> My name is not Harry Fux.
 >
-> And in my family, we get very upset when we have a family get-together, and you
+> And in my family, we get very upset when we have a family get-together.
 >
-> call us
->
-> a group of fuckers.
+> And you call us a group of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them Halbert and Wotbert.
+> I had to call them Halba and Watba.
 >
-> But the problem with a name like Harry Fuchs is it sets a very high level of
+> But the problem with a name like Harry Fux is it sets a very high level of expectation.
 >
-> expectation.
+> And, you know, if my name was actually Harry Fux, I would have come on stage here tonight and been
 >
-> And, you know, if my name was actually Harry Fuchs, I would have come on stage
+> like,
 >
-> here tonight
+> "Yo, what's up, man? Harry Fux in the house!"
 >
-> and been like, "Yo, what's up, man, Harry Fuchs in the house!"
+> But that's not really me. I'm kind of quiet.
 >
-> But that's not really me, I'm kind of quiet.
+> And, you know, sometimes people say stupid things to me.
 >
-> And, you know, sometimes people say stupid things to me, like recently this
->
-> American
->
-> tourist came up to me because, you know, Americans are stupid.
+> Like recently, this American tourist came up to me because, you know, Americans are stupid.
 >
 > He's not going to react over that.
 >
-> So, and he came up and he said, "Yo, what's up, man?
+> And he came up and he said, "Yo, what's up, man? Harry Fux. Harry Fux what, man?"
 >
-> Harry Fuchs.
+> I'm like, "What?" And he's like, "Exactly. Harry Fux what?"
 >
-> Harry Fuchs what, man?"
+> And I'm like, "I don't know. Let me throw him off with some adverbs."
 >
-> And I'm like, "What?"
+> Like, Harry Fux hopefully.
 >
-> And he's like, "Exactly.
+> Harry Fux occasionally.
 >
-> Harry Fuchs what?"
+> Harry does fuck enthusiastically.
 >
-> And I'm like, "I don't know.
+> He's like, "No, man. No. Harry Fux goats, man. Harry Fux chickens. Harry Fux tigers."
 >
-> Let me throw him off with some adverbs."
+> Now, I don't know about you, but I'm pretty sure that in the entire history of mankind,
 >
-> And he's like, uh, "Harry Fuchs hopefully, Harry Fuchs occasionally, Harry does
+> no one has ever successfully fucked a tiger.
 >
-> Fuchs
+> And it actually made me realize that there is a whole category of unfuckable animals.
 >
-> enthusiastically."
+> Like take hippos, for example. You may get up behind a hippo and think, "Hmm, that is a sweet ass."
 >
-> He was like, "No, man, no.
->
-> Harry Fuchs goats, man, Harry Fuchs chickens, Harry Fuchs tigers."
->
-> Now, I don't know about you, but I'm pretty sure that in the entire history of
->
-> mankind,
->
-> no one has ever succeeded.
->
-> Harry Fuchs successfully fucked a tiger.
->
-> And it actually made me realize that there is a whole category of unfuckable
->
-> animals.
->
-> Like, take hippos, for example.
->
-> You may get up behind a hippo and think, "Mmm, that is a sweet ass."
->
-> Don't do it, because hippos, hippos are the most dangerous land animal.
+> Don't do it. Because hippos are the most dangerous land animal.
 >
 > They kill about 500 people every year in Africa.
 >
 > Do not fuck with hippos.
 >
-> Or elephants.
+> Or elephants, you know. Elephants, because it's just too high up.
 >
-> You know, elephants, because it's just too high up.
+> Can't reach.
 >
-> They can't reach.
+> But maybe if the mum isn't looking, you could probably fuck a baby elephant.
 >
-> Yeah, but maybe if the mum isn't looking, you could probably fuck a baby
+> Alright, okay. I'm just finding your level. I see you're okay with bestiality.
 >
-> elephant.
->
-> All right, okay.
->
-> I'm just finding your level.
->
-> I see you're okay with bestiality, not pedophile bestiality.
+> Not pedophile bestiality.
 >
 > I'll try and stay away from that.
 >
-> But let me just share, like, I'm having a bit of a hard time at the moment,
+> But let me just share. I'm having a bit of a hard time at the moment.
 >
-> because
->
-> honestly, let me share that it's been a long time since I've had sex.
+> Because, honestly, let me share that it's been a long time since I've had sex.
 >
 > Can I give you my number?
 >
-> Shit, shit, that's why it happens to me.
+> Shit, shit, that's what happens to me.
 >
 > But put your hand up if you haven't had sex in a long time.
 >
-> Come on, you three guys, did you have sex together before this?
+> Come on, you three guys.
+>
+> Did you have sex together before this?
 >
 > No, they haven't had sex.
 >
-> Anyway, okay, for the rest of you, I didn't realize tonight is the Zurich Newfoundland.
+> Okay, for the rest of you, I didn't realise tonight is the Zurich Nymphomaniacs Anonymous meet-up.
 >
-> For Maniacs Anonymous, we'll tell.
+> So to help you understand my situation.
 >
-> So to help you understand, like, my situation, you know, when you haven't had
->
-> sex in a long
->
-> time, it's kind of like you're hallucinating.
+> When you haven't had sex in a long time, it's kind of like you're hallucinating.
 >
 > You could be walking down the street.
 >
-> You see a couple.
->
-> Yeah, she.
+> You see a couple...
 >
 > Someone needs to take care of this lady.
 >
 > I'll do it for you.
 >
-> All right, no.
->
 > You could be walking down the street.
 >
-> You see a couple of dogs sniffing.
->
-> They're sniffing each other's asses.
+> You see a couple of dogs sniffing each other's asses.
 >
 > You look at them and you think, "I wish that was me."
 >
-> Or you go into Migros and you spot a special offer on watermelon.
+> Or you go into Negro and you spot a special offer on watermelon.
 >
-> You get one hand on that watermelon, maybe two, and bam, it's like you're in a
+> You get one hand on that watermelon, maybe two.
 >
-> new dimension.
+> It's like you're in a new dimension.
 >
-> It's just, you're on that watermelon, it's getting hot, it's getting steamy,
+> It's getting hot, it's getting steamy, you're oblivious to all the people watching you.
 >
-> you're oblivious
+> And then you hear this voice saying, "Junge Mann, schämen Sie sich nicht!"
 >
-> to all the people watching you, and then you hear this voice saying, "You're a
+> And you look and there's an old lady about to hit you with her handbag.
 >
-> man shaming
+> And you look at her and think, "She's nice."
 >
-> me."
+> That's how it is.
 >
-> And you look, and there's an old lady about to hit you with a handbag, and you
+> Actually, at the moment, it's not just hard for me, it's hard for women when it comes to dating.
 >
-> look at
+> I read this statistic recently and it said that in the age range 20 to 40,
 >
-> her and think, "She's nice."
+> in the last three months, almost 50% of men sent a dick pic to somebody.
 >
-> Yeah, that's how it is.
->
-> But, you know, I think it's actually at the moment, it's not just hard for me,
->
-> it's hard
->
-> for women when it comes to dating, because I read this statistic recently, and
->
-> it said
->
-> that in the age range 20 to 40, in the last three months, almost 50 percent of
->
-> women are
->
-> going to have men send a dick pic to somebody.
->
-> Yeah, that's an incredible number.
+> That's an incredible number.
 >
 > Daniela, did Alex send you a dick pic?
 >
-> I mean, when I look at that hairstyle, I'm getting big dick energy off this.
+> I mean, when I look at that hairstyle, I'm getting big dick energy.
 >
-> Are you sure?
+> Are you sure? What about you, Anna? No dick pics?
 >
-> What about you, Anna?
+> It's very disappointing. Well, these are some good guys.
 >
-> No dick pics?
+> But maybe for the rest of you ladies, 50% is a hard number to visualize.
 >
-> It's very disappointing.
+> So let me help you with that.
 >
-> Well, these are some good guys, but maybe for the rest of you ladies, 50
+> If you gave your number to ten guys in this room,
 >
-> percent is
+> at Christmas time, you have a stack of five dicks on your phone.
 >
-> a hard number to visualize, so let me help you with that.
+> And you can print them out, use them as Christmas cards, hang them from your Christmas tree.
 >
-> If you gave your number to 10 guys in this room, by Christmas time, you have a
->
-> stack
->
-> of five dicks on your phone, and you can print them out, use them as Christmas
->
-> cards, hang
->
-> them from your Christmas tree, you know, there's so much you can do.
+> There's so much you can do.
 >
 > Personally, though, I don't send dick pics myself.
 >
-> Now, that's not because I'm better than that, but it's because taking a quality
+> That's not because I'm better than that, but it's because taking a quality dick pic is hard.
 >
-> dick
+> There's a lot to think about.
 >
-> pic is hard.
+> You've got the lighting, do we go for some mellow tones to bring out the fleshy colors?
 >
-> You know, there's a lot to think about.
+> Something more red and erotic.
 >
-> You know?
+> What about props? Do I need to put some roses around here, make it a bit romantic?
 >
-> Do we go for some mellow tones to bring out the fleshy colors, maybe something
+> Kind of danger of pricking my dick? I don't know.
 >
-> more red
+> But the hardest part is the angle, because it's a selfie.
 >
-> and erotic?
+> Do you take it from here, or here, or under there?
 >
-> What about props?
+> I don't know. But luckily, I'm a bit of an entrepreneur.
 >
-> Do I need to put some roses around here, make it a bit romantic, in a danger of
+> That's why I invented the Dick Pic Selfie Stick.
 >
-> breaking
+> You can get it on dickpicselfiesick.com tonight, $29.99 special offer to all of you.
 >
-> my dick?
+> Alright, so, as we have a lot of people here from Tinder and Bumble,
 >
-> I don't know.
+> I thought maybe I'd just tell you a bit more about my dating life.
 >
-> But the hardest part is the angle, because this is a selfie, you know.
+> I was in a long-term relationship for almost 20 years.
 >
-> Do you take it from here, or here, or like under there?
+> And then, for the last year or so, I've been single.
 >
-> I don't know.
->
-> But luckily, I'm a bit of an entrepreneur.
->
-> That's why I invented the dick pic selfie stick.
->
-> You can get it on dick pics.
->
-> Dickpicselfiesick.com tonight, $29.99, special offer to all of you.
->
-> All right.
->
-> So, you know, as we have a lot of people here from Tinder and Bumble, I thought
->
-> maybe I'd
->
-> just tell you a bit more about my dating life.
->
-> Because I was in a long-term relationship for, like, almost 20 years.
->
-> And then, like, for the last year or so, I've been single.
->
-> And, you know, being single is hard.
->
-> But I thought, maybe, maybe Tinder could be the answer.
+> Being single is hard, but I thought maybe Tinder could be the answer.
 >
 > How wrong I was.
 >
-> Because, like, 20 years ago, we didn't have Tinder, you know.
+> Because 20 years ago, we didn't have Tinder.
 >
-> But now, like, for you guys on these dates, you know, Tinder is an amazing
+> But now, for you guys on these dates, Tinder is an amazing place.
 >
-> place.
->
-> Because you get to swipe your way through, like, hot, sexy bodies and potential
->
-> erotic
->
-> encounters.
+> Because you get to swipe your way through hot, sexy bodies and potential erotic encounters.
 >
 > And the dream that your perfect guy, your prince, might be in here.
 >
 > But for me, Tinder over 40 is a dark place.
 >
-> I have to swipe.
->
 > I have to swipe my way through broken marriages, drug and alcohol problems,
 >
-> faded tattoos saying,
->
-> "No regrets!"
+> faded tattoos saying, "No regrets!"
 >
 > It's brutal.
 >
-> And, you know, it makes me wonder, like, ladies, what happens to you in the
->
-> next 10 to 15 years
+> And it makes me wonder, like, ladies, what happens to you in the next 10 to 15 years
 >
 > that leads to your lives being ruined?
 >
-> Is it that prince like Alex you find on Tinder?
+> Is it that prince, like Alex, you find once in a while?
 >
 > I don't know.
 >
 > I don't know.
 >
-> Because, you know, the hard part about all the Tinder voters is that all the
+> Because, you know, the hard part about all the Tinder, though,
 >
-> women there are
+> is that all the women, they're oddly specific about what they don't want in their next relationship.
 >
-> oddly specific about what they don't want in their next relationship.
+> Because, like, swipe left, they go, "Swipe left if you hate my children."
 >
-> Because, like, swipe left, they go, "Swipe left if you hate my children.
+> "Swipe left if you're planning to run off with my sister."
 >
-> Swipe left if you're planning to run off with my sister.
->
-> Swipe left if you fantasize about adult diapers."
+> "Swipe left if you fantasize about adult diapers."
 >
 > Yeah, it's really tough stuff.
 >
-> But, you know, to me, the scariest thing, the scariest thing about all the
+> But, you know, to me, the scariest thing, the scariest thing about all the Tinder
 >
-> Tinder is
+> is the sight of a 50-year-old woman making a duck face.
 >
-> the sight of a 50-year-old woman making a diaper.
->
-> A duck face.
->
-> I mean, how the fuck do you get to 50 and still think that duck faces are still
->
-> okay?
+> I mean, how the fuck do you get to 50 and still think that duck faces are still okay?
 >
 > The only time a duck face is ever okay is if both your parents are ducks.
 >
@@ -378,85 +268,67 @@ notes: ""
 >
 > But recently, I got a message from a lady.
 >
-> She was 52, and she said, "With those cute blue eyes, how is it you are still
+> She was 52.
 >
-> running
+> And she said, "With those cute blue eyes, how is it you are still running around free?"
 >
-> around free?"
->
-> Now, for her, that wasn't art.
->
-> For me, that was a, "What the fuck?"
+> Now, for her, that was an "ah," for me, that was a "what the fuck?"
 >
 > Because that is the worst pick-up line I've ever heard.
 >
 > Can you imagine if I said that to any woman here?
 >
-> "You shouldn't be running around free.
+> "You shouldn't be running around free."
 >
-> You should be tied up in my dungeon."
+> "You should be tied up in my dungeon."
 >
 > It's completely fucked up.
 >
-> And what it made me realize is that all the women, all the women, they don't
+> And what it made me realize is that all the women,
 >
-> really know
->
-> how to chat up men, you know?
+> all the women, they don't really know how to chat up men.
 >
 > Because all these years, men have been making all the effort.
 >
 > Men have been coming up to them.
 >
-> But now, you know, men aren't showing so much interest because things are
+> But now, men aren't showing so much interest because things are getting a bit saggy.
 >
-> getting a bit
+> And so, they have zero game.
 >
-> saggy.
->
-> And, you know, so they have zero game.
->
-> And the other thing that I read is that as women get older, they actually get
->
-> hornier.
+> And the other thing that I read is that as women get older, they actually get hornier.
 >
 > So as you get older, your sex drive increases.
 >
-> So that means they have zero game, they're super horny, and no one really wants
+> So that means they have zero game, they're super horny,
 >
-> to fuck
+> and no one really wants to fuck them.
 >
-> them.
+> I know, it's terrible, but I thought, "I can fix this."
 >
-> I know, it's terrible, but I thought I can fix this.
+> All I need is to find another group that has zero game,
 >
-> All I need is to find another group that has zero game, is super horny, and
->
-> that no one
->
-> wants to fuck.
+> is super horny, and that no one wants to fuck.
 >
 > Teenage boys.
 >
 > We need an app for the older ladies.
 >
-> We call it Teen Dog.
+> We call it Teendar.
 >
-> That's the solution for this guy.
->
-> All right, I think on this dark note, I'm probably done here.
+> Alright, I think on this dark note, I'm probably done here.
 >
 > You good?
 >
 > Yeah.
 >
-> All right, Harry Fox, everyone.
+> Alright, Harry Fox, everyone.
 >
 > Thank you, guys.
 >
-> All right.
+> Alright.
 >
-> Teen Dog.
+> Teendar.
 >
 > Get on it, you guys.
 >
@@ -464,28 +336,20 @@ notes: ""
 >
 > Medical science people, you can take care of that for us, right?
 >
-> Lucien's already making it.
+> Lucian's already making it.
 >
-> He's like, I've done what?
->
-> All right, we made it.
->
-> We made it to the end.
+> Alright, we made it to the end.
 >
 > You guys have been a fucking amazing audience.
 >
 > Thank you for staying to the end of that.
 >
-> We had all the zig zags.
->
-> You guys were brilliant.
+> ZigZag, you guys were brilliant.
 >
 > This show is here every Tuesday night.
 >
-> Every Tuesday, you can come back, bring it on the second date.
+> Every Tuesday you can come back, bring him on the second date.
 >
 > Maybe, who knows?
 >
-> Who knows?
->
-> All right.
+> Alright, I got hopes for you guys.

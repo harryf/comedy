@@ -17,306 +17,236 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Yo, give it up for Jen Nash, everybody!
+> Yo, give it up for Janesh, everybody!
 >
-> Cool, guys, we have one more comedian in the first half.
+> Cool, guys. We have one more comedian in the first half.
+>
+> Uh...
 >
 > You guys don't give a fuck. This is awesome.
 >
 > He's probably one of the sexiest comedians I've ever seen in my entire life.
 >
-> Give it up for Harry Fox, everybody!
+> Uh... give it up for Harry Fuchs, everybody!
 >
 > So my name is actually Harry Fuchs.
 >
-> It's a German name, spelled F-U-C-K-S.
+> It's a German name.
 >
-> I repeat, F-U-C-K-S.
+> Spelled F-U-C-K-S. I repeat, F-U-C-K-S.
 >
-> But when I'm in a room with English speakers like this, a lot of you think my
+> But when I'm in a room with English speakers like this, a lot of you think my name is Harry Fuchs.
 >
-> name is Harry Fox.
+> My name is not Harry Fuchs.
 >
-> My name is not Harry Fox.
+> Because in my family, when we have a family get-together,
 >
-> Because in my family, when we have a family get-together, we get very upset
->
-> when you call us a group of fuckers.
+> we get very upset when you call us a group of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them how-the and what-the.
+> I had to call them Halver and Walther.
 >
-> But you see, the real problem with a name like Harry Fuchs is I get a lot of
+> But you see, the real problem with a name like Harry Fuchs is I get a lot of stupid comments.
 >
-> stupid comments.
+> Recently, this guy came up to me and he was like,
 >
-> Like, recently this guy came up to me and he was like, "Yo, what's up, man?
+> "Yo, what's up, man? Harry Fuchs! Harry Fuchs what, man?"
 >
-> Harry Fuchs! Harry Fuchs what, man?"
+> And I'm like, "What?" And he's like, "Exactly! Harry Fuchs what?"
 >
-> And I'm like, "What?"
+> And I'm like, "OK."
 >
-> And he's like, "Exactly! Harry Fuchs what?"
+> I think I can throw him off with some adverbs like, uh...
 >
-> And I'm like, "Okay."
->
-> I think I can throw him off with some adverbs like, uh, "Harry Fuchs hopefully."
+> "Harry Fuchs hopefully."
 >
 > "Harry Fuchs occasionally."
 >
 > "Harry Fuchs enthusiastically."
 >
-> And he's like, "No, man, no. I mean Harry Fuchs goats, man. Harry Fuchs
+> And he was like, "No, man. No."
 >
-> chickens. Harry Fuchs tigers."
+> "I mean, Harry Fuchs goats, man. Harry Fuchs chickens. Harry Fuchs tigers."
 >
-> Now, I don't know about you.
+> Now, I don't know about you, but I'm pretty sure that in the entire history of mankind,
 >
-> But I'm pretty sure that in the entire history of mankind, no one has ever
+> no one has ever successfully fucked a tiger.
 >
-> successfully fucked a tiger.
->
-> In fact, in fact, this made me realize that there is a whole category of unfuckable
->
-> animals.
+> In fact, this made me realize that there is a whole category of unfuckable animals.
 >
 > Like hippos, for example.
 >
-> Now, you, you might get up behind a hippo and be like, "Ooh, that is a sweet
+> Now, you might get up behind a hippo and be like, "Mmm, that is a sweet ass."
 >
-> ass."
->
-> Don't do it. Hippos are the most dangerous land mammal. They kill about 500
->
-> people every year.
+> "Don't do it. Hippos are the most dangerous land mammal. They kill about 500 people every year."
 >
 > Do not fuck with hippos.
 >
-> Or elephants, for example. It's just too high. It's like, you can't, can't get
+> Or elephants, for example. It's just too high. It's like, you can't get up there.
 >
-> up there.
+> OK, I mean, if the mum isn't watching, you could probably fuck a baby elephant.
 >
-> Okay, I mean, if the mum isn't watching, you could probably fuck a baby
+> Alright, I'm just finding your level. You seem to be OK with bestiality, not pedophile bestiality.
 >
-> elephant.
->
-> Alright, I'm, I'm just finding your level.
->
-> You seem to be okay with bestiality, not pedophile bestiality.
->
-> Okay, I think I got you.
+> OK, I think I got you.
 >
 > Alright, so, change of topic.
 >
-> You know, recently, recently I got on Instagram. I thought I needed...
+> You know, recently, I got on Instagram.
 >
-> Anyone here on Instagram? Give it up for me.
->
-> Give it up if you're on Instagram.
+> Anyone here on Instagram? Give it up if you're on Instagram.
 >
 > Give it up if you hate Instagram.
 >
-> Wow, okay, well, you know, I'm kind of with these people.
+> Wow, OK. Well, you know, I'm kind of with these people.
 >
 > It took me a long time to get on Instagram.
 >
-> Because I always thought that it was a festering cesspool of narcissists and
+> Because I always thought that it was a festering cesspool of narcissists and sociopaths.
 >
-> sociopaths.
+> And then I thought, "Wait a second. These are my people."
 >
-> And then I thought, wait a second.
->
-> These are my people.
->
-> But there is one thing about Instagram
->
-> that's still just, when I see that, I just fill up with rage.
+> But there is one thing about Instagram that still, just when I see that, I just fill up with rage.
 >
 > And that is selfies with inspirational quotes on them.
 >
-> Oh my God, you know.
->
-> Those inspirational quotes, when I see them, my brain just puts subtitles
+> Oh my God, you know, those inspirational quotes, when I see them, my brain just puts subtitles
 >
 > underneath.
 >
 > And if you could see them, Instagram would be a whole lot less inspirational.
 >
-> For example, "Be yourself! There's no one better."
+> For example, "Be yourself. There's no one better."
 >
-> Yes, seven billion people might disagree with that.
+> Yeah, seven billion people might disagree with that.
 >
-> If you can't find the sunshine, be the sunshine.
+> "If you can't find the sunshine, be the sunshine."
 >
 > What, so you cause skin cancer?
 >
-> Living my best life!
+> "Living my best life."
 >
 > Yeah, and if that's your best life, maybe it needs to come to an end.
 >
 > All right, excuse me a second.
 >
-> Do any of you guys drink these things, vitamin well?
+> Any of you guys drink these things, vitamin well?
 >
 > I can't stop drinking these things.
 >
-> These are genius marketers.
+> These are genius marketing.
 >
-> Genius marketing, marketing person, I give it up to your people.
+> Marketing person, I give it up to your people.
 >
 > Because, you know, what is this thing?
 >
-> It is a bottle of bullshit wrapped in some marketing with a word.
+> It is a bottle of bullshit, wrapped in some marketing, with a word.
 >
-> And when I see this word, I just believe, like, reload.
+> And when I see this word, I just believe, like, "Reload."
 >
-> I am reloaded right now, holy shit!
+> I am reloaded right now, holy shit.
 >
-> And they have other words like awake
->
-> and antioxidant.
+> And they have other words like "awake" and "antioxidant."
 >
 > And I'm like, I wonder what other words they could put on this.
 >
 > Like, I need more words.
 >
-> Like, obviously, I need sexy.
+> Like, obviously, I need "sexy."
 >
-> You know, I just drink a bottle of that, get chased down the street by a herd
+> You know, I just drink a bottle of that, get chased down the street
 >
-> of stampeding women.
+> by a herd of stampeding women.
 >
-> Or maybe clever, so that I can be smart enough to stop drinking this shit.
+> Or maybe "clever," so that I can be smart enough to stop drinking this shit.
 >
-> Or maybe even funny, I would be the best comedian in the world.
+> Or maybe even "funny," I would be the best comedian in the world.
 >
-> Okay, you guys obviously need a bottle of laugh.
+> Okay, you guys obviously need a bottle of "laugh."
 >
-> So, you know, and Dean probably needs a bottle of enthusiasm.
+> So, you know, and Dean probably needs a bottle of "enthusiasm."
 >
-> Let's give it up.
+> Let's give it up, let's just take a moment, give it up for Dean.
 >
-> Let's just take a moment.
+> Give this man some "enthusiasm."
 >
-> Give it up for Dean.
->
-> Give this man some enthusiasm.
->
-> This is his first night and he's doing miserably.
+> This is his first night, and he's doing miserably.
 >
 > We'll bring him back up again.
 >
 > But, you know, there's probably also some negative words you could put on there.
 >
-> Like, I drank a bottle of anger.
+> Like, "I drank a bottle of anger."
 >
-> And, man, was I pissed.
+> "A man was eye-pissed."
 >
-> Oh, my God.
->
-> Or, I drank five bottles of frustration and nothing happened.
+> Oh my God, or "I drank five bottles of frustration, and nothing happened."
 >
 > My God.
 >
-> Drunk a bottle of regret.
+> "Drunk a bottle of regret."
 >
 > That was a big mistake.
 >
-> Went to a party, you know, with a friend.
+> "Went to a party, you know, with a friend, and it was the worst party ever."
 >
-> And it was the worst party ever.
+> "They just served up a cocktail of sorrow and disappointment."
 >
-> They just served up a cocktail of sorrow and disappointment.
+> That's what the potential of this thing is, that's what the marketing people are going
 >
-> That's what the potential of this thing is.
+> to bring us in the future.
 >
-> That's what the marketing people are going to bring us in the future.
+> We just have words, and then we just believe.
 >
-> We just have words and then we just believe.
+> But, you know, the funny thing about the future, I was reading something recently that we're
 >
-> But, you know, funny thing about the future.
+> only about five to ten years away from human cloning.
 >
-> I was reading something recently that we're only about five to ten years away
+> And I've always wanted to, I've always thought that would be amazing, wouldn't it be amazing
 >
-> from human cloning.
+> to meet your own clone?
 >
-> And I've always wanted to -- I've always thought that would be amazing.
+> But then I thought, "Wait, this may go badly, because we'd just be like two bossy assholes,
 >
-> Wouldn't it be amazing to meet your own clone?
+> we'd probably hate each other, there's this awkward silence when we meet, and then one
 >
-> But then I thought, wait, this may go badly because we'd just be like two bossy
+> of us or the other is going to be like, 'So how about a handjob?'"
 >
-> assholes.
+> Think about it, think about it, this is your clone.
 >
-> We probably hate each other.
+> Your clone knows everything about your genitals, we're talking the greatest handjob ever.
 >
-> There's this awkward silence when we meet.
+> And then, you know, the next thing is going to be like, "Hmm, I wonder if it's gay to
 >
-> And then one of us or the other is going to be like, so how about a hand job?
+> blow your clone?
 >
-> Think about it.
+> And what about spit or swallow?"
 >
-> Think about it.
+> Okay, now it's got really awkward, and that's probably how it would be after this despicable
 >
-> This is your clone.
+> act, you'd be like, "Dude, why the fuck did you convince me to do this shit?
 >
-> Your clone knows everything about your genitals.
+> This is disgusting, I need a bottle of regret right now."
 >
-> We're talking the greatest hand job ever.
+> And then there's going to be more awkward silence, and then it's going to be like, "Another
 >
-> And then, you know, the next thing is going to be like, hmm, I wonder if it's
+> handjob?"
 >
-> gay to blow your clone.
+> And that, I think, could be the future of humanity, we're just at home with our clones
 >
-> And what about spit or swallow?
+> getting amazing handjobs while the whole world falls apart.
 >
-> Okay, now it's got really awkward.
+> All right, I think this show is falling apart right now.
 >
-> And that's probably how it would be after this despicable act.
+> Thank you guys, you've been kind as fuck.
 >
-> You'd be like, dude, why the fuck did you convince me to do this shit?
+> Give it up for Harry Fox, everybody!
 >
-> This is disgusting.
+> Slightly depressing, but slightly arousing.
 >
-> I need a bottle of regret right now.
+> Cool, thank you for actually staying until the end of our first half, I appreciate it.
 >
-> And then there's going to be more awkward silence.
+> So we're going to have a break now, 15 minutes, go get yourself a drink, grab a cigarette,
 >
-> And then it's going to be like, another hand job?
->
-> And that, I think, could be the future of humanity.
->
-> We're just a clone with our clones.
->
-> With our clones getting amazing hand jobs while the whole world falls apart.
->
-> All right.
->
-> I think this show is falling apart right now.
->
-> Thank you, guys.
->
-> Give it up for Harry Fox, everybody.
->
-> Slightly depressing and slightly arousing.
->
-> Cool.
->
-> Thank you for actually staying until the end of our first half.
->
-> I appreciate it.
->
-> So we're going to have a break now.
->
-> Fifteen minutes.
->
-> Go get yourself a drink.
->
-> Grab a cigarette.
->
-> Go wax a mustache.
->
-> Everything will be fine.
->
-> And then come back.
+> go wax a mustache, everything will be fine, and then come back, we'll see you guys in

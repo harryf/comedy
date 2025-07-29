@@ -17,792 +17,200 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> My cut-out are not the views of Comedy Night Zurich, okay?
+> My cuddle are not the views of comedy night Zurich oh yeah that was a 19 year
 >
-> That was a 19-year-old's crazy mind, great.
+> old's crazy mind great okay ladies and gentlemen let me bring up a palate
 >
-> Okay, ladies and gentlemen, let me bring up a little palate cleanser, okay?
+> cleanser okay I'm gonna bring up the next comedian of tonight okay he's
 >
-> I'm going to bring up the next comedian of tonight.
+> originally from the UK but he's been living here for a super long time he's
 >
-> Okay, he's originally from the UK, but he's been living here for a super long
+> very funny and his name is Harry Fox everybody give it up for Harry so my
 >
-> time.
+> name is actually Harry Fuchs it's a German name spell F you CKS I repeat F
 >
-> He's very funny, and his name is Harry Fox, everybody!
+> you CKS when I'm in a room with English speakers like this a lot of you think
 >
-> Give it up for Harry Fox!
+> my name is Harry Fox my name is not Harry Fox because in my family when we
 >
-> So my name is actually Harry Fuchs.
+> have a family get-together we get very upset when you call us a group of
 >
-> It's a German name, spelled F-U-C-K-S, I repeat, F-U-C-K-S.
+> fuckers and I have two kids I had to call them how the and what the to give
 >
-> When I'm in a room with English speakers like this, a lot of you think my name
+> him a good start in life but you know the real problem with the name like
 >
-> is Harry Fuchs.
+> Harry Fox is it sets a very high level of expectation and honestly I've really
 >
-> My name is not Harry Fuchs.
+> only done about this much fucking up I'm serious about that much fucking and you
 >
-> Because in my family, when we have a family get-together,
+> know and and recently it's been really hard for me because because one morning
 >
-> we get very upset when you call us a group of fuckers.
+> I woke up to discover that that I'm single after like 20 years of
 >
-> And I have two kids.
+> relationships you know with you know and long-term relationships meaningful ones
 >
-> I had to call them Howther and Whatther.
+> that kids came from and through this hardship I thought I need something to
 >
-> Just to give them a good start in life.
+> fix this and then I thought 20 years ago we didn't have tinder maybe tinder is
 >
-> But, you know, the real problem with a name like Harry Fuchs is
+> the answer do we have any tinder users here tonight okay we have we have these
 >
-> it sets a very high level.
+> two the I'm very uncomfortable about the idea of Germans meeting on tinder you
 >
-> It sets a very high level of expectation.
+> know this is like what is that genetic purity thing going on there I don't know
 >
-> And honestly, I've really only done about this much fucking.
+> that makes me very nervous I'm much more happy with these guys the the kind of
 >
-> Honestly, it was about that much fucking.
+> the Alpine grinder experience maybe we should call that at Brokeback Mountain
 >
-> And, you know, and recently it's been really hard for me because one morning I
+> but you know I mean for me for me I just found actually after trying tinder that
 >
-> woke up to discover that I'm single.
+> it was a really bad idea because for most of you guys most you are under 30
 >
-> After like 20 years of relationships, you know, with, you know, long-term
+> for you guys tinder is an amazing place because you get to swipe your way
 >
-> relationships, meaningful ones that kids came from.
+> through hot sexy bodies and potential erotic encounters and the dream the
 >
-> And through this hardship, I thought, I need to get out of here.
+> dream that your prince might somewhere be in here your perfect man but for me
 >
-> I need to get out of here.
+> tinder over 40 is a dark place I have to swipe my way through broken
 >
-> I need to get out of here.
+> marriages drug and alcohol problems faded tattoos say no regrets it's really
 >
-> I need to get out of here.
+> brutal you know and and it makes me wonder ladies what is it that happens
 >
-> I need to get out of here.
+> you into the next 10 to 15 years that leads to your lives being destroyed was
 >
-> I need to get out of here.
+> it was it maybe that prince you found on tinder it's kind of scary but to me
 >
-> I need something to fix this.
+> actually the scariest thing about all the tinder is the sight of a 50 year
 >
-> And then I thought, 20 years ago, we didn't have Tinder.
+> old woman making a duck face I mean how the fuck do you get to 50 years thinking
 >
-> Maybe Tinder is the answer.
+> that a duck face is okay the only time that a duck face is ever okay is when
 >
-> Do we have any Tinder users here tonight?
+> both your parents are ducks and ducks only live about 10 years the universe
 >
-> Okay, we have these two.
+> had no plan for 50 year old duck face but you know I got a message from one
 >
-> I'm very uncomfortable about the idea of Germans meeting on Tinder, you know.
+> lady she was 52 and she sent me this message it said with those cute blue
 >
-> This is like, what is that genetic purity thing going on there?
+> eyes how is it you're still running around free now aside from that being
 >
-> I don't know.
+> the worst chat up line I think I've ever heard imagine if I was to say that to
 >
-> That makes me very nervous.
+> any woman here you shouldn't be running around free you should be tied up in my
 >
-> I'm much more happy with these guys, the kind of the alpine grinder.
+> dungeon holy shit this is some scary stuff and what it made me realize is
 >
-> I'm very happy with these guys.
+> that all the women they don't really know how to chat up men they have zero
 >
-> I'm very happy with these guys.
+> gain because for all these years men have been coming up to their men have
 >
-> I'm very happy with these guys.
+> been getting all the practice but you know now things are getting a bit saggy
 >
-> I'm very happy with these guys.
+> you know men aren't showing as much interest as they were once upon a time
 >
-> I'm very happy with these guys.
+> and you know and what I read which is even more disturbing is that as women
 >
-> I'm very happy with these guys.
+> get older apparently their sex drive increases yeah so what we're saying is
 >
-> I'm very happy with these guys.
+> is that they have zero game they're super horny and no one really wants to
 >
-> I'm very happy with these guys.
+> fuck them I know it's really and there I thought I need to solve this problem I
 >
-> I'm very happy with these guys.
+> need to fix this I feel bad about this and we need a solution to this and then
 >
-> I'm very happy with these guys.
+> it hit me we need another group that has zero game is super horny and that no one
 >
-> I'm very happy with these guys.
+> really wants to fuck and that's why I've launched an app called teen dogs teenage
 >
-> I'm very happy with these guys.
+> boys we saw this thing out for the older ladies oh we're getting some we're
 >
-> I'm very happy with these guys.
+> getting some awkwardness here they're like oh I don't like this idea of all
 >
-> I'm very happy with these guys.
+> the women and teenage boys you know I just saw a 19 year old girl so yeah I
 >
-> I'm very happy with these guys.
+> think we're all good here so yeah let me tell you let me tell you a little story
 >
-> I'm very happy with these guys.
+> though so recently I had a bit of a strange experience because I was walking
 >
-> I'm very happy with these guys.
+> down Badener Straße like over there in the cool part of Zurich where the
 >
-> I'm very happy with these guys.
+> hipsters live and this young man came past me on his bicycle on his hipster
 >
-> I'm very happy with these guys.
+> bicycle and he looked me in the eye and did this and I was like first actually
 >
-> I'm very happy with these guys.
+> quite impressed because he was right next to the tram track he managed to
 >
-> I'm very happy with these guys.
+> pull that off without wiping out but then I thought this young man is
 >
-> I'm very happy with these guys.
+> completely right I am a first-class masturbator my hand and my penis is a
 >
-> I'm very happy with these guys.
+> love affair of over 40 years that's longer than most of you have been on the
 >
-> I'm very happy with these guys.
+> planet you know my hand knows amazing things about my penis and it it's
 >
-> I'm very happy with these guys.
+> reached the point if I go on a date with a lady I'm like yeah she's kind of cute
 >
-> I'm very happy with these guys.
+> but could she beat my hand because you know my hand my hand is not trying to
 >
-> I'm very happy with these guys.
+> post every moment on Instagram my hand is not trying to take me to brunch with
 >
-> I'm very happy with these guys.
+> its friends you know my hand does not even want babies one day you know and
 >
-> I'm very happy with these guys.
+> when I think about this like my hand it's just so perfect you know if I bring
 >
-> I'm very happy with these guys.
+> it together with the other hand it's a perfect ten but you know and and so but
 >
-> I'm very happy with these guys.
+> but let me give you a little bit of context on that because because it's
 >
-> I'm very happy with these guys.
+> actually reached the point where I'm starting to think maybe maybe I don't
 >
-> I'm very happy with these guys.
+> need a woman in my life not anymore after these 20 years because let me tell
 >
-> I'm very happy with these guys.
+> you I'm a I'm a single dad I have two kids they live with me I have a career
 >
-> I'm very happy with these guys.
+> it's going well I do comedy in the evenings where am I gonna find the time
 >
-> I'm very happy with these guys.
+> to fit a woman into this hectic schedule of working and parenting and jacking off
 >
-> I'm very happy with these guys.
+> I just don't know I'm sensing a lot of awkward tension here what jacking up
 >
-> I'm very happy with these guys.
+> nobody here jacks off no we have come to the the pure Christian night pure
 >
-> I'm very happy with these guys.
+> Christian comedy I like that no but but you know recently I went to this this
 >
-> I'm very happy with these guys.
+> Elton album for my son so I went to a parent's evening and I met this single
 >
-> I'm very happy with these guys.
+> mom there and when I told her I'm a single dad she immediately started to
 >
-> I'm very happy with these guys.
+> tell me how to cook pasta and I was like oh my god I am getting mumsplained right
 >
-> I'm very happy with these guys.
+> now she is mumsplaining me I was upset of course I stayed very cool I said
 >
-> I'm very happy with these guys.
+> thank you that is a very nice pasta tip you have there but then she said
 >
-> I'm very happy with these guys.
+> something to me that blew my mind she said maybe just maybe you need a woman
 >
-> I'm very happy with these guys.
+> in your life and I thought hmm and maybe it isn't you because you know like I'm
 >
-> I'm very happy with these guys.
+> starting to realize that being single is for me it's actually fantastic because
 >
-> I'm very happy with these guys.
+> like in the evening if I want to do something I just do it it's incredible I
 >
-> I'm very happy with these guys.
+> don't have to ask for permission you know if I cook a meal and it's warm I
 >
-> I'm very happy with these guys.
+> can just eat it I don't have to wait for her to post it on Instagram I'm no
 >
-> I'm very happy with these guys.
+> longer spending my evenings watching romantic comedies or new girl or
 >
-> I'm very happy with these guys.
+> something that I hate I got to see the Punisher on the day it came out and it
 >
-> I'm very happy with these guys.
+> makes me realize you know maybe when I'm standing there in front of my toilet
 >
-> I'm very happy with these guys.
+> with the seat up and on my legs I'm feeling that warm wet freedom spray I
 >
-> I'm very happy with these guys.
+> think to myself this is the dream all right thank you you guys have been
 >
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
->
-> I'm very happy with these guys.
+> awkward oh okay that was Harry Fox everybody give it up again for him

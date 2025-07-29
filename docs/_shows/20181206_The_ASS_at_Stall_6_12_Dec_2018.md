@@ -17,454 +17,288 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> That a lot man, now we only have one last comedian left in our first act and we're
+> That a lot man. Now, we only have one last comedian left in our first act and
 >
-> going to take a little break.
+> we're going to take a little break.
 >
-> Our last act was from France, this next act is from England.
+> Our last act was from France. This next act is from England.
 >
-> He's been living here in Zurich for a long time now and yeah, I want you guys
+> He's been living here in Zurich for a long time now.
 >
-> to really go crazy for him.
+> And yeah, I want you guys to really go crazy for him. He's very funny.
 >
-> He's very funny. Everybody, give it up for Harry Fox! Give it up please!
+> Everybody, give it up for Harry Fox!
 >
-> So, my name is actually Harry Fooks. It's a German name, it's spelled F-U-C-K-S,
+> Give it up, please!
 >
-> or F-U-C-K-S, so for you expats here that speak English, it is not Harry Fox.
+> So, my name is actually Harry Books.
+>
+> That's a German name.
+>
+> Spelled F-U-C-K-S.
+>
+> So, for you expats here that speak English, it is not Harry Fox.
 >
 > In my family, when we have a family get-together, we get very upset when you
 >
 > call us a group of fuckers.
 >
-> I have two kids, I call them...
+> I'm not sure we ever have the fuckers.
 >
-> I call them "Halbert" and "Walker."
+> I have two kids. I call them Halberd and Walker.
 >
-> But it is a burden, it's a burden living with this name, especially with
+> I just wanted to get rid of the stuttering.
+>
+> But it is a burden. It's a burden living with this name, especially with
 >
 > Americans.
 >
-> We've seen some American guys come up to me and say, "Yo, what's up, man? Harry
+> Recently, an American guy came up to me and was like, "Yo, what's up, man?
 >
-> Fooks! Harry Fooks what, man? Harry Fooks what?"
+> Harry Fox! Harry Fox what, man? Harry Fox what?"
 >
-> "What? Is that Harry Fooks what, man?"
+> I was like, "What?"
 >
-> And I'm like, hmm, let me throw him off with some adverts like, "Harry Fooks,
+> He was like, "Harry Fox what, man?"
 >
-> hopefully."
+> I was like, "Hmm, let me throw him off with some adverts like 'Harry Fox
 >
-> "Harry Fooks Occasional."
+> Hopefully'."
 >
-> "Harry Fooks Enthusiastically."
+> "Harry Fox Occasionally."
 >
-> He's like, "No, no, man. Harry Fooks Goats, man. Harry Fooks Chickens. Harry Fooks
+> "Harry Fox Enthusiastically."
+>
+> He's like, "No, no, man. Harry Fox Goats, man. Harry Fox Chickens. Harry Fox
 >
 > Tigers."
 >
-> I'm like, Jesus, man, this guy, you know, 'cause in the history of mankind, I'm
+> I'm like, "Jesus, man. This guy."
 >
-> pretty sure no one has ever successfully fucked a tiger.
+> Because in the history of mankind, I'm pretty sure no one has ever successfully
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> fucked a tiger.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> In fact, it made me realize that there's actually a whole category of unfuckable
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> animals.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Take hippos, for example.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> You may get up behind a hippo and think, "Wow, that is a great answer."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Do not do it. Hippos get very pissed off about this.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> They actually kill the most people in Africa every year, about 500.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Another animal you can't fuck is elephants, you know, because it's just too
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> high up.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> There's probably some guys who are like, "I could do that."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Yeah, you know, they won't.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But, you know, I mean, if the mom's not watching, you could probably fuck a
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> baby elephant.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> All right, I'm just finding your levels.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> What I'm getting is you're good with bestiality, but not pedophile bestiality.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> So I'll try and keep it a little bit cleaner.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But the problem, I have to admit, it is me, because I have a lot of dark
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> thoughts going on in my head.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And I think it goes back to my childhood.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> I went to a Catholic school, and I got thrown out for molesting a priest.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But, you know, it is a stark and strange—do we have any Ph.D. students here
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> tonight?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Any Ph.D. students that are insane enough to admit to it?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Anyone who once had a Ph.D.?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Well, you're all too stupid.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> I set up for this joke. I never did a Ph.D. either.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But think of a Ph.D. student that you really dislike, there's jokes about him.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Because you know who the most sexually frustrated, raged, like, frustration
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> people on the planet are today?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Ph.D. students.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And the reason for this, like, imagine a Ph.D. student, he's, like, done 15
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> hours on a laptop.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> It's 3 a.m., and he's still typing away, and he's got a head full of
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> statistical models and equations.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> How is this guy ever going to get to sleep?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And then, oops, uptown, he's over on PornHub.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And there's a big mental leak that just happened there.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And, you know, the average Ph.D. takes about 8 years to complete.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Do you know how dark his habits have become after 8 years of doing this?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> We're no longer into good, wholesome porn.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> We're, like, deep into BDSM and tentacles and, like, dwarves riding on ponies.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And then after completing his Ph.D., this guy gets his dream job at a place
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> like Google.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And they put him in an office with 10 other horny Ph.D. students.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Now, you may have noticed that last month, 20,000 Google employees walked out
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> to protest sexual harassment.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Were we really surprised by this?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> They're like, "Oh, shit, I just can't take it anymore. I've got to get the fuck
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> out. It's like an orgy every day, man.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> I can't take it."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But, you know, there is a solution to this.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> This is a solution that might even be a step towards world peace.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Sex robots.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> You know, you're thinking about this. It's a hard question.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Sex robots. Technology can solve everything.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Because imagine if Google gave all their staff a sex box for Christmas.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> You know, the whole problem is solved because, you know, they'd come out, they'd
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> announce,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> "Yeah, we gave all our staff sex bots. We've reduced cases of sexual harassment
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> by 83%.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> We're tracking our staff with sex bot analytics. It's great.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And since we gave all our staff sex bots, they are more focused and productive."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> This is a kind of a solution.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Probably from here, you know, like the idea of, like, sex bots will become
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> mainstream
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> because, you know, a normal human instinct sort of being so frustrated in so
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> many single people.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> The solution is sex robots.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Anthony, Anthony, would you buy a sex robot?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> He said yes.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> So, and, you know, once this happens, the big guys are going to be like,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> "This is a billion dollar market."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And you have, like, "We brought you the iPad. We brought you the iPhone.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Today, we're bringing you the iFuck."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And they'll be followed by Google Ho.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And Amazon will be like, "Oh, shit. What are we going to do? We've got to keep
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> up with these guys.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Let's put Alexa with drones. We call it the Flying Fuck."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But, I mean, if you imagine a world where, like, sex bots are mainstream,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> and it's just normal, like, having a phone, you have a sex bot.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> You know, it's like, you invite your bros around for drinks,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> and then the next morning, you go to text your friend, like,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> "Hey, dude, last night, did you fuck my sex bot?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> I'm sorry, man. I'm sorry she came on to me. I couldn't help myself."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And then you're like, "Dude, for fuck's sake, man, you didn't even wash her out."
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Yeah, we're going to need sex bot security.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> It's going to be like swipe your dick to get in.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But, yeah, you know, I mean, it's a strange world, technology and sex, how
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> these things mix, you know.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> I'm from the U.K., and recently I read a U.K. study of the use of phones,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> particularly in related to sexual matters.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And what they found is that men between the ages of 20 and 40,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> an amazing 50% have sent a dick pic in the last month.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> 50%. Now, that's a hard number to imagine.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> But for the ladies here, that would be a bit like,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> you give your phone number to ten guys here,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> and for Christmas you've got a stack of five dicks on the phone.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> I don't take dick pics myself, not because I'm better than that,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> but it's actually because I'm a bit of a perfectionist.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Because a quality dick pic is hard, you know.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> It's like, you've got a lot to think about.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> The lighting, you go for some soft tones to bring out the fleshy colors.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Maybe some red lighting, something more erotic.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Do you need some props, like some roses,
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> just kind of a dick sticking through?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> That's probably dangerous. I'm not going to do that.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> And what about the angle? It's like the selfie problem.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> How do I do this?
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Luckily, though, I am a bit of an entrepreneur.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> That's why I invented the dick pic selfie stick.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> You can get it from dickpicselfiestick.com, $29.99.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> It is the perfect gift for Anthony.
 >
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
->
-> In fact, it made me realize that there's actually a whole category of untouchables.
+> Thank you. Thanks a lot. You've been great.

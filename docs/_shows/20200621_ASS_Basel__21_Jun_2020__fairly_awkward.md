@@ -17,298 +17,196 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Our first half. And this guy, he actually lives in Zurich with the rest of our
+> And this guy, he actually lives in Zurich with the rest of our crew, but he is originally British
 >
-> crew.
+> and he's been living here in Switzerland for about 17 years.
 >
-> But he is originally British, and he's been living here in Switzerland for
+> He's very funny. So ladies and gentlemen, our last comic of the first half, give it up for Harry
 >
-> about 17 years.
+> Fox, ladies and gentlemen!
 >
-> He's very funny. So ladies and gentlemen, our last comic of the first half.
+> So my name is actually Harry Fooks. It's a German name. Spelled F-O-O-C-K-S. I repeat, F-O-O-C-K-S.
 >
-> Give it up for Harry Fuchs, ladies and gentlemen.
+> But when I'm in a room of mostly English speakers like this, a lot of you think my name is Harry
 >
-> Thank you.
+> Fox.
 >
-> So my name is actually Harry Fuchs.
+> My name is not Harry Fox.
 >
-> It's a German name.
+> And in my family, when we have a family get-together, we get very upset when you call us a group of
 >
-> Spelled F-U-C-K-S. I repeat, F-U-C-K-S.
+> fuckers.
 >
-> But when I'm in a room of mostly English speakers like this, a lot of you think
+> And I have two kids. I had to call them Halber and Walper, just to give them a good start in life.
 >
-> my name is Harry Fuchs.
+> But, no, one of the problems with a name like Harry Fox is I get a lot of stupid comments.
 >
-> My name is not Harry Fuchs.
+> Like recently this American tourist came up to me and he's like, "Yo, Harry Fox! Harry Fox what,
 >
-> And in my family, when we have a family get-together, we get very upset when
+> man?"
 >
-> you call us a group of fuckers.
+> And I was like, "What?"
 >
-> I don't have to.
+> He's like, "Exactly, Harry Fox what, man?"
 >
-> I have two kids.
+> I'm like, "Alright, let me see if I can throw him off with some adverts. Harry Fox hopefully. Harry
 >
-> I had to call them how-the and what-the.
+> Fox occasionally. Harry Fox enthusiastically."
 >
-> Just to give them a good start in life.
->
-> But, no, one of the problems with a name like Harry Fuchs is I get a lot of
->
-> stupid comments.
->
-> Like recently this American tourist came up to me and he's like,
->
-> Yo, Harry Fuchs. Harry Fuchs what, man?
->
-> And I was like, what?
->
-> He's like, exactly, Harry Fuchs what, man?
->
-> I'm like, alright, let me see if I can throw him off with some adverts.
->
-> Um, Harry Fuchs hopefully, Harry Fuchs occasionally, Harry Fuchs enthusiastically,
->
-> and he had no comeback to that, you know, Americans and all that, bro.
+> And he had no comeback to that. Americans are not that bright.
 >
 > Any Americans here?
 >
 > Yes?
 >
-> If we haven't offended Americans, yeah, oh my god, I hope not, I'm feeling,
+> Have we had an offended American?
 >
-> okay, okay, let's get back to the set quickly and move on fast.
+> Yeah, oh my god. I hope not. I'm feeling...
 >
-> No, um, honestly, actually, though, the real problem with a name like Harry Fuchs
+> Okay, let's get back to the set quickly and move on fast.
 >
-> is, uh, there simply hasn't been enough fucking.
+> No, honestly, actually, the real problem with a name like Harry Fox is there simply hasn't been
 >
-> In fact, recently, but most, because of lockdown and other things, uh, if I can
+> enough fucking.
 >
-> share this with you, it's actually been a long time since I've had sex.
+> In fact, recently, because of lockdown and other things, if I can share this with you, it's
+>
+> actually been a long time since I've had sex.
 >
 > Put your hands up if you haven't had sex in a long time.
 >
-> Ah, okay, I'm a little bit concerned that you guys haven't respected social
+> Ah, okay. I'm a little bit concerned that you guys haven't respected social distancing.
 >
-> distancing.
+> I'm very impressed by this guy. It's just this woman moved in, started smoking cigars, and he was
 >
-> I'm very impressed by this guy, he's just, this woman moved in, started smoking
+> like, "Fill up my flat with cigar smoke. I'm cool with that."
 >
-> cigars, and he was like, fill up my flat with cigar smoke, I'm cool with that,
+> But okay, so I hadn't realized that I was coming to the Basel Nymphomaniacs Anonymous meetup.
 >
-> very, but, okay, so I hadn't realized that I was coming to the Basel Nymphomaniacs
+> So I guess I'm going to have to explain a little bit my condition, because when you haven't had sex
 >
-> Anonymous Meetup, um, so I guess I'm going to have to explain a little bit my
+> in a long time, it's kind of like you're hallucinating.
 >
-> condition, because when you haven't had sex in a long time, it's kind of like
+> Because you could be walking down the street and you see a couple of dogs sniffing each other's asses,
 >
-> you're hallucinating.
+> and you look at them and think, "I wish that was me."
 >
-> Ha, ha, ha.
+> Or you go into micro, you go into micro, you spot an ACCIONA on watermelon.
 >
-> Because you could be like.
+> You get one hand on that watermelon, maybe two. Bang! It's like you're in a new dimension.
 >
-> Walking down the street, and, uh, you see a couple of dogs sniffing each other's
+> It's just you and that watermelon. It's getting hot. It's getting steamy. You're oblivious to all
 >
-> asses, and you look at them and think, uh, I wish that was me.
+> the people watching.
 >
-> Or, or you go into micro, you go into micro, you spot an axion on watermelon.
+> And then you hear this, "You're a man shaming this ACTION!"
 >
-> You get one hand on that watermelon, maybe two, bang, so if you're in a new
+> And you look and there's an old lady about to hit you with a handbag, and you think, "She's nice."
 >
-> dimension, it's just you and that watermelon, it's getting hot, it's getting
+> Yeah, so that's how that's been going.
 >
-> steamy, you're oblivious to all the people walking down the street.
+> During lockdown, I was very locked down, very horny. My stupid brain gave me a stupid idea.
 >
-> And then you hear this, you're a man's shaman's decision, you look, and there's
+> It said, "Hey, why don't you give Tinder a try?"
 >
-> an old lady about to hit you with a handbag, and you think, um, she's nice.
+> Now, for you guys, except for the front row here, for the 20s and 30-year-olds in the audience, for
 >
-> Yeah, so, that's how that's been going.
+> you guys, Tinder is an amazing place.
 >
-> And, you know, and during, so during lockdown, you know, I was very, like,
+> Because you get to swipe your way through hot, sexy bodies and potential erotic encounters.
 >
-> locked down, very horny.
+> And the dream that your prince, your perfect match, might somehow be in this app.
 >
-> My stupid brain gave me a stupid idea.
+> But for me, I have to deal with older Tinder. And older Tinder is a dark place.
 >
-> It said, hey, why don't you give Tinder a try?
+> I have to swipe my way through broken marriages, drug and alcohol problems, faded tattoos saying, "No
 >
-> Now, for you guys, maybe I expect, except for the front row here, for the, let's
+> regrets!"
 >
-> say the 20s and 30-year-olds in the audience, for you guys, Tinder is an
->
-> amazing place.
->
-> Because you get to swipe your way through hot, sexy bodies, and potential erotic
->
-> encounters.
->
-> And the dream that your prince, your perfect match might somehow be in this app.
->
-> But for me, I have to deal with older Tinder.
->
-> And older Tinder is a dud.
->
-> It's a dark place.
->
-> I have to swipe my way through broken marriages, drug and alcohol problems,
->
-> faded tattoos saying, no regrets!
->
-> It's brutal, you know.
->
-> And the scariest thing, the scariest thing on older Tinder is the sight of a 50-year-old
+> It's brutal. And the scariest thing, the scariest thing on older Tinder is the sight of a 50-year-old
 >
 > woman making a duck face.
 >
-> I mean, how?
->
-> How the fuck do you get to be 50 and think that a duck face is okay?
+> I mean, how the fuck do you get to be 50 and think that a duck face is okay?
 >
 > The only time a duck face is ever okay is when both your parents are ducks.
 >
-> And actually, ducks only live about 10 years.
->
-> The universe has no place for a 50-year-old duck face.
+> And actually, ducks only live about 10 years. The universe has no place for a 50-year-old duck face.
 >
 > That shouldn't be happening.
 >
-> But maybe even worse than all the swiping is actually on that rare occasion you
+> But maybe even worse than all the swiping is actually on that rare occasion, you end up with a
 >
-> end up with a Tinder date.
+> Tinder date and all the Tinder dates.
 >
-> And all the Tinder dates.
+> And you go along and you're all kind of chirpy and happy and then you meet.
 >
-> And, you know, and you go along and you're all kind of chirpy and happy and
+> And the conversation inevitably goes like, "Yeah, I fucked up the last 40 years of my life, but for
 >
-> then you meet.
+> some insane reason, I just think it's getting better from here."
 >
-> And the conversation inevitably goes like, yeah, I fucked up the last 40 years
+> And then she's like, "Oh, I too fucked up my entire life." And you go, "Wow, we have something
 >
-> of my life.
+> massively depressing in common. This is great."
 >
-> But for some insane reason, I just think it's getting better from here.
+> "Hey, do you want to come back to my place and then we can just kill ourselves? That would be the
 >
-> And then she's like, oh, I too fucked up my entire life.
+> perfect end to this date."
 >
-> And you go, wow, we have something massively depressing in common.
+> It's brutal. And I just thought about this and I'm like, "I hate this app."
 >
-> This is great.
+> So I finally thought, "That's it. I'm going to delete it."
 >
-> Hey, do you want to come back to my place?
+> And just as I was going to delete the app, I got a message from this lady. It said, "With those
 >
-> And then we can just kill ourselves.
+> cute blue eyes, how is it you're still running around free?"
 >
-> That would be the perfect end to this date.
+> Now, aside from that being the worst pickup line ever, can you imagine if I was to say that to any
 >
-> It's brutal.
+> woman here?
 >
-> But, you know, and I just thought about this and I'm like, I hate this app.
+> Like, "You shouldn't be running around free. You should be tied up in my dungeon."
 >
-> So I finally thought, that's it, I'm going to delete it.
+> That is fucking insane. That is an insane thing to say to anyone.
 >
-> And just as I was going to delete the app, I got a message from this lady.
+> And what it made me realize, it made me realize that actually maybe all the ladies have a bit of a
 >
-> It said, with those cute blue eyes, how is it you're still running around free?
+> problem that they don't really know how to chat up men.
 >
-> Now, aside from that being the worst pickup line ever.
+> Because for all these years, guys have been doing all the work. We've been getting all the practice
 >
-> Can you imagine if I was to say that to any woman here?
+> on how to chat up.
 >
-> Like, you shouldn't be running around free.
+> But now, guys aren't showing as much interest. And they're going to live really dangerously and
 >
-> You should be tied up in my dungeon.
+> stare back at you, and things are getting a bit saggy.
 >
-> That is fucking insane.
+> And you know what makes this even worse? I read recently, as women get older, can I just pause for
 >
-> That is an insane thing to say to anyone.
+> a second?
 >
-> And what it made me realize, it made me realize that actually maybe all the
+> I'm feeling very uncomfortable at the moment. I'm not going to say why, but if anyone wants to kill
 >
-> ladies have a bit of a problem.
+> me after, you're welcome to do it.
 >
-> They don't really know how to chat up men.
+> But what I read was that as women get older, their sex drive actually increases.
 >
-> Because for all these years, like guys have been doing all the work.
+> So what we're saying is that all the women have zero gain. They don't know how to chat up men.
 >
-> We've been getting all the practice.
+> They're super horny, and no one really wants to sleep with them.
 >
-> We've had a chat up.
+> I know, it's terrible. It's terrible. I agree with that. And I thought, "I'm going to fix this. I
 >
-> But now, guys aren't showing as much interest.
+> need to find a way to fix this."
 >
-> And they're going to live really dangerously and stare back into it.
+> I thought about it for a while, and I thought, "All we need is another group that has zero gain, is
 >
-> And things are getting a bit saggy.
+> super horny, and no one really wants to fuck."
 >
-> And you know what makes this even worse?
+> Teenage boys. And luckily, I'm a bit of an entrepreneur. I'm developing an app. We're calling it "Teen-Da."
 >
-> Is I read recently, is when they get older.
+> That's where I'm going. The moral of the story is that you guys are very happy. Do not break up. It's
 >
-> Can I just pause for a second?
->
-> I'm feeling very uncomfortable at the moment.
->
-> I'm not going to say why.
->
-> But anyone wants to kill me after, you're welcome to do it.
->
-> No, what I read.
->
-> Was that as women get older, their sex drive actually increases.
->
-> So what we're saying is, is that all the women have zero game.
->
-> They don't know how to chat up men.
->
-> They're super horny.
->
-> And no one really wants to sleep with them.
->
-> I know it's terrible.
->
-> It's terrible.
->
-> I agree with that.
->
-> And I thought, I'm going to fix this.
->
-> I need to find a way to fix this.
->
-> I thought about it for a while.
->
-> I thought all we need is another group that has zero game.
->
-> Is super horny.
->
-> And that no one really wants to fuck.
->
-> Teenage boys.
->
-> And luckily I'm a bit of an entrepreneur.
->
-> I'm developing an app.
->
-> We're calling it Teen Dog.
->
-> Alright, that's where I've gone.
->
-> The moral of the story is, is that you guys are very happy.
->
-> Do not break up.
->
-> It's brutal.
->
-> Okay, alright.
+> brutal.
 >
 > Thanks a lot.
->
-> Thank you.
->
-> I was married to Fox, ladies and gentlemen.
->
-> He actually has a second job as a relationship partner.

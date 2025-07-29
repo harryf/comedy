@@ -17,19 +17,19 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> So it's actually not Harry Fox, some of you may know this, it's Harry Fuchs, it's
+> So it's actually not Harry Fuchs, some of you may know this, it's Harry Fuchs,
 >
-> actually
+> it's
 >
-> a German name, but as we've got an English speaking audience, you all think I'm
+> actually a German name, but as we've got an English speaking audience, you all
 >
-> Harry
+> think I'm
 >
-> Fox.
+> Harry Fuchs.
 >
-> And, you know, this is a problem because when we have like a family get
+> And, you know, this is a problem because when we have like a family get-together,
 >
-> together, we get
+> we get
 >
 > very upset if you start thinking that we're a group of fuckers, because clearly
 >
@@ -37,29 +37,31 @@ notes: |
 >
 > a pack of fucks.
 >
-> But in fact, I have twins, I'm a father, and I named them Howler and Whatler.
+> But in fact I have twins, I'm a father, and I named them Hal the and Watt the,
 >
-> I don't want to ruin their lives, but that's where it goes.
+> it ruined
 >
-> Sometimes, actually, people approach me about my name, I recently had this
+> their lives, but sometimes actually people approach me about my name.
 >
-> American guy
+> I recently had this American guy come up to me and he said, "Yo, Harry Fuchs,
 >
-> come up to me and he said, yo, Harry Fuchs, man, Harry Fuchs what?
+> man.
 >
-> I'm like, what?
+> Harry Fuchs what?"
 >
-> He's like, Harry Fuchs what, man?
+> I'm like, "What?"
 >
-> So I thought I'd throw him off with some adverbs like Harry Fuchs, hopefully,
+> He's like, "Harry Fuchs what, man?"
 >
-> Harry
+> So I thought I'd throw him off with some adverbs like, "Harry Fuchs hopefully,"
 >
-> Fuchs occasionally, Harry Fuchs enthusiastically, he was like, no, no, man, no,
+> "Harry Fuchs
+>
+> occasionally," "Harry Fuchs enthusiastically," he was like, "No, no, man, no,
 >
 > Harry Fuchs
 >
-> chickens, man, Harry Fuchs goats, Harry Fuchs tigers.
+> chickens, man, Harry Fuchs goats, Harry Fuchs tigers."
 >
 > Now, I don't know about you, but I'm pretty sure in the entire history of
 >
@@ -73,158 +75,148 @@ notes: |
 >
 > never been fucked.
 >
-> Like, take hippos, for example, you get behind a hippo, you might think, hey,
+> Like, take hippos, for example.
 >
-> this is looking
+> You get behind a hippo, you might think, "Hey, this is looking good, it's kind
 >
-> good, it's kind of squidgy, I can just slide in there, but what you may not
+> of squidgy,"
 >
-> know is that
+> and they slide in there, but what you may not know is that hippos are the most
 >
-> hippos are the most dangerous mammal in Africa, they kill the most people every
+> dangerous
 >
-> year.
+> mammal in Africa, they kill the most people every year.
 >
-> Or, of course, elephants, you can't fuck elephants, just too high.
+> Or, of course, elephants, you can't fuck elephants just too hot, you'd be like,
 >
-> You'd be like, oh, oh, it's not going to reach, maybe you pull on the tail, it's
+> "Oh, oh," it's
 >
-> still
+> not going to reach, maybe you pull on the tail, it's still not going to work.
 >
-> not going to work.
+> Of course, if the mom's not watching, you could fuck a baby elephant.
 >
-> Of course, if the mum's not watching, you could fuck a baby elephant.
+> I'm getting a level with you, you're okay with bestiality, but not pedophile
 >
-> I'm getting a level with you.
+> bestiality.
 >
-> You're okay with bestiality, but not pedophile bestiality.
+> You need to think about that when you're growing up.
 >
-> You need to think about that too when you're talking about me.
+> Anyway, so Harry fucks, it sets a high level of expectations, people think I
 >
-> Yeah, but anyway, so Harry Fuchs.
+> fuck a lot,
 >
-> It sets a high level of expectations, people think I fuck a lot, that's not
+> that's not true, but actually, recently, I kind of got lucky thanks to Tinder,
 >
-> true, but actually
+> I went
 >
-> recently, I kind of got lucky thanks to Tinder, I went on a date with a lady,
+> on a date with a lady, went very well, we went back to her place, one thing led
 >
-> went very well,
+> to another.
 >
-> we went back to her place, one thing led to another, just to help you visualise,
+> Just to help you visualize, I was going down and fondled her breasts, and I can
 >
-> I was
+> also see
 >
-> kind of going down and kind of fondled her breasts, and I can also see you all
+> you all now, this is great, and I was kissing her stomach, and I pulled down
 >
-> now, this
+> her panties,
 >
-> is great, and I was kind of kissing her stomach, and I pulled down her panties,
+> and her pubes were shaped that she had a tattoo that said, "Fifi," and at that
 >
-> and her panties
+> moment, I just
 >
-> were shaved, but she had a tattoo that said, Fifi, and at that moment, I just
+> lost it, I broke down, I started sobbing uncontrollably, tears streaming down,
 >
-> lost it,
+> and that was basically
 >
-> I broke down, I started sobbing on control of the tears streaming down, and
+> me being a pussy in front of a pussy.
 >
-> that was
+> The reason for this is actually because when I was seven years old, I had a hamster
 >
-> basically me being a pussy in front of a pussy, and the reason for this is
+> called
 >
-> actually
+> Fifi.
 >
-> because when I was seven years old, I had a hamster called Fifi, and my last
+> And my last memory of Fifi was, Fifi was running around our flat, kind of happy,
 >
-> memory
+> and Fifi started
 >
-> of Fifi was, Fifi was running around our flat, kind of happy.
+> crawling up this tower of books that was stacked on the floor, and I wasn't
 >
-> Fifi started crawling up this tower of books that was stacked on the floor, and
+> paying attention,
 >
-> I wasn't
+> and I looked, and I saw this tower of books starting to tip, and I went, "No, Fifi!"
 >
-> paying attention, and I looked, and I saw this tower of books starting to tip,
+> And the last thing I heard was this crunch, as a hardback book about how to
 >
-> and I
+> care for your
 >
-> went, no, Fifi, and the last thing I heard was this crunch, as a hardback book
+> rodent crush.
 >
-> about
+> And this traumatic experience just came back to me, and combined with the
 >
-> how to care for your rodent crush, and this traumatic experience just came back
+> pressure of trying
 >
-> to me,
+> to please a woman, it just cracked me.
 >
-> and combined with the pressure of trying to please a woman, it just cracked me,
+> This is actually something I think that maybe all the women here should
 >
-> and this
+> consider.
 >
-> is actually something I think that maybe all of us have experienced, and I
+> You know, guys act tough, we act like we know what we're doing, but we all know,
 >
-> think it's
+> actually,
 >
-> something all the women here should consider, you know, guys act tough, we act
+> we know that we suck at all things sex, and we hear you guys, you know, you
 >
-> like we know
+> fake orgasms,
 >
-> what we're doing, but we all know, actually, we know that we suck at all things
+> we hear you joking with your friend about how bad this guy was last night.
 >
-> sex, and
+> So what you need to consider is that maybe use this space above your vagina as
 >
-> we hear you guys, you know, you fake orgasms, we hear you joking with your
+> an opportunity
 >
-> friend about
+> to comfort a guy.
 >
-> how bad this guy was last night, so what you need to consider is that maybe use
+> For example, you know, let's say you've got a boyfriend, he's a hipster.
 >
-> this space
+> Try growing out a nice hipster beard down here, put some beard oil in there.
 >
-> above your vagina as an opportunity to comfort a guy.
+> Maybe when he gets down there, he'll be like, "Yo, bro, brofist!"
 >
-> For example, you know, let's say you've got a boyfriend, he's a hipster, try
+> He's gonna love it.
 >
-> growing
+> Or, you know, if he's more of a student, like more of a thinker, you know, you
 >
-> out a nice hipster beard down there, get some beard oil in there, he'll be,
+> could try
 >
-> when he gets
+> tattooing some metaphysical question, you know, like, "Who decides what is good
 >
-> down there, he'll be like, yo, bro, bro fist, he's gonna love it, or, you know,
+> and
 >
-> if he's
+> evil?"
 >
-> more of a student, like more of a thinker, you know, you could try tattooing
+> And that's going to keep him down there for way longer than he needs to be.
 >
-> some metaphysical
+> But of course, you know, the typical scenario is you meet a guy in a bar, he's
 >
-> question, you know, like, who decides what is good and evil, and that's gonna
+> been drinking
 >
-> keep him
+> a lot of beer, and what do guys really love after a night of drinking beer?
 >
-> down there for way longer than he needs to be, or, but, you know, I don't know,
+> It's a Doner Kebab.
 >
-> I don't
+> So go buy a Doner Kebab, take a few strips of meat, stick 'em above your vagina,
 >
-> know, but, of course, he, you know, the typical scenario is you meet a guy in a
+> and
 >
-> bar, he's
+> when he goes down there, he will love you forever.
 >
-> been drinking a lot of beer, and what do guys really love after a night of
+> But just watch out, one tip is, don't go for extra shots, we don't want any vaginal
 >
-> drinking beer?
->
-> It's a Danica bag, so go buy a Danica bag, take a few strips of meat, stick
->
-> them above
->
-> your vagina, and when he goes down there, he will love you forever, but just
->
-> watch out,
->
-> one tip is, don't go for extra sharp, we don't want any vaginal injuries.
+> injuries.
 >
 > Okay, that's me.
 >
-> That was Henry Fox, everybody.
+> Thanks a lot.

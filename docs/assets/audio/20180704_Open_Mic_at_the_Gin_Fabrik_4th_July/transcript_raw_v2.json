@@ -3,7 +3,7 @@
 	"model": {
 		"type": "large",
 		"multilingual": true,
-		"vocab": 51866,
+		"vocab": 51865,
 		"audio": {
 			"ctx": 1500,
 			"state": 1280,
@@ -16,11 +16,11 @@
 			"head": 20,
 			"layer": 32
 		},
-		"mels": 128,
+		"mels": 80,
 		"ftype": 1
 	},
 	"params": {
-		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
 		"language": "en",
 		"translate": false
 	},
@@ -31,1740 +31,1135 @@
 		{
 			"timestamps": {
 				"from": "00:00:00,000",
-				"to": "00:00:04,830"
+				"to": "00:00:04,640"
 			},
 			"offsets": {
 				"from": 0,
-				"to": 4830
+				"to": 4640
 			},
-			"text": " I am so excited for this guy. He's going to be great. So let's give a big round"
+			"text": " tonight i am so excited for this guy uh he's gonna be great so let's give a big"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:04,830",
-				"to": "00:00:08,260"
+				"from": "00:00:04,640",
+				"to": "00:00:05,280"
 			},
 			"offsets": {
-				"from": 4830,
-				"to": 8260
+				"from": 4640,
+				"to": 5280
 			},
-			"text": " of applause. Here he is, everybody. Harry Fuchs, everybody."
+			"text": " round of applause"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:08,260",
-				"to": "00:00:22,030"
+				"from": "00:00:05,280",
+				"to": "00:00:09,440"
 			},
 			"offsets": {
-				"from": 8260,
-				"to": 22030
+				"from": 5280,
+				"to": 9440
 			},
-			"text": " So actually, my name is Harry Fuchs. That's a German name. Unfortunately, a lot"
+			"text": " here he is everybody harry fux everybody"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:22,030",
-				"to": "00:00:25,320"
+				"from": "00:00:09,440",
+				"to": "00:00:20,640"
 			},
 			"offsets": {
-				"from": 22030,
-				"to": 25320
+				"from": 9440,
+				"to": 20640
 			},
-			"text": " of English speakers seem to think my name is Harry Fuchs."
+			"text": " so actually my name is harry books that's a german name"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:26,740",
-				"to": "00:00:31,300"
+				"from": "00:00:20,640",
+				"to": "00:00:25,280"
 			},
 			"offsets": {
-				"from": 26740,
-				"to": 31300
+				"from": 20640,
+				"to": 25280
 			},
-			"text": " My name is not Harry Fuchs. If my name was Harry Fuchs, I would have come on"
+			"text": " unfortunately a lot of english speakers seem to think my name is harry fux"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:31,300",
-				"to": "00:00:32,500"
+				"from": "00:00:27,040",
+				"to": "00:00:32,160"
 			},
 			"offsets": {
-				"from": 31300,
-				"to": 32500
+				"from": 27040,
+				"to": 32160
 			},
-			"text": " stage and said,"
+			"text": " my name is not harry fux my name was harry fux i would have come on stage and"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:32,500",
-				"to": "00:00:38,020"
+				"from": "00:00:32,160",
+				"to": "00:00:32,640"
 			},
 			"offsets": {
-				"from": 32500,
-				"to": 38020
+				"from": 32160,
+				"to": 32640
 			},
-			"text": " Yo, what's up? Harry Fuchs in the house. But that's not really me."
+			"text": " said"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:38,020",
-				"to": "00:00:43,490"
+				"from": "00:00:32,640",
+				"to": "00:00:40,000"
 			},
 			"offsets": {
-				"from": 38020,
-				"to": 43490
+				"from": 32640,
+				"to": 40000
 			},
-			"text": " And, you know, honestly, there's just been way too little sex for me to qualify"
+			"text": " yo what's up harry fux in the house but that's that's not really me and uh you"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:43,490",
-				"to": "00:00:44,800"
+				"from": "00:00:40,000",
+				"to": "00:00:41,200"
 			},
 			"offsets": {
-				"from": 43490,
-				"to": 44800
+				"from": 40000,
+				"to": 41200
 			},
-			"text": " as Harry Fuchs."
+			"text": " know honestly"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:44,800",
-				"to": "00:00:50,560"
+				"from": "00:00:41,200",
+				"to": "00:00:44,720"
 			},
 			"offsets": {
-				"from": 44800,
-				"to": 50560
+				"from": 41200,
+				"to": 44720
 			},
-			"text": " In fact, recently I was dumped by my first Swiss girlfriend after four and a"
+			"text": " there's just been way too little sex for me to qualify as harry fux"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:50,560",
-				"to": "00:00:51,740"
+				"from": "00:00:44,720",
+				"to": "00:00:51,050"
 			},
 			"offsets": {
-				"from": 50560,
-				"to": 51740
+				"from": 44720,
+				"to": 51050
 			},
-			"text": " half years."
+			"text": " in fact uh recently i was dumped by my first swiss girlfriend after four and a"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:53,480",
-				"to": "00:00:59,310"
+				"from": "00:00:51,050",
+				"to": "00:00:51,600"
 			},
 			"offsets": {
-				"from": 53480,
-				"to": 59310
+				"from": 51050,
+				"to": 51600
 			},
-			"text": " And that, of course, means that I'm not qualified as an expert on all Swiss"
+			"text": " half years"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:59,310",
-				"to": "00:01:01,680"
+				"from": "00:00:53,040",
+				"to": "00:01:00,080"
 			},
 			"offsets": {
-				"from": 59310,
-				"to": 61680
+				"from": 53040,
+				"to": 60080
 			},
-			"text": " women. Indeed."
+			"text": " and that of course means that i'm not qualified as an expert on all swiss women"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:01,680",
-				"to": "00:01:06,500"
+				"from": "00:01:00,080",
+				"to": "00:01:06,880"
 			},
 			"offsets": {
-				"from": 61680,
-				"to": 66500
+				"from": 60080,
+				"to": 66880
 			},
-			"text": " One of the things that's hard about having a Swiss girlfriend is they don't"
+			"text": " indeed one of the things that's hard about having a swiss girlfriend is they"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:06,500",
-				"to": "00:01:08,280"
+				"from": "00:01:06,880",
+				"to": "00:01:08,000"
 			},
 			"offsets": {
-				"from": 66500,
-				"to": 68280
+				"from": 66880,
+				"to": 68000
 			},
-			"text": " communicate very well."
+			"text": " don't communicate very"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:08,280",
-				"to": "00:01:11,680"
+				"from": "00:01:08,000",
+				"to": "00:01:12,350"
 			},
 			"offsets": {
-				"from": 68280,
-				"to": 71680
+				"from": 68000,
+				"to": 72350
 			},
-			"text": " They don't express themselves very well, especially towards men."
+			"text": " well they don't express themselves very well especially towards men and the"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:11,680",
-				"to": "00:01:16,160"
+				"from": "00:01:12,350",
+				"to": "00:01:13,120"
 			},
 			"offsets": {
-				"from": 71680,
-				"to": 76160
+				"from": 72350,
+				"to": 73120
 			},
-			"text": " And the surprising reason for this is actually that Switzerland has a very poor"
+			"text": " surprising"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:16,160",
-				"to": "00:01:18,260"
+				"from": "00:01:13,120",
+				"to": "00:01:17,220"
 			},
 			"offsets": {
-				"from": 76160,
-				"to": 78260
+				"from": 73120,
+				"to": 77220
 			},
-			"text": " track record on women's rights."
+			"text": " reason for this is actually that switzerland has a very poor track record on"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:18,260",
-				"to": "00:01:22,920"
+				"from": "00:01:17,220",
+				"to": "00:01:18,160"
 			},
 			"offsets": {
-				"from": 78260,
-				"to": 82920
+				"from": 77220,
+				"to": 78160
 			},
-			"text": " It was actually only until 1991 that the last canton,"
+			"text": " women's rights"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:23,480",
-				"to": "00:01:28,340"
+				"from": "00:01:19,120",
+				"to": "00:01:23,360"
 			},
 			"offsets": {
-				"from": 83480,
-				"to": 88340
+				"from": 79120,
+				"to": 83360
 			},
-			"text": " of Appenzell-Inneboden, finally agreed to give women the right to have orgasms."
+			"text": " it was actually only until 1991 that the last canton"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:28,340",
-				"to": "00:01:38,650"
+				"from": "00:01:23,360",
+				"to": "00:01:28,240"
 			},
 			"offsets": {
-				"from": 88340,
-				"to": 98650
+				"from": 83360,
+				"to": 88240
 			},
-			"text": " So, compared to their German or British or American sisters, Swiss women are"
+			"text": " of appenzell innervalle finally agreed to give women the right to have orgasms"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:38,650",
-				"to": "00:01:39,600"
+				"from": "00:01:28,240",
+				"to": "00:01:38,720"
 			},
 			"offsets": {
-				"from": 98650,
-				"to": 99600
+				"from": 88240,
+				"to": 98720
 			},
-			"text": " still catching up."
+			"text": " so compared to their german or british or american sisters swiss women are"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:39,600",
-				"to": "00:01:43,110"
+				"from": "00:01:38,720",
+				"to": "00:01:39,680"
 			},
 			"offsets": {
-				"from": 99600,
-				"to": 103110
+				"from": 98720,
+				"to": 99680
 			},
-			"text": " They're still learning the fine arts of nagging and making their men feel"
+			"text": " still catching up they're"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:43,110",
-				"to": "00:01:43,900"
+				"from": "00:01:39,680",
+				"to": "00:01:45,960"
 			},
 			"offsets": {
-				"from": 103110,
-				"to": 103900
+				"from": 99680,
+				"to": 105960
 			},
-			"text": " miserable."
+			"text": " still learning the fine arts of nagging and making their men feel miserable but"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:43,900",
-				"to": "00:01:50,400"
+				"from": "00:01:45,960",
+				"to": "00:01:47,280"
 			},
 			"offsets": {
-				"from": 103900,
-				"to": 110400
+				"from": 105960,
+				"to": 107280
 			},
-			"text": " But for any of you that end up in a similar position to what I was in,"
+			"text": " if uh for any of you"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:50,400",
-				"to": "00:01:53,400"
+				"from": "00:01:47,280",
+				"to": "00:01:51,570"
 			},
 			"offsets": {
-				"from": 110400,
-				"to": 113400
+				"from": 107280,
+				"to": 111570
 			},
-			"text": " here are a few key phrases that may help you understand."
+			"text": " that end up in a similar position to what i what i was in here are a few key"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:53,480",
-				"to": "00:01:56,720"
+				"from": "00:01:51,570",
+				"to": "00:01:52,800"
 			},
 			"offsets": {
-				"from": 113480,
-				"to": 116720
+				"from": 111570,
+				"to": 112800
 			},
-			"text": " So, for example, if she says to you,"
+			"text": " phrases that may help"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:56,720",
-				"to": "00:02:01,100"
+				"from": "00:01:52,800",
+				"to": "00:01:59,670"
 			},
 			"offsets": {
-				"from": 116720,
-				"to": 121100
+				"from": 112800,
+				"to": 119670
 			},
-			"text": " This is a good thing."
+			"text": " you understand her better so for example if she says to you \"oh schätzli\" this"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:01,100",
+				"from": "00:01:59,670",
+				"to": "00:02:01,360"
+			},
+			"offsets": {
+				"from": 119670,
+				"to": 121360
+			},
+			"text": " is a good thing"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,360",
 				"to": "00:02:05,840"
 			},
 			"offsets": {
-				"from": 121100,
+				"from": 121360,
 				"to": 125840
 			},
-			"text": " This means that later on there is a high probability of receiving sexual favors."
+			"text": " this means that later on there is a high probability of receiving sexual favors"
 		},
 		{
 			"timestamps": {
 				"from": "00:02:05,840",
-				"to": "00:02:09,100"
+				"to": "00:02:09,440"
 			},
 			"offsets": {
 				"from": 125840,
-				"to": 129100
+				"to": 129440
 			},
-			"text": " But if she says,"
+			"text": " but if she says \"schatz\""
 		},
 		{
 			"timestamps": {
-				"from": "00:02:09,100",
-				"to": "00:02:13,960"
+				"from": "00:02:11,520",
+				"to": "00:02:14,000"
 			},
 			"offsets": {
-				"from": 129100,
-				"to": 133960
+				"from": 131520,
+				"to": 134000
 			},
-			"text": " Then probably you should spend the night on the sofa."
+			"text": " then probably you should spend the night on the sofa"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:13,960",
-				"to": "00:02:17,400"
+				"from": "00:02:14,000",
+				"to": "00:02:17,200"
 			},
 			"offsets": {
-				"from": 133960,
-				"to": 137400
+				"from": 134000,
+				"to": 137200
 			},
-			"text": " Or if she says to you,"
+			"text": " or if she says to you"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:17,400",
-				"to": "00:02:21,240"
+				"from": "00:02:17,200",
+				"to": "00:02:23,680"
 			},
 			"offsets": {
-				"from": 137400,
-				"to": 141240
+				"from": 137200,
+				"to": 143680
 			},
-			"text": " This is a good thing."
+			"text": " this is a good thing that means she's as horny as a whore"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:21,240",
-				"to": "00:02:23,400"
+				"from": "00:02:23,680",
+				"to": "00:02:30,000"
 			},
 			"offsets": {
-				"from": 141240,
-				"to": 143400
+				"from": 143680,
+				"to": 150000
 			},
-			"text": " That means she's as horny as a horse."
+			"text": " but if she says \"leck mich doch am Arsch\""
 		},
 		{
 			"timestamps": {
-				"from": "00:02:23,480",
-				"to": "00:02:25,020"
+				"from": "00:02:30,000",
+				"to": "00:02:34,720"
 			},
 			"offsets": {
-				"from": 143480,
-				"to": 145020
+				"from": 150000,
+				"to": 154720
 			},
-			"text": " That means she's as horny as a horse."
+			"text": " under no circumstances should you lick her asshole"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:25,020",
-				"to": "00:02:27,380"
+				"from": "00:02:37,280",
+				"to": "00:02:40,560"
 			},
 			"offsets": {
-				"from": 145020,
-				"to": 147380
+				"from": 157280,
+				"to": 160560
 			},
-			"text": " That means she's as horny as a horse."
+			"text": " unless she follows it with \"das ist ein schiestreck\""
 		},
 		{
 			"timestamps": {
-				"from": "00:02:27,380",
-				"to": "00:02:28,820"
+				"from": "00:02:40,560",
+				"to": "00:02:44,920"
 			},
 			"offsets": {
-				"from": 147380,
-				"to": 148820
+				"from": 160560,
+				"to": 164920
 			},
-			"text": " But if she says,"
+			"text": " which means that you could think about it but you might be in for a nasty"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:28,820",
-				"to": "00:02:30,820"
+				"from": "00:02:44,920",
+				"to": "00:02:45,600"
 			},
 			"offsets": {
-				"from": 148820,
-				"to": 150820
+				"from": 164920,
+				"to": 165600
 			},
-			"text": " Lick me doch am Arsch!"
+			"text": " surprise"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:30,820",
-				"to": "00:02:32,020"
+				"from": "00:02:45,600",
+				"to": "00:02:52,140"
 			},
 			"offsets": {
-				"from": 150820,
-				"to": 152020
+				"from": 165600,
+				"to": 172140
 			},
-			"text": " Lick me doch am Arsch!"
+			"text": " yeah so international relations are hard you know i understand this i've been"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:32,020",
-				"to": "00:02:35,020"
+				"from": "00:02:52,140",
+				"to": "00:02:54,160"
 			},
 			"offsets": {
-				"from": 152020,
-				"to": 155020
+				"from": 172140,
+				"to": 174160
 			},
-			"text": " Under no circumstances should you lick her asshole."
+			"text": " living in switzerland"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:35,020",
-				"to": "00:02:37,020"
+				"from": "00:02:54,160",
+				"to": "00:02:35,570"
 			},
 			"offsets": {
-				"from": 155020,
-				"to": 157020
+				"from": 174160,
+				"to": 155570
 			},
-			"text": " Lick me doch am Arsch!"
+			"text": " now for 17 years i came originally from the uk and actually right now i'm in"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:37,020",
-				"to": "00:02:39,020"
+				"from": "00:02:35,570",
+				"to": "00:03:00,240"
 			},
 			"offsets": {
-				"from": 157020,
-				"to": 159020
+				"from": 155570,
+				"to": 180240
 			},
-			"text": " Unless she follows it with,"
+			"text": " the process of"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:39,020",
-				"to": "00:02:41,020"
+				"from": "00:03:00,240",
+				"to": "00:03:05,390"
 			},
 			"offsets": {
-				"from": 159020,
-				"to": 161020
+				"from": 180240,
+				"to": 185390
 			},
-			"text": " Das ist ein Schießdreck!"
+			"text": " applying for my swiss passport thank you all right it's great to get the"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:41,020",
-				"to": "00:02:43,020"
+				"from": "00:03:05,390",
+				"to": "00:03:07,120"
 			},
 			"offsets": {
-				"from": 161020,
-				"to": 163020
+				"from": 185390,
+				"to": 187120
 			},
-			"text": " Which means that you could think about it,"
+			"text": " support from the two swiss"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:43,020",
-				"to": "00:02:45,020"
+				"from": "00:03:07,120",
+				"to": "00:03:11,990"
 			},
 			"offsets": {
-				"from": 163020,
-				"to": 165020
+				"from": 187120,
+				"to": 191990
 			},
-			"text": " but you might be in for a nasty surprise."
+			"text": " people here um because actually what i'm going to do when i get that passport"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:45,020",
-				"to": "00:02:47,020"
+				"from": "00:03:11,990",
+				"to": "00:03:13,120"
 			},
 			"offsets": {
-				"from": 165020,
-				"to": 167020
+				"from": 191990,
+				"to": 193120
 			},
-			"text": " But you might be in for a nasty surprise."
+			"text": " is i'm going to be"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:47,020",
-				"to": "00:02:49,020"
+				"from": "00:03:13,120",
+				"to": "00:03:19,170"
 			},
 			"offsets": {
-				"from": 167020,
-				"to": 169020
+				"from": 193120,
+				"to": 199170
 			},
-			"text": " But you might be in for a nasty surprise."
+			"text": " voting svp and the reason for that is it's time we do something about the"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:49,020",
-				"to": "00:02:51,020"
+				"from": "00:03:19,170",
+				"to": "00:03:20,320"
 			},
 			"offsets": {
-				"from": 169020,
-				"to": 171020
+				"from": 199170,
+				"to": 200320
 			},
-			"text": " Yeah, so international relations are hard."
+			"text": " immigrants"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:51,020",
-				"to": "00:02:52,340"
+				"from": "00:03:20,320",
+				"to": "00:03:26,480"
 			},
 			"offsets": {
-				"from": 171020,
-				"to": 172340
+				"from": 200320,
+				"to": 206480
 			},
-			"text": " I understand this. I've been living in Switzerland for a long time."
+			"text": " all the goddamn english-speaking immigrants i mean the brits"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:52,340",
-				"to": "00:02:52,340"
+				"from": "00:03:26,480",
+				"to": "00:03:32,240"
 			},
 			"offsets": {
-				"from": 172340,
-				"to": 172340
+				"from": 206480,
+				"to": 212240
 			},
-			"text": " I understand this. I've been living in Switzerland for a long time."
+			"text": " the yanks the canadians the kiwis the aussies we got to deal with them because"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:52,340",
-				"to": "00:02:52,340"
+				"from": "00:03:32,240",
+				"to": "00:03:32,960"
 			},
 			"offsets": {
-				"from": 172340,
-				"to": 172340
+				"from": 212240,
+				"to": 212960
 			},
-			"text": " I understand this. I've been living in Switzerland for a long time."
+			"text": " take a look at it"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:52,340",
-				"to": "00:02:52,340"
+				"from": "00:03:32,960",
+				"to": "00:03:37,920"
 			},
 			"offsets": {
-				"from": 172340,
-				"to": 172340
+				"from": 212960,
+				"to": 217920
 			},
-			"text": " I understand this. I've been living in Switzerland for a long time."
+			"text": " what have they been doing they voted for brexit they voted for trump"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:52,340",
-				"to": "00:02:54,340"
+				"from": "00:03:37,920",
+				"to": "00:03:43,160"
 			},
 			"offsets": {
-				"from": 172340,
-				"to": 174340
+				"from": 217920,
+				"to": 223160
 			},
-			"text": " I understand this. I've been living in Switzerland now for 17 years."
+			"text": " and then they went oh my god we fucked up our country let's just sneak over to"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:54,340",
-				"to": "00:02:54,340"
+				"from": "00:03:43,160",
+				"to": "00:03:44,160"
 			},
 			"offsets": {
-				"from": 174340,
-				"to": 174340
+				"from": 223160,
+				"to": 224160
 			},
-			"text": " I understand this. I've been living in Switzerland now for 17 years."
+			"text": " switzerland"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:54,340",
-				"to": "00:02:56,340"
+				"from": "00:03:44,160",
+				"to": "00:03:50,800"
 			},
 			"offsets": {
-				"from": 174340,
-				"to": 176340
+				"from": 224160,
+				"to": 230800
 			},
-			"text": " I understand this. I've been living in Switzerland now for 17 years."
+			"text": " but if you look at what are they actually bringing to this party here in switzerland"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:56,340",
-				"to": "00:02:58,340"
+				"from": "00:03:50,800",
+				"to": "00:03:51,520"
 			},
 			"offsets": {
-				"from": 176340,
-				"to": 178340
+				"from": 230800,
+				"to": 231520
 			},
-			"text": " I came originally from the UK."
+			"text": " i mean"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:58,340",
-				"to": "00:03:00,340"
+				"from": "00:03:51,520",
+				"to": "00:03:55,260"
 			},
 			"offsets": {
-				"from": 178340,
-				"to": 180340
+				"from": 231520,
+				"to": 235260
 			},
-			"text": " Actually right now I'm in the process of applying for my Swiss passport."
+			"text": " like the indians or the vietnamese they came here they brought fantastic"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:00,340",
-				"to": "00:03:02,340"
+				"from": "00:03:55,260",
+				"to": "00:03:55,760"
 			},
 			"offsets": {
-				"from": 180340,
-				"to": 182340
+				"from": 235260,
+				"to": 235760
 			},
-			"text": " Actually right now I'm in the process of applying for my Swiss passport."
+			"text": " cuisine"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:02,340",
-				"to": "00:03:04,340"
+				"from": "00:03:56,560",
+				"to": "00:04:00,880"
 			},
 			"offsets": {
-				"from": 182340,
-				"to": 184340
+				"from": 236560,
+				"to": 240880
 			},
-			"text": " Thank you."
+			"text": " or the romanians or the brazilians they came here and brought sexual relief"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:04,340",
-				"to": "00:03:06,340"
+				"from": "00:04:00,880",
+				"to": "00:04:09,200"
 			},
 			"offsets": {
-				"from": 184340,
-				"to": 186340
+				"from": 240880,
+				"to": 249200
 			},
-			"text": " It's great to get the support from the two Swiss people here."
+			"text": " but you know these these goddamn english speakers they're not even trying to"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:06,340",
-				"to": "00:03:08,340"
+				"from": "00:04:09,200",
+				"to": "00:04:09,920"
 			},
 			"offsets": {
-				"from": 186340,
-				"to": 188340
+				"from": 249200,
+				"to": 249920
 			},
-			"text": " It's great to get the support from the two Swiss people here."
+			"text": " learn"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:08,340",
-				"to": "00:03:10,340"
+				"from": "00:04:09,920",
+				"to": "00:04:13,940"
 			},
 			"offsets": {
-				"from": 188340,
-				"to": 190340
+				"from": 249920,
+				"to": 253940
 			},
-			"text": " Because actually what I'm going to do when I get that passport,"
+			"text": " the language they're going out in the evening and listening to english stand-up"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:10,340",
-				"to": "00:03:12,340"
+				"from": "00:04:13,940",
+				"to": "00:04:14,320"
 			},
 			"offsets": {
-				"from": 190340,
-				"to": 192340
+				"from": 253940,
+				"to": 254320
 			},
-			"text": " Because actually what I'm going to do when I get that passport,"
+			"text": " comedy"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:12,340",
-				"to": "00:03:14,340"
+				"from": "00:04:14,320",
+				"to": "00:04:20,960"
 			},
 			"offsets": {
-				"from": 192340,
-				"to": 194340
+				"from": 254320,
+				"to": 260960
 			},
-			"text": " is I'm going to be voting SVP."
+			"text": " so uh you know i'm going to stop this country getting stolen and you know this"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:14,340",
-				"to": "00:03:16,340"
+				"from": "00:04:20,960",
+				"to": "00:04:22,000"
 			},
 			"offsets": {
-				"from": 194340,
-				"to": 196340
+				"from": 260960,
+				"to": 262000
 			},
-			"text": " is I'm going to be voting SVP."
+			"text": " is because"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:16,340",
-				"to": "00:03:18,340"
+				"from": "00:04:22,000",
+				"to": "00:04:26,320"
 			},
 			"offsets": {
-				"from": 196340,
-				"to": 198340
+				"from": 262000,
+				"to": 266320
 			},
-			"text": " And the reason for that is,"
+			"text": " this actually goes back to my childhood because uh when i was just seven years"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:18,340",
-				"to": "00:03:20,340"
+				"from": "00:04:26,320",
+				"to": "00:04:26,560"
 			},
 			"offsets": {
-				"from": 198340,
-				"to": 200340
+				"from": 266320,
+				"to": 266560
 			},
-			"text": " it's time we do something about the immigrants."
+			"text": " old"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:20,340",
-				"to": "00:03:22,340"
+				"from": "00:04:26,560",
+				"to": "00:04:32,540"
 			},
 			"offsets": {
-				"from": 200340,
-				"to": 202340
+				"from": 266560,
+				"to": 272540
 			},
-			"text": " it's time we do something about the immigrants."
+			"text": " something was taken from me that's right i was circumcised i see that not"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:22,340",
-				"to": "00:03:24,340"
+				"from": "00:04:32,540",
+				"to": "00:04:34,480"
 			},
 			"offsets": {
-				"from": 202340,
-				"to": 204340
+				"from": 272540,
+				"to": 274480
 			},
-			"text": " All the goddamn English-speaking immigrants."
+			"text": " everyone understands"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:24,340",
-				"to": "00:03:26,340"
+				"from": "00:04:34,480",
+				"to": "00:04:40,710"
 			},
 			"offsets": {
-				"from": 204340,
-				"to": 206340
+				"from": 274480,
+				"to": 280710
 			},
-			"text": " All the goddamn English-speaking immigrants."
+			"text": " what the word circumcised means come and talk to me afterwards now i wasn't"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:26,340",
-				"to": "00:03:28,340"
+				"from": "00:04:40,710",
+				"to": "00:04:42,960"
 			},
 			"offsets": {
-				"from": 206340,
-				"to": 208340
+				"from": 280710,
+				"to": 282960
 			},
-			"text": " I mean the Brits, the Yanks, the Canadians,"
+			"text": " circumcised for"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:28,340",
-				"to": "00:03:30,340"
+				"from": "00:04:42,960",
+				"to": "00:04:46,790"
 			},
 			"offsets": {
-				"from": 208340,
-				"to": 210340
+				"from": 282960,
+				"to": 286790
 			},
-			"text": " I mean the Brits, the Yanks, the Canadians, the Kiwis, the Aussies."
+			"text": " religious reasons actually it was a medical emergency and the only way they"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:30,340",
-				"to": "00:03:32,340"
+				"from": "00:04:46,790",
+				"to": "00:04:47,440"
 			},
 			"offsets": {
-				"from": 210340,
-				"to": 212340
+				"from": 286790,
+				"to": 287440
 			},
-			"text": " We've got to deal with them."
+			"text": " could save"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:32,340",
-				"to": "00:03:34,340"
+				"from": "00:04:47,440",
+				"to": "00:04:53,040"
 			},
 			"offsets": {
-				"from": 212340,
-				"to": 214340
+				"from": 287440,
+				"to": 293040
 			},
-			"text": " Because take a look at it."
+			"text": " my life was by cutting off my foreskin but what began as a very traumatic"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:34,340",
-				"to": "00:03:36,340"
+				"from": "00:04:53,040",
+				"to": "00:04:54,080"
 			},
 			"offsets": {
-				"from": 214340,
-				"to": 216340
+				"from": 293040,
+				"to": 294080
 			},
-			"text": " What have they been doing?"
+			"text": " childhood experience"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:36,340",
-				"to": "00:03:38,340"
+				"from": "00:04:54,080",
+				"to": "00:04:58,550"
 			},
 			"offsets": {
-				"from": 216340,
-				"to": 218340
+				"from": 294080,
+				"to": 298550
 			},
-			"text": " They voted for Brexit."
+			"text": " in later life actually turned into a real advantage because what i found is"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:38,340",
-				"to": "00:03:40,340"
+				"from": "00:04:58,550",
+				"to": "00:04:58,720"
 			},
 			"offsets": {
-				"from": 218340,
-				"to": 220340
+				"from": 298550,
+				"to": 298720
 			},
-			"text": " They voted for Trump."
+			"text": " that on"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:40,340",
-				"to": "00:03:42,340"
+				"from": "00:04:58,720",
+				"to": "00:05:02,680"
 			},
 			"offsets": {
-				"from": 220340,
-				"to": 222340
+				"from": 298720,
+				"to": 302680
 			},
-			"text": " And then they went, \"Oh my God, we've fucked up our country."
+			"text": " those rare occasions where a woman would come into close proximity with the tip"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:42,340",
-				"to": "00:03:44,340"
+				"from": "00:05:02,680",
+				"to": "00:05:03,280"
 			},
 			"offsets": {
-				"from": 222340,
-				"to": 224340
+				"from": 302680,
+				"to": 303280
 			},
-			"text": " Let's just sneak over to Switzerland.\""
+			"text": " of my penis"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:44,340",
-				"to": "00:03:46,340"
+				"from": "00:05:03,280",
+				"to": "00:05:10,700"
 			},
 			"offsets": {
-				"from": 224340,
-				"to": 226340
+				"from": 303280,
+				"to": 310700
 			},
-			"text": " Let's just sneak over to Switzerland."
+			"text": " she would sigh like this like and i would go hey why are you sighing on my"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:46,340",
-				"to": "00:03:48,340"
+				"from": "00:05:10,700",
+				"to": "00:05:13,280"
 			},
 			"offsets": {
-				"from": 226340,
-				"to": 228340
+				"from": 310700,
+				"to": 313280
 			},
-			"text": " But if you look at what are they actually bringing"
+			"text": " penis and she said you"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:48,340",
-				"to": "00:03:50,340"
+				"from": "00:05:13,280",
+				"to": "00:05:17,600"
 			},
 			"offsets": {
-				"from": 228340,
-				"to": 230340
+				"from": 313280,
+				"to": 317600
 			},
-			"text": " But if you look at what are they actually bringing"
+			"text": " have no idea what a relief it is there are so many dirty dicks out there"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:50,340",
-				"to": "00:03:52,340"
+				"from": "00:05:17,600",
+				"to": "00:05:25,350"
 			},
 			"offsets": {
-				"from": 230340,
-				"to": 232340
+				"from": 317600,
+				"to": 325350
 			},
-			"text": " to this party here in Switzerland."
+			"text": " and so what i learned is that actually this was news to me that amongst my uncut"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:52,340",
-				"to": "00:03:54,340"
+				"from": "00:05:25,350",
+				"to": "00:05:26,000"
 			},
 			"offsets": {
-				"from": 232340,
-				"to": 234340
+				"from": 325350,
+				"to": 326000
 			},
-			"text": " The Italians or the Vietnamese,"
+			"text": " brethren"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:54,340",
-				"to": "00:03:56,340"
+				"from": "00:05:26,000",
+				"to": "00:05:29,760"
 			},
 			"offsets": {
-				"from": 234340,
-				"to": 236340
+				"from": 326000,
+				"to": 329760
 			},
-			"text": " they came here, they brought fantastic cuisine."
+			"text": " that a lot of you guys are not putting enough attention in this area"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:56,340",
-				"to": "00:03:58,340"
+				"from": "00:05:29,760",
+				"to": "00:05:36,320"
 			},
 			"offsets": {
-				"from": 236340,
-				"to": 238340
+				"from": 329760,
+				"to": 336320
 			},
-			"text": " Or the Romanians or the Brazilians,"
+			"text": " so i thought i'd wrap up with a few tips to help you guys make your woman's"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:58,340",
-				"to": "00:04:00,340"
+				"from": "00:05:36,320",
+				"to": "00:05:37,280"
 			},
 			"offsets": {
-				"from": 238340,
-				"to": 240340
+				"from": 336320,
+				"to": 337280
 			},
-			"text": " they came here and brought sexual relief."
+			"text": " life more pleasant"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:00,340",
-				"to": "00:04:02,340"
+				"from": "00:05:38,400",
+				"to": "00:05:41,600"
 			},
 			"offsets": {
-				"from": 240340,
-				"to": 242340
+				"from": 338400,
+				"to": 341600
 			},
-			"text": " they came here and brought sexual relief."
+			"text": " so the first thing you can do is air freshener you know like that thing you"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:02,340",
-				"to": "00:04:06,340"
+				"from": "00:05:41,600",
+				"to": "00:05:41,840"
 			},
 			"offsets": {
-				"from": 242340,
-				"to": 246340
+				"from": 341600,
+				"to": 341840
 			},
-			"text": " But, you know,"
+			"text": " have"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:06,340",
-				"to": "00:04:08,340"
+				"from": "00:05:41,840",
+				"to": "00:05:45,440"
 			},
 			"offsets": {
-				"from": 246340,
-				"to": 248340
+				"from": 341840,
+				"to": 345440
 			},
-			"text": " these goddamn English speakers,"
+			"text": " in your car on the rear camera hanging from your penis"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:08,340",
-				"to": "00:04:10,340"
+				"from": "00:05:45,440",
+				"to": "00:05:49,990"
 			},
 			"offsets": {
-				"from": 248340,
-				"to": 250340
+				"from": 345440,
+				"to": 349990
 			},
-			"text": " they're not even trying to learn the language."
+			"text": " that will immediately make her life more pleasant because women are very"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:10,340",
-				"to": "00:04:12,340"
+				"from": "00:05:49,990",
+				"to": "00:05:51,200"
 			},
 			"offsets": {
-				"from": 250340,
-				"to": 252340
+				"from": 349990,
+				"to": 351200
 			},
-			"text": " They're going out in the evening"
+			"text": " sensitive to smell"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:12,340",
-				"to": "00:04:14,340"
+				"from": "00:05:51,200",
+				"to": "00:05:57,200"
 			},
 			"offsets": {
-				"from": 252340,
-				"to": 254340
+				"from": 351200,
+				"to": 357200
 			},
-			"text": " and listening to English stand-up comedy."
+			"text": " women are also very visual so another thing you could do is right above your"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:14,340",
-				"to": "00:04:18,340"
+				"from": "00:05:57,200",
+				"to": "00:05:58,320"
 			},
 			"offsets": {
-				"from": 254340,
-				"to": 258340
+				"from": 357200,
+				"to": 358320
 			},
-			"text": " So, you know,"
+			"text": " penis about here"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:18,340",
-				"to": "00:04:20,340"
+				"from": "00:05:58,320",
+				"to": "00:06:03,520"
 			},
 			"offsets": {
-				"from": 258340,
-				"to": 260340
+				"from": 358320,
+				"to": 363520
 			},
-			"text": " I'm going to stop this country getting stolen."
+			"text": " tattoo a pleasant scene like like a field of grass with some flowers growing"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:20,340",
-				"to": "00:04:22,340"
+				"from": "00:06:04,400",
+				"to": "00:06:07,680"
 			},
 			"offsets": {
-				"from": 260340,
-				"to": 262340
+				"from": 364400,
+				"to": 367680
 			},
-			"text": " And, you know, this is because"
+			"text": " or maybe or maybe a tree with a few birds cheating in it"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:22,340",
-				"to": "00:04:24,340"
+				"from": "00:06:07,680",
+				"to": "00:06:12,000"
 			},
 			"offsets": {
-				"from": 262340,
-				"to": 264340
+				"from": 367680,
+				"to": 372000
 			},
-			"text": " this actually goes back to my childhood"
+			"text": " something to take her mind off the disgusting act she has to look like"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:24,340",
-				"to": "00:04:26,340"
+				"from": "00:06:12,000",
+				"to": "00:06:20,230"
 			},
 			"offsets": {
-				"from": 264340,
-				"to": 266340
+				"from": 372000,
+				"to": 380230
 			},
-			"text": " because when I was just seven years old"
+			"text": " because the simplest and most effective thing you can do is bring a box of"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:26,340",
-				"to": "00:04:28,340"
+				"from": "00:06:20,230",
+				"to": "00:06:20,800"
 			},
 			"offsets": {
-				"from": 266340,
-				"to": 268340
+				"from": 380230,
+				"to": 380800
 			},
-			"text": " something was taken from me."
+			"text": " crackers"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:28,340",
-				"to": "00:04:30,340"
+				"from": "00:06:20,800",
+				"to": "00:06:24,480"
 			},
 			"offsets": {
-				"from": 268340,
-				"to": 270340
+				"from": 380800,
+				"to": 384480
 			},
-			"text": " That's right, I was circumcised."
+			"text": " so that when she's down there you can just kind of feed her the crackers"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:30,340",
-				"to": "00:04:34,340"
+				"from": "00:06:24,480",
+				"to": "00:06:28,240"
 			},
 			"offsets": {
-				"from": 270340,
-				"to": 274340
+				"from": 384480,
+				"to": 388240
 			},
-			"text": " I see that not everyone understands"
+			"text": " because cheese goes really well with crackers"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:34,340",
-				"to": "00:04:36,340"
+				"from": "00:06:32,560",
+				"to": "00:06:40,400"
 			},
 			"offsets": {
-				"from": 274340,
-				"to": 276340
+				"from": 392560,
+				"to": 400400
 			},
-			"text": " what the word \"circumcised\" means."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:36,340",
-				"to": "00:04:38,340"
-			},
-			"offsets": {
-				"from": 276340,
-				"to": 278340
-			},
-			"text": " Come and talk to me afterwards."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:38,340",
-				"to": "00:04:42,340"
-			},
-			"offsets": {
-				"from": 278340,
-				"to": 282340
-			},
-			"text": " Now, I wasn't"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:42,340",
-				"to": "00:04:44,340"
-			},
-			"offsets": {
-				"from": 282340,
-				"to": 284340
-			},
-			"text": " circumcised for religious reasons."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:44,340",
-				"to": "00:04:46,340"
-			},
-			"offsets": {
-				"from": 284340,
-				"to": 286340
-			},
-			"text": " Actually, it was a medical emergency"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:46,340",
-				"to": "00:04:48,340"
-			},
-			"offsets": {
-				"from": 286340,
-				"to": 288340
-			},
-			"text": " and the only way they could save my life"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:48,340",
-				"to": "00:04:50,340"
-			},
-			"offsets": {
-				"from": 288340,
-				"to": 290340
-			},
-			"text": " was by cutting off my foreskin."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:50,340",
-				"to": "00:04:52,340"
-			},
-			"offsets": {
-				"from": 290340,
-				"to": 292340
-			},
-			"text": " But what began as"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:52,340",
-				"to": "00:04:54,340"
-			},
-			"offsets": {
-				"from": 292340,
-				"to": 294340
-			},
-			"text": " a very traumatic childhood experience"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:54,340",
-				"to": "00:04:56,340"
-			},
-			"offsets": {
-				"from": 294340,
-				"to": 296340
-			},
-			"text": " in later life actually turned into"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:56,340",
-				"to": "00:04:58,340"
-			},
-			"offsets": {
-				"from": 296340,
-				"to": 298340
-			},
-			"text": " a real advantage because what I found is"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:58,340",
-				"to": "00:05:00,340"
-			},
-			"offsets": {
-				"from": 298340,
-				"to": 300340
-			},
-			"text": " that on those rare occasions"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:00,340",
-				"to": "00:05:02,340"
-			},
-			"offsets": {
-				"from": 300340,
-				"to": 302340
-			},
-			"text": " where a woman would come into close proximity"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:02,340",
-				"to": "00:05:04,340"
-			},
-			"offsets": {
-				"from": 302340,
-				"to": 304340
-			},
-			"text": " with the tip of my penis,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:04,340",
-				"to": "00:05:06,340"
-			},
-			"offsets": {
-				"from": 304340,
-				"to": 306340
-			},
-			"text": " she would sigh"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:06,340",
-				"to": "00:05:08,340"
-			},
-			"offsets": {
-				"from": 306340,
-				"to": 308340
-			},
-			"text": " like this, like"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:08,340",
-				"to": "00:05:10,340"
-			},
-			"offsets": {
-				"from": 308340,
-				"to": 310340
-			},
-			"text": " and I would go,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:10,340",
-				"to": "00:05:12,340"
-			},
-			"offsets": {
-				"from": 310340,
-				"to": 312340
-			},
-			"text": " \"Hey, why are you sighing on my penis?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:12,340",
-				"to": "00:05:14,340"
-			},
-			"offsets": {
-				"from": 312340,
-				"to": 314340
-			},
-			"text": " And she'd say,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:14,340",
-				"to": "00:05:16,340"
-			},
-			"offsets": {
-				"from": 314340,
-				"to": 316340
-			},
-			"text": " \"You have no idea what a reliever it is."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:16,340",
-				"to": "00:05:18,340"
-			},
-			"offsets": {
-				"from": 316340,
-				"to": 318340
-			},
-			"text": " There are so many dirty dicks out there.\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:18,340",
-				"to": "00:05:22,340"
-			},
-			"offsets": {
-				"from": 318340,
-				"to": 322340
-			},
-			"text": " And so what I learned is"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:22,340",
-				"to": "00:05:24,340"
-			},
-			"offsets": {
-				"from": 322340,
-				"to": 324340
-			},
-			"text": " that actually, this was news to me,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:24,340",
-				"to": "00:05:26,340"
-			},
-			"offsets": {
-				"from": 324340,
-				"to": 326340
-			},
-			"text": " that amongst my uncut brethren,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:26,340",
-				"to": "00:05:28,340"
-			},
-			"offsets": {
-				"from": 326340,
-				"to": 328340
-			},
-			"text": " that a lot of you guys are not putting"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:28,340",
-				"to": "00:05:30,340"
-			},
-			"offsets": {
-				"from": 328340,
-				"to": 330340
-			},
-			"text": " enough attention in this area."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:30,340",
-				"to": "00:05:34,340"
-			},
-			"offsets": {
-				"from": 330340,
-				"to": 334340
-			},
-			"text": " So I thought I'd wrap up with a few tips"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:34,340",
-				"to": "00:05:36,340"
-			},
-			"offsets": {
-				"from": 334340,
-				"to": 336340
-			},
-			"text": " to help you guys make your woman's"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:36,340",
-				"to": "00:05:38,340"
-			},
-			"offsets": {
-				"from": 336340,
-				"to": 338340
-			},
-			"text": " life more pleasant."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:38,340",
-				"to": "00:05:40,340"
-			},
-			"offsets": {
-				"from": 338340,
-				"to": 340340
-			},
-			"text": " So the first thing you can do is air freshener."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:40,340",
-				"to": "00:05:42,340"
-			},
-			"offsets": {
-				"from": 340340,
-				"to": 342340
-			},
-			"text": " You know like that thing you have"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:42,340",
-				"to": "00:05:44,340"
-			},
-			"offsets": {
-				"from": 342340,
-				"to": 344340
-			},
-			"text": " in your car on the rear view mirror"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:44,340",
-				"to": "00:05:46,340"
-			},
-			"offsets": {
-				"from": 344340,
-				"to": 346340
-			},
-			"text": " hanging from your penis?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:46,340",
-				"to": "00:05:48,340"
-			},
-			"offsets": {
-				"from": 346340,
-				"to": 348340
-			},
-			"text": " That will immediately"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:48,340",
-				"to": "00:05:50,340"
-			},
-			"offsets": {
-				"from": 348340,
-				"to": 350340
-			},
-			"text": " make her life more pleasant because"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:50,340",
-				"to": "00:05:52,340"
-			},
-			"offsets": {
-				"from": 350340,
-				"to": 352340
-			},
-			"text": " women are very sensitive to smell."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:52,340",
-				"to": "00:05:54,340"
-			},
-			"offsets": {
-				"from": 352340,
-				"to": 354340
-			},
-			"text": " Women are also very visual."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:54,340",
-				"to": "00:05:56,340"
-			},
-			"offsets": {
-				"from": 354340,
-				"to": 356340
-			},
-			"text": " So another thing you could do is"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:56,340",
-				"to": "00:05:58,340"
-			},
-			"offsets": {
-				"from": 356340,
-				"to": 358340
-			},
-			"text": " right above your penis, right here,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:58,340",
-				"to": "00:06:00,340"
-			},
-			"offsets": {
-				"from": 358340,
-				"to": 360340
-			},
-			"text": " tattoo a pleasant scene"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:00,340",
-				"to": "00:06:02,340"
-			},
-			"offsets": {
-				"from": 360340,
-				"to": 362340
-			},
-			"text": " like a field of grass"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:02,340",
-				"to": "00:06:04,340"
-			},
-			"offsets": {
-				"from": 362340,
-				"to": 364340
-			},
-			"text": " with some flowers growing"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:04,340",
-				"to": "00:06:06,340"
-			},
-			"offsets": {
-				"from": 364340,
-				"to": 366340
-			},
-			"text": " or maybe a tree with"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:06,340",
-				"to": "00:06:08,340"
-			},
-			"offsets": {
-				"from": 366340,
-				"to": 368340
-			},
-			"text": " a few birds cheeping in it."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:08,340",
-				"to": "00:06:10,340"
-			},
-			"offsets": {
-				"from": 368340,
-				"to": 370340
-			},
-			"text": " Something to take her mind off"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:10,340",
-				"to": "00:06:12,340"
-			},
-			"offsets": {
-				"from": 370340,
-				"to": 372340
-			},
-			"text": " the disgusting act she has to perform."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:12,340",
-				"to": "00:06:16,340"
-			},
-			"offsets": {
-				"from": 372340,
-				"to": 376340
-			},
-			"text": " Because"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:16,340",
-				"to": "00:06:18,340"
-			},
-			"offsets": {
-				"from": 376340,
-				"to": 378340
-			},
-			"text": " the simplest and most effective"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:18,340",
-				"to": "00:06:20,340"
-			},
-			"offsets": {
-				"from": 378340,
-				"to": 380340
-			},
-			"text": " thing you can do is bring a box of crackers"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:20,340",
-				"to": "00:06:22,340"
-			},
-			"offsets": {
-				"from": 380340,
-				"to": 382340
-			},
-			"text": " so that when she's there,"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:22,340",
-				"to": "00:06:24,340"
-			},
-			"offsets": {
-				"from": 382340,
-				"to": 384340
-			},
-			"text": " you can just kind of feed her the crackers."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:24,340",
-				"to": "00:06:26,340"
-			},
-			"offsets": {
-				"from": 384340,
-				"to": 386340
-			},
-			"text": " Because"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:26,340",
-				"to": "00:06:28,340"
-			},
-			"offsets": {
-				"from": 386340,
-				"to": 388340
-			},
-			"text": " cheese goes really well with crackers."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:28,340",
-				"to": "00:06:34,340"
-			},
-			"offsets": {
-				"from": 388340,
-				"to": 394340
-			},
-			"text": " Alright, that's it. Thank you."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:34,340",
-				"to": "00:06:36,340"
-			},
-			"offsets": {
-				"from": 394340,
-				"to": 396340
-			},
-			"text": " Keep it clean."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:36,340",
-				"to": "00:06:38,340"
-			},
-			"offsets": {
-				"from": 396340,
-				"to": 398340
-			},
-			"text": " Especially useful ones."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:38,340",
-				"to": "00:06:40,340"
-			},
-			"offsets": {
-				"from": 398340,
-				"to": 400340
-			},
-			"text": " Have a good night."
+			"text": " All right, that's it. Thank you. Keep it clean. I appreciate you for having me."
 		}
 	]
 }

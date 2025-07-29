@@ -17,446 +17,412 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> up the next act everybody you're gonna love this guy he's originally British
+> The next act everybody, you're gonna love this guy. He's originally British, but he's been living
 >
-> but he's been living
+> here for longer than 17 years
 >
-> here for longer than 17 years okay this guy's very funny and yes this is his
+> Okay, this guy's very funny. And yes, this is his real name. Everybody give it up. It's Harry Fox
 >
-> real name everybody
+> everybody
 >
-> give it up it's Harry Fox everybody give it up for Harry Fox
+> Give it up for Harry Fox!
 >
-> so my name is actually Harry Fox it's a German name spelled F-U-C-K-S I repeat
+> So my name is actually Harry Fux. It's a German name, spelled F-U-C-K-S. I repeat, F-U-C-K-S
 >
-> F-U-C-K-S
+> But when I'm in a room with English speakers like this, some of you think my name is Harry Fux
 >
-> but when I'm in a room with English speakers like this some of you think my
+> My name is not Harry Fux. And in my family, when we have a family get-together, we get very upset
 >
-> name is Harry Fox
+> when you call us a group of fuckers
 >
-> my name is not Harry Fox and in my family when we have a family get-together
+> And I have two kids. I had to call them Halver and Walther
 >
-> we get very upset
+> No, but the real problem with a name like Harry Fux is I get a lot of stupid comments, you know
 >
-> when you call us a group of fuckers and I have two kids I had to call them Halva
+> Like recently, this American tourist came up to me and he's like, "Yo, what's up, man? Harry Fux!
 >
-> and Watha
+> Harry Fux what, man?"
 >
-> no but the real problem with a name like Harry Fox is I get a lot of stupid
+> I was like, "What?" He's like, "Exactly, Harry Fux what, man?"
 >
-> comments you know
+> So I thought, okay, he's American, I can throw him off with some adverbs
 >
-> like like recently this American tourist came up to me and he's like
+> Harry Fux hopefully, Harry Fux occasionally, Harry Fux enthusiastically
 >
-> yo what's up man Harry Fox Harry Fox what man
+> And he was like, "No, man, no. Harry Fux goats, man. Harry Fux chickens. Harry Fux tigers."
 >
-> exactly Harry Fox what man so I thought okay he's American I can throw him off
+> Now I'm pretty sure that in the entire history of mankind, no one has ever successfully fucked a
 >
-> with some adverbs
+> tiger
 >
-> Harry Fox hopefully Harry Fox occasionally Harry Fox enthusiastically and he
+> In fact, this guy made me realize that there is a whole category of unfuckable animals
 >
-> was like no man no
+> Like take hippos, for example
 >
-> Harry Fox goats man Harry Fox chickens Harry Fox tigers
+> Now you may get up behind a hippo and think, "Wow, that is a sweet ass."
 >
-> now I'm pretty sure that in the entire history of mankind no one has ever
+> Don't do it, because hippos, they are the most dangerous land mammals, they kill about 500 people
 >
-> successfully fucked a tiger
+> every year
 >
-> in fact this guy made me realize that there is a whole category of unfuckable
+> Do not fuck with hippos
 >
-> animals
+> Or elephants, you know, because it's just too high up, you can't reach
 >
-> like take hippos for example now you may get up behind a hippo and think wow
+> But if the mum isn't looking, you could probably fuck a baby elephant
 >
-> that is a sweet ass
+> Alright, I'm sorry, I'm just finding your level
 >
-> don't do it
+> I understand you're okay with bestiality, but not pedophile bestiality
 >
-> because hippos they are the most dangerous land mammals they kill about 500
+> I'll try and stay away from that for you, man
 >
-> people every year
+> So, you know, I recently, let me tell you a story
 >
-> do not fuck with hippos
+> I recently got on Instagram and, you know, that took a long time because I always thought that
 >
-> or elephants you know because you know it's just too high up you can't reach
+> Instagram was a festering cesspool of narcissists and sociopaths
 >
-> but you know if the mum isn't looking you could probably fuck a baby elephant
+> And then I thought, "Wait a second, these are my people! Oh my God!"
 >
-> all right I'm sorry I'm just finding your level I understand you're okay with
+> But, you know, I do realize though that maybe I'm a bit too old for Instagram because some things I
 >
-> bestiality but not pedophile bestiality
+> really have a problem with
 >
-> all right I'm sorry I'm just finding your level I understand you're okay with
+> Like inspirational quotes
 >
-> bestiality but not pedophile bestiality
+> Oh my God, when I see inspirational quotes I just fill up with rage
 >
-> all right I'm sorry I'm just finding your level I understand you're okay with
+> And my brain just puts these subtitles underneath
 >
-> bestiality but not pedophile bestiality
+> And if you guys could see those subtitles, Instagram would be a whole lot less inspirational
 >
-> all right I'm sorry I'm just finding your level I understand you're okay with
+> For example, "Be yourself, there's no one better"
 >
-> bestiality but not pedophile bestiality
+> Yeah, 7 billion people might disagree with that
 >
-> all right I'm sorry I'm just finding your level I understand you're okay with
+> "If you can't find the sunshine, be the sunshine"
 >
-> bestiality but not pedophile bestiality
+> Yeah, I know, you can feel it
 >
-> to you. I'll try and stay away from that for you, man. So, you know, I recently,
+> Because they clearly cause skin cancer
 >
-> let me tell you a
+> Or, I don't know, just like, "Living my best life"
 >
-> story. So I recently got on Instagram and, you know, that took a long time
+> If that's your best life, maybe it needs to stop
 >
-> because I always
+> "Working smarter, not harder"
 >
-> thought that Instagram was a festering cesspool of narcissists and sociopaths.
+> Okay, you just got fired
 >
-> And then I thought,
+> "Like a boss of a McDonald's in Dubendorf"
 >
-> wait a second, these are my people. Oh my God. But, you know, I do realize
+> They said I couldn't and that's why I did
 >
-> though that maybe I'm
+> And that is why you're serving 15 to life
 >
-> a bit too old for Instagram because some things I really have a problem with,
+> "Friends are the family you get to choose"
 >
-> like inspirational
+> What, so if we fuck it's incest?
 >
-> quotes. Oh my God. When I see inspirational quotes, I just fill up with rage
+> Or, you know, like, "The way you talk to yourself matters the most"
 >
-> and my brain just puts
+> So maybe you should shut the fuck up
 >
-> these subtitles underneath. And if you guys could see those subtitles,
+> Or, "If life hands you lemons, make lemonade"
 >
-> Instagram would be a whole
+> Or, "Go to Migros and buy a bag of oranges"
 >
-> lot less inspirational. For example, be yourself. There's no one
+> Alright, so that's Instagram
 >
-> better. Yeah, 7 billion people might disagree with that. If you can't find the
+> Let me switch to another app
 >
-> sunshine,
+> But this is an app that I love
 >
-> be the sunshine. Yeah, I know. Because they clearly cause skin cancer. Or, I
+> Uber
 >
-> don't know,
+> I mean, Uber is amazing, you know
 >
-> just like living my best life. If that's your best life, maybe it needs to stop.
+> Because Uber gets you out of the terrible pain
 >
-> I'm smarter, not harder. Okay, you just got fired. Like a boss of a McDonald's
+> Of having to lift your arm to your head and say those awful words
 >
-> in Dubendorf.
+> "Can you send a taxi, please?"
 >
-> They said I couldn't, and that's why I did. And that is why you're serving 15
+> Uber gets rid of that
 >
-> to life.
+> But what's really amazing about Uber
 >
-> Friends are the family you get to choose.
+> Is Uber will get you out of anything
 >
-> What, so if we fuck, it's incest? Or, you know, like, the way you talk to
+> No one argues with Uber
 >
-> yourself matters
+> For example, you're at a house party
 >
-> the most. So maybe you should shut the fuck up. Or, if life hands you lemons,
+> It sucks, you know
 >
-> make lemonade.
+> There's just fettuccine and paprika chips
 >
-> Or go to Migros and buy a bag of oranges. All right, so that's Instagram. Let
+> You know, like every Swiss house party ever
 >
-> me switch to
+> And you're like, "I just want to watch Netflix"
 >
-> another app.
+> One tap, "Oh, sorry guys, my Uber's downstairs, cheers!"
 >
-> But this is an app that I love. Uber. I mean, Uber is amazing, you know.
+> Gets you right out of there
 >
-> Because Uber gets
+> Or, you know, you're walking down the street
 >
-> you out of the terrible pain of having to lift your arm to your head and say
+> You meet some friend that you haven't seen since kindergarten
 >
-> those awful
+> And they start to tell you their life story
 >
-> words, "Can you send a taxi, please?" Uber gets rid of that. But what's really
+> And you're like, "Oh, I can't believe this"
 >
-> amazing
+> One tap, "Sorry, my Uber's just around the corner, see you in 10 years!"
 >
-> about Uber is Uber will get you out of anything. No one argues with Uber. For
+> Or you're in a miserable relationship
 >
-> example, you're
+> You both hate each other
 >
-> going to get a taxi. It sucks. You know, there's just feldschloss and paprika
+> One tap, "Okay darling, ciao, I'm out of here"
 >
-> chips, you know,
+> You'll see you in the divorce hearings
 >
-> like every Swiss house party ever. And you're like, I just want to watch
+> That's what Uber will do for you
 >
-> Netflix. One tap.
+> But, you know, I do wonder
 >
-> Oh, sorry, guys. My Uber's downstairs. Cheers. Gets you right out of there. Or,
+> Where did Uber get its name from?
 >
-> you know,
+> Because Uber was founded by two guys called Travis and Garrett
 >
-> you're walking down the street. You meet some friend that you haven't seen
+> And Travis was probably like
 >
-> since kindergarten,
+> "We need a name for this app that says we're better"
 >
-> and they start to tell you their life story, and you're like, oh, I can't
+> "Let's go with something simple like 'Above'"
 >
-> believe this.
+> And Garrett was like, "Yeah, let's make it more sexy, more European"
 >
-> Uber's just around the corner. See you in ten years. Or you're in a miserable
+> "Let's call it 'Uber'"
 >
-> relationship.
+> Because those Germans know something about elitism
 >
-> You both hate each other. One tap. Okay, darling, ciao. I'm out of here. You'll
+> Yeah, and so, you know, it makes me actually wonder
 >
-> see you in the
+> If I could travel back in time to Berlin in 1944
 >
-> divorce hearings. That's what Uber will do for you.
+> And speak to Adolf Hitler
 >
-> But, you know, I do wonder, I do wonder where did Uber get its name from?
+> What I'd say to him, I'd probably be like
 >
-> Because Uber was
+> "Yo Adolf, things aren't going to go very well for you in the next few months"
 >
-> founded by two guys called Travis and Garrett. And Travis was probably like, we
+> "But, you would not believe what they call the 'taxi app of the future'"
 >
-> need a name
+> Okay, now I don't want to ruin Uber for you
 >
-> for this app that says we're better. Let's go with something simple like "above."
+> Because I know how it feels
 >
-> And
+> You know, when you get in that Uber, it's just like a
 >
-> Garrett was like, no, it's got something, but let's make it more sexy, more
+> "Oh, thank God"
 >
-> European.
+> "Thank God I'm not on that S-Bahn to Dubendorf"
 >
-> Let's call it Uber. Because those Germans know something about elitism. Yeah.
+> "Just squashed in there with lots of other people, nowhere to sit"
 >
-> And so,
+> Yeah, it's fucked up
 >
-> you know, and it makes me actually wonder, like, if I could travel back in time
+> Like, how is it that we, you know, there's corporations
 >
-> to Berlin
+> I won't name this particular corporation over here
 >
-> and say to him, I'd probably be like, yo, Adolf, things aren't going to go very
+> Corporations dominating the planet
 >
-> well
+> It's not okay that they do it with fascist product names
 >
-> for you in the next few months, but you would not believe what they call the
+> I mean, imagine I was to design an app for those CrossFit fanatics, you know
 >
-> taxi app of
+> It's like an app for when you've got to hangover
 >
-> the future. Okay, now I don't want to ruin Uber for you, because, because I
+> You've got to get the toxins out
 >
-> know how
+> I come up with a name like "Sweatout"
 >
-> it feels. You know, when you get in that Uber, it's just like a, oh, thank God.
+> And Garrett comes up to me, he's like, "Sweatout, let's make it more sexy, more European"
 >
-> Thank God
+> "Let's call this Auschwitz"
 >
-> I'm not on that S-Bahn to Dubendorf. Just, just squashed in there with lots of
+> Oh my God, holy shit
 >
-> other people, nowhere to sit. Yeah, it's fucked up. Like, how is it? How is it
+> And then you've got those dudes on Instagram just doing their workout
 >
-> that we, you
+> Going, "Auschwitzing!"
 >
-> know, there's corporations, I won't name this particular corporation over here,
+> It's wrong, we've got to stop this
 >
-> corporations
+> Okay, but the Googlers here are very happy
 >
-> dominating the planet. It's not okay that they do it with fascist product names.
+> Because I didn't do anything about a Google product
 >
-> I mean,
+> You're safe with me
 >
-> imagine I was to design an app for those CrossFit fanatics, you know? It's like
+> Let's change tack a bit
 >
-> an app for when
+> Do we have any PhD students?
 >
-> you've been, you've got to hang over, you've got to get the toxins out. I come
+> Lorenzo, do you have a PhD?
 >
-> up with
+> I have a PhD
 >
-> this app, and Garret comes up to me. He's like, "Sweat out. Let's make it more
+> But you've already qualified, or you're still doing it?
 >
-> sexy,
+> No, I finished out the other semester
 >
-> more European. Let's call this Auschwitz." Oh my God. Holy shit. And then you've
+> You finished long ago
 >
-> got
+> Oh, the ETH, that's perfect
 >
-> those dudes on Instagram just doing their workout going, "Auschwitzing. It's
+> Let's go back, because you may think I'm kind of fucked up
 >
-> wrong.
+> But you know who the most fucked up people in this city are?
 >
-> We've got to stop this." Okay, but the Googlers here are very happy because I
+> PhD students
 >
-> didn't do anything
+> Because think about it, you know, it's like 3am
 >
-> about a Google product. You're safe with me. Okay. Let's, let's, let's change
+> There was Lorenzo typing away on his dissertation
 >
-> tack a bit.
+> And he's got a head full of statistical models and equations
 >
-> So do we have any PhD students? Like Lorenzo, do you, do you have, do you have
+> How is Lorenzo going to get to sleep from there?
 >
-> a PhD to
+> Alt+tab, oops, Pornhub
 >
-> work in Atlanta? Well, let me, but you, you've already qualified or you're, you're
+> Oh my God
 >
-> still
+> You know, the average PhD takes 8 years to complete
 >
-> doing it? No, I finished out there, so. You finished long ago, but, well, let's,
+> We're not talking good, wholesome porn here anymore
 >
-> oh, at
+> We are like way into BDSM
 >
-> the ETH, that's perfect. Because let's, let's go back because, you know, you
+> Stepmoms and dwarves riding on ponies
 >
-> may think I'm
+> And then, you know, your PhD, not Lorenzo, but another PhD
 >
-> kind of fucked up, but you know who the fucked up, most fucked up people in
+> This is not about you, Lorenzo, never happened
 >
-> this city are?
+> He's happily in this 5 year relationship
 >
-> PhD students. Because think about it, you know? It's like 3:00 a.m. There was
+> But your PhD, you know, he gets his PhD
 >
-> Lorenzo
+> And then he gets his dream job
 >
-> typing away on his dissertation, and he's got like a head full of statistical
+> Working somewhere like Google
 >
-> models
+> Oh, now we've got them
 >
-> and equations. How is Lorenzo going to get to sleep from there? Alt tab, oops,
+> Because, you know, and Google is like, OK
 >
-> Pornhub.
+> Let's cram you in an office with 10 other horny PhDs
 >
-> Oh, my God. And, you know, the average PhD takes eight years to complete. We're
+> Is it any surprise that last year
 >
-> not talking
+> 30,000 Google employees walked out
 >
-> good, wholesome porn here anymore. We are like way into BDSM and stepmoms and
+> To protest sexual harassment?
 >
-> dwarves
+> They were like, we've got to get the fuck out of here
 >
-> riding on ponies. And then, you know, your PhD, not Lorenzo, but another PhD,
+> All these PhDs, they're just out of control
 >
-> this is
+> But I thought about this, I thought about this
 >
-> not about you, Lorenzo, never happened. He's happily in this five-year
+> Well, there's got to be a solution to this problem
 >
-> relationship. But
+> Maybe technology has the answer
 >
-> your PhD, you know, he gets his PhD, and then he gets his dream job working
+> And then it hit me, and this may be a bit shocking to you
 >
-> somewhere like
+> But I think the answer could be sex robots
 >
-> Google. Oh, now, now we've got them. Because, you know, and Google is like,
+> Because imagine, imagine if Google HR announces
 >
-> okay, let's cram you in an office
+> We've rolled out sex bots to all our staff
 >
-> with ten other horny PhDs. Is it any surprise that last year 30,000 Google
+> And cases of sexual harassment have dropped an amazing 83%
 >
-> employees walked
+> We use sex bot analytics to track employee performance
 >
-> out to protest sexual harassment? They were like, we've got to get the fuck out
+> Since we rolled out sex bots
 >
-> of here.
+> Our staff are more focused and productive
 >
-> All these PhDs, they're just out of control. But I thought about this. I
+> It's clear that these are going to go mainstream
 >
-> thought about
+> Julia, this might be why Marcin just wants to be friends
 >
-> this, and I thought there's got to be a solution to this problem. Maybe
+> Because, you know, it's not, yeah
 >
-> technology has the
+> Because, just imagine, like, but then
 >
-> answer. And then it hit me, and this may be a bit shocking to you, but I think
+> They're not just Google, but like Apple, Amazon
 >
-> the answer
+> They're all like, holy shit, this is a billion dollar market
 >
-> could be sex robots. Because imagine, imagine if Google HR announces we've
+> That's going mainstream
 >
-> rolled out sex
+> And like Apple is like, we brought you the iPhone
 >
-> bots to all our staff, and cases of sexual harassment have dropped an amazing
+> We brought you the, oh wait, I did that wrong
 >
-> 83%. We
+> We brought you the iPod, we brought you the iPhone
 >
-> use sex bot analytics to track employee performance. Since we rolled out sex
+> Today, we bring you the iFuck
 >
-> bots, our staff are
+> And then Google's like, shit, we've got to respond to Apple
 >
-> more focused and productive.
+> Let's roll out the Google Ho
 >
-> It's clear that these are going to go mainstream. Julia, this might be why Marston
+> And then Amazon is like, oh fuck, these guys are moving fast
 >
-> just wants
+> Like Alexa, let's take drones
 >
-> to be friends. Because, you know, it's not, yeah. Because just imagine, like,
+> We call it the flying fuck
 >
-> but then
+> Oh my god, it's going to go crazy
 >
-> they're not just Google, but like Apple, Amazon, they're all like, holy shit,
+> And, you know, as with all things with technology
 >
-> this
+> New technology solves some problems but brings new problems
 >
-> is a billion dollar market that's going mainstream. And like Apple is like, we
+> Because, you know, you might be with your buddies
 >
-> brought you the
+> And, you know, you have some beers, it gets late
 >
-> iPhone. We brought you the, oh wait, I did that wrong. We brought you the iPod.
+> And then next morning you've got to text your buddy
 >
-> We brought
+> You're like, yo bro, did you sleep with my sex bot last night?
 >
-> you the iPhone. Today, we bring you the iFuck. And then Google's like, shit, we
+> He's like, oh I'm sorry man, I was drunk
 >
-> got to respond
+> She came on to me
 >
-> to Apple. Let's roll out the Google Ho. And then Amazon is like, oh, fuck,
+> And you're like, dude, you didn't even wash her out
 >
-> these guys
+> Oh my god
 >
-> are moving fast. Let's take Alexa. Let's take drones. We call it the flying
+> Well there's a technology solution to that
 >
-> fuck. Oh, my
+> We need sex bot security
 >
-> God, it's going to go crazy.
+> Swipe your dick to get in
 >
-> And, you know, as with all things with technology, new technology solves some
+> And I have a patent on that, R&D people
 >
-> problems but brings
+> Alright guys, you guys, I think #traumatized
 >
-> new problems.
->
-> Because, you know, you might be with your buddies and, you know, you have some
->
-> beers.
->
-> It gets late. And then next morning, you got to text your buddy. You're like,
->
-> yo, bro,
->
-> did you sleep with my sex bot last night?
->
-> And he's like, oh, I'm sorry, man. I was drunk. She came on to me. And you're
->
-> like,
->
-> dude, you didn't even wash her out. Oh, my God. Well, there's a technology
->
-> solution to
->
-> that. We need sex bot security.
->
-> And then you just swipe your dick to get in. And I have a patent on the R&D
->
-> people.
->
-> All right, guys. You guys, I think #traumatized. Thank you. You've been a lot
->
-> of fun.
->
-> Okay. That was Harry Fox, everybody. Oh, very nice. Well, ladies and gentlemen,
->
-> we only
->
-> have one question.
+> Thank you, you've been a lot of fun

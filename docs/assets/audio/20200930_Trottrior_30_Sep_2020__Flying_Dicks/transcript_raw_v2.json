@@ -3,7 +3,7 @@
 	"model": {
 		"type": "large",
 		"multilingual": true,
-		"vocab": 51866,
+		"vocab": 51865,
 		"audio": {
 			"ctx": 1500,
 			"state": 1280,
@@ -16,11 +16,11 @@
 			"head": 20,
 			"layer": 32
 		},
-		"mels": 128,
+		"mels": 80,
 		"ftype": 1
 	},
 	"params": {
-		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
 		"language": "en",
 		"translate": false
 	},
@@ -31,5876 +31,3885 @@
 		{
 			"timestamps": {
 				"from": "00:00:00,000",
-				"to": "00:00:01,660"
+				"to": "00:00:02,000"
 			},
 			"offsets": {
 				"from": 0,
-				"to": 1660
+				"to": 2000
 			},
 			"text": " That was a weird way to finish the set."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:01,660",
-				"to": "00:00:05,360"
+				"from": "00:00:02,000",
+				"to": "00:00:05,380"
 			},
 			"offsets": {
-				"from": 1660,
-				"to": 5360
+				"from": 2000,
+				"to": 5380
 			},
 			"text": " If I was a guy, I would have killed myself."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:05,360",
-				"to": "00:00:05,980"
+				"from": "00:00:05,380",
+				"to": "00:00:06,100"
 			},
 			"offsets": {
-				"from": 5360,
-				"to": 5980
+				"from": 5380,
+				"to": 6100
 			},
 			"text": " Thank you, everybody."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:05,980",
-				"to": "00:00:07,640"
+				"from": "00:00:06,100",
+				"to": "00:00:07,100"
 			},
 			"offsets": {
-				"from": 5980,
-				"to": 7640
+				"from": 6100,
+				"to": 7100
 			},
 			"text": " Good night."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:07,640",
-				"to": "00:00:09,140"
+				"from": "00:00:07,100",
+				"to": "00:00:08,540"
 			},
 			"offsets": {
-				"from": 7640,
-				"to": 9140
+				"from": 7100,
+				"to": 8540
+			},
+			"text": " Good night."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,540",
+				"to": "00:00:09,180"
+			},
+			"offsets": {
+				"from": 8540,
+				"to": 9180
 			},
 			"text": " Suicide."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:09,140",
-				"to": "00:00:09,920"
+				"from": "00:00:09,180",
+				"to": "00:00:10,380"
 			},
 			"offsets": {
-				"from": 9140,
-				"to": 9920
+				"from": 9180,
+				"to": 10380
 			},
 			"text": " Good night, everybody."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:09,920",
-				"to": "00:00:14,360"
+				"from": "00:00:10,380",
+				"to": "00:00:14,420"
 			},
 			"offsets": {
-				"from": 9920,
-				"to": 14360
+				"from": 10380,
+				"to": 14420
 			},
 			"text": " Folks, we almost made it to the end of the show."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:14,360",
-				"to": "00:00:16,480"
+				"from": "00:00:14,420",
+				"to": "00:00:17,480"
 			},
 			"offsets": {
-				"from": 14360,
-				"to": 16480
+				"from": 14420,
+				"to": 17480
 			},
 			"text": " Okay, we only have one last comedian left."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:16,480",
-				"to": "00:00:20,240"
+				"from": "00:00:17,480",
+				"to": "00:00:20,280"
 			},
 			"offsets": {
-				"from": 16480,
-				"to": 20240
+				"from": 17480,
+				"to": 20280
 			},
 			"text": " After the show is over, this is a donation-based show."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:20,240",
-				"to": "00:00:23,980"
+				"from": "00:00:20,280",
+				"to": "00:00:24,060"
 			},
 			"offsets": {
-				"from": 20240,
-				"to": 23980
+				"from": 20280,
+				"to": 24060
 			},
 			"text": " Okay, we make these free shows possible with your donations."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:23,980",
-				"to": "00:00:27,700"
+				"from": "00:00:24,060",
+				"to": "00:00:26,900"
 			},
 			"offsets": {
-				"from": 23980,
-				"to": 27700
+				"from": 24060,
+				"to": 26900
 			},
-			"text": " So I'll be standing right there between those two pillars after the show"
+			"text": " So I'll be standing right there between those two pillars"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:27,700",
-				"to": "00:00:29,340"
+				"from": "00:00:26,900",
+				"to": "00:00:29,320"
 			},
 			"offsets": {
-				"from": 27700,
-				"to": 29340
+				"from": 26900,
+				"to": 29320
 			},
-			"text": " with a little donation box."
+			"text": " after the show with a little donation box."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:29,340",
-				"to": "00:00:31,320"
+				"from": "00:00:29,320",
+				"to": "00:00:31,300"
 			},
 			"offsets": {
-				"from": 29340,
-				"to": 31320
+				"from": 29320,
+				"to": 31300
 			},
 			"text": " So please give it so we can do it."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:31,320",
-				"to": "00:00:32,780"
+				"from": "00:00:31,300",
+				"to": "00:00:32,960"
 			},
 			"offsets": {
-				"from": 31320,
-				"to": 32780
+				"from": 31300,
+				"to": 32960
 			},
 			"text": " But enough of that now."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:32,780",
-				"to": "00:00:35,340"
+				"from": "00:00:32,960",
+				"to": "00:00:35,360"
 			},
 			"offsets": {
-				"from": 32780,
-				"to": 35340
+				"from": 32960,
+				"to": 35360
 			},
 			"text": " I think we're ready for our last comedian of tonight."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:35,340",
-				"to": "00:00:36,320"
+				"from": "00:00:35,360",
+				"to": "00:00:36,340"
 			},
 			"offsets": {
-				"from": 35340,
-				"to": 36320
+				"from": 35360,
+				"to": 36340
 			},
-			"text": " Trotar, are you guys ready?"
+			"text": " Toronto, are you guys ready?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:36,320",
-				"to": "00:00:37,280"
+				"from": "00:00:36,340",
+				"to": "00:00:37,500"
 			},
 			"offsets": {
-				"from": 36320,
-				"to": 37280
+				"from": 36340,
+				"to": 37500
 			},
 			"text": " Let's break up this room."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:37,280",
-				"to": "00:00:38,540"
+				"from": "00:00:37,500",
+				"to": "00:00:38,740"
 			},
 			"offsets": {
-				"from": 37280,
-				"to": 38540
+				"from": 37500,
+				"to": 38740
 			},
 			"text": " This is one side of the room."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:38,540",
-				"to": "00:00:39,800"
+				"from": "00:00:38,740",
+				"to": "00:00:40,240"
 			},
 			"offsets": {
-				"from": 38540,
-				"to": 39800
+				"from": 38740,
+				"to": 40240
 			},
 			"text": " This is one side of the room."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:39,800",
-				"to": "00:00:41,400"
+				"from": "00:00:40,240",
+				"to": "00:00:41,980"
 			},
 			"offsets": {
-				"from": 39800,
-				"to": 41400
+				"from": 40240,
+				"to": 41980
 			},
-			"text": " And you're the third group."
+			"text": " And you're the third group, okay?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:41,400",
-				"to": "00:00:42,280"
+				"from": "00:00:41,980",
+				"to": "00:00:43,040"
 			},
 			"offsets": {
-				"from": 41400,
-				"to": 42280
+				"from": 41980,
+				"to": 43040
 			},
-			"text": " Okay, cool?"
+			"text": " Cool?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:42,280",
-				"to": "00:00:44,420"
+				"from": "00:00:43,040",
+				"to": "00:00:44,820"
 			},
 			"offsets": {
-				"from": 42280,
-				"to": 44420
+				"from": 43040,
+				"to": 44820
 			},
 			"text": " This side of the room, are you ready?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:44,420",
-				"to": "00:00:48,600"
+				"from": "00:00:44,820",
+				"to": "00:00:47,380"
 			},
 			"offsets": {
-				"from": 44420,
-				"to": 48600
+				"from": 44820,
+				"to": 47380
 			},
-			"text": " This side of the room, are you ready?"
+			"text": " - Yeah!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:48,600",
-				"to": "00:00:52,560"
+				"from": "00:00:47,380",
+				"to": "00:00:48,780"
 			},
 			"offsets": {
-				"from": 48600,
-				"to": 52560
+				"from": 47380,
+				"to": 48780
 			},
-			"text": " This guy, are you ready?"
+			"text": " - This side of the room, are you ready?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:52,560",
-				"to": "00:00:55,680"
+				"from": "00:00:48,780",
+				"to": "00:00:51,480"
 			},
 			"offsets": {
-				"from": 52560,
-				"to": 55680
+				"from": 48780,
+				"to": 51480
 			},
-			"text": " You ruined it."
+			"text": " - Ready!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:55,680",
-				"to": "00:00:56,660"
+				"from": "00:00:51,480",
+				"to": "00:00:52,760"
 			},
 			"offsets": {
-				"from": 55680,
-				"to": 56660
+				"from": 51480,
+				"to": 52760
+			},
+			"text": " - This guy, are you ready?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,760",
+				"to": "00:00:54,920"
+			},
+			"offsets": {
+				"from": 52760,
+				"to": 54920
+			},
+			"text": " - Yeah!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,920",
+				"to": "00:00:55,760"
+			},
+			"offsets": {
+				"from": 54920,
+				"to": 55760
+			},
+			"text": " - You ruined it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,760",
+				"to": "00:00:56,960"
+			},
+			"offsets": {
+				"from": 55760,
+				"to": 56960
 			},
 			"text": " I'm joking."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:56,660",
+				"from": "00:00:56,960",
 				"to": "00:00:58,960"
 			},
 			"offsets": {
-				"from": 56660,
+				"from": 56960,
 				"to": 58960
 			},
 			"text": " Ladies and gentlemen, give it up for your last comedian tonight."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:59,080",
-				"to": "00:00:59,960"
+				"from": "00:00:58,960",
+				"to": "00:01:00,960"
 			},
 			"offsets": {
-				"from": 59080,
-				"to": 59960
+				"from": 58960,
+				"to": 60960
 			},
-			"text": " It's Harry Fox."
+			"text": " It's Harry Fox, give it up for him!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:59,960",
-				"to": "00:01:00,900"
+				"from": "00:01:00,960",
+				"to": "00:01:03,960"
 			},
 			"offsets": {
-				"from": 59960,
-				"to": 60900
+				"from": 60960,
+				"to": 63960
 			},
-			"text": " Give it up for him."
+			"text": " (audience applause)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:00,900",
-				"to": "00:01:27,320"
+				"from": "00:01:03,960",
+				"to": "00:01:11,740"
 			},
 			"offsets": {
-				"from": 60900,
-				"to": 87320
+				"from": 63960,
+				"to": 71740
 			},
-			"text": " I'm just going to wait."
+			"text": " (audience laughter)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:29,080",
-				"to": "00:01:31,760"
+				"from": "00:01:11,740",
+				"to": "00:01:26,320"
 			},
 			"offsets": {
-				"from": 89080,
-				"to": 91760
+				"from": 71740,
+				"to": 86320
 			},
-			"text": " Can you, can you do something about this?"
+			"text": " - Nothing happened, William."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:31,760",
-				"to": "00:01:36,140"
+				"from": "00:01:26,320",
+				"to": "00:01:27,520"
 			},
 			"offsets": {
-				"from": 91760,
-				"to": 96140
+				"from": 86320,
+				"to": 87520
+			},
+			"text": " - I'm just gonna wait."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,520",
+				"to": "00:01:29,720"
+			},
+			"offsets": {
+				"from": 87520,
+				"to": 89720
+			},
+			"text": " (audience laughter)"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,720",
+				"to": "00:01:32,160"
+			},
+			"offsets": {
+				"from": 89720,
+				"to": 92160
+			},
+			"text": " - Can you do something about it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,160",
+				"to": "00:01:36,160"
+			},
+			"offsets": {
+				"from": 92160,
+				"to": 96160
+			},
+			"text": " (audience laughter)"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,160",
+				"to": "00:01:38,600"
+			},
+			"offsets": {
+				"from": 96160,
+				"to": 98600
 			},
 			"text": " Okay."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:36,140",
-				"to": "00:01:40,840"
+				"from": "00:01:38,600",
+				"to": "00:01:41,500"
 			},
 			"offsets": {
-				"from": 96140,
-				"to": 100840
+				"from": 98600,
+				"to": 101500
 			},
 			"text": " I appreciate the warm welcome."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:40,840",
-				"to": "00:01:45,600"
+				"from": "00:01:41,500",
+				"to": "00:01:44,000"
 			},
 			"offsets": {
-				"from": 100840,
-				"to": 105600
+				"from": 101500,
+				"to": 104000
+			},
+			"text": " (audience laughter)"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,000",
+				"to": "00:01:49,080"
+			},
+			"offsets": {
+				"from": 104000,
+				"to": 109080
 			},
 			"text": " So my name is Harry."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:45,600",
-				"to": "00:01:52,600"
+				"from": "00:01:49,080",
+				"to": "00:01:54,440"
 			},
 			"offsets": {
-				"from": 105600,
-				"to": 112600
+				"from": 109080,
+				"to": 114440
 			},
 			"text": " And I suffer from PPS."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:52,600",
-				"to": "00:01:56,540"
+				"from": "00:01:54,440",
+				"to": "00:01:58,480"
 			},
 			"offsets": {
-				"from": 112600,
-				"to": 116540
+				"from": 114440,
+				"to": 118480
 			},
-			"text": " That's perfect penis syndrome."
+			"text": " Perfect Penis Syndrome."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:58,420",
-				"to": "00:02:02,840"
+				"from": "00:01:58,480",
+				"to": "00:02:04,860"
 			},
 			"offsets": {
-				"from": 118420,
-				"to": 122840
+				"from": 118480,
+				"to": 124860
 			},
 			"text": " I'm also the most humble person I know."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:02,840",
-				"to": "00:02:05,780"
+				"from": "00:02:04,860",
+				"to": "00:02:09,000"
 			},
 			"offsets": {
-				"from": 122840,
-				"to": 125780
+				"from": 124860,
+				"to": 129000
 			},
-			"text": " And it's hard."
+			"text": " And it's hard, it's hard to be this humble"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:05,780",
-				"to": "00:02:11,240"
+				"from": "00:02:09,000",
+				"to": "00:02:12,660"
 			},
 			"offsets": {
-				"from": 125780,
-				"to": 131240
+				"from": 129000,
+				"to": 132660
 			},
-			"text": " It's hard to be this humble when your penis is this perfect."
+			"text": " when your penis is this perfect."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:11,240",
-				"to": "00:02:17,940"
+				"from": "00:02:12,660",
+				"to": "00:02:16,200"
 			},
 			"offsets": {
-				"from": 131240,
-				"to": 137940
+				"from": 132660,
+				"to": 136200
 			},
-			"text": " Sometimes in, sometimes I go to the supermarket, I go to the vegetable section,"
+			"text": " Sometimes I go to the supermarket,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:17,940",
-				"to": "00:02:19,420"
+				"from": "00:02:16,200",
+				"to": "00:02:18,800"
 			},
 			"offsets": {
-				"from": 137940,
-				"to": 139420
+				"from": 136200,
+				"to": 138800
 			},
-			"text": " I find the"
+			"text": " I go to the vegetable section,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:19,420",
-				"to": "00:02:25,820"
+				"from": "00:02:18,800",
+				"to": "00:02:23,680"
 			},
 			"offsets": {
-				"from": 139420,
-				"to": 145820
+				"from": 138800,
+				"to": 143680
 			},
-			"text": " cucumbers and I stare them down just to let them know I'm not intimidated."
+			"text": " I find the cucumbers and I stare them down"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:28,420",
-				"to": "00:02:38,380"
+				"from": "00:02:23,680",
+				"to": "00:02:26,680"
 			},
 			"offsets": {
-				"from": 148420,
-				"to": 158380
+				"from": 143680,
+				"to": 146680
 			},
-			"text": " And actually, I only discovered that I suffer from PPS last Christmas, because"
+			"text": " just to let them know I'm not intimidated."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:38,380",
-				"to": "00:02:43,220"
+				"from": "00:02:26,680",
+				"to": "00:02:32,040"
 			},
 			"offsets": {
-				"from": 158380,
-				"to": 163220
+				"from": 146680,
+				"to": 152040
 			},
-			"text": " I met this lady, she was a bit of an expert, a dick-spert, if you will."
+			"text": " (audience laughter)"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:43,220",
-				"to": "00:02:51,360"
+				"from": "00:02:32,040",
+				"to": "00:02:35,760"
 			},
 			"offsets": {
-				"from": 163220,
-				"to": 171360
+				"from": 152040,
+				"to": 155760
 			},
-			"text": " And when she told me, wait, wait, hold on a second, could you, could you keep"
+			"text": " And actually I only discovered that I suffer from PPS"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:51,360",
-				"to": "00:02:53,280"
+				"from": "00:02:35,760",
+				"to": "00:02:38,120"
 			},
 			"offsets": {
-				"from": 171360,
-				"to": 173280
+				"from": 155760,
+				"to": 158120
 			},
-			"text": " up with the jokes, please?"
+			"text": " last Christmas."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:53,280",
-				"to": "00:02:55,480"
+				"from": "00:02:38,120",
+				"to": "00:02:41,720"
 			},
 			"offsets": {
-				"from": 173280,
-				"to": 175480
+				"from": 158120,
+				"to": 161720
+			},
+			"text": " Because I met this lady, she was a bit of an expert,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,720",
+				"to": "00:02:45,500"
+			},
+			"offsets": {
+				"from": 161720,
+				"to": 165500
+			},
+			"text": " a dick-spert, if you will."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,500",
+				"to": "00:02:48,740"
+			},
+			"offsets": {
+				"from": 165500,
+				"to": 168740
+			},
+			"text": " And when she told me..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,740",
+				"to": "00:02:49,940"
+			},
+			"offsets": {
+				"from": 168740,
+				"to": 169940
+			},
+			"text": " Wait, wait, hold on a second."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,940",
+				"to": "00:02:53,360"
+			},
+			"offsets": {
+				"from": 169940,
+				"to": 173360
+			},
+			"text": " Could you keep up with the jokes, please?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,360",
+				"to": "00:02:57,040"
+			},
+			"offsets": {
+				"from": 173360,
+				"to": 177040
 			},
 			"text": " You're throwing off the whole rhythm here."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:55,480",
-				"to": "00:02:57,320"
+				"from": "00:02:57,040",
+				"to": "00:02:59,680"
 			},
 			"offsets": {
-				"from": 175480,
-				"to": 177320
+				"from": 177040,
+				"to": 179680
 			},
-			"text": " Okay."
+			"text": " Okay, let's just return."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:58,420",
-				"to": "00:03:04,640"
+				"from": "00:02:59,680",
+				"to": "00:03:03,480"
 			},
 			"offsets": {
-				"from": 178420,
-				"to": 184640
+				"from": 179680,
+				"to": 183480
 			},
-			"text": " Let's just return, she told me that I suffer from PPS and I was shocked."
+			"text": " She told me that I suffer from PPS."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:04,640",
-				"to": "00:03:09,980"
+				"from": "00:03:03,480",
+				"to": "00:03:05,340"
 			},
 			"offsets": {
-				"from": 184640,
-				"to": 189980
+				"from": 183480,
+				"to": 185340
 			},
-			"text": " I was stunned because I needed that information 30 years ago."
+			"text": " And I was shocked, I was stunned,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:09,980",
-				"to": "00:03:13,060"
+				"from": "00:03:05,340",
+				"to": "00:03:11,180"
 			},
 			"offsets": {
-				"from": 189980,
-				"to": 193060
+				"from": 185340,
+				"to": 191180
+			},
+			"text": " because I needed that information 30 years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,180",
+				"to": "00:03:13,780"
+			},
+			"offsets": {
+				"from": 191180,
+				"to": 193780
 			},
 			"text": " It could have changed my life."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:13,060",
-				"to": "00:03:19,140"
+				"from": "00:03:13,780",
+				"to": "00:03:15,420"
 			},
 			"offsets": {
-				"from": 193060,
-				"to": 199140
+				"from": 193780,
+				"to": 195420
 			},
-			"text": " I could have been like a pool boy or a pizza delivery guy or a snake charmer or"
+			"text": " I could have been like a pool boy"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:19,140",
-				"to": "00:03:19,580"
+				"from": "00:03:15,420",
+				"to": "00:03:17,720"
 			},
 			"offsets": {
-				"from": 199140,
-				"to": 199580
+				"from": 195420,
+				"to": 197720
 			},
-			"text": " something."
+			"text": " or a pizza delivery guy,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:19,580",
-				"to": "00:03:20,080"
+				"from": "00:03:17,720",
+				"to": "00:03:19,560"
 			},
 			"offsets": {
-				"from": 199580,
-				"to": 200080
+				"from": 197720,
+				"to": 199560
+			},
+			"text": " or a snake charmer or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,560",
+				"to": "00:03:20,760"
+			},
+			"offsets": {
+				"from": 199560,
+				"to": 200760
 			},
 			"text": " I don't know."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:20,080",
-				"to": "00:03:25,180"
+				"from": "00:03:20,760",
+				"to": "00:03:23,760"
 			},
 			"offsets": {
-				"from": 200080,
-				"to": 205180
+				"from": 200760,
+				"to": 203760
 			},
-			"text": " Instead, I have spent my whole life working with computers."
+			"text": " Instead, I have spent my whole life"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:25,180",
-				"to": "00:03:28,240"
+				"from": "00:03:23,760",
+				"to": "00:03:25,140"
 			},
 			"offsets": {
-				"from": 205180,
-				"to": 208240
+				"from": 203760,
+				"to": 205140
 			},
-			"text": " I've been working with entirely the wrong."
+			"text": " working with computers."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:28,240",
-				"to": "00:03:31,060"
+				"from": "00:03:25,140",
+				"to": "00:03:30,200"
 			},
 			"offsets": {
-				"from": 208240,
-				"to": 211060
+				"from": 205140,
+				"to": 210200
 			},
-			"text": " Hardware all these years."
+			"text": " I've been working with entirely the wrong hardware"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:31,060",
-				"to": "00:03:31,560"
+				"from": "00:03:30,200",
+				"to": "00:03:31,200"
 			},
 			"offsets": {
-				"from": 211060,
-				"to": 211560
+				"from": 210200,
+				"to": 211200
 			},
-			"text": " Okay."
+			"text": " all these years."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:31,560",
-				"to": "00:03:34,380"
+				"from": "00:03:31,200",
+				"to": "00:03:33,180"
 			},
 			"offsets": {
-				"from": 211560,
-				"to": 214380
+				"from": 211200,
+				"to": 213180
 			},
-			"text": " A weak reaction to that and expected more."
+			"text": " Okay, a weak reaction to that."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:34,380",
-				"to": "00:03:36,860"
+				"from": "00:03:33,180",
+				"to": "00:03:35,600"
 			},
 			"offsets": {
-				"from": 214380,
-				"to": 216860
+				"from": 213180,
+				"to": 215600
+			},
+			"text": " I'd expected more."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,600",
+				"to": "00:03:37,120"
+			},
+			"offsets": {
+				"from": 215600,
+				"to": 217120
 			},
 			"text": " Can I call it a new joke?"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:36,860",
-				"to": "00:03:37,600"
+				"from": "00:03:37,120",
+				"to": "00:03:37,920"
 			},
 			"offsets": {
-				"from": 216860,
-				"to": 217600
+				"from": 217120,
+				"to": 217920
 			},
-			"text": " Yeah, sure."
+			"text": " - Yeah, sure."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:37,600",
-				"to": "00:03:44,920"
+				"from": "00:03:37,920",
+				"to": "00:03:40,980"
 			},
 			"offsets": {
-				"from": 217600,
-				"to": 224920
+				"from": 217920,
+				"to": 220980
 			},
-			"text": " I read, I heard something recently, I read something and this is real."
+			"text": " (audience laughter)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:44,920",
-				"to": "00:03:45,980"
+				"from": "00:03:40,980",
+				"to": "00:03:44,160"
 			},
 			"offsets": {
-				"from": 224920,
-				"to": 225980
+				"from": 220980,
+				"to": 224160
 			},
-			"text": " It blew my mind."
+			"text": " - I heard something recently, I read something,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:45,980",
+				"from": "00:03:44,160",
+				"to": "00:03:46,680"
+			},
+			"offsets": {
+				"from": 224160,
+				"to": 226680
+			},
+			"text": " and this is real, it blew my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,680",
+				"to": "00:03:49,360"
+			},
+			"offsets": {
+				"from": 226680,
+				"to": 229360
+			},
+			"text": " So some psychologists studying men,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,360",
 				"to": "00:03:53,100"
 			},
 			"offsets": {
-				"from": 225980,
+				"from": 229360,
 				"to": 233100
 			},
-			"text": " So some psychologists studying men, they figured out that men only reach"
+			"text": " they figured out that men only reach"
 		},
 		{
 			"timestamps": {
 				"from": "00:03:53,100",
-				"to": "00:03:58,020"
+				"to": "00:04:00,000"
 			},
 			"offsets": {
 				"from": 233100,
-				"to": 238020
+				"to": 240000
 			},
-			"text": " emotional and mental maturity at the age of 40."
+			"text": " emotional and mental maturity at the age of 43."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:58,020",
-				"to": "00:03:58,980"
+				"from": "00:04:00,000",
+				"to": "00:04:03,800"
 			},
 			"offsets": {
-				"from": 238020,
-				"to": 238980
+				"from": 240000,
+				"to": 243800
 			},
-			"text": " 43."
+			"text": " That is crazy, I'm like a four-year-old."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:58,980",
-				"to": "00:04:00,840"
+				"from": "00:04:03,800",
+				"to": "00:04:05,840"
 			},
 			"offsets": {
-				"from": 238980,
-				"to": 240840
+				"from": 243800,
+				"to": 245840
 			},
-			"text": " That is crazy."
+			"text": " I think this lady here understands"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:00,840",
-				"to": "00:04:03,840"
+				"from": "00:04:05,840",
+				"to": "00:04:07,040"
 			},
 			"offsets": {
-				"from": 240840,
-				"to": 243840
+				"from": 245840,
+				"to": 247040
 			},
-			"text": " I'm like, I'm like a four year old."
+			"text": " what I'm talking about."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:03,840",
-				"to": "00:04:06,700"
+				"from": "00:04:07,040",
+				"to": "00:04:08,440"
 			},
 			"offsets": {
-				"from": 243840,
-				"to": 246700
+				"from": 247040,
+				"to": 248440
 			},
-			"text": " I think this lady here understands what I'm talking about."
+			"text": " - It's a new joke."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:06,700",
-				"to": "00:04:07,700"
+				"from": "00:04:08,440",
+				"to": "00:04:10,440"
 			},
 			"offsets": {
-				"from": 246700,
-				"to": 247700
+				"from": 248440,
+				"to": 250440
 			},
-			"text": " It's unusual."
+			"text": " - I mean, actually, when you think about this,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:07,700",
-				"to": "00:04:13,370"
+				"from": "00:04:10,440",
+				"to": "00:04:13,540"
 			},
 			"offsets": {
-				"from": 247700,
-				"to": 253370
+				"from": 250440,
+				"to": 253540
 			},
-			"text": " I mean, actually, when you think about this, it just, I do, sir, I just want to"
+			"text": " it just, I do, sir, I just want to say"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:13,370",
-				"to": "00:04:14,020"
+				"from": "00:04:13,540",
+				"to": "00:04:17,180"
 			},
 			"offsets": {
-				"from": 253370,
-				"to": 254020
+				"from": 253540,
+				"to": 257180
 			},
-			"text": " say I love"
+			"text": " I love the lesbian haircut that you're wearing."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:14,020",
-				"to": "00:04:15,020"
+				"from": "00:04:17,180",
+				"to": "00:04:18,180"
 			},
 			"offsets": {
-				"from": 254020,
-				"to": 255020
-			},
-			"text": " the lesbian haircut."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:15,020",
-				"to": "00:04:16,020"
-			},
-			"offsets": {
-				"from": 255020,
-				"to": 256020
+				"from": 257180,
+				"to": 258180
 			},
 			"text": " I'm with you there."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:16,020",
-				"to": "00:04:17,020"
+				"from": "00:04:18,180",
+				"to": "00:04:19,680"
 			},
 			"offsets": {
-				"from": 256020,
-				"to": 257020
+				"from": 258180,
+				"to": 259680
 			},
-			"text": " How, how old are you, sir?"
+			"text": " How old are you, sir?"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:17,020",
-				"to": "00:04:18,020"
+				"from": "00:04:19,680",
+				"to": "00:04:20,680"
 			},
 			"offsets": {
-				"from": 257020,
-				"to": 258020
+				"from": 259680,
+				"to": 260680
 			},
-			"text": " I'm 42."
+			"text": " - I'm 42."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:18,020",
-				"to": "00:04:19,020"
+				"from": "00:04:20,680",
+				"to": "00:04:22,180"
 			},
 			"offsets": {
-				"from": 258020,
-				"to": 259020
+				"from": 260680,
+				"to": 262180
 			},
-			"text": " 42."
+			"text": " - 42, okay, you're up there."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:19,020",
-				"to": "00:04:20,020"
+				"from": "00:04:22,180",
+				"to": "00:04:25,720"
 			},
 			"offsets": {
-				"from": 259020,
-				"to": 260020
+				"from": 262180,
+				"to": 265720
 			},
-			"text": " Okay."
+			"text": " So you're one year to go, you're gonna be there."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:20,020",
-				"to": "00:04:21,020"
+				"from": "00:04:25,720",
+				"to": "00:04:28,160"
 			},
 			"offsets": {
-				"from": 260020,
-				"to": 261020
+				"from": 265720,
+				"to": 268160
 			},
-			"text": " You're out there."
+			"text": " You know, and sometimes when I see a young couple,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:21,020",
-				"to": "00:04:22,020"
+				"from": "00:04:28,160",
+				"to": "00:04:32,200"
 			},
 			"offsets": {
-				"from": 261020,
-				"to": 262020
+				"from": 268160,
+				"to": 272200
 			},
-			"text": " So you're one year to go."
+			"text": " like they're both 24, and I just think,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:22,020",
-				"to": "00:04:23,020"
+				"from": "00:04:32,200",
+				"to": "00:04:35,900"
 			},
 			"offsets": {
-				"from": 262020,
-				"to": 263020
+				"from": 272200,
+				"to": 275900
 			},
-			"text": " You're going to be there."
+			"text": " okay, so women apparently reach maturity at 32."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:23,020",
-				"to": "00:04:23,860"
+				"from": "00:04:35,900",
+				"to": "00:04:40,200"
 			},
 			"offsets": {
-				"from": 263020,
-				"to": 263860
-			},
-			"text": " You know, and sometimes when I see a young couple, you know, you're going to be"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:23,860",
-				"to": "00:04:24,020"
-			},
-			"offsets": {
-				"from": 263860,
-				"to": 264020
-			},
-			"text": " there."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:24,020",
-				"to": "00:04:25,020"
-			},
-			"offsets": {
-				"from": 264020,
-				"to": 265020
-			},
-			"text": " You're going to be there."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:25,020",
-				"to": "00:04:26,020"
-			},
-			"offsets": {
-				"from": 265020,
-				"to": 266020
-			},
-			"text": " You know, you're going to be there."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:26,020",
-				"to": "00:04:27,020"
-			},
-			"offsets": {
-				"from": 266020,
-				"to": 267020
-			},
-			"text": " You're going to be there."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:27,020",
-				"to": "00:04:28,020"
-			},
-			"offsets": {
-				"from": 267020,
-				"to": 268020
-			},
-			"text": " You're going to be there."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:28,020",
-				"to": "00:04:36,160"
-			},
-			"offsets": {
-				"from": 268020,
-				"to": 276160
-			},
-			"text": " You know, I just think, okay, so women apparently reach maturity at 32."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:36,160",
-				"to": "00:04:40,340"
-			},
-			"offsets": {
-				"from": 276160,
-				"to": 280340
+				"from": 275900,
+				"to": 280200
 			},
 			"text": " That's 11 years before men, 11 years."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:40,340",
-				"to": "00:04:46,380"
+				"from": "00:04:40,200",
+				"to": "00:04:42,600"
 			},
 			"offsets": {
-				"from": 280340,
-				"to": 286380
+				"from": 280200,
+				"to": 282600
 			},
-			"text": " So when you see a couple that's 24, that's actually like a 13 year old with"
+			"text": " So when you see a couple that's 24,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:46,380",
-				"to": "00:04:47,160"
+				"from": "00:04:42,600",
+				"to": "00:04:46,340"
 			},
 			"offsets": {
-				"from": 286380,
-				"to": 287160
+				"from": 282600,
+				"to": 286340
 			},
-			"text": " someone that"
+			"text": " that's actually like a 13-year-old"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:47,160",
-				"to": "00:04:49,660"
+				"from": "00:04:46,340",
+				"to": "00:04:50,720"
 			},
 			"offsets": {
-				"from": 287160,
-				"to": 289660
+				"from": 286340,
+				"to": 290720
 			},
-			"text": " has a strange love of young boys."
+			"text": " with someone that has a strange love of young boys."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:49,660",
-				"to": "00:04:52,140"
+				"from": "00:04:50,720",
+				"to": "00:04:52,120"
 			},
 			"offsets": {
-				"from": 289660,
-				"to": 292140
+				"from": 290720,
+				"to": 292120
 			},
 			"text": " It is a very weird thing."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:52,140",
-				"to": "00:04:56,830"
+				"from": "00:04:52,120",
+				"to": "00:04:54,520"
 			},
 			"offsets": {
-				"from": 292140,
-				"to": 296830
+				"from": 292120,
+				"to": 294520
 			},
-			"text": " It actually changes your whole perspective on anything like weddings, for"
+			"text": " It actually changes your whole perspective on anything,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:56,830",
-				"to": "00:04:57,800"
+				"from": "00:04:54,520",
+				"to": "00:04:55,920"
 			},
 			"offsets": {
-				"from": 296830,
-				"to": 297800
+				"from": 294520,
+				"to": 295920
 			},
-			"text": " example, you"
+			"text": " like weddings, for example."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:57,800",
-				"to": "00:04:58,800"
+				"from": "00:04:55,920",
+				"to": "00:04:58,980"
 			},
 			"offsets": {
-				"from": 297800,
-				"to": 298800
+				"from": 295920,
+				"to": 298980
 			},
-			"text": " know, like, oh, I'm going to be a man."
+			"text": " You have the bride and the groom."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:58,800",
-				"to": "00:04:59,800"
+				"from": "00:04:58,980",
+				"to": "00:05:01,860"
 			},
 			"offsets": {
-				"from": 298800,
-				"to": 299800
+				"from": 298980,
+				"to": 301860
 			},
-			"text": " I'm going to be a woman."
+			"text": " Is that 'cause she spent five years grooming him"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:59,800",
-				"to": "00:05:00,800"
+				"from": "00:05:01,860",
+				"to": "00:05:03,060"
 			},
 			"offsets": {
-				"from": 299800,
-				"to": 300800
+				"from": 301860,
+				"to": 303060
 			},
-			"text": " I'm going to be a man."
+			"text": " to come to this event?"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:00,800",
-				"to": "00:05:01,800"
+				"from": "00:05:03,060",
+				"to": "00:05:04,400"
 			},
 			"offsets": {
-				"from": 300800,
-				"to": 301800
+				"from": 303060,
+				"to": 304400
 			},
-			"text": " I'm going to be a woman."
+			"text": " I don't know."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:01,800",
-				"to": "00:05:02,800"
+				"from": "00:05:04,400",
+				"to": "00:05:05,920"
 			},
 			"offsets": {
-				"from": 301800,
-				"to": 302800
+				"from": 304400,
+				"to": 305920
 			},
-			"text": " I'm going to be a woman."
+			"text": " Just a thought, okay."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:02,800",
-				"to": "00:05:03,800"
+				"from": "00:05:05,920",
+				"to": "00:05:07,500"
 			},
 			"offsets": {
-				"from": 302800,
-				"to": 303800
+				"from": 305920,
+				"to": 307500
 			},
-			"text": " I'm going to be a woman."
+			"text": " I read another thing recently."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:03,800",
-				"to": "00:05:04,800"
+				"from": "00:05:07,500",
+				"to": "00:05:10,540"
 			},
 			"offsets": {
-				"from": 303800,
-				"to": 304800
+				"from": 307500,
+				"to": 310540
 			},
-			"text": " I'm going to be a woman."
+			"text": " Let's move on from the idea"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:04,800",
-				"to": "00:05:05,800"
+				"from": "00:05:10,540",
+				"to": "00:05:12,300"
 			},
 			"offsets": {
-				"from": 304800,
-				"to": 305800
+				"from": 310540,
+				"to": 312300
 			},
-			"text": " I'm going to be a woman."
+			"text": " that all women are pedophiles."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:05,800",
-				"to": "00:05:06,800"
+				"from": "00:05:12,300",
+				"to": "00:05:15,040"
 			},
 			"offsets": {
-				"from": 305800,
-				"to": 306800
+				"from": 312300,
+				"to": 315040
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:06,800",
-				"to": "00:05:07,800"
+				"from": "00:05:15,040",
+				"to": "00:05:17,540"
 			},
 			"offsets": {
-				"from": 306800,
-				"to": 307800
+				"from": 315040,
+				"to": 317540
 			},
-			"text": " I'm going to be a woman."
+			"text": " 'Cause that is clearly making people uncomfortable."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:07,800",
-				"to": "00:05:08,800"
+				"from": "00:05:17,540",
+				"to": "00:05:20,000"
 			},
 			"offsets": {
-				"from": 307800,
-				"to": 308800
+				"from": 317540,
+				"to": 320000
 			},
-			"text": " I'm going to be a woman."
+			"text": " I read another thing."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:08,800",
-				"to": "00:05:09,800"
+				"from": "00:05:20,000",
+				"to": "00:05:22,280"
 			},
 			"offsets": {
-				"from": 308800,
-				"to": 309800
+				"from": 320000,
+				"to": 322280
 			},
-			"text": " I'm going to be a woman."
+			"text": " Let's make it a bit more uncomfortable for the guys,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:09,800",
-				"to": "00:05:10,800"
+				"from": "00:05:22,280",
+				"to": "00:05:26,020"
 			},
 			"offsets": {
-				"from": 309800,
-				"to": 310800
+				"from": 322280,
+				"to": 326020
 			},
-			"text": " I'm going to be a woman."
+			"text": " 'cause I read that they did a survey,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:10,800",
-				"to": "00:05:11,800"
+				"from": "00:05:26,020",
+				"to": "00:05:30,920"
 			},
 			"offsets": {
-				"from": 310800,
-				"to": 311800
+				"from": 326020,
+				"to": 330920
 			},
-			"text": " I'm going to be a woman."
+			"text": " and they discovered that in the age range 20 to 40,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:11,800",
-				"to": "00:05:12,800"
+				"from": "00:05:30,920",
+				"to": "00:05:34,980"
 			},
 			"offsets": {
-				"from": 311800,
-				"to": 312800
+				"from": 330920,
+				"to": 334980
 			},
-			"text": " I'm going to be a woman."
+			"text": " almost 50% of men sent a dick pic"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:12,800",
-				"to": "00:05:13,800"
+				"from": "00:05:34,980",
+				"to": "00:05:37,320"
 			},
 			"offsets": {
-				"from": 312800,
-				"to": 313800
+				"from": 334980,
+				"to": 337320
 			},
-			"text": " I'm going to be a woman."
+			"text": " in the last three months."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:13,800",
-				"to": "00:05:14,800"
+				"from": "00:05:37,320",
+				"to": "00:05:38,960"
 			},
 			"offsets": {
-				"from": 313800,
-				"to": 314800
+				"from": 337320,
+				"to": 338960
 			},
-			"text": " I'm going to be a woman."
+			"text": " That is a crazy statistic."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:14,800",
-				"to": "00:05:15,800"
+				"from": "00:05:38,960",
+				"to": "00:05:40,660"
 			},
 			"offsets": {
-				"from": 314800,
-				"to": 315800
+				"from": 338960,
+				"to": 340660
 			},
-			"text": " I'm going to be a woman."
+			"text": " Maybe I can help you."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:15,800",
-				"to": "00:05:16,800"
+				"from": "00:05:40,660",
+				"to": "00:05:43,700"
 			},
 			"offsets": {
-				"from": 315800,
-				"to": 316800
+				"from": 340660,
+				"to": 343700
 			},
-			"text": " I'm going to be a woman."
+			"text": " Ma'am, can I use you for the purposes of this show"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:16,800",
-				"to": "00:05:17,800"
+				"from": "00:05:43,700",
+				"to": "00:05:46,260"
 			},
 			"offsets": {
-				"from": 316800,
-				"to": 317800
+				"from": 343700,
+				"to": 346260
 			},
-			"text": " I'm going to be a woman."
+			"text": " to be sure? (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:17,800",
-				"to": "00:05:18,800"
+				"from": "00:05:46,260",
+				"to": "00:05:47,740"
 			},
 			"offsets": {
-				"from": 317800,
-				"to": 318800
+				"from": 346260,
+				"to": 347740
 			},
-			"text": " I'm going to be a woman."
+			"text": " I'm not gonna send you a dick pic."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:18,800",
-				"to": "00:05:19,800"
+				"from": "00:05:47,740",
+				"to": "00:05:49,900"
 			},
 			"offsets": {
-				"from": 318800,
-				"to": 319800
+				"from": 347740,
+				"to": 349900
 			},
-			"text": " I'm going to be a woman."
+			"text": " I just, what's your name, ma'am?"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:19,800",
-				"to": "00:05:20,800"
+				"from": "00:05:49,900",
+				"to": "00:05:52,540"
 			},
 			"offsets": {
-				"from": 319800,
-				"to": 320800
+				"from": 349900,
+				"to": 352540
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Stephanie. - Stephanie, so Stephanie."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:20,800",
-				"to": "00:05:21,800"
+				"from": "00:05:52,540",
+				"to": "00:05:54,740"
 			},
 			"offsets": {
-				"from": 320800,
-				"to": 321800
+				"from": 352540,
+				"to": 354740
 			},
-			"text": " I'm going to be a woman."
+			"text": " To help you visualize this number, Stephanie,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:21,800",
-				"to": "00:05:22,800"
+				"from": "00:05:54,740",
+				"to": "00:05:59,180"
 			},
 			"offsets": {
-				"from": 321800,
-				"to": 322800
+				"from": 354740,
+				"to": 359180
 			},
-			"text": " I'm going to be a woman."
+			"text": " if you gave your number to 10 guys in this room,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:22,800",
-				"to": "00:05:23,800"
+				"from": "00:05:59,180",
+				"to": "00:06:03,620"
 			},
 			"offsets": {
-				"from": 322800,
-				"to": 323800
+				"from": 359180,
+				"to": 363620
 			},
-			"text": " I'm going to be a woman."
+			"text": " by Christmas time, you got a stack of five dicks,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:23,800",
-				"to": "00:05:24,800"
+				"from": "00:06:03,620",
+				"to": "00:06:04,660"
 			},
 			"offsets": {
-				"from": 323800,
-				"to": 324800
+				"from": 363620,
+				"to": 364660
 			},
-			"text": " I'm going to be a woman."
+			"text": " and that's fantastic."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:24,800",
-				"to": "00:05:25,800"
+				"from": "00:06:04,660",
+				"to": "00:06:05,920"
 			},
 			"offsets": {
-				"from": 324800,
-				"to": 325800
+				"from": 364660,
+				"to": 365920
 			},
-			"text": " I'm going to be a woman."
+			"text": " You can then print them out,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:25,800",
-				"to": "00:05:26,800"
+				"from": "00:06:05,920",
+				"to": "00:06:08,380"
 			},
 			"offsets": {
-				"from": 325800,
-				"to": 326800
+				"from": 365920,
+				"to": 368380
 			},
-			"text": " I'm going to be a woman."
+			"text": " use them as Christmas cards,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:26,800",
-				"to": "00:05:27,800"
+				"from": "00:06:08,380",
+				"to": "00:06:10,260"
 			},
 			"offsets": {
-				"from": 326800,
-				"to": 327800
+				"from": 368380,
+				"to": 370260
 			},
-			"text": " I'm going to be a woman."
+			"text": " hang 'em from your tree,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:27,800",
-				"to": "00:05:28,800"
+				"from": "00:06:10,260",
+				"to": "00:06:12,860"
 			},
 			"offsets": {
-				"from": 327800,
-				"to": 328800
+				"from": 370260,
+				"to": 372860
 			},
-			"text": " I'm going to be a woman."
+			"text": " put 'em in an album, give it as a present to your dad."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:28,800",
-				"to": "00:05:29,800"
+				"from": "00:06:12,860",
+				"to": "00:06:15,620"
 			},
 			"offsets": {
-				"from": 328800,
-				"to": 329800
+				"from": 372860,
+				"to": 375620
 			},
-			"text": " I'm going to be a woman."
+			"text": " There's so much you can do with this."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:29,800",
-				"to": "00:05:30,800"
+				"from": "00:06:15,620",
+				"to": "00:06:18,860"
 			},
 			"offsets": {
-				"from": 329800,
-				"to": 330800
+				"from": 375620,
+				"to": 378860
 			},
-			"text": " I'm going to be a woman."
+			"text": " I see, Stephanie, you're still struggling with this."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:30,800",
-				"to": "00:05:31,800"
+				"from": "00:06:18,860",
+				"to": "00:06:20,100"
 			},
 			"offsets": {
-				"from": 330800,
-				"to": 331800
+				"from": 378860,
+				"to": 380100
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:31,800",
-				"to": "00:05:32,800"
-			},
-			"offsets": {
-				"from": 331800,
-				"to": 332800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:32,800",
-				"to": "00:05:33,800"
-			},
-			"offsets": {
-				"from": 332800,
-				"to": 333800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:33,800",
-				"to": "00:05:34,800"
-			},
-			"offsets": {
-				"from": 333800,
-				"to": 334800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:34,800",
-				"to": "00:05:35,800"
-			},
-			"offsets": {
-				"from": 334800,
-				"to": 335800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:35,800",
-				"to": "00:05:36,800"
-			},
-			"offsets": {
-				"from": 335800,
-				"to": 336800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:36,800",
-				"to": "00:05:37,800"
-			},
-			"offsets": {
-				"from": 336800,
-				"to": 337800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:37,800",
-				"to": "00:05:38,800"
-			},
-			"offsets": {
-				"from": 337800,
-				"to": 338800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:38,800",
-				"to": "00:05:39,800"
-			},
-			"offsets": {
-				"from": 338800,
-				"to": 339800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:39,800",
-				"to": "00:05:40,800"
-			},
-			"offsets": {
-				"from": 339800,
-				"to": 340800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:48,800",
-				"to": "00:05:49,800"
-			},
-			"offsets": {
-				"from": 348800,
-				"to": 349800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:49,800",
-				"to": "00:05:50,800"
-			},
-			"offsets": {
-				"from": 349800,
-				"to": 350800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:50,800",
-				"to": "00:05:51,800"
-			},
-			"offsets": {
-				"from": 350800,
-				"to": 351800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:51,800",
-				"to": "00:05:52,800"
-			},
-			"offsets": {
-				"from": 351800,
-				"to": 352800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:52,800",
-				"to": "00:05:53,800"
-			},
-			"offsets": {
-				"from": 352800,
-				"to": 353800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:53,800",
-				"to": "00:05:54,800"
-			},
-			"offsets": {
-				"from": 353800,
-				"to": 354800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:54,800",
-				"to": "00:05:55,800"
-			},
-			"offsets": {
-				"from": 354800,
-				"to": 355800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:55,800",
-				"to": "00:05:56,800"
-			},
-			"offsets": {
-				"from": 355800,
-				"to": 356800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:56,800",
-				"to": "00:05:57,800"
-			},
-			"offsets": {
-				"from": 356800,
-				"to": 357800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:57,800",
-				"to": "00:05:58,800"
-			},
-			"offsets": {
-				"from": 357800,
-				"to": 358800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:58,800",
-				"to": "00:05:59,800"
-			},
-			"offsets": {
-				"from": 358800,
-				"to": 359800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:59,800",
-				"to": "00:06:00,800"
-			},
-			"offsets": {
-				"from": 359800,
-				"to": 360800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:00,800",
-				"to": "00:06:01,800"
-			},
-			"offsets": {
-				"from": 360800,
-				"to": 361800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:01,800",
-				"to": "00:06:02,800"
-			},
-			"offsets": {
-				"from": 361800,
-				"to": 362800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:02,800",
-				"to": "00:06:03,800"
-			},
-			"offsets": {
-				"from": 362800,
-				"to": 363800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:03,800",
-				"to": "00:06:04,800"
-			},
-			"offsets": {
-				"from": 363800,
-				"to": 364800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:04,800",
-				"to": "00:06:05,800"
-			},
-			"offsets": {
-				"from": 364800,
-				"to": 365800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:05,800",
-				"to": "00:06:06,800"
-			},
-			"offsets": {
-				"from": 365800,
-				"to": 366800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:06,800",
-				"to": "00:06:07,800"
-			},
-			"offsets": {
-				"from": 366800,
-				"to": 367800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:07,800",
-				"to": "00:06:08,800"
-			},
-			"offsets": {
-				"from": 367800,
-				"to": 368800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:08,800",
-				"to": "00:06:09,800"
-			},
-			"offsets": {
-				"from": 368800,
-				"to": 369800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:09,800",
-				"to": "00:06:10,800"
-			},
-			"offsets": {
-				"from": 369800,
-				"to": 370800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:18,800",
-				"to": "00:06:19,800"
-			},
-			"offsets": {
-				"from": 378800,
-				"to": 379800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:19,800",
-				"to": "00:06:20,800"
-			},
-			"offsets": {
-				"from": 379800,
-				"to": 380800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:20,800",
+				"from": "00:06:20,100",
 				"to": "00:06:21,800"
 			},
 			"offsets": {
-				"from": 380800,
+				"from": 380100,
 				"to": 381800
 			},
-			"text": " I'm going to be a woman."
+			"text": " I'm just looking around."
 		},
 		{
 			"timestamps": {
 				"from": "00:06:21,800",
-				"to": "00:06:22,800"
+				"to": "00:06:25,780"
 			},
 			"offsets": {
 				"from": 381800,
-				"to": 382800
+				"to": 385780
 			},
-			"text": " I'm going to be a woman."
+			"text": " Who of these guys could be in that 50%?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:22,800",
-				"to": "00:06:23,800"
+				"from": "00:06:25,780",
+				"to": "00:06:29,300"
 			},
 			"offsets": {
-				"from": 382800,
-				"to": 383800
+				"from": 385780,
+				"to": 389300
 			},
-			"text": " I'm going to be a woman."
+			"text": " Obviously, you. (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:23,800",
-				"to": "00:06:24,800"
+				"from": "00:06:29,300",
+				"to": "00:06:30,140"
 			},
 			"offsets": {
-				"from": 383800,
-				"to": 384800
+				"from": 389300,
+				"to": 390140
 			},
-			"text": " I'm going to be a woman."
+			"text": " Dick."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:24,800",
-				"to": "00:06:25,800"
+				"from": "00:06:30,140",
+				"to": "00:06:33,780"
 			},
 			"offsets": {
-				"from": 384800,
-				"to": 385800
+				"from": 390140,
+				"to": 393780
 			},
-			"text": " I'm going to be a woman."
+			"text": " When you send us a selfie, just of your face,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:25,800",
-				"to": "00:06:26,800"
+				"from": "00:06:33,780",
+				"to": "00:06:36,320"
 			},
 			"offsets": {
-				"from": 385800,
-				"to": 386800
+				"from": 393780,
+				"to": 396320
 			},
-			"text": " I'm going to be a woman."
+			"text": " are you like, \"Hey, I just sent you a dick pic.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:06:26,800",
-				"to": "00:06:27,800"
+				"from": "00:06:36,320",
+				"to": "00:06:37,520"
 			},
 			"offsets": {
-				"from": 386800,
-				"to": 387800
+				"from": 396320,
+				"to": 397520
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:27,800",
-				"to": "00:06:28,800"
+				"from": "00:06:37,520",
+				"to": "00:06:39,120"
 			},
 			"offsets": {
-				"from": 387800,
-				"to": 388800
+				"from": 397520,
+				"to": 399120
 			},
-			"text": " I'm going to be a woman."
+			"text": " Do you do that sometimes?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:28,800",
-				"to": "00:06:29,800"
+				"from": "00:06:39,120",
+				"to": "00:06:40,760"
 			},
 			"offsets": {
-				"from": 388800,
-				"to": 389800
+				"from": 399120,
+				"to": 400760
 			},
-			"text": " I'm going to be a woman."
+			"text": " Have you ever done that?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:29,800",
-				"to": "00:06:30,800"
+				"from": "00:06:40,760",
+				"to": "00:06:42,420"
 			},
 			"offsets": {
-				"from": 389800,
-				"to": 390800
+				"from": 400760,
+				"to": 402420
 			},
-			"text": " I'm going to be a woman."
+			"text": " 'Cause it's a dick pic."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:30,800",
-				"to": "00:06:31,800"
+				"from": "00:06:42,420",
+				"to": "00:06:43,260"
 			},
 			"offsets": {
-				"from": 390800,
-				"to": 391800
+				"from": 402420,
+				"to": 403260
 			},
-			"text": " I'm going to be a woman."
+			"text": " I get it."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:31,800",
-				"to": "00:06:32,800"
+				"from": "00:06:43,260",
+				"to": "00:06:44,920"
 			},
 			"offsets": {
-				"from": 391800,
-				"to": 392800
+				"from": 403260,
+				"to": 404920
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:32,800",
-				"to": "00:06:33,800"
+				"from": "00:06:44,920",
+				"to": "00:06:46,620"
 			},
 			"offsets": {
-				"from": 392800,
-				"to": 393800
+				"from": 404920,
+				"to": 406620
 			},
-			"text": " I'm going to be a woman."
+			"text": " You never made that connection."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:33,800",
-				"to": "00:06:34,800"
+				"from": "00:06:46,620",
+				"to": "00:06:47,860"
 			},
 			"offsets": {
-				"from": 393800,
-				"to": 394800
+				"from": 406620,
+				"to": 407860
 			},
-			"text": " I'm going to be a woman."
+			"text": " Okay, thank you."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:34,800",
-				"to": "00:06:35,800"
+				"from": "00:06:47,860",
+				"to": "00:06:51,100"
 			},
 			"offsets": {
-				"from": 394800,
-				"to": 395800
+				"from": 407860,
+				"to": 411100
 			},
-			"text": " I'm going to be a woman."
+			"text": " Please do that this evening after the show."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:35,800",
-				"to": "00:06:36,800"
+				"from": "00:06:51,100",
+				"to": "00:06:52,460"
 			},
 			"offsets": {
-				"from": 395800,
-				"to": 396800
+				"from": 411100,
+				"to": 412460
 			},
-			"text": " I'm going to be a woman."
+			"text": " I didn't believe it."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:36,800",
-				"to": "00:06:37,800"
+				"from": "00:06:52,460",
+				"to": "00:06:53,300"
 			},
 			"offsets": {
-				"from": 396800,
-				"to": 397800
+				"from": 412460,
+				"to": 413300
 			},
-			"text": " I'm going to be a woman."
+			"text": " What?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:37,800",
-				"to": "00:06:38,800"
+				"from": "00:06:53,300",
+				"to": "00:06:54,140"
 			},
 			"offsets": {
-				"from": 397800,
-				"to": 398800
+				"from": 413300,
+				"to": 414140
 			},
-			"text": " I'm going to be a woman."
+			"text": " - What's your number?"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:38,800",
-				"to": "00:06:39,800"
+				"from": "00:06:54,140",
+				"to": "00:06:55,960"
 			},
 			"offsets": {
-				"from": 398800,
-				"to": 399800
+				"from": 414140,
+				"to": 415960
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:39,800",
-				"to": "00:06:40,800"
-			},
-			"offsets": {
-				"from": 399800,
-				"to": 400800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:48,800",
-				"to": "00:06:49,800"
-			},
-			"offsets": {
-				"from": 408800,
-				"to": 409800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:49,800",
-				"to": "00:06:50,800"
-			},
-			"offsets": {
-				"from": 409800,
-				"to": 410800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:50,800",
-				"to": "00:06:51,800"
-			},
-			"offsets": {
-				"from": 410800,
-				"to": 411800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:51,800",
-				"to": "00:06:52,800"
-			},
-			"offsets": {
-				"from": 411800,
-				"to": 412800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:52,800",
-				"to": "00:06:53,800"
-			},
-			"offsets": {
-				"from": 412800,
-				"to": 413800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:53,800",
-				"to": "00:06:54,800"
-			},
-			"offsets": {
-				"from": 413800,
-				"to": 414800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:54,800",
-				"to": "00:06:55,800"
-			},
-			"offsets": {
-				"from": 414800,
-				"to": 415800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:55,800",
+				"from": "00:06:55,960",
 				"to": "00:06:56,800"
 			},
 			"offsets": {
-				"from": 415800,
+				"from": 415960,
 				"to": 416800
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Wow, ah."
 		},
 		{
 			"timestamps": {
 				"from": "00:06:56,800",
-				"to": "00:06:57,800"
+				"to": "00:07:02,280"
 			},
 			"offsets": {
 				"from": 416800,
-				"to": 417800
+				"to": 422280
 			},
-			"text": " I'm going to be a woman."
+			"text": " This just turned into the greatest show I've ever done."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:57,800",
-				"to": "00:06:58,800"
+				"from": "00:07:02,280",
+				"to": "00:07:03,580"
 			},
 			"offsets": {
-				"from": 417800,
-				"to": 418800
+				"from": 422280,
+				"to": 423580
 			},
-			"text": " I'm going to be a woman."
+			"text": " Ah, thank you."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:58,800",
-				"to": "00:06:59,800"
+				"from": "00:07:03,580",
+				"to": "00:07:05,080"
 			},
 			"offsets": {
-				"from": 418800,
-				"to": 419800
+				"from": 423580,
+				"to": 425080
 			},
-			"text": " I'm going to be a woman."
+			"text": " Chris, I feel that you, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:59,800",
-				"to": "00:07:00,800"
+				"from": "00:07:05,080",
+				"to": "00:07:07,680"
 			},
 			"offsets": {
-				"from": 419800,
-				"to": 420800
+				"from": 425080,
+				"to": 427680
 			},
-			"text": " I'm going to be a woman."
+			"text": " maybe you could support me in my comedy career"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:00,800",
-				"to": "00:07:01,800"
+				"from": "00:07:07,680",
+				"to": "00:07:08,920"
 			},
 			"offsets": {
-				"from": 420800,
-				"to": 421800
+				"from": 427680,
+				"to": 428920
 			},
-			"text": " I'm going to be a woman."
+			"text": " in anything, right?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:01,800",
-				"to": "00:07:02,800"
+				"from": "00:07:08,920",
+				"to": "00:07:10,180"
 			},
 			"offsets": {
-				"from": 421800,
-				"to": 422800
+				"from": 428920,
+				"to": 430180
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Yeah."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:02,800",
-				"to": "00:07:03,800"
+				"from": "00:07:10,180",
+				"to": "00:07:11,020"
 			},
 			"offsets": {
-				"from": 422800,
-				"to": 423800
+				"from": 430180,
+				"to": 431020
 			},
-			"text": " I'm going to be a woman."
+			"text": " - You could pay me on dick pics."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:03,800",
-				"to": "00:07:04,800"
+				"from": "00:07:11,020",
+				"to": "00:07:13,420"
 			},
 			"offsets": {
-				"from": 423800,
-				"to": 424800
+				"from": 431020,
+				"to": 433420
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:04,800",
-				"to": "00:07:05,800"
+				"from": "00:07:13,420",
+				"to": "00:07:16,860"
 			},
 			"offsets": {
-				"from": 424800,
-				"to": 425800
+				"from": 433420,
+				"to": 436860
 			},
-			"text": " I'm going to be a woman."
+			"text": " Now, I don't take dick pics myself."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:05,800",
-				"to": "00:07:06,800"
+				"from": "00:07:16,860",
+				"to": "00:07:18,760"
 			},
 			"offsets": {
-				"from": 425800,
-				"to": 426800
+				"from": 436860,
+				"to": 438760
 			},
-			"text": " I'm going to be a woman."
+			"text": " Now, you may not believe that, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:06,800",
-				"to": "00:07:07,800"
+				"from": "00:07:18,760",
+				"to": "00:07:20,200"
 			},
 			"offsets": {
-				"from": 426800,
-				"to": 427800
+				"from": 438760,
+				"to": 440200
 			},
-			"text": " I'm going to be a woman."
+			"text": " when you have a perfect penis,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:07,800",
-				"to": "00:07:08,800"
+				"from": "00:07:20,200",
+				"to": "00:07:21,460"
 			},
 			"offsets": {
-				"from": 427800,
-				"to": 428800
+				"from": 440200,
+				"to": 441460
 			},
-			"text": " I'm going to be a woman."
+			"text": " obviously you'd think you would,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:08,800",
-				"to": "00:07:09,800"
-			},
-			"offsets": {
-				"from": 428800,
-				"to": 429800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:09,800",
-				"to": "00:07:10,800"
-			},
-			"offsets": {
-				"from": 429800,
-				"to": 430800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:18,800",
-				"to": "00:07:19,800"
-			},
-			"offsets": {
-				"from": 438800,
-				"to": 439800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:19,800",
-				"to": "00:07:20,800"
-			},
-			"offsets": {
-				"from": 439800,
-				"to": 440800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:20,800",
-				"to": "00:07:21,800"
-			},
-			"offsets": {
-				"from": 440800,
-				"to": 441800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:21,800",
-				"to": "00:07:22,800"
-			},
-			"offsets": {
-				"from": 441800,
-				"to": 442800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:22,800",
-				"to": "00:07:23,800"
-			},
-			"offsets": {
-				"from": 442800,
-				"to": 443800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:07:23,800",
+				"from": "00:07:21,460",
 				"to": "00:07:24,800"
 			},
 			"offsets": {
-				"from": 443800,
+				"from": 441460,
 				"to": 444800
 			},
-			"text": " I'm going to be a woman."
+			"text": " but the reason why I don't take dick pics myself"
 		},
 		{
 			"timestamps": {
 				"from": "00:07:24,800",
-				"to": "00:07:25,800"
+				"to": "00:07:27,900"
 			},
 			"offsets": {
 				"from": 444800,
-				"to": 445800
+				"to": 447900
 			},
-			"text": " I'm going to be a woman."
+			"text": " is I'm a bit of a perfectionist."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:25,800",
-				"to": "00:07:26,800"
+				"from": "00:07:27,900",
+				"to": "00:07:31,940"
 			},
 			"offsets": {
-				"from": 445800,
-				"to": 446800
+				"from": 447900,
+				"to": 451940
 			},
-			"text": " I'm going to be a woman."
+			"text": " Because taking a quality dick pic is hard."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:26,800",
-				"to": "00:07:27,800"
+				"from": "00:07:31,940",
+				"to": "00:07:33,180"
 			},
 			"offsets": {
-				"from": 446800,
-				"to": 447800
+				"from": 451940,
+				"to": 453180
 			},
-			"text": " I'm going to be a woman."
+			"text": " You know, there's a lot to think about."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:27,800",
-				"to": "00:07:28,800"
+				"from": "00:07:33,180",
+				"to": "00:07:35,340"
 			},
 			"offsets": {
-				"from": 447800,
-				"to": 448800
+				"from": 453180,
+				"to": 455340
 			},
-			"text": " I'm going to be a woman."
+			"text": " You gotta think about the lighting."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:28,800",
-				"to": "00:07:29,800"
+				"from": "00:07:35,340",
+				"to": "00:07:38,180"
 			},
 			"offsets": {
-				"from": 448800,
-				"to": 449800
+				"from": 455340,
+				"to": 458180
 			},
-			"text": " I'm going to be a woman."
+			"text": " Do you go for like a soft, mellow tone"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:29,800",
-				"to": "00:07:30,800"
+				"from": "00:07:38,180",
+				"to": "00:07:39,620"
 			},
 			"offsets": {
-				"from": 449800,
-				"to": 450800
+				"from": 458180,
+				"to": 459620
 			},
-			"text": " I'm going to be a woman."
+			"text": " to bring out the skin colors"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:30,800",
-				"to": "00:07:31,800"
+				"from": "00:07:39,620",
+				"to": "00:07:41,680"
 			},
 			"offsets": {
-				"from": 450800,
-				"to": 451800
+				"from": 459620,
+				"to": 461680
 			},
-			"text": " I'm going to be a woman."
+			"text": " or something more red and erotic?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:31,800",
-				"to": "00:07:32,800"
+				"from": "00:07:41,680",
+				"to": "00:07:44,380"
 			},
 			"offsets": {
-				"from": 451800,
-				"to": 452800
+				"from": 461680,
+				"to": 464380
 			},
-			"text": " I'm going to be a woman."
+			"text": " Do I need some props, you know?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:32,800",
-				"to": "00:07:33,800"
+				"from": "00:07:44,380",
+				"to": "00:07:47,580"
 			},
 			"offsets": {
-				"from": 452800,
-				"to": 453800
+				"from": 464380,
+				"to": 467580
 			},
-			"text": " I'm going to be a woman."
+			"text": " Do I need to put some roses around here"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:33,800",
-				"to": "00:07:34,800"
+				"from": "00:07:47,580",
+				"to": "00:07:48,420"
 			},
 			"offsets": {
-				"from": 453800,
-				"to": 454800
+				"from": 467580,
+				"to": 468420
 			},
-			"text": " I'm going to be a woman."
+			"text": " for this dick pic?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:34,800",
-				"to": "00:07:35,800"
+				"from": "00:07:48,420",
+				"to": "00:07:51,560"
 			},
 			"offsets": {
-				"from": 454800,
-				"to": 455800
+				"from": 468420,
+				"to": 471560
 			},
-			"text": " I'm going to be a woman."
+			"text": " I don't wanna prick my dick as I'm doing this."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:35,800",
-				"to": "00:07:36,800"
+				"from": "00:07:51,560",
+				"to": "00:07:53,860"
 			},
 			"offsets": {
-				"from": 455800,
-				"to": 456800
+				"from": 471560,
+				"to": 473860
 			},
-			"text": " I'm going to be a woman."
+			"text": " And, you know, you also gotta think about the angle"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:36,800",
-				"to": "00:07:37,800"
+				"from": "00:07:53,860",
+				"to": "00:07:54,700"
 			},
 			"offsets": {
-				"from": 456800,
-				"to": 457800
+				"from": 473860,
+				"to": 474700
 			},
-			"text": " I'm going to be a woman."
+			"text": " 'cause it's a selfie."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:37,800",
-				"to": "00:07:38,800"
+				"from": "00:07:54,700",
+				"to": "00:07:57,260"
 			},
 			"offsets": {
-				"from": 457800,
-				"to": 458800
+				"from": 474700,
+				"to": 477260
 			},
-			"text": " I'm going to be a woman."
+			"text": " Is it like here or here?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:38,800",
-				"to": "00:07:39,800"
+				"from": "00:07:57,260",
+				"to": "00:07:58,740"
 			},
 			"offsets": {
-				"from": 458800,
-				"to": 459800
+				"from": 477260,
+				"to": 478740
 			},
-			"text": " I'm going to be a woman."
+			"text": " Or like under there?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:39,800",
-				"to": "00:07:40,800"
+				"from": "00:07:58,740",
+				"to": "00:07:59,560"
 			},
 			"offsets": {
-				"from": 459800,
-				"to": 460800
+				"from": 478740,
+				"to": 479560
 			},
-			"text": " I'm going to be a woman."
+			"text": " I don't know."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:48,800",
-				"to": "00:07:49,800"
+				"from": "00:07:59,560",
+				"to": "00:08:03,300"
 			},
 			"offsets": {
-				"from": 468800,
-				"to": 469800
+				"from": 479560,
+				"to": 483300
 			},
-			"text": " I'm going to be a woman."
+			"text": " Luckily for you guys, I'm a bit of an entrepreneur."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:49,800",
-				"to": "00:07:50,800"
+				"from": "00:08:03,300",
+				"to": "00:08:06,740"
 			},
 			"offsets": {
-				"from": 469800,
-				"to": 470800
+				"from": 483300,
+				"to": 486740
 			},
-			"text": " I'm going to be a woman."
+			"text": " That's why I invented the dick pic selfie stick."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:50,800",
-				"to": "00:07:51,800"
+				"from": "00:08:06,740",
+				"to": "00:08:10,140"
 			},
 			"offsets": {
-				"from": 470800,
-				"to": 471800
+				"from": 486740,
+				"to": 490140
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:51,800",
-				"to": "00:07:52,800"
+				"from": "00:08:10,140",
+				"to": "00:08:13,220"
 			},
 			"offsets": {
-				"from": 471800,
-				"to": 472800
+				"from": 490140,
+				"to": 493220
 			},
-			"text": " I'm going to be a woman."
+			"text": " Okay, I think, but I'm not gonna give it to you guys"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:52,800",
-				"to": "00:07:53,800"
+				"from": "00:08:13,220",
+				"to": "00:08:15,700"
 			},
 			"offsets": {
-				"from": 472800,
-				"to": 473800
+				"from": 493220,
+				"to": 495700
 			},
-			"text": " I'm going to be a woman."
+			"text": " 'cause I don't feel that you appreciate"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:53,800",
-				"to": "00:07:54,800"
+				"from": "00:08:15,700",
+				"to": "00:08:17,860"
 			},
 			"offsets": {
-				"from": 473800,
-				"to": 474800
+				"from": 495700,
+				"to": 497860
 			},
-			"text": " I'm going to be a woman."
+			"text": " the genius of that invention enough this evening."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:54,800",
-				"to": "00:07:55,800"
+				"from": "00:08:17,860",
+				"to": "00:08:19,180"
 			},
 			"offsets": {
-				"from": 474800,
-				"to": 475800
+				"from": 497860,
+				"to": 499180
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Give it to us."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:55,800",
-				"to": "00:07:56,800"
+				"from": "00:08:19,180",
+				"to": "00:08:20,540"
 			},
 			"offsets": {
-				"from": 475800,
-				"to": 476800
+				"from": 499180,
+				"to": 500540
 			},
-			"text": " I'm going to be a woman."
+			"text": " - I'll give it to you for free,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:56,800",
-				"to": "00:07:57,800"
+				"from": "00:08:20,540",
+				"to": "00:08:23,060"
 			},
 			"offsets": {
-				"from": 476800,
-				"to": 477800
+				"from": 500540,
+				"to": 503060
 			},
-			"text": " I'm going to be a woman."
+			"text": " a free sample for you, sir."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:57,800",
-				"to": "00:07:58,800"
+				"from": "00:08:23,060",
+				"to": "00:08:27,420"
 			},
 			"offsets": {
-				"from": 477800,
-				"to": 478800
+				"from": 503060,
+				"to": 507420
 			},
-			"text": " I'm going to be a woman."
+			"text": " Okay, so, you know, sometimes when I think about"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:58,800",
-				"to": "00:07:59,800"
+				"from": "00:08:27,420",
+				"to": "00:08:29,620"
 			},
 			"offsets": {
-				"from": 478800,
-				"to": 479800
+				"from": 507420,
+				"to": 509620
 			},
-			"text": " I'm going to be a woman."
+			"text": " all the dick pics that I'm not able to take"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:59,800",
-				"to": "00:08:00,800"
+				"from": "00:08:29,620",
+				"to": "00:08:32,300"
 			},
 			"offsets": {
-				"from": 479800,
-				"to": 480800
+				"from": 509620,
+				"to": 512300
 			},
-			"text": " I'm going to be a woman."
+			"text": " because I'm a perfectionist, I get very depressed."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:00,800",
-				"to": "00:08:01,800"
+				"from": "00:08:33,180",
+				"to": "00:08:37,060"
 			},
 			"offsets": {
-				"from": 480800,
-				"to": 481800
+				"from": 513180,
+				"to": 517060
 			},
-			"text": " I'm going to be a woman."
+			"text": " And when that happens, I do what a real man does."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:01,800",
-				"to": "00:08:02,800"
+				"from": "00:08:37,060",
+				"to": "00:08:39,920"
 			},
 			"offsets": {
-				"from": 481800,
-				"to": 482800
+				"from": 517060,
+				"to": 519920
 			},
-			"text": " I'm going to be a woman."
+			"text": " I get on YouTube and watch animal videos."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:02,800",
-				"to": "00:08:03,800"
+				"from": "00:08:39,920",
+				"to": "00:08:43,840"
 			},
 			"offsets": {
-				"from": 482800,
-				"to": 483800
+				"from": 519920,
+				"to": 523840
 			},
-			"text": " I'm going to be a woman."
+			"text": " And recently, I discovered an animal."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:03,800",
-				"to": "00:08:04,800"
+				"from": "00:08:43,840",
+				"to": "00:08:45,860"
 			},
 			"offsets": {
-				"from": 483800,
-				"to": 484800
+				"from": 523840,
+				"to": 525860
 			},
-			"text": " I'm going to be a woman."
+			"text": " This creature blew my mind."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:04,800",
-				"to": "00:08:05,800"
+				"from": "00:08:45,860",
+				"to": "00:08:50,660"
 			},
 			"offsets": {
-				"from": 484800,
-				"to": 485800
+				"from": 525860,
+				"to": 530660
 			},
-			"text": " I'm going to be a woman."
+			"text": " This is the greatest sea creature in all the oceans."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:05,800",
-				"to": "00:08:06,800"
+				"from": "00:08:50,660",
+				"to": "00:08:53,180"
 			},
 			"offsets": {
-				"from": 485800,
-				"to": 486800
+				"from": 530660,
+				"to": 533180
 			},
-			"text": " I'm going to be a woman."
+			"text": " Dick, can you guess what animal I'm talking about?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:06,800",
-				"to": "00:08:07,800"
+				"from": "00:08:53,180",
+				"to": "00:08:54,260"
 			},
 			"offsets": {
-				"from": 486800,
-				"to": 487800
+				"from": 533180,
+				"to": 534260
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A mantis shrimp."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:07,800",
-				"to": "00:08:08,800"
+				"from": "00:08:54,260",
+				"to": "00:08:55,100"
 			},
 			"offsets": {
-				"from": 487800,
-				"to": 488800
+				"from": 534260,
+				"to": 535100
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A what?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:08,800",
-				"to": "00:08:09,800"
+				"from": "00:08:55,100",
+				"to": "00:08:55,920"
 			},
 			"offsets": {
-				"from": 488800,
-				"to": 489800
+				"from": 535100,
+				"to": 535920
 			},
-			"text": " I'm going to be a woman."
+			"text": " - What?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:09,800",
-				"to": "00:08:10,800"
+				"from": "00:08:55,920",
+				"to": "00:08:57,460"
 			},
 			"offsets": {
-				"from": 489800,
-				"to": 490800
+				"from": 535920,
+				"to": 537460
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:18,800",
-				"to": "00:08:19,800"
+				"from": "00:08:57,460",
+				"to": "00:08:59,540"
 			},
 			"offsets": {
-				"from": 498800,
-				"to": 499800
+				"from": 537460,
+				"to": 539540
 			},
-			"text": " I'm going to be a woman."
+			"text": " - No, that was the last joke again"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:19,800",
-				"to": "00:08:20,800"
+				"from": "00:08:59,540",
+				"to": "00:09:00,740"
 			},
 			"offsets": {
-				"from": 499800,
-				"to": 500800
+				"from": 539540,
+				"to": 540740
 			},
-			"text": " I'm going to be a woman."
+			"text": " that you just reacted to."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:20,800",
-				"to": "00:08:21,800"
+				"from": "00:09:00,740",
+				"to": "00:09:04,540"
 			},
 			"offsets": {
-				"from": 500800,
-				"to": 501800
+				"from": 540740,
+				"to": 544540
 			},
-			"text": " I'm going to be a woman."
+			"text": " Dick, dick, tell me, greatest sea creature."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:21,800",
-				"to": "00:08:22,800"
+				"from": "00:09:04,540",
+				"to": "00:09:05,700"
 			},
 			"offsets": {
-				"from": 501800,
-				"to": 502800
+				"from": 544540,
+				"to": 545700
 			},
-			"text": " I'm going to be a woman."
+			"text": " She's just throwing me off."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:22,800",
-				"to": "00:08:23,800"
+				"from": "00:09:05,700",
+				"to": "00:09:06,540"
 			},
 			"offsets": {
-				"from": 502800,
-				"to": 503800
+				"from": 545700,
+				"to": 546540
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A shark."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:23,800",
-				"to": "00:08:24,800"
+				"from": "00:09:06,540",
+				"to": "00:09:10,060"
 			},
 			"offsets": {
-				"from": 503800,
-				"to": 504800
+				"from": 546540,
+				"to": 550060
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A shark, a shark is a very good choice, but wrong."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:24,800",
-				"to": "00:08:25,800"
+				"from": "00:09:10,060",
+				"to": "00:09:10,900"
 			},
 			"offsets": {
-				"from": 504800,
-				"to": 505800
+				"from": 550060,
+				"to": 550900
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Whale."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:25,800",
-				"to": "00:08:26,800"
+				"from": "00:09:10,900",
+				"to": "00:09:15,420"
 			},
 			"offsets": {
-				"from": 505800,
-				"to": 506800
+				"from": 550900,
+				"to": 555420
 			},
-			"text": " I'm going to be a woman."
+			"text": " - The great, no, not whale, you only get one guess,"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:26,800",
-				"to": "00:08:27,800"
+				"from": "00:09:15,420",
+				"to": "00:09:19,340"
 			},
 			"offsets": {
-				"from": 506800,
-				"to": 507800
+				"from": 555420,
+				"to": 559340
 			},
-			"text": " I'm going to be a woman."
+			"text": " people, fuck it up, but you're all wrong."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:27,800",
-				"to": "00:08:28,800"
+				"from": "00:09:19,340",
+				"to": "00:09:23,100"
 			},
 			"offsets": {
-				"from": 507800,
-				"to": 508800
+				"from": 559340,
+				"to": 563100
 			},
-			"text": " I'm going to be a woman."
+			"text": " The greatest animal in all the oceans,"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:28,800",
-				"to": "00:08:29,800"
+				"from": "00:09:23,100",
+				"to": "00:09:25,700"
 			},
 			"offsets": {
-				"from": 508800,
-				"to": 509800
+				"from": 563100,
+				"to": 565700
 			},
-			"text": " I'm going to be a woman."
+			"text": " not a dolphin either, Sasha."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:29,800",
-				"to": "00:08:30,800"
+				"from": "00:09:25,700",
+				"to": "00:09:27,060"
 			},
 			"offsets": {
-				"from": 509800,
-				"to": 510800
+				"from": 565700,
+				"to": 567060
 			},
-			"text": " I'm going to be a woman."
+			"text": " It is the?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:30,800",
-				"to": "00:08:31,800"
+				"from": "00:09:27,060",
+				"to": "00:09:27,900"
 			},
 			"offsets": {
-				"from": 510800,
-				"to": 511800
+				"from": 567060,
+				"to": 567900
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A sheep."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:31,800",
-				"to": "00:08:32,800"
+				"from": "00:09:27,900",
+				"to": "00:09:29,540"
 			},
 			"offsets": {
-				"from": 511800,
-				"to": 512800
+				"from": 567900,
+				"to": 569540
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:32,800",
-				"to": "00:08:33,800"
+				"from": "00:09:29,540",
+				"to": "00:09:30,380"
 			},
 			"offsets": {
-				"from": 512800,
-				"to": 513800
+				"from": 569540,
+				"to": 570380
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A sheep."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:33,800",
-				"to": "00:08:34,800"
+				"from": "00:09:31,580",
+				"to": "00:09:32,420"
 			},
 			"offsets": {
-				"from": 513800,
-				"to": 514800
+				"from": 571580,
+				"to": 572420
 			},
-			"text": " I'm going to be a woman."
+			"text": " - In the ocean."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:34,800",
-				"to": "00:08:35,800"
+				"from": "00:09:32,420",
+				"to": "00:09:36,100"
 			},
 			"offsets": {
-				"from": 514800,
-				"to": 515800
+				"from": 572420,
+				"to": 576100
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Did you, what did you do to the sheep"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:35,800",
-				"to": "00:08:36,800"
+				"from": "00:09:36,100",
+				"to": "00:09:37,700"
 			},
 			"offsets": {
-				"from": 515800,
-				"to": 516800
+				"from": 576100,
+				"to": 577700
 			},
-			"text": " I'm going to be a woman."
+			"text": " after it ended up in the ocean?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:36,800",
-				"to": "00:08:37,800"
+				"from": "00:09:37,700",
+				"to": "00:09:38,540"
 			},
 			"offsets": {
-				"from": 516800,
-				"to": 517800
+				"from": 577700,
+				"to": 578540
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A shrimp."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:37,800",
-				"to": "00:08:38,800"
+				"from": "00:09:38,540",
+				"to": "00:09:40,420"
 			},
 			"offsets": {
-				"from": 517800,
-				"to": 518800
+				"from": 578540,
+				"to": 580420
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A shrimp, oh, a shrimp."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:38,800",
-				"to": "00:08:39,800"
+				"from": "00:09:40,420",
+				"to": "00:09:42,020"
 			},
 			"offsets": {
-				"from": 518800,
-				"to": 519800
+				"from": 580420,
+				"to": 582020
 			},
-			"text": " I'm going to be a woman."
+			"text": " No, do we have any, okay."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:39,800",
-				"to": "00:08:40,800"
+				"from": "00:09:42,020",
+				"to": "00:09:43,140"
 			},
 			"offsets": {
-				"from": 519800,
-				"to": 520800
+				"from": 582020,
+				"to": 583140
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Your mother's swimming."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:48,800",
-				"to": "00:08:49,800"
+				"from": "00:09:43,140",
+				"to": "00:09:45,740"
 			},
 			"offsets": {
-				"from": 528800,
-				"to": 529800
+				"from": 583140,
+				"to": 585740
 			},
-			"text": " I'm going to be a woman."
+			"text": " - No, that's not right, let's work this out now."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:49,800",
-				"to": "00:08:50,800"
+				"from": "00:09:45,740",
+				"to": "00:09:48,540"
 			},
 			"offsets": {
-				"from": 529800,
-				"to": 530800
+				"from": 585740,
+				"to": 588540
 			},
-			"text": " I'm going to be a woman."
+			"text": " You don't want the joke, come on, give me more sea creatures,"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:50,800",
-				"to": "00:08:51,800"
+				"from": "00:09:48,540",
+				"to": "00:09:50,220"
 			},
 			"offsets": {
-				"from": 530800,
-				"to": 531800
+				"from": 588540,
+				"to": 590220
 			},
-			"text": " I'm going to be a woman."
+			"text": " let's get it out of your system."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:51,800",
-				"to": "00:08:52,800"
+				"from": "00:09:50,220",
+				"to": "00:09:51,060"
 			},
 			"offsets": {
-				"from": 531800,
-				"to": 532800
+				"from": 590220,
+				"to": 591060
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Plankton."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:52,800",
-				"to": "00:08:53,800"
+				"from": "00:09:51,060",
+				"to": "00:09:52,380"
 			},
 			"offsets": {
-				"from": 532800,
-				"to": 533800
+				"from": 591060,
+				"to": 592380
 			},
-			"text": " I'm going to be a woman."
+			"text": " - What, plankton?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:53,800",
-				"to": "00:08:54,800"
+				"from": "00:09:52,380",
+				"to": "00:09:53,940"
 			},
 			"offsets": {
-				"from": 533800,
-				"to": 534800
+				"from": 592380,
+				"to": 593940
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:54,800",
-				"to": "00:08:55,800"
+				"from": "00:09:53,940",
+				"to": "00:09:56,860"
 			},
 			"offsets": {
-				"from": 534800,
-				"to": 535800
+				"from": 593940,
+				"to": 596860
 			},
-			"text": " I'm going to be a woman."
+			"text": " You call a plankton a great sea creature."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:55,800",
-				"to": "00:08:56,800"
+				"from": "00:09:56,860",
+				"to": "00:09:58,540"
 			},
 			"offsets": {
-				"from": 535800,
-				"to": 536800
+				"from": 596860,
+				"to": 598540
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:56,800",
-				"to": "00:08:57,800"
+				"from": "00:09:58,540",
+				"to": "00:10:01,620"
 			},
 			"offsets": {
-				"from": 536800,
-				"to": 537800
+				"from": 598540,
+				"to": 601620
 			},
-			"text": " I'm going to be a woman."
+			"text": " Now I understand what's happening in this relationship."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:57,800",
-				"to": "00:08:58,800"
+				"from": "00:10:01,620",
+				"to": "00:10:04,300"
 			},
 			"offsets": {
-				"from": 537800,
-				"to": 538800
+				"from": 601620,
+				"to": 604300
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:58,800",
-				"to": "00:08:59,800"
+				"from": "00:10:04,300",
+				"to": "00:10:07,060"
 			},
 			"offsets": {
-				"from": 538800,
-				"to": 539800
+				"from": 604300,
+				"to": 607060
 			},
-			"text": " I'm going to be a woman."
+			"text": " Anyone else, any more sea creatures?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:59,800",
-				"to": "00:09:00,800"
+				"from": "00:10:07,060",
+				"to": "00:10:08,660"
 			},
 			"offsets": {
-				"from": 539800,
-				"to": 540800
+				"from": 607060,
+				"to": 608660
 			},
-			"text": " I'm going to be a woman."
+			"text": " Oh, can I tell my joke now?"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:00,800",
-				"to": "00:09:01,800"
+				"from": "00:10:08,660",
+				"to": "00:10:10,100"
 			},
 			"offsets": {
-				"from": 540800,
-				"to": 541800
+				"from": 608660,
+				"to": 610100
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:01,800",
-				"to": "00:09:02,800"
+				"from": "00:10:10,100",
+				"to": "00:10:10,940"
 			},
 			"offsets": {
-				"from": 541800,
-				"to": 542800
+				"from": 610100,
+				"to": 610940
 			},
-			"text": " I'm going to be a woman."
+			"text": " All right."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:02,800",
-				"to": "00:09:03,800"
+				"from": "00:10:10,940",
+				"to": "00:10:11,780"
 			},
 			"offsets": {
-				"from": 542800,
-				"to": 543800
+				"from": 610940,
+				"to": 611780
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A sea sheep."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:03,800",
-				"to": "00:09:04,800"
+				"from": "00:10:11,780",
+				"to": "00:10:12,620"
 			},
 			"offsets": {
-				"from": 543800,
-				"to": 544800
+				"from": 611780,
+				"to": 612620
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A what?"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:04,800",
-				"to": "00:09:05,800"
+				"from": "00:10:12,620",
+				"to": "00:10:13,460"
 			},
 			"offsets": {
-				"from": 544800,
-				"to": 545800
+				"from": 612620,
+				"to": 613460
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A sea sheep."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:05,800",
-				"to": "00:09:06,800"
+				"from": "00:10:13,460",
+				"to": "00:10:14,300"
 			},
 			"offsets": {
-				"from": 545800,
-				"to": 546800
+				"from": 613460,
+				"to": 614300
 			},
-			"text": " I'm going to be a woman."
+			"text": " - A sea sheep."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:06,800",
-				"to": "00:09:07,800"
+				"from": "00:10:14,300",
+				"to": "00:10:15,140"
 			},
 			"offsets": {
-				"from": 546800,
-				"to": 547800
+				"from": 614300,
+				"to": 615140
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:07,800",
-				"to": "00:09:08,800"
+				"from": "00:10:15,140",
+				"to": "00:10:16,900"
 			},
 			"offsets": {
-				"from": 547800,
-				"to": 548800
+				"from": 615140,
+				"to": 616900
 			},
-			"text": " I'm going to be a woman."
+			"text": " - You didn't think of sheep on Earth, right?"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:08,800",
-				"to": "00:09:09,800"
+				"from": "00:10:16,900",
+				"to": "00:10:19,980"
 			},
 			"offsets": {
-				"from": 548800,
-				"to": 549800
+				"from": 616900,
+				"to": 619980
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Dick, I think you need to focus on your dick, Dick."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:09,800",
-				"to": "00:09:10,800"
+				"from": "00:10:19,980",
+				"to": "00:10:21,260"
 			},
 			"offsets": {
-				"from": 549800,
-				"to": 550800
+				"from": 619980,
+				"to": 621260
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:18,800",
-				"to": "00:09:19,800"
+				"from": "00:10:21,260",
+				"to": "00:10:26,260"
 			},
 			"offsets": {
-				"from": 558800,
-				"to": 559800
+				"from": 621260,
+				"to": 626260
 			},
-			"text": " I'm going to be a woman."
+			"text": " So, it's true, oh, do you have an animal?"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:19,800",
-				"to": "00:09:20,800"
+				"from": "00:10:26,260",
+				"to": "00:10:28,460"
 			},
 			"offsets": {
-				"from": 559800,
-				"to": 560800
+				"from": 626260,
+				"to": 628460
 			},
-			"text": " I'm going to be a woman."
+			"text": " - An octopus."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:20,800",
-				"to": "00:09:21,800"
+				"from": "00:10:28,460",
+				"to": "00:10:29,300"
 			},
 			"offsets": {
-				"from": 560800,
-				"to": 561800
+				"from": 628460,
+				"to": 629300
 			},
-			"text": " I'm going to be a woman."
+			"text": " - An octopus."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:21,800",
-				"to": "00:09:22,800"
+				"from": "00:10:29,300",
+				"to": "00:10:33,380"
 			},
 			"offsets": {
-				"from": 561800,
-				"to": 562800
+				"from": 629300,
+				"to": 633380
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Thank you, ma'am, one person, give it up for her."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:22,800",
-				"to": "00:09:23,800"
+				"from": "00:10:33,380",
+				"to": "00:10:35,180"
 			},
 			"offsets": {
-				"from": 562800,
-				"to": 563800
+				"from": 633380,
+				"to": 635180
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:23,800",
-				"to": "00:09:24,800"
+				"from": "00:10:35,180",
+				"to": "00:10:36,820"
 			},
 			"offsets": {
-				"from": 563800,
-				"to": 564800
+				"from": 635180,
+				"to": 636820
 			},
-			"text": " I'm going to be a woman."
+			"text": " What is your name, ma'am?"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:24,800",
-				"to": "00:09:25,800"
+				"from": "00:10:36,820",
+				"to": "00:10:37,660"
 			},
 			"offsets": {
-				"from": 564800,
-				"to": 565800
+				"from": 636820,
+				"to": 637660
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Deanna."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:25,800",
-				"to": "00:09:26,800"
+				"from": "00:10:37,660",
+				"to": "00:10:39,980"
 			},
 			"offsets": {
-				"from": 565800,
-				"to": 566800
+				"from": 637660,
+				"to": 639980
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Deanna, Deanna, I don't know what your price is,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:26,800",
-				"to": "00:09:27,800"
+				"from": "00:10:39,980",
+				"to": "00:10:42,780"
 			},
 			"offsets": {
-				"from": 566800,
-				"to": 567800
+				"from": 639980,
+				"to": 642780
 			},
-			"text": " I'm going to be a woman."
+			"text": " but you deserve a prize after showing up"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:27,800",
-				"to": "00:09:28,800"
+				"from": "00:10:42,780",
+				"to": "00:10:45,020"
 			},
 			"offsets": {
-				"from": 567800,
-				"to": 568800
+				"from": 642780,
+				"to": 645020
 			},
-			"text": " I'm going to be a woman."
+			"text": " the entire audience here tonight."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:28,800",
-				"to": "00:09:29,800"
+				"from": "00:10:45,020",
+				"to": "00:10:47,620"
 			},
 			"offsets": {
-				"from": 568800,
-				"to": 569800
+				"from": 645020,
+				"to": 647620
 			},
-			"text": " I'm going to be a woman."
+			"text": " The greatest, exactly, it's an octopus,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:29,800",
-				"to": "00:09:30,800"
+				"from": "00:10:47,620",
+				"to": "00:10:49,860"
 			},
 			"offsets": {
-				"from": 569800,
-				"to": 570800
+				"from": 647620,
+				"to": 649860
 			},
-			"text": " I'm going to be a woman."
+			"text": " but it's a very special type of octopus,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:30,800",
-				"to": "00:09:31,800"
+				"from": "00:10:49,860",
+				"to": "00:10:52,940"
 			},
 			"offsets": {
-				"from": 570800,
-				"to": 571800
+				"from": 649860,
+				"to": 652940
 			},
-			"text": " I'm going to be a woman."
+			"text": " it's called the argonaut octopus."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:31,800",
-				"to": "00:09:32,800"
+				"from": "00:10:52,940",
+				"to": "00:10:54,420"
 			},
 			"offsets": {
-				"from": 571800,
-				"to": 572800
+				"from": 652940,
+				"to": 654420
 			},
-			"text": " I'm going to be a woman."
+			"text": " Now I need to explain this to you,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:32,800",
-				"to": "00:09:33,800"
+				"from": "00:10:54,420",
+				"to": "00:10:57,740"
 			},
 			"offsets": {
-				"from": 572800,
-				"to": 573800
+				"from": 654420,
+				"to": 657740
 			},
-			"text": " I'm going to be a woman."
+			"text": " I know that's gonna be tough for the IQ level here,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:33,800",
-				"to": "00:09:34,800"
+				"from": "00:10:57,740",
+				"to": "00:10:59,780"
 			},
 			"offsets": {
-				"from": 573800,
-				"to": 574800
+				"from": 657740,
+				"to": 659780
 			},
-			"text": " I'm going to be a woman."
+			"text": " so pay close attention."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:34,800",
-				"to": "00:09:35,800"
+				"from": "00:10:59,780",
+				"to": "00:11:02,620"
 			},
 			"offsets": {
-				"from": 574800,
-				"to": 575800
+				"from": 659780,
+				"to": 662620
 			},
-			"text": " I'm going to be a woman."
+			"text": " Oh, this crowd is getting upset now,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:35,800",
-				"to": "00:09:36,800"
+				"from": "00:11:02,620",
+				"to": "00:11:04,580"
 			},
 			"offsets": {
-				"from": 575800,
-				"to": 576800
+				"from": 662620,
+				"to": 664580
 			},
-			"text": " I'm going to be a woman."
+			"text": " I insulted their intelligence."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:36,800",
-				"to": "00:09:37,800"
+				"from": "00:11:04,580",
+				"to": "00:11:05,980"
 			},
 			"offsets": {
-				"from": 576800,
-				"to": 577800
+				"from": 664580,
+				"to": 665980
 			},
-			"text": " I'm going to be a woman."
+			"text": " No, you're all great people,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:37,800",
-				"to": "00:09:38,800"
+				"from": "00:11:05,980",
+				"to": "00:11:08,900"
 			},
 			"offsets": {
-				"from": 577800,
-				"to": 578800
+				"from": 665980,
+				"to": 668900
 			},
-			"text": " I'm going to be a woman."
+			"text": " you're very imaginative with your sea creatures."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:38,800",
-				"to": "00:09:39,800"
+				"from": "00:11:08,900",
+				"to": "00:11:11,500"
 			},
 			"offsets": {
-				"from": 578800,
-				"to": 579800
+				"from": 668900,
+				"to": 671500
 			},
-			"text": " I'm going to be a woman."
+			"text": " All right, so, argonaut octopus."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:39,800",
-				"to": "00:09:40,800"
+				"from": "00:11:11,500",
+				"to": "00:11:16,500"
 			},
 			"offsets": {
-				"from": 579800,
-				"to": 580800
+				"from": 671500,
+				"to": 676500
 			},
-			"text": " I'm going to be a woman."
+			"text": " Now to explain this, the female argonaut is very aggressive,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:48,800",
-				"to": "00:09:49,800"
+				"from": "00:11:16,500",
+				"to": "00:11:20,300"
 			},
 			"offsets": {
-				"from": 588800,
-				"to": 589800
+				"from": 676500,
+				"to": 680300
 			},
-			"text": " I'm going to be a woman."
+			"text": " and so the male, if he gets anywhere near the female,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:49,800",
-				"to": "00:09:50,800"
+				"from": "00:11:20,300",
+				"to": "00:11:21,380"
 			},
 			"offsets": {
-				"from": 589800,
-				"to": 590800
+				"from": 680300,
+				"to": 681380
 			},
-			"text": " I'm going to be a woman."
+			"text": " she's gonna eat him,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:50,800",
-				"to": "00:09:51,800"
+				"from": "00:11:21,380",
+				"to": "00:11:26,380"
 			},
 			"offsets": {
-				"from": 590800,
-				"to": 591800
+				"from": 681380,
+				"to": 686380
 			},
-			"text": " I'm going to be a woman."
+			"text": " so the men are terrified of the females,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:51,800",
-				"to": "00:09:52,800"
+				"from": "00:11:26,380",
+				"to": "00:11:29,020"
 			},
 			"offsets": {
-				"from": 591800,
-				"to": 592800
+				"from": 686380,
+				"to": 689020
 			},
-			"text": " I'm going to be a woman."
+			"text": " and I'm sensing there could be a few of these two guys,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:52,800",
-				"to": "00:09:53,800"
+				"from": "00:11:29,020",
+				"to": "00:11:32,140"
 			},
 			"offsets": {
-				"from": 592800,
-				"to": 593800
+				"from": 689020,
+				"to": 692140
 			},
-			"text": " I'm going to be a woman."
+			"text": " especially here, understand this octopus."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:53,800",
-				"to": "00:09:54,800"
+				"from": "00:11:32,140",
+				"to": "00:11:35,060"
 			},
 			"offsets": {
-				"from": 593800,
-				"to": 594800
+				"from": 692140,
+				"to": 695060
 			},
-			"text": " I'm going to be a woman."
+			"text": " So, the male has developed a unique solution,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:54,800",
-				"to": "00:09:55,800"
+				"from": "00:11:35,060",
+				"to": "00:11:38,660"
 			},
 			"offsets": {
-				"from": 594800,
-				"to": 595800
+				"from": 695060,
+				"to": 698660
 			},
-			"text": " I'm going to be a woman."
+			"text": " I need to explain this in my David Attenborough voice."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:55,800",
-				"to": "00:09:56,800"
+				"from": "00:11:38,660",
+				"to": "00:11:43,660"
 			},
 			"offsets": {
-				"from": 595800,
-				"to": 596800
+				"from": 698660,
+				"to": 703660
 			},
-			"text": " I'm going to be a woman."
+			"text": " When the male of a species spots a female,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:56,800",
-				"to": "00:09:57,800"
+				"from": "00:11:43,660",
+				"to": "00:11:48,700"
 			},
 			"offsets": {
-				"from": 596800,
-				"to": 597800
+				"from": 703660,
+				"to": 708700
 			},
-			"text": " I'm going to be a woman."
+			"text": " he detaches his penis, it swims through the water,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:57,800",
-				"to": "00:09:58,800"
+				"from": "00:11:48,700",
+				"to": "00:11:52,220"
 			},
 			"offsets": {
-				"from": 597800,
-				"to": 598800
+				"from": 708700,
+				"to": 712220
 			},
-			"text": " I'm going to be a woman."
+			"text": " and it hones in on her vagina."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:58,800",
-				"to": "00:09:59,800"
+				"from": "00:11:52,220",
+				"to": "00:11:56,100"
 			},
 			"offsets": {
-				"from": 598800,
-				"to": 599800
+				"from": 712220,
+				"to": 716100
 			},
-			"text": " I'm going to be a woman."
+			"text": " Oh, sorry, not your vagina, that was accidental."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:59,800",
-				"to": "00:10:00,800"
+				"from": "00:11:56,100",
+				"to": "00:11:58,140"
 			},
 			"offsets": {
-				"from": 599800,
-				"to": 600800
+				"from": 716100,
+				"to": 718140
 			},
-			"text": " I'm going to be a woman."
+			"text": " Yeah, shit, you know, Google this stuff,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:00,800",
-				"to": "00:10:01,800"
+				"from": "00:11:58,140",
+				"to": "00:12:01,620"
 			},
 			"offsets": {
-				"from": 600800,
-				"to": 601800
+				"from": 718140,
+				"to": 721620
 			},
-			"text": " I'm going to be a woman."
+			"text": " there is an octopus out there, I'll put it in layman's terms,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:01,800",
-				"to": "00:10:02,800"
+				"from": "00:12:01,620",
+				"to": "00:12:05,420"
 			},
 			"offsets": {
-				"from": 601800,
-				"to": 602800
+				"from": 721620,
+				"to": 725420
 			},
-			"text": " I'm going to be a woman."
+			"text": " it has a detachable, heat-seeking dick."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:02,800",
-				"to": "00:10:03,800"
+				"from": "00:12:05,420",
+				"to": "00:12:07,980"
 			},
 			"offsets": {
-				"from": 602800,
-				"to": 603800
+				"from": 725420,
+				"to": 727980
 			},
-			"text": " I'm going to be a woman."
+			"text": " This is the greatest,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:03,800",
-				"to": "00:10:04,800"
+				"from": "00:12:07,980",
+				"to": "00:12:11,220"
 			},
 			"offsets": {
-				"from": 603800,
-				"to": 604800
+				"from": 727980,
+				"to": 731220
 			},
-			"text": " I'm going to be a woman."
+			"text": " why are we not teaching kids in school about this?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:04,800",
-				"to": "00:10:05,800"
+				"from": "00:12:11,220",
+				"to": "00:12:13,380"
 			},
 			"offsets": {
-				"from": 604800,
-				"to": 605800
+				"from": 731220,
+				"to": 733380
 			},
-			"text": " I'm going to be a woman."
+			"text": " It is insanely brilliant."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:05,800",
-				"to": "00:10:06,800"
+				"from": "00:12:13,380",
+				"to": "00:12:15,740"
 			},
 			"offsets": {
-				"from": 605800,
-				"to": 606800
+				"from": 733380,
+				"to": 735740
 			},
-			"text": " I'm going to be a woman."
+			"text": " And what it made me realize, it just got me thinking,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:06,800",
-				"to": "00:10:07,800"
+				"from": "00:12:15,740",
+				"to": "00:12:18,700"
 			},
 			"offsets": {
-				"from": 606800,
-				"to": 607800
+				"from": 735740,
+				"to": 738700
 			},
-			"text": " I'm going to be a woman."
+			"text": " I was like, wow, why is it only octopuses?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:07,800",
-				"to": "00:10:08,800"
+				"from": "00:12:18,700",
+				"to": "00:12:23,540"
 			},
 			"offsets": {
-				"from": 607800,
-				"to": 608800
+				"from": 738700,
+				"to": 743540
 			},
-			"text": " I'm going to be a woman."
+			"text": " What if human beings had detachable dicks?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:08,800",
-				"to": "00:10:09,800"
+				"from": "00:12:23,540",
+				"to": "00:12:26,060"
 			},
 			"offsets": {
-				"from": 608800,
-				"to": 609800
+				"from": 743540,
+				"to": 746060
 			},
-			"text": " I'm going to be a woman."
+			"text": " That would be crazy, that would be insane."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:09,800",
-				"to": "00:10:10,800"
+				"from": "00:12:26,060",
+				"to": "00:12:30,140"
 			},
 			"offsets": {
-				"from": 609800,
-				"to": 610800
+				"from": 746060,
+				"to": 750140
 			},
-			"text": " I'm going to be a woman."
+			"text": " We probably have, like, dick-related sports, you know?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:18,800",
-				"to": "00:10:19,800"
+				"from": "00:12:30,140",
+				"to": "00:12:32,780"
 			},
 			"offsets": {
-				"from": 618800,
-				"to": 619800
+				"from": 750140,
+				"to": 752780
 			},
-			"text": " I'm going to be a woman."
+			"text": " You'd have, like, dick racing,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:19,800",
-				"to": "00:10:20,800"
+				"from": "00:12:32,780",
+				"to": "00:12:35,060"
 			},
 			"offsets": {
-				"from": 619800,
-				"to": 620800
+				"from": 752780,
+				"to": 755060
 			},
-			"text": " I'm going to be a woman."
+			"text": " you'd have, like, the dickathlon,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:20,800",
-				"to": "00:10:21,800"
+				"from": "00:12:35,060",
+				"to": "00:12:39,100"
 			},
 			"offsets": {
-				"from": 620800,
-				"to": 621800
+				"from": 755060,
+				"to": 759100
 			},
-			"text": " I'm going to be a woman."
+			"text": " Nike changes its slogan to just dick it,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:21,800",
-				"to": "00:10:22,800"
+				"from": "00:12:39,100",
+				"to": "00:12:44,180"
 			},
 			"offsets": {
-				"from": 621800,
-				"to": 622800
+				"from": 759100,
+				"to": 764180
 			},
-			"text": " I'm going to be a woman."
+			"text": " and you'd have a whole new set of dick-related problems,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:22,800",
-				"to": "00:10:23,800"
+				"from": "00:12:44,180",
+				"to": "00:12:47,820"
 			},
 			"offsets": {
-				"from": 622800,
-				"to": 623800
+				"from": 764180,
+				"to": 767820
 			},
-			"text": " I'm going to be a woman."
+			"text": " like, what if you lost your dick?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:23,800",
-				"to": "00:10:24,800"
+				"from": "00:12:47,820",
+				"to": "00:12:49,300"
 			},
 			"offsets": {
-				"from": 623800,
-				"to": 624800
+				"from": 767820,
+				"to": 769300
 			},
-			"text": " I'm going to be a woman."
+			"text": " My God, that would be insane,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:24,800",
-				"to": "00:10:25,800"
+				"from": "00:12:49,300",
+				"to": "00:12:51,420"
 			},
 			"offsets": {
-				"from": 624800,
-				"to": 625800
+				"from": 769300,
+				"to": 771420
 			},
-			"text": " I'm going to be a woman."
+			"text": " you just gotta hope you don't have on your phone,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:25,800",
-				"to": "00:10:26,800"
+				"from": "00:12:51,420",
+				"to": "00:12:53,340"
 			},
 			"offsets": {
-				"from": 625800,
-				"to": 626800
+				"from": 771420,
+				"to": 773340
 			},
-			"text": " I'm going to be a woman."
+			"text": " like, find my penis."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:26,800",
-				"to": "00:10:27,800"
+				"from": "00:12:53,340",
+				"to": "00:12:55,300"
 			},
 			"offsets": {
-				"from": 626800,
-				"to": 627800
+				"from": 773340,
+				"to": 775300
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Dick insurance."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:27,800",
-				"to": "00:10:28,800"
+				"from": "00:12:55,300",
+				"to": "00:12:58,420"
 			},
 			"offsets": {
-				"from": 627800,
-				"to": 628800
+				"from": 775300,
+				"to": 778420
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Dick insurance, good, but do you work in insurance?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:28,800",
-				"to": "00:10:29,800"
+				"from": "00:12:58,420",
+				"to": "00:13:01,300"
 			},
 			"offsets": {
-				"from": 628800,
-				"to": 629800
+				"from": 778420,
+				"to": 781300
 			},
-			"text": " I'm going to be a woman."
+			"text": " He's immediately spotted an opportunity."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:29,800",
-				"to": "00:10:30,800"
+				"from": "00:13:01,300",
+				"to": "00:13:04,860"
 			},
 			"offsets": {
-				"from": 629800,
-				"to": 630800
+				"from": 781300,
+				"to": 784860
 			},
-			"text": " I'm going to be a woman."
+			"text": " Very, I like the entrepreneurial level here."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:30,800",
-				"to": "00:10:31,800"
+				"from": "00:13:04,860",
+				"to": "00:13:07,260"
 			},
 			"offsets": {
-				"from": 630800,
-				"to": 631800
+				"from": 784860,
+				"to": 787260
 			},
-			"text": " I'm going to be a woman."
+			"text": " Could you borrow your friend's dick?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:31,800",
-				"to": "00:10:32,800"
+				"from": "00:13:07,260",
+				"to": "00:13:08,100"
 			},
 			"offsets": {
-				"from": 631800,
-				"to": 632800
+				"from": 787260,
+				"to": 788100
 			},
-			"text": " I'm going to be a woman."
+			"text": " You know, he'd be like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:32,800",
-				"to": "00:10:33,800"
+				"from": "00:13:08,100",
+				"to": "00:13:10,420"
 			},
 			"offsets": {
-				"from": 632800,
-				"to": 633800
+				"from": 788100,
+				"to": 790420
 			},
-			"text": " I'm going to be a woman."
+			"text": " I wasn't cheating, it was his dick."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:33,800",
-				"to": "00:10:34,800"
+				"from": "00:13:10,420",
+				"to": "00:13:11,740"
 			},
 			"offsets": {
-				"from": 633800,
-				"to": 634800
+				"from": 790420,
+				"to": 791740
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:34,800",
-				"to": "00:10:35,800"
+				"from": "00:13:11,740",
+				"to": "00:13:13,380"
 			},
 			"offsets": {
-				"from": 634800,
-				"to": 635800
+				"from": 791740,
+				"to": 793380
 			},
-			"text": " I'm going to be a woman."
+			"text": " Yeah, I don't know, it's a lot of things."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:35,800",
-				"to": "00:10:36,800"
+				"from": "00:13:13,380",
+				"to": "00:13:16,180"
 			},
 			"offsets": {
-				"from": 635800,
-				"to": 636800
+				"from": 793380,
+				"to": 796180
 			},
-			"text": " I'm going to be a woman."
+			"text": " And the more I thought about it, the more crazy it gets,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:36,800",
-				"to": "00:10:37,800"
+				"from": "00:13:16,180",
+				"to": "00:13:18,860"
 			},
 			"offsets": {
-				"from": 636800,
-				"to": 637800
+				"from": 796180,
+				"to": 798860
 			},
-			"text": " I'm going to be a woman."
+			"text": " and, you know, Stephanie was like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:37,800",
-				"to": "00:10:38,800"
+				"from": "00:13:18,860",
+				"to": "00:13:21,900"
 			},
 			"offsets": {
-				"from": 637800,
-				"to": 638800
+				"from": 798860,
+				"to": 801900
 			},
-			"text": " I'm going to be a woman."
+			"text": " can I use you again for another example joke?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:38,800",
-				"to": "00:10:39,800"
+				"from": "00:13:22,980",
+				"to": "00:13:25,700"
 			},
 			"offsets": {
-				"from": 638800,
-				"to": 639800
+				"from": 802980,
+				"to": 805700
 			},
-			"text": " I'm going to be a woman."
+			"text": " What would you do as a professional, Stephanie?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:39,800",
-				"to": "00:10:40,800"
+				"from": "00:13:25,700",
+				"to": "00:13:26,900"
 			},
 			"offsets": {
-				"from": 639800,
-				"to": 640800
+				"from": 805700,
+				"to": 806900
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Event coordinator."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:48,800",
-				"to": "00:10:49,800"
+				"from": "00:13:26,900",
+				"to": "00:13:27,740"
 			},
 			"offsets": {
-				"from": 648800,
-				"to": 649800
+				"from": 806900,
+				"to": 807740
 			},
-			"text": " I'm going to be a woman."
+			"text": " - You, I'm sorry?"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:49,800",
-				"to": "00:10:50,800"
+				"from": "00:13:27,740",
+				"to": "00:13:28,820"
 			},
 			"offsets": {
-				"from": 649800,
-				"to": 650800
+				"from": 807740,
+				"to": 808820
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Event coordinator."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:50,800",
-				"to": "00:10:51,800"
+				"from": "00:13:28,820",
+				"to": "00:13:30,940"
 			},
 			"offsets": {
-				"from": 650800,
-				"to": 651800
+				"from": 808820,
+				"to": 810940
 			},
-			"text": " I'm going to be a woman."
+			"text": " - Event coordinator, very nice."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:51,800",
-				"to": "00:10:52,800"
+				"from": "00:13:30,940",
+				"to": "00:13:33,020"
 			},
 			"offsets": {
-				"from": 651800,
-				"to": 652800
+				"from": 810940,
+				"to": 813020
 			},
-			"text": " I'm going to be a woman."
+			"text": " So imagine, it's Monday morning,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:52,800",
-				"to": "00:10:53,800"
+				"from": "00:13:33,020",
+				"to": "00:13:35,420"
 			},
 			"offsets": {
-				"from": 652800,
-				"to": 653800
+				"from": 813020,
+				"to": 815420
 			},
-			"text": " I'm going to be a woman."
+			"text": " you've got Stephanie, she's at the tram stop,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:53,800",
-				"to": "00:10:54,800"
+				"from": "00:13:35,420",
+				"to": "00:13:37,060"
 			},
 			"offsets": {
-				"from": 653800,
-				"to": 654800
+				"from": 815420,
+				"to": 817060
 			},
-			"text": " I'm going to be a woman."
+			"text": " she's on her phone just trying to,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:54,800",
-				"to": "00:10:55,800"
+				"from": "00:13:37,060",
+				"to": "00:13:39,580"
 			},
 			"offsets": {
-				"from": 654800,
-				"to": 655800
+				"from": 817060,
+				"to": 819580
 			},
-			"text": " I'm going to be a woman."
+			"text": " in the calendar, coordinating events,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:55,800",
-				"to": "00:10:56,800"
+				"from": "00:13:39,580",
+				"to": "00:13:41,540"
 			},
 			"offsets": {
-				"from": 655800,
-				"to": 656800
+				"from": 819580,
+				"to": 821540
 			},
-			"text": " I'm going to be a woman."
+			"text": " and she's, like, just kind of oblivious"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:56,800",
-				"to": "00:10:57,800"
+				"from": "00:13:41,540",
+				"to": "00:13:44,380"
 			},
 			"offsets": {
-				"from": 656800,
-				"to": 657800
+				"from": 821540,
+				"to": 824380
 			},
-			"text": " I'm going to be a woman."
+			"text": " to the world around her, and suddenly, bam!"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:57,800",
-				"to": "00:10:58,800"
+				"from": "00:13:44,380",
+				"to": "00:13:47,580"
 			},
 			"offsets": {
-				"from": 657800,
-				"to": 658800
+				"from": 824380,
+				"to": 827580
 			},
-			"text": " I'm going to be a woman."
+			"text": " This dick just slaps her in the face!"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:58,800",
-				"to": "00:10:59,800"
+				"from": "00:13:47,580",
+				"to": "00:13:48,780"
 			},
 			"offsets": {
-				"from": 658800,
-				"to": 659800
+				"from": 827580,
+				"to": 828780
 			},
-			"text": " I'm going to be a woman."
+			"text": " She's like, oh, fuck!"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:59,800",
-				"to": "00:11:00,800"
+				"from": "00:13:48,780",
+				"to": "00:13:51,860"
 			},
 			"offsets": {
-				"from": 659800,
-				"to": 660800
+				"from": 828780,
+				"to": 831860
 			},
-			"text": " I'm going to be a woman."
+			"text": " She hides behind some old lady just to throw it off,"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:00,800",
-				"to": "00:11:01,800"
+				"from": "00:13:51,860",
+				"to": "00:13:54,660"
 			},
 			"offsets": {
-				"from": 660800,
-				"to": 661800
+				"from": 831860,
+				"to": 834660
 			},
-			"text": " I'm going to be a woman."
+			"text": " she gets down, she pulls out her dick shield"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:01,800",
-				"to": "00:11:02,800"
+				"from": "00:13:54,660",
+				"to": "00:13:58,260"
 			},
 			"offsets": {
-				"from": 661800,
-				"to": 662800
+				"from": 834660,
+				"to": 838260
 			},
-			"text": " I'm going to be a woman."
+			"text": " like Captain America, dicks are just flying all around,"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:02,800",
-				"to": "00:11:03,800"
+				"from": "00:13:58,260",
+				"to": "00:14:00,260"
 			},
 			"offsets": {
-				"from": 662800,
-				"to": 663800
+				"from": 838260,
+				"to": 840260
 			},
-			"text": " I'm going to be a woman."
+			"text": " hitting the shield, boom, boom, boom."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:03,800",
-				"to": "00:11:04,800"
+				"from": "00:14:00,260",
+				"to": "00:14:02,420"
 			},
 			"offsets": {
-				"from": 663800,
-				"to": 664800
+				"from": 840260,
+				"to": 842420
 			},
-			"text": " I'm going to be a woman."
+			"text": " She's like, oh, fuck, the tram arrives,"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:04,800",
-				"to": "00:11:05,800"
+				"from": "00:14:02,420",
+				"to": "00:14:04,860"
 			},
 			"offsets": {
-				"from": 664800,
-				"to": 665800
+				"from": 842420,
+				"to": 844860
 			},
-			"text": " I'm going to be a woman."
+			"text": " she jumps in, she arrives at work,"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:05,800",
-				"to": "00:11:06,800"
+				"from": "00:14:04,860",
+				"to": "00:14:06,620"
 			},
 			"offsets": {
-				"from": 665800,
-				"to": 666800
+				"from": 844860,
+				"to": 846620
 			},
-			"text": " I'm going to be a woman."
+			"text": " and luckily, there's a sign saying,"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:06,800",
-				"to": "00:11:07,800"
+				"from": "00:14:06,620",
+				"to": "00:14:09,540"
 			},
 			"offsets": {
-				"from": 666800,
-				"to": 667800
+				"from": 846620,
+				"to": 849540
 			},
-			"text": " I'm going to be a woman."
+			"text": " please keep your penis attached during office hours."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:07,800",
-				"to": "00:11:08,800"
+				"from": "00:14:09,540",
+				"to": "00:14:12,780"
 			},
 			"offsets": {
-				"from": 667800,
-				"to": 668800
+				"from": 849540,
+				"to": 852780
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:08,800",
-				"to": "00:11:09,800"
+				"from": "00:14:12,780",
+				"to": "00:14:14,980"
 			},
 			"offsets": {
-				"from": 668800,
-				"to": 669800
+				"from": 852780,
+				"to": 854980
 			},
-			"text": " I'm going to be a woman."
+			"text": " Moral of the story, would you like a moral"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:09,800",
-				"to": "00:11:10,800"
+				"from": "00:14:14,980",
+				"to": "00:14:16,860"
 			},
 			"offsets": {
-				"from": 669800,
-				"to": 670800
+				"from": 854980,
+				"to": 856860
 			},
-			"text": " I'm going to be a woman."
+			"text": " just to wrap this up?"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:18,800",
-				"to": "00:11:19,800"
+				"from": "00:14:16,860",
+				"to": "00:14:18,820"
 			},
 			"offsets": {
-				"from": 678800,
-				"to": 679800
+				"from": 856860,
+				"to": 858820
 			},
-			"text": " I'm going to be a woman."
+			"text": " So the moral is that even though we live"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:19,800",
-				"to": "00:11:20,800"
+				"from": "00:14:18,820",
+				"to": "00:14:21,980"
 			},
 			"offsets": {
-				"from": 679800,
-				"to": 680800
+				"from": 858820,
+				"to": 861980
 			},
-			"text": " I'm going to be a woman."
+			"text": " in these strange times of COVID and Donald Trump"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:20,800",
-				"to": "00:11:21,800"
+				"from": "00:14:21,980",
+				"to": "00:14:25,740"
 			},
 			"offsets": {
-				"from": 680800,
-				"to": 681800
+				"from": 861980,
+				"to": 865740
 			},
-			"text": " I'm going to be a woman."
+			"text": " and environmental meltdown, look on the bright side."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:21,800",
-				"to": "00:11:22,800"
+				"from": "00:14:25,740",
+				"to": "00:14:27,900"
 			},
 			"offsets": {
-				"from": 681800,
-				"to": 682800
+				"from": 865740,
+				"to": 867900
 			},
-			"text": " I'm going to be a woman."
+			"text": " At least you're not being chased down the street"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:22,800",
-				"to": "00:11:23,800"
+				"from": "00:14:27,900",
+				"to": "00:14:29,580"
 			},
 			"offsets": {
-				"from": 682800,
-				"to": 683800
+				"from": 867900,
+				"to": 869580
 			},
-			"text": " I'm going to be a woman."
+			"text": " by a flying penis."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:23,800",
-				"to": "00:11:24,800"
+				"from": "00:14:29,580",
+				"to": "00:14:30,860"
 			},
 			"offsets": {
-				"from": 683800,
-				"to": 684800
+				"from": 869580,
+				"to": 870860
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:24,800",
-				"to": "00:11:25,800"
+				"from": "00:14:30,860",
+				"to": "00:14:33,780"
 			},
 			"offsets": {
-				"from": 684800,
-				"to": 685800
+				"from": 870860,
+				"to": 873780
 			},
-			"text": " I'm going to be a woman."
+			"text": " All right, it's a happy ending for the show."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:25,800",
-				"to": "00:11:26,800"
+				"from": "00:14:33,780",
+				"to": "00:14:35,300"
 			},
 			"offsets": {
-				"from": 685800,
-				"to": 686800
+				"from": 873780,
+				"to": 875300
 			},
-			"text": " I'm going to be a woman."
+			"text": " Thanks a lot, guys."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:26,800",
-				"to": "00:11:27,800"
+				"from": "00:14:35,300",
+				"to": "00:14:38,780"
 			},
 			"offsets": {
-				"from": 686800,
-				"to": 687800
+				"from": 875300,
+				"to": 878780
 			},
-			"text": " I'm going to be a woman."
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:27,800",
-				"to": "00:11:28,800"
+				"from": "00:14:38,780",
+				"to": "00:14:41,700"
 			},
 			"offsets": {
-				"from": 687800,
-				"to": 688800
+				"from": 878780,
+				"to": 881700
 			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:28,800",
-				"to": "00:11:29,800"
-			},
-			"offsets": {
-				"from": 688800,
-				"to": 689800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:29,800",
-				"to": "00:11:30,800"
-			},
-			"offsets": {
-				"from": 689800,
-				"to": 690800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:30,800",
-				"to": "00:11:31,800"
-			},
-			"offsets": {
-				"from": 690800,
-				"to": 691800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:31,800",
-				"to": "00:11:32,800"
-			},
-			"offsets": {
-				"from": 691800,
-				"to": 692800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:32,800",
-				"to": "00:11:33,800"
-			},
-			"offsets": {
-				"from": 692800,
-				"to": 693800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:33,800",
-				"to": "00:11:34,800"
-			},
-			"offsets": {
-				"from": 693800,
-				"to": 694800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:34,800",
-				"to": "00:11:35,800"
-			},
-			"offsets": {
-				"from": 694800,
-				"to": 695800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:35,800",
-				"to": "00:11:36,800"
-			},
-			"offsets": {
-				"from": 695800,
-				"to": 696800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:36,800",
-				"to": "00:11:37,800"
-			},
-			"offsets": {
-				"from": 696800,
-				"to": 697800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:37,800",
-				"to": "00:11:38,800"
-			},
-			"offsets": {
-				"from": 697800,
-				"to": 698800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:38,800",
-				"to": "00:11:39,800"
-			},
-			"offsets": {
-				"from": 698800,
-				"to": 699800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:39,800",
-				"to": "00:11:40,800"
-			},
-			"offsets": {
-				"from": 699800,
-				"to": 700800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:48,800",
-				"to": "00:11:49,800"
-			},
-			"offsets": {
-				"from": 708800,
-				"to": 709800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:49,800",
-				"to": "00:11:50,800"
-			},
-			"offsets": {
-				"from": 709800,
-				"to": 710800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:50,800",
-				"to": "00:11:51,800"
-			},
-			"offsets": {
-				"from": 710800,
-				"to": 711800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:51,800",
-				"to": "00:11:52,800"
-			},
-			"offsets": {
-				"from": 711800,
-				"to": 712800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:52,800",
-				"to": "00:11:53,800"
-			},
-			"offsets": {
-				"from": 712800,
-				"to": 713800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:53,800",
-				"to": "00:11:54,800"
-			},
-			"offsets": {
-				"from": 713800,
-				"to": 714800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:54,800",
-				"to": "00:11:55,800"
-			},
-			"offsets": {
-				"from": 714800,
-				"to": 715800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:55,800",
-				"to": "00:11:56,800"
-			},
-			"offsets": {
-				"from": 715800,
-				"to": 716800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:56,800",
-				"to": "00:11:57,800"
-			},
-			"offsets": {
-				"from": 716800,
-				"to": 717800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:57,800",
-				"to": "00:11:58,800"
-			},
-			"offsets": {
-				"from": 717800,
-				"to": 718800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:58,800",
-				"to": "00:11:59,800"
-			},
-			"offsets": {
-				"from": 718800,
-				"to": 719800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:11:59,800",
-				"to": "00:12:00,800"
-			},
-			"offsets": {
-				"from": 719800,
-				"to": 720800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:00,800",
-				"to": "00:12:01,800"
-			},
-			"offsets": {
-				"from": 720800,
-				"to": 721800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:01,800",
-				"to": "00:12:02,800"
-			},
-			"offsets": {
-				"from": 721800,
-				"to": 722800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:02,800",
-				"to": "00:12:03,800"
-			},
-			"offsets": {
-				"from": 722800,
-				"to": 723800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:03,800",
-				"to": "00:12:04,800"
-			},
-			"offsets": {
-				"from": 723800,
-				"to": 724800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:04,800",
-				"to": "00:12:05,800"
-			},
-			"offsets": {
-				"from": 724800,
-				"to": 725800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:05,800",
-				"to": "00:12:06,800"
-			},
-			"offsets": {
-				"from": 725800,
-				"to": 726800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:06,800",
-				"to": "00:12:07,800"
-			},
-			"offsets": {
-				"from": 726800,
-				"to": 727800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:07,800",
-				"to": "00:12:08,800"
-			},
-			"offsets": {
-				"from": 727800,
-				"to": 728800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:08,800",
-				"to": "00:12:09,800"
-			},
-			"offsets": {
-				"from": 728800,
-				"to": 729800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:09,800",
-				"to": "00:12:10,800"
-			},
-			"offsets": {
-				"from": 729800,
-				"to": 730800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:18,800",
-				"to": "00:12:19,800"
-			},
-			"offsets": {
-				"from": 738800,
-				"to": 739800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:19,800",
-				"to": "00:12:20,800"
-			},
-			"offsets": {
-				"from": 739800,
-				"to": 740800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:20,800",
-				"to": "00:12:21,800"
-			},
-			"offsets": {
-				"from": 740800,
-				"to": 741800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:21,800",
-				"to": "00:12:22,800"
-			},
-			"offsets": {
-				"from": 741800,
-				"to": 742800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:22,800",
-				"to": "00:12:23,800"
-			},
-			"offsets": {
-				"from": 742800,
-				"to": 743800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:23,800",
-				"to": "00:12:24,800"
-			},
-			"offsets": {
-				"from": 743800,
-				"to": 744800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:24,800",
-				"to": "00:12:25,800"
-			},
-			"offsets": {
-				"from": 744800,
-				"to": 745800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:25,800",
-				"to": "00:12:26,800"
-			},
-			"offsets": {
-				"from": 745800,
-				"to": 746800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:26,800",
-				"to": "00:12:27,800"
-			},
-			"offsets": {
-				"from": 746800,
-				"to": 747800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:27,800",
-				"to": "00:12:28,800"
-			},
-			"offsets": {
-				"from": 747800,
-				"to": 748800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:28,800",
-				"to": "00:12:29,800"
-			},
-			"offsets": {
-				"from": 748800,
-				"to": 749800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:29,800",
-				"to": "00:12:30,800"
-			},
-			"offsets": {
-				"from": 749800,
-				"to": 750800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:30,800",
-				"to": "00:12:31,800"
-			},
-			"offsets": {
-				"from": 750800,
-				"to": 751800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:31,800",
-				"to": "00:12:32,800"
-			},
-			"offsets": {
-				"from": 751800,
-				"to": 752800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:32,800",
-				"to": "00:12:33,800"
-			},
-			"offsets": {
-				"from": 752800,
-				"to": 753800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:33,800",
-				"to": "00:12:34,800"
-			},
-			"offsets": {
-				"from": 753800,
-				"to": 754800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:34,800",
-				"to": "00:12:35,800"
-			},
-			"offsets": {
-				"from": 754800,
-				"to": 755800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:35,800",
-				"to": "00:12:36,800"
-			},
-			"offsets": {
-				"from": 755800,
-				"to": 756800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:36,800",
-				"to": "00:12:37,800"
-			},
-			"offsets": {
-				"from": 756800,
-				"to": 757800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:37,800",
-				"to": "00:12:38,800"
-			},
-			"offsets": {
-				"from": 757800,
-				"to": 758800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:38,800",
-				"to": "00:12:39,800"
-			},
-			"offsets": {
-				"from": 758800,
-				"to": 759800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:39,800",
-				"to": "00:12:40,800"
-			},
-			"offsets": {
-				"from": 759800,
-				"to": 760800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:48,800",
-				"to": "00:12:49,800"
-			},
-			"offsets": {
-				"from": 768800,
-				"to": 769800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:49,800",
-				"to": "00:12:50,800"
-			},
-			"offsets": {
-				"from": 769800,
-				"to": 770800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:50,800",
-				"to": "00:12:51,800"
-			},
-			"offsets": {
-				"from": 770800,
-				"to": 771800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:51,800",
-				"to": "00:12:52,800"
-			},
-			"offsets": {
-				"from": 771800,
-				"to": 772800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:52,800",
-				"to": "00:12:53,800"
-			},
-			"offsets": {
-				"from": 772800,
-				"to": 773800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:53,800",
-				"to": "00:12:54,800"
-			},
-			"offsets": {
-				"from": 773800,
-				"to": 774800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:54,800",
-				"to": "00:12:55,800"
-			},
-			"offsets": {
-				"from": 774800,
-				"to": 775800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:55,800",
-				"to": "00:12:56,800"
-			},
-			"offsets": {
-				"from": 775800,
-				"to": 776800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:56,800",
-				"to": "00:12:57,800"
-			},
-			"offsets": {
-				"from": 776800,
-				"to": 777800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:57,800",
-				"to": "00:12:58,800"
-			},
-			"offsets": {
-				"from": 777800,
-				"to": 778800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:58,800",
-				"to": "00:12:59,800"
-			},
-			"offsets": {
-				"from": 778800,
-				"to": 779800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:12:59,800",
-				"to": "00:13:00,800"
-			},
-			"offsets": {
-				"from": 779800,
-				"to": 780800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:00,800",
-				"to": "00:13:01,800"
-			},
-			"offsets": {
-				"from": 780800,
-				"to": 781800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:01,800",
-				"to": "00:13:02,800"
-			},
-			"offsets": {
-				"from": 781800,
-				"to": 782800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:02,800",
-				"to": "00:13:03,800"
-			},
-			"offsets": {
-				"from": 782800,
-				"to": 783800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:03,800",
-				"to": "00:13:04,800"
-			},
-			"offsets": {
-				"from": 783800,
-				"to": 784800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:04,800",
-				"to": "00:13:05,800"
-			},
-			"offsets": {
-				"from": 784800,
-				"to": 785800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:05,800",
-				"to": "00:13:06,800"
-			},
-			"offsets": {
-				"from": 785800,
-				"to": 786800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:06,800",
-				"to": "00:13:07,800"
-			},
-			"offsets": {
-				"from": 786800,
-				"to": 787800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:07,800",
-				"to": "00:13:08,800"
-			},
-			"offsets": {
-				"from": 787800,
-				"to": 788800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:08,800",
-				"to": "00:13:09,800"
-			},
-			"offsets": {
-				"from": 788800,
-				"to": 789800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:09,800",
-				"to": "00:13:10,800"
-			},
-			"offsets": {
-				"from": 789800,
-				"to": 790800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:18,800",
-				"to": "00:13:19,800"
-			},
-			"offsets": {
-				"from": 798800,
-				"to": 799800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:19,800",
-				"to": "00:13:20,800"
-			},
-			"offsets": {
-				"from": 799800,
-				"to": 800800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:20,800",
-				"to": "00:13:21,800"
-			},
-			"offsets": {
-				"from": 800800,
-				"to": 801800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:21,800",
-				"to": "00:13:22,800"
-			},
-			"offsets": {
-				"from": 801800,
-				"to": 802800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:22,800",
-				"to": "00:13:23,800"
-			},
-			"offsets": {
-				"from": 802800,
-				"to": 803800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:23,800",
-				"to": "00:13:24,800"
-			},
-			"offsets": {
-				"from": 803800,
-				"to": 804800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:24,800",
-				"to": "00:13:25,800"
-			},
-			"offsets": {
-				"from": 804800,
-				"to": 805800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:25,800",
-				"to": "00:13:26,800"
-			},
-			"offsets": {
-				"from": 805800,
-				"to": 806800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:26,800",
-				"to": "00:13:27,800"
-			},
-			"offsets": {
-				"from": 806800,
-				"to": 807800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:27,800",
-				"to": "00:13:28,800"
-			},
-			"offsets": {
-				"from": 807800,
-				"to": 808800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:28,800",
-				"to": "00:13:29,800"
-			},
-			"offsets": {
-				"from": 808800,
-				"to": 809800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:29,800",
-				"to": "00:13:30,800"
-			},
-			"offsets": {
-				"from": 809800,
-				"to": 810800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:30,800",
-				"to": "00:13:31,800"
-			},
-			"offsets": {
-				"from": 810800,
-				"to": 811800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:31,800",
-				"to": "00:13:32,800"
-			},
-			"offsets": {
-				"from": 811800,
-				"to": 812800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:32,800",
-				"to": "00:13:33,800"
-			},
-			"offsets": {
-				"from": 812800,
-				"to": 813800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:33,800",
-				"to": "00:13:34,800"
-			},
-			"offsets": {
-				"from": 813800,
-				"to": 814800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:34,800",
-				"to": "00:13:35,800"
-			},
-			"offsets": {
-				"from": 814800,
-				"to": 815800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:35,800",
-				"to": "00:13:36,800"
-			},
-			"offsets": {
-				"from": 815800,
-				"to": 816800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:36,800",
-				"to": "00:13:37,800"
-			},
-			"offsets": {
-				"from": 816800,
-				"to": 817800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:37,800",
-				"to": "00:13:38,800"
-			},
-			"offsets": {
-				"from": 817800,
-				"to": 818800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:38,800",
-				"to": "00:13:39,800"
-			},
-			"offsets": {
-				"from": 818800,
-				"to": 819800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:39,800",
-				"to": "00:13:40,800"
-			},
-			"offsets": {
-				"from": 819800,
-				"to": 820800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:48,800",
-				"to": "00:13:49,800"
-			},
-			"offsets": {
-				"from": 828800,
-				"to": 829800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:49,800",
-				"to": "00:13:50,800"
-			},
-			"offsets": {
-				"from": 829800,
-				"to": 830800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:50,800",
-				"to": "00:13:51,800"
-			},
-			"offsets": {
-				"from": 830800,
-				"to": 831800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:51,800",
-				"to": "00:13:52,800"
-			},
-			"offsets": {
-				"from": 831800,
-				"to": 832800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:52,800",
-				"to": "00:13:53,800"
-			},
-			"offsets": {
-				"from": 832800,
-				"to": 833800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:53,800",
-				"to": "00:13:54,800"
-			},
-			"offsets": {
-				"from": 833800,
-				"to": 834800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:54,800",
-				"to": "00:13:55,800"
-			},
-			"offsets": {
-				"from": 834800,
-				"to": 835800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:55,800",
-				"to": "00:13:56,800"
-			},
-			"offsets": {
-				"from": 835800,
-				"to": 836800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:56,800",
-				"to": "00:13:57,800"
-			},
-			"offsets": {
-				"from": 836800,
-				"to": 837800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:57,800",
-				"to": "00:13:58,800"
-			},
-			"offsets": {
-				"from": 837800,
-				"to": 838800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:58,800",
-				"to": "00:13:59,800"
-			},
-			"offsets": {
-				"from": 838800,
-				"to": 839800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:13:59,800",
-				"to": "00:14:00,800"
-			},
-			"offsets": {
-				"from": 839800,
-				"to": 840800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:00,800",
-				"to": "00:14:01,800"
-			},
-			"offsets": {
-				"from": 840800,
-				"to": 841800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:01,800",
-				"to": "00:14:02,800"
-			},
-			"offsets": {
-				"from": 841800,
-				"to": 842800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:02,800",
-				"to": "00:14:03,800"
-			},
-			"offsets": {
-				"from": 842800,
-				"to": 843800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:03,800",
-				"to": "00:14:04,800"
-			},
-			"offsets": {
-				"from": 843800,
-				"to": 844800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:04,800",
-				"to": "00:14:05,800"
-			},
-			"offsets": {
-				"from": 844800,
-				"to": 845800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:05,800",
-				"to": "00:14:06,800"
-			},
-			"offsets": {
-				"from": 845800,
-				"to": 846800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:06,800",
-				"to": "00:14:07,800"
-			},
-			"offsets": {
-				"from": 846800,
-				"to": 847800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:07,800",
-				"to": "00:14:08,800"
-			},
-			"offsets": {
-				"from": 847800,
-				"to": 848800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:08,800",
-				"to": "00:14:09,800"
-			},
-			"offsets": {
-				"from": 848800,
-				"to": 849800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:09,800",
-				"to": "00:14:10,800"
-			},
-			"offsets": {
-				"from": 849800,
-				"to": 850800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:18,800",
-				"to": "00:14:19,800"
-			},
-			"offsets": {
-				"from": 858800,
-				"to": 859800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:19,800",
-				"to": "00:14:20,800"
-			},
-			"offsets": {
-				"from": 859800,
-				"to": 860800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:20,800",
-				"to": "00:14:21,800"
-			},
-			"offsets": {
-				"from": 860800,
-				"to": 861800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:21,800",
-				"to": "00:14:22,800"
-			},
-			"offsets": {
-				"from": 861800,
-				"to": 862800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:22,800",
-				"to": "00:14:23,800"
-			},
-			"offsets": {
-				"from": 862800,
-				"to": 863800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:23,800",
-				"to": "00:14:24,800"
-			},
-			"offsets": {
-				"from": 863800,
-				"to": 864800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:24,800",
-				"to": "00:14:25,800"
-			},
-			"offsets": {
-				"from": 864800,
-				"to": 865800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:25,800",
-				"to": "00:14:26,800"
-			},
-			"offsets": {
-				"from": 865800,
-				"to": 866800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:26,800",
-				"to": "00:14:27,800"
-			},
-			"offsets": {
-				"from": 866800,
-				"to": 867800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:27,800",
-				"to": "00:14:28,800"
-			},
-			"offsets": {
-				"from": 867800,
-				"to": 868800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:28,800",
-				"to": "00:14:29,800"
-			},
-			"offsets": {
-				"from": 868800,
-				"to": 869800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:29,800",
-				"to": "00:14:30,800"
-			},
-			"offsets": {
-				"from": 869800,
-				"to": 870800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:30,800",
-				"to": "00:14:31,800"
-			},
-			"offsets": {
-				"from": 870800,
-				"to": 871800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:31,800",
-				"to": "00:14:32,800"
-			},
-			"offsets": {
-				"from": 871800,
-				"to": 872800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:32,800",
-				"to": "00:14:33,800"
-			},
-			"offsets": {
-				"from": 872800,
-				"to": 873800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:33,800",
-				"to": "00:14:34,800"
-			},
-			"offsets": {
-				"from": 873800,
-				"to": 874800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:34,800",
-				"to": "00:14:35,800"
-			},
-			"offsets": {
-				"from": 874800,
-				"to": 875800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:35,800",
-				"to": "00:14:36,800"
-			},
-			"offsets": {
-				"from": 875800,
-				"to": 876800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:36,800",
-				"to": "00:14:37,800"
-			},
-			"offsets": {
-				"from": 876800,
-				"to": 877800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:37,800",
-				"to": "00:14:38,800"
-			},
-			"offsets": {
-				"from": 877800,
-				"to": 878800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:38,800",
-				"to": "00:14:39,800"
-			},
-			"offsets": {
-				"from": 878800,
-				"to": 879800
-			},
-			"text": " I'm going to be a woman."
-		},
-		{
-			"timestamps": {
-				"from": "00:14:39,800",
-				"to": "00:14:40,800"
-			},
-			"offsets": {
-				"from": 879800,
-				"to": 880800
-			},
-			"text": " I'm going to be a woman."
+			"text": " Okay, well, this was a great show."
 		}
 	]
 }

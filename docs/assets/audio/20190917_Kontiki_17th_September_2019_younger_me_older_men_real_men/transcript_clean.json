@@ -2,260 +2,242 @@
     {
         "type": "text",
         "start": 0.0,
-        "end": 0.76,
-        "text": "He's a continent."
+        "end": 2.0,
+        "text": "He's a continent!"
     },
     {
         "type": "text",
-        "start": 0.76,
-        "end": 4.36,
+        "start": 2.0,
+        "end": 5.0,
         "text": "He knew that already."
     },
     {
         "type": "text",
-        "start": 4.36,
-        "end": 7.98,
+        "start": 5.0,
+        "end": 8.0,
         "text": "Ladies and gentlemen, let's bring up the next comedian of tonight."
     },
     {
         "type": "text",
-        "start": 7.98,
-        "end": 9.88,
+        "start": 8.0,
+        "end": 10.0,
         "text": "Ben, you'll like him. He's from the UK."
     },
     {
         "type": "text",
-        "start": 9.88,
-        "end": 13.22,
-        "text": "Ladies and gentlemen, give it up, Harry Fox, everybody!"
+        "start": 10.0,
+        "end": 12.0,
+        "text": "Ladies and gentlemen, give it up!"
     },
     {
         "type": "text",
-        "start": 30.0,
-        "end": 31.7,
+        "start": 12.0,
+        "end": 14.0,
+        "text": "Harry Fox, everybody!"
+    },
+    {
+        "type": "text",
+        "start": 31.0,
+        "end": 33.0,
         "text": "Fuck this shit."
     },
     {
         "type": "text",
-        "start": 31.7,
-        "end": 36.02,
-        "text": "Sir, would you kindly solve your drinking problem?"
+        "start": 33.0,
+        "end": 37.0,
+        "text": "Sir, would you kindly solve your drinking problem, please?"
     },
     {
         "type": "text",
-        "start": 36.02,
-        "end": 39.52,
+        "start": 37.0,
+        "end": 40.0,
         "text": "I'm about to reveal things about myself."
     },
     {
         "type": "text",
-        "start": 39.52,
-        "end": 43.84,
+        "start": 40.0,
+        "end": 44.0,
         "text": "So, you know, I'm in my mid-forties."
     },
     {
         "type": "text",
-        "start": 43.84,
-        "end": 47.6,
-        "text": "Which means I'm more than half dead."
+        "start": 44.0,
+        "end": 48.0,
+        "text": "Which means I'm more than half-dead."
     },
     {
         "type": "text",
-        "start": 47.6,
-        "end": 54.99,
-        "text": "And when you're more than half dead, it's really hard to give a shit about"
+        "start": 48.0,
+        "end": 57.0,
+        "text": "And when you're more than half-dead, it's really hard to give a shit about anything."
     },
     {
         "type": "text",
-        "start": 54.99,
-        "end": 56.78,
-        "text": "anything."
-    },
-    {
-        "type": "text",
-        "start": 56.78,
-        "end": 59.72,
-        "text": "Do you have any older dudes here?"
+        "start": 58.0,
+        "end": 60.0,
+        "text": "Do we have any older dudes here?"
     },
     {
         "type": "text",
         "start": 60.0,
-        "end": 63.62,
-        "text": "Oh, we have Vali. Vali, how old are you?"
+        "end": 64.0,
+        "text": "We have Valid. Valid, how old are you?"
     },
     {
         "type": "text",
-        "start": 63.62,
-        "end": 68.3,
-        "text": "How old are you?"
+        "start": 64.0,
+        "end": 68.0,
+        "text": "I'm 34."
     },
     {
         "type": "text",
-        "start": 68.3,
-        "end": 69.06,
-        "text": "Thirty-three."
+        "start": 68.0,
+        "end": 69.0,
+        "text": "33."
     },
     {
         "type": "text",
-        "start": 69.06,
-        "end": 70.46,
-        "text": "He's thirty-three. Okay."
+        "start": 69.0,
+        "end": 71.0,
+        "text": "He's 33. Okay, I thought..."
     },
     {
         "type": "text",
-        "start": 70.46,
-        "end": 76.08,
-        "text": "I thought we had the same lesbian haircut, I thought."
+        "start": 71.0,
+        "end": 76.0,
+        "text": "I thought we had the same lesbian haircut."
     },
     {
         "type": "text",
-        "start": 76.08,
-        "end": 77.28,
-        "text": "Maybe."
+        "start": 76.0,
+        "end": 78.0,
+        "text": "Maybe..."
     },
     {
         "type": "text",
-        "start": 77.28,
-        "end": 81.48,
-        "text": "So, Vali, you know, what I'm going to tell you, this is what's waiting for you."
+        "start": 78.0,
+        "end": 81.0,
+        "text": "So, Valid, you know, what I'm going to tell you, this is what's waiting for you."
     },
     {
         "type": "text",
-        "start": 81.48,
-        "end": 85.98,
+        "start": 81.0,
+        "end": 86.0,
         "text": "Because, you know, when you're my age, what I find is it's kind of weird."
     },
     {
         "type": "text",
-        "start": 85.98,
-        "end": 88.46,
-        "text": "It's like, on my shoulders I have two voices."
+        "start": 86.0,
+        "end": 88.0,
+        "text": "It's like, on my shoulders, I have two voices."
     },
     {
         "type": "text",
-        "start": 88.46,
-        "end": 89.74,
-        "text": "Like, on my left shoulder."
-    },
-    {
-        "type": "text",
-        "start": 90.0,
+        "start": 88.0,
         "end": 92.0,
-        "text": "I have my younger voice."
+        "text": "Like, on my left shoulder, I have my younger voice."
     },
     {
         "type": "text",
         "start": 92.0,
-        "end": 93.62,
-        "text": "And he's very optimistic."
+        "end": 98.0,
+        "text": "And he's very optimistic. He's, like, right about the future, trying to be a better person."
     },
     {
         "type": "text",
-        "start": 93.62,
-        "end": 97.7,
-        "text": "He's like, bright about the future, trying to be a better person."
-    },
-    {
-        "type": "text",
-        "start": 97.7,
-        "end": 101.64,
+        "start": 98.0,
+        "end": 102.0,
         "text": "But on my right shoulder, I have my older voice."
     },
     {
         "type": "text",
-        "start": 101.64,
-        "end": 104.5,
+        "start": 102.0,
+        "end": 105.0,
         "text": "And he is a motherfucker."
     },
     {
         "type": "text",
-        "start": 104.5,
-        "end": 109.57,
-        "text": "Because, you know, everything's like, you know, I'll be just like drinking some"
+        "start": 105.0,
+        "end": 110.0,
+        "text": "Because, you know, everything's like, you know, I'll be just, like, drinking some water."
     },
     {
         "type": "text",
-        "start": 109.57,
-        "end": 109.9,
-        "text": "water."
+        "start": 110.0,
+        "end": 115.0,
+        "text": "And younger me will be like, \"Hey, man, that's a plastic bottle. Think about the environment."
     },
     {
         "type": "text",
-        "start": 109.9,
-        "end": 114.77,
-        "text": "And younger me will be like, \"Hey man, that's a plastic bottle. Think about the"
+        "start": 115.0,
+        "end": 118.0,
+        "text": "Think about the future generations.\""
     },
     {
         "type": "text",
-        "start": 114.77,
-        "end": 117.92,
-        "text": "environment. Think about the future generations.\""
+        "start": 118.0,
+        "end": 122.0,
+        "text": "And then older me will be like, \"Ah, yeah, drink that shit."
     },
     {
         "type": "text",
-        "start": 117.92,
-        "end": 119.96,
-        "text": "And then older me will be like,"
+        "start": 122.0,
+        "end": 125.0,
+        "text": "Fuck those kids and their selfie sticks.\""
     },
     {
         "type": "text",
-        "start": 120.0,
-        "end": 125.5,
-        "text": "\"Ah, yeah, drink that shit. Fuck those kids and their selfie sticks.\""
-    },
-    {
-        "type": "text",
-        "start": 125.5,
-        "end": 127.5,
+        "start": 125.0,
+        "end": 127.0,
         "text": "Yeah, that's what goes on."
     },
     {
         "type": "text",
-        "start": 127.5,
-        "end": 130.5,
-        "text": "Or maybe, you know, in the morning I wake up and younger me will say,"
+        "start": 127.0,
+        "end": 130.0,
+        "text": "Or maybe, you know, in the morning, I wake up and younger me is like,"
     },
     {
         "type": "text",
-        "start": 130.5,
-        "end": 134.67,
-        "text": "\"Hey, wake up. It's a beautiful day. Let's go and do some sports. Eat a healthy"
+        "start": 130.0,
+        "end": 134.0,
+        "text": "\"Hey, wake up. It's a beautiful day. Let's go and do some sports."
     },
     {
         "type": "text",
-        "start": 134.67,
-        "end": 135.5,
-        "text": "breakfast.\""
+        "start": 134.0,
+        "end": 136.0,
+        "text": "Eat a healthy breakfast.\""
     },
     {
         "type": "text",
-        "start": 135.5,
-        "end": 142.72,
-        "text": "Older me will be like, \"What is that I see down there? Is that a boner? Use it"
+        "start": 136.0,
+        "end": 140.0,
+        "text": "Older me will be like, \"What is that I see down there?"
     },
     {
         "type": "text",
-        "start": 142.72,
-        "end": 145.5,
-        "text": "before you lose it.\""
+        "start": 140.0,
+        "end": 142.0,
+        "text": "Is that a boner?"
     },
     {
         "type": "text",
-        "start": 145.5,
-        "end": 149.0,
-        "text": "Or, you know, maybe..."
+        "start": 143.0,
+        "end": 146.0,
+        "text": "Use it before you lose it.\""
     },
     {
         "type": "text",
-        "start": 150.0,
-        "end": 153.98,
-        "text": "Maybe I'll be talking to some girl and younger me will be like, \"Wow, she's"
+        "start": 146.0,
+        "end": 153.0,
+        "text": "Or, you know, maybe I'll be talking to some girl and younger me will be like,"
     },
     {
         "type": "text",
-        "start": 153.98,
+        "start": 153.0,
         "end": 158.0,
-        "text": "really nice. Like, just, you know, have a polite, respectful conversation.\""
+        "text": "\"Wow, she's really nice. Like, just, you know, have a polite, respectful conversation.\""
     },
     {
         "type": "text",
@@ -266,146 +248,98 @@
     {
         "type": "text",
         "start": 165.0,
-        "end": 169.51,
-        "text": "It's brutal. It's really... And I've got this internal conflict going on all"
-    },
-    {
-        "type": "text",
-        "start": 169.51,
         "end": 170.0,
-        "text": "the time."
+        "text": "It's brutal. It's really... I've got this internal conflict going on all the time."
     },
     {
         "type": "text",
         "start": 170.0,
-        "end": 173.55,
-        "text": "I don't know where it ends. Probably like Mel Gibson just running around"
-    },
-    {
-        "type": "text",
-        "start": 173.55,
         "end": 175.0,
-        "text": "screaming about Jews."
+        "text": "I don't know where it ends. Probably like Mel Gibson just running around screaming about Jews."
     },
     {
         "type": "text",
         "start": 175.0,
-        "end": 179.5,
+        "end": 180.0,
         "text": "But, you know, I'm not the only one that has it hard."
     },
     {
         "type": "text",
         "start": 180.0,
-        "end": 184.67,
-        "text": "You know, because I have a lot of lady friends and I think they really have it"
-    },
-    {
-        "type": "text",
-        "start": 184.67,
         "end": 187.0,
-        "text": "hard when it comes to dating."
+        "text": "Because I have a lot of lady friends and I think they really have it hard when it comes to dating."
     },
     {
         "type": "text",
         "start": 187.0,
-        "end": 192.6,
-        "text": "Because some of them, they say to me, like, \"Harry fucks! Where do I find a"
-    },
-    {
-        "type": "text",
-        "start": 192.6,
         "end": 194.0,
-        "text": "real man?\""
+        "text": "Because some of them, they say to me like, \"Harry Fox, where do I find a real man?"
     },
     {
         "type": "text",
         "start": 194.0,
         "end": 199.0,
-        "text": "A man who knows what he wants. A man who knows how to take the lead."
+        "text": "A man who knows what he wants. A man who knows how to take the lead.\""
     },
     {
         "type": "text",
         "start": 199.0,
-        "end": 202.7,
-        "text": "Now, I've thought about this for a bit and I think I know the answer to this"
-    },
-    {
-        "type": "text",
-        "start": 202.7,
         "end": 203.0,
-        "text": "one."
+        "text": "Now I've thought about this for a bit and I think I know the answer to this one."
     },
     {
         "type": "text",
         "start": 203.0,
-        "end": 207.36,
-        "text": "Because, basically, the problem is, ladies, it's about where you're doing that"
-    },
-    {
-        "type": "text",
-        "start": 207.36,
         "end": 208.0,
-        "text": "first date."
+        "text": "Because basically the problem is, ladies, it's about where you're doing that first date."
     },
     {
         "type": "text",
         "start": 208.0,
-        "end": 212.0,
-        "text": "Because you're probably going to, like, a restaurant or a bar or a cafe."
+        "end": 211.0,
+        "text": "Because you're probably going to like a restaurant or a bar or a cafe."
     },
     {
         "type": "text",
-        "start": 212.0,
-        "end": 218.0,
-        "text": "And that is a very good place for him to talk about his feelings and his ex-girlfriend."
+        "start": 211.0,
+        "end": 215.0,
+        "text": "And that is a very good place for him to talk about his feelings."
     },
     {
         "type": "text",
-        "start": 218.0,
-        "end": 221.0,
-        "text": "And how you remind him of his mum."
+        "start": 215.0,
+        "end": 220.0,
+        "text": "And his ex-girlfriend. And how you remind him of his mum."
     },
     {
         "type": "text",
-        "start": 221.0,
+        "start": 220.0,
         "end": 227.0,
         "text": "No, you need to choose some places where you can get the real man out of him."
     },
     {
         "type": "text",
         "start": 227.0,
-        "end": 232.6,
-        "text": "So before that date, you just text him and say, \"Hey, why don't you meet me in"
-    },
-    {
-        "type": "text",
-        "start": 232.6,
         "end": 234.0,
-        "text": "the forest?\""
+        "text": "So before that date, you just text him and say, \"Hey, why don't you meet me in the forest?\""
     },
     {
         "type": "text",
-        "start": 236.0,
+        "start": 234.0,
         "end": 240.0,
-        "text": "Or a running track. \"Bet you can't catch me.\""
+        "text": "\"At the running track. Hey, you can't catch me.\""
     },
     {
         "type": "text",
         "start": 240.0,
-        "end": 245.51,
-        "text": "Or, you know, you just be like, \"Yeah, hi, yeah, I'm waiting for you here in"
+        "end": 246.0,
+        "text": "Or you know, or you just be like, \"Yeah, hi, yeah, I'm waiting for you here in this dark alley.\""
     },
     {
         "type": "text",
-        "start": 245.51,
-        "end": 247.0,
-        "text": "this dark alley."
-    },
-    {
-        "type": "text",
-        "start": 247.0,
+        "start": 246.0,
         "end": 250.0,
-        "text": "You'll find me passed out drunk.\""
+        "text": "\"You'll find me passed out drunk.\""
     },
     {
         "type": "text",
@@ -416,80 +350,56 @@
     {
         "type": "text",
         "start": 253.0,
-        "end": 257.68,
-        "text": "Or just go for something simple like, \"Come meet me at my flat down in the"
-    },
-    {
-        "type": "text",
-        "start": 257.68,
         "end": 259.0,
-        "text": "dungeon."
+        "text": "Just go for something simple like, \"Come meet me at my flat. Down in the dungeon.\""
     },
     {
         "type": "text",
         "start": 259.0,
-        "end": 264.0,
-        "text": "And help me fight the neighbours for the washing machine.\""
+        "end": 263.0,
+        "text": "\"And help me fight the neighbours for the washing machine.\""
     },
     {
         "type": "text",
-        "start": 264.0,
+        "start": 263.0,
         "end": 267.0,
-        "text": "All things that will help bring out the real man in him."
+        "text": "This is all things that will help bring out the real man in him."
     },
     {
         "type": "text",
         "start": 267.0,
-        "end": 271.58,
-        "text": "But I had this one friend of mine, she said something I thought was a little"
-    },
-    {
-        "type": "text",
-        "start": 271.58,
         "end": 272.0,
-        "text": "crazy."
+        "text": "But I had this one friend of mine. She said something I thought was a little crazy."
     },
     {
         "type": "text",
         "start": 272.0,
-        "end": 278.02,
-        "text": "She said, \"You know, what I'm really looking for is a man who knows how to put"
-    },
-    {
-        "type": "text",
-        "start": 278.02,
         "end": 280.0,
-        "text": "me in my place.\""
+        "text": "She said, \"You know, what I'm really looking for is a man who knows how to put me in my place.\""
     },
     {
         "type": "text",
         "start": 280.0,
-        "end": 282.0,
-        "text": "Now that is an insane idea."
+        "end": 285.0,
+        "text": "Now that is an insane idea. Can you imagine if you go to a job interview and they say,"
     },
     {
         "type": "text",
-        "start": 282.0,
-        "end": 286.0,
-        "text": "Can you imagine if you go to a job interview and they say, \"So what are you"
-    },
-    {
-        "type": "text",
-        "start": 286.0,
+        "start": 285.0,
         "end": 287.0,
-        "text": "looking for in this job?\""
+        "text": "\"So what are you looking for in this job?\""
     },
     {
         "type": "text",
         "start": 287.0,
-        "end": 292.0,
-        "text": "And you were to say, \"Well, a nice working environment, a fair salary,"
+        "end": 295.23,
+        "text": "And you were to say, \"Well, a nice working environment, a fair salary, and a boss who knows how to"
     },
     {
         "type": "text",
-        "start": 292.0,
+        "start": 295.23,
         "end": 297.0,
-        "text": "and a boss who knows how to put me in my place.\""
+        "text": "put me in my place.\""
     },
     {
         "type": "text",
@@ -506,86 +416,80 @@
     {
         "type": "text",
         "start": 305.0,
-        "end": 310.78,
-        "text": "Because, you know, us guys, when we want to put each other in our place, we use"
-    },
-    {
-        "type": "text",
-        "start": 310.78,
         "end": 312.0,
-        "text": "our fists."
+        "text": "Because, you know, us guys, when we want to put each other in our place, we use our fists."
     },
     {
         "type": "text",
         "start": 312.0,
-        "end": 318.0,
+        "end": 319.0,
         "text": "And it has taken us 2,000 years for us to learn that's not okay with women."
     },
     {
         "type": "text",
-        "start": 318.0,
-        "end": 320.0,
+        "start": 319.0,
+        "end": 322.0,
         "text": "So I'm going to present you a radical idea."
     },
     {
         "type": "text",
-        "start": 320.0,
-        "end": 323.0,
-        "text": "I'm going to present you a radical idea."
-    },
-    {
-        "type": "text",
-        "start": 323.0,
-        "end": 328.0,
+        "start": 322.0,
+        "end": 327.0,
         "text": "Ladies, if you think you need a guy to put you in your place,"
     },
     {
         "type": "text",
-        "start": 328.0,
-        "end": 334.0,
+        "start": 327.0,
+        "end": 333.0,
         "text": "maybe, just maybe, you shouldn't be an asshole in the first place."
     },
     {
         "type": "text",
-        "start": 334.0,
+        "start": 333.0,
+        "end": 335.0,
+        "text": "You see that?"
+    },
+    {
+        "type": "text",
+        "start": 335.0,
         "end": 338.0,
-        "text": "You see that? I put you all in your place."
+        "text": "I put you all in your place."
     },
     {
         "type": "text",
         "start": 338.0,
         "end": 340.0,
-        "text": "All right, that's fine."
+        "text": "All right, let's run."
     },
     {
         "type": "text",
         "start": 340.0,
-        "end": 344.0,
+        "end": 343.0,
         "text": "This part is fucked, but they're in their place."
     },
     {
         "type": "text",
-        "start": 344.0,
-        "end": 348.0,
-        "text": "He put us all in it."
+        "start": 346.0,
+        "end": 349.0,
+        "text": "Here we are, Perry Farris."
     },
     {
         "type": "text",
-        "start": 348.0,
-        "end": 352.0,
+        "start": 349.0,
+        "end": 353.0,
         "text": "He put us all in a very uncomfortable space."
     },
     {
         "type": "text",
-        "start": 352.0,
+        "start": 353.0,
         "end": 357.0,
-        "text": "This open mic is more racist and sexist than I thought it would be."
+        "text": "Wow, this open mic is more racist and sexist than I thought it would be."
     },
     {
         "type": "text",
         "start": 357.0,
         "end": 359.0,
-        "text": "It's worse, normally."
+        "text": "It's worse normally."
     },
     {
         "type": "text",
@@ -603,17 +507,17 @@
         "type": "text",
         "start": 364.0,
         "end": 366.0,
-        "text": "She's done her open mic a couple times before."
+        "text": "She's done her open mic a couple of times before."
     },
     {
         "type": "text",
         "start": 366.0,
         "end": 369.0,
-        "text": "Ladies and gentlemen, make some noise for Vanessa Le Pen!"
+        "text": "Ladies and gentlemen, make some noise for Vanessa Lepine."
     },
     {
         "type": "text",
-        "start": 369.0,
+        "start": 374.0,
         "end": 377.0,
         "text": "Hi, I'm sorry, before I start, I need to ask a question."
     },
@@ -625,33 +529,27 @@
     },
     {
         "type": "text",
-        "start": 381.0,
-        "end": 384.0,
-        "text": "Hey guys, yeah, I'm French-Canadian."
+        "start": 383.0,
+        "end": 385.0,
+        "text": "Hey, guys, yeah, I'm French-Canadian."
     },
     {
         "type": "text",
-        "start": 384.0,
+        "start": 385.0,
         "end": 388.0,
-        "text": "Usually I do comedy mostly in French, like in Los Alamos, Geneva."
+        "text": "Usually I do comedy mostly in French, like in Lausanne and Geneva."
     },
     {
         "type": "text",
         "start": 388.0,
-        "end": 391.42,
-        "text": "So I'm very happy to be here tonight to do comedy in front of people that have"
+        "end": 393.0,
+        "text": "So I'm very happy to be here tonight to do comedy in front of people that have emotions."
     },
     {
         "type": "text",
-        "start": 391.42,
-        "end": 392.0,
-        "text": "emotions."
-    },
-    {
-        "type": "text",
-        "start": 392.0,
+        "start": 393.0,
         "end": 395.0,
-        "text": "That's really great, yeah."
+        "text": "It's really great, yeah."
     },
     {
         "type": "text",
@@ -668,18 +566,18 @@
     {
         "type": "text",
         "start": 398.0,
-        "end": 400.0,
+        "end": 401.0,
         "text": "So if you're in your 20s, give me a \"whoo!\""
     },
     {
         "type": "text",
-        "start": 400.0,
-        "end": 402.0,
+        "start": 401.0,
+        "end": 403.0,
         "text": "30s?"
     },
     {
         "type": "text",
-        "start": 402.0,
+        "start": 403.0,
         "end": 405.0,
         "text": "40s?"
     },
@@ -698,25 +596,19 @@
     {
         "type": "text",
         "start": 412.0,
-        "end": 414.0,
+        "end": 415.0,
         "text": "I cannot see you, but thanks."
     },
     {
         "type": "text",
-        "start": 414.0,
-        "end": 419.66,
-        "text": "And yeah, I realize that dating in our 30s is way different than dating in my"
-    },
-    {
-        "type": "text",
-        "start": 419.66,
+        "start": 415.0,
         "end": 420.0,
-        "text": "20s."
+        "text": "And, yeah, I realize that dating in our 30s is way different than dating in my 20s."
     },
     {
         "type": "text",
         "start": 420.0,
         "end": 423.0,
-        "text": "Because when I was in my 20s, I was going on a date with guys."
+        "text": "Because when I was in my 20s, I was going on dates with guys."
     }
 ]

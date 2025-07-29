@@ -17,354 +17,258 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Originally he was born in Zurich at the age of 18 and he has the best name in
+> Originally he came to Zurich at the age of 18 and he has the best name in the world.
 >
-> the world.
+> A big round of applause for Harry Fuchs!
 >
-> A big round of applause for Harry Fux!
+> So my name is actually Harry Fuchs.
 >
-> So my name is actually Harry Fux.
+> That's a German name.
 >
-> It's a German name.
+> I sometimes write F-Ü-CKS. I repeat, F-Ü-CKS.
 >
-> Sometimes I write F-U-C-K-S, I repeat F-U-C-K-S.
+> But when I grew up in England, many believed that my name was Harry Fuchs.
 >
-> But when I grew up in England, many people think that my name is Harry Fux.
+> My name is not Harry Fuchs.
 >
-> My name is not Harry Fux.
+> In my family, when we meet, we would be very annoyed if someone called us a group of fuckers.
 >
-> With my family, when we meet, we get very annoyed when someone calls us a group
->
-> of fuckers.
->
-> And I have two children.
->
-> They are good friends.
->
-> To start, they had to say "how the and what the name is".
+> I have two children, and to give them a good start, I had to call them Halber and Wopper.
 >
 > Just like that.
 >
-> Thank you.
+> Thank you. So one of them got it.
 >
-> So one had to start.
+> The rest are just shocked, but I'll do the rest.
 >
-> The rest are just shocked.
+> No, the real problem with names like Harry Fuchs is that in my life there have been far too few
 >
-> But I do the rest of the show.
+> fucking Fuchs.
 >
-> The real problem with a name like Harry Fux is that in my life there are far
+> Can you say F-Ü-CKS? I don't know. I was born in England.
 >
-> too few fuckers.
+> And if I may share that, because of the whole Corona lockdown, I didn't have sex at all.
 >
-> Can you say fucker? I don't know.
+> Hands up if you didn't have sex at all in the last time.
 >
-> I don't know.
+> Wow. Okay.
 >
-> I don't know.
+> I didn't know that I would come to the Zurich nymphomaniac track.
 >
-> I don't know.
+> Okay, so that you can understand me.
 >
-> I don't know.
+> If you haven't had sex for a long time, it's as if you hallucinate.
 >
-> I don't know.
+> For example, when you're on the street, you see a couple of dogs sniffing at each other's asses.
 >
-> I don't know.
+> And you think, "I'd like to do that too."
 >
-> I don't know.
+> Or you go to the micro. You go to the micro, you get one hand on the watermelon.
 >
-> I don't know.
+> Maybe two. Boom! It's as if you're in a new dimension.
 >
-> I don't know.
+> It's getting warm, it's getting hot, it doesn't matter who's watching.
 >
-> I don't know.
+> And then suddenly you hear, "Young man, are you ashamed?"
 >
-> I don't know.
+> "That's an old woman. She wants to hit you with her handkerchief."
 >
-> I don't know.
->
-> I don't know.
->
-> I don't know if you can understand me, how it is when you haven't had sex for a
->
-> long time. It's like you're hallucinating.
->
-> For example, you walk down the street, see a few dogs, they pinch their asses,
->
-> and you think, "I'd like to be there too."
->
-> Or you go to the toilet, and you get one hand on the watermelon, maybe two, BOOM!
->
-> It's like you're in a new dimension. It gets hot, it gets hot, it doesn't
->
-> matter who looks at you.
->
-> And then suddenly you hear: "Young man, are you ashamed?"
->
-> That's an old woman, she wants to hit you with her handkerchief, and you think,
->
-> "Very nice."
+> And you think, "Very nice."
 >
 > Yes, that's how it is when you haven't had sex for a long time.
 >
-> And when the lockdown comes, it's like, "Oh, my God!"
+> And when you see the lockdown, "My stupid suitcase came up with a really stupid idea."
 >
-> And when the lockdown comes, it's like, "Oh, my God!"
+> "I opened a Tinder profile."
 >
-> And when the lockdown comes, it's like, "Oh, my God!"
+> Okay, for you, you're all relatively young.
 >
-> And when the lockdown comes, it's like, "Oh, my God!"
+> Tinder is still a great place, because you can swipe hot bodies and possible erotic encounters.
 >
-> And when the lockdown comes, it's like, "Oh, my God!"
+> It's your thing. Your perfect match is somewhere in there.
 >
-> In the lockdown, my stupid head has come up with a very stupid idea. I opened a
+> But for me, I have to use old Tinder.
 >
-> Tinder profile.
+> And old Tinder is a dark word.
 >
-> Okay, for you, you are all relatively young. Tinder is still a great place
+> Because I have to swipe broken marriages.
 >
-> because you can swipe through hot bodies and possible erotic opponents.
+> Swipe drugs and alcohol problems.
 >
-> And the town is your prince. Your perfect match is somewhere in there.
->
-> But for me, I have to use old Tinder. And old Tinder is a dark place.
->
-> Because I have to swipe broken marriages, swipe drugs and alcohol problems,
->
-> blow off tattoos that say "No Regrets".
+> Broken tattoos that say, "No regrets!"
 >
 > It's dark.
 >
-> And you know, I ask myself, ladies, what's going to happen in the next 10 to 15
+> I ask myself, "Ladies, what happens in the next 10 to 15 years that breaks your life?"
 >
-> years that will make women dead?
+> Because the worst thing on old Tinder is the sight of a 50-year-old woman who makes a duck face.
 >
-> Because the worst thing about old Tinder is the sight of a 50-year-old woman
+> So how do you get to 50 years where you think the duck face is still okay?
 >
-> who makes a dog face.
+> The only time the duck face is okay is when both parents are ducks.
 >
-> So how do you get to 50 years where you think that dog faces are always there?
+> And ducks only live 10 years.
 >
-> The only time the dog face is okay is when both parents are ducks.
+> So the universe doesn't make room for a 50-year-old duck face.
 >
-> And ducks only live for 10 years.
+> And what's even worse, but it's even darker, is swiping when you go on a real old Tinder date.
 >
-> So the universe doesn't have room for a 50-year-old dog face.
+> And you go there and think, "Yeah, okay, I'm full of courage and joy."
 >
-> Yes, and what's even worse, but it's even darker,
+> And then suddenly the conversation changes.
 >
-> than all the swiping is when you go on a real old Tinder.
+> "Yeah, okay, I fucked up my life for the last 40 years."
 >
-> A date-gate.
+> "But somehow I'm still optimistic that it's going to get better from now on."
 >
-> And then you go there and think, "Yes, okay, I'm full of courage and joy."
->
-> And then all of a sudden, the swiping stops.
->
-> "Yes, okay, I've spent the last 40 years of my life, but somehow I'm still
->
-> optimistic that it will get better from now on."
->
-> And then she says, "Wow, yes, I've also completely destroyed my life."
+> And then she says, "Wow, yes, I also completely ruined my life."
 >
 > Then you think, "Wow, we have something in common."
 >
 > Which is completely depressing.
 >
-> You want to come to me, and then we can just switch worlds.
+> You want to come to me and then we can just kill each other.
 >
-> That would be the perfect end of this world, I think.
+> That would be the complete end of this world, I think.
 >
-> And then afterwards I thought, "This app is completely shit. I'll delete it."
+> Yes, and afterwards I thought, "This article is complete shit, I'll delete it."
 >
-> And just as I was deleting it, I got another message.
+> And just as I was about to delete it, I got another message.
 >
-> It was from a lady, I think she was 52.
+> It was from a lady, I think she was 52 years old.
 >
-> She said, "So with these beautiful brown eyes,
+> She said, "With those beautiful blue eyes, why are you still free here?"
 >
-> why are you still walking around freely?"
+> "Besides, this is the most stupid animation I've ever heard."
 >
-> So, apart from that, this is the most stupid thing I've ever heard.
+> "Imagine, I would tell this to any woman here in our room."
 >
-> Imagine, I want to tell this to any woman around here.
+> "You shouldn't be walking around here free."
 >
-> You shouldn't be walking around freely.
+> "You should be stuck in my cave."
 >
-> You should be locked up in my cave.
+> "It's completely crazy."
 >
-> It's completely crazy.
+> "You shouldn't tell anyone."
 >
-> You shouldn't be showing this to anyone.
+> And then it became clear to me, older women have a bit of a problem.
 >
-> And then it became clear to me.
+> They don't know how to handle men.
 >
-> So, older women have a bit of a problem.
+> In English they say, "They have zero game."
 >
-> They don't know how to dress up as men.
+> And what's worse, I recently read that as women get older, their lust increases.
 >
-> In English, they say, "They have zero game."
+> All these years, men have been given all the training.
 >
-> And what's even worse, I've recently read,
->
-> as women get older, their lust increases.
->
-> So, all these years, men have received all the exercises.
->
-> Now, these men know how to dress up with this age.
+> Now men are aware of how to handle men.
 >
 > And then I thought, "Wait a minute, this is really bad."
 >
-> So, that means then, they have zero game.
+> So that means they have zero game.
 >
-> They are super cool.
+> They are super awesome, and nobody wants to sleep with them.
 >
-> And no one wants to sleep with the wild one.
+> It's bad, I know.
 >
-> It's bad.
+> And I thought, it was so bad, I thought, "I can solve this."
 >
-> And I thought, it was so bad, I thought,
+> "I'll find a solution."
 >
-> I can solve this.
+> "We just need one more group that has zero game."
 >
-> I think there is a solution to this.
+> "Is super awesome, and doesn't want to fuck anyone."
 >
-> We just need another group that has zero game.
+> "Teenage Jules."
 >
-> It's super cool.
+> "That's the perfect match."
 >
-> And no one wants to fuck with it.
+> And I'm a bit of an entrepreneur.
 >
-> Teenage boys.
->
-> This is the perfect match.
->
-> And I'm a bit entrepreneurial.
->
-> So, I'm developing an app right now.
->
-> It's called Teender.
+> So I just invented a app, it's called "Teender."
 >
 > Yeah, okay.
 >
-> It's similar.
+> It's similar, it's just a bit younger.
 >
-> It's always a bit dark.
->
-> It's similar to a social button tip.
+> It's similar to the social media app.
 >
 > But I think it actually comes from my childhood.
 >
-> Because when I was seven,
+> Because when I was seven, something was taken from me.
 >
-> something was taken away from me.
+> Exactly, I was circumcised.
 >
-> Exactly.
->
-> I was circumcised.
->
-> Okay, according to this reaction,
->
-> most people don't understand what circumcision is.
+> Okay, according to this reaction, most people don't understand what circumcision is.
 >
 > We can talk about it later.
 >
-> But yeah, what started as a very traumatic childhood,
+> But what started as a very traumatic childhood.
 >
-> as an adult, has become a real advantage.
+> As an adult, it has become quite an advantage.
 >
-> Because even those rare moments,
+> Because even the rare moments when a woman finds her head next to my penis.
 >
-> when a woman finds a penis next to my head,
+> When she is always so silent, like...
 >
-> it has always been so quiet.
+> And I would say, "Hey, why are you staring at my penis?"
 >
-> Like...
->
-> And I was like,
->
-> "Hey, why are you standing on my penis?"
->
-> And she was like,
->
-> "You have no idea how many dirty pimples there are out there."
+> And she would say, "You have no idea how many dirty asses there are out there."
 >
 > Yeah, so he laughs a lot.
 >
 > I don't know why.
 >
-> He's probably seen a lot.
+> He probably saw a lot.
 >
-> But what I understood is,
+> And what I understood is that actually as my uncut brother.
 >
-> that actually, as my uncut brother,
+> I have far too little attention in this area.
 >
-> I had far too little,
+> And that's why I end with a few tips that can help you.
 >
-> so I had to pay a lot of attention to that.
+> To make your partner so happy.
 >
-> And that's why I ended up with a few tips
+> For example, you know in the car.
 >
-> that can help you make your partner so happy.
+> You have this on the mirror, this wonderful pendant.
 >
-> Because, for example,
+> Just hang it from your penis.
 >
-> you know in the car,
->
-> you have this,
->
-> hanging on the mirror,
->
-> this beautiful tree.
->
-> Just hang it on your penis.
->
-> So, women are very big-minded.
+> So women are very generous.
 >
 > That will make them happy right away.
 >
-> Or just like up here,
+> And just hang it from your penis.
 >
-> on top of your penis,
+> You can just tattoo a beautiful tooth.
 >
-> you can just tattoo a beautiful tooth.
+> For example, a fern of green grass.
 >
-> So, for example,
+> With flowers or flowers.
 >
-> a plant of green grass,
+> Come on, with a couple of birds.
 >
-> with flowers,
+> That would be beautiful, wouldn't it?
 >
-> or maybe a tree
+> But there is an easier way.
 >
-> with a few birds in it.
+> I don't believe in all this.
 >
-> That would be beautiful, right?
+> There is a completely easier way.
 >
-> But there is a simple solution.
+> You just bring a package of onion knots.
 >
-> I don't think there's anything like that.
+> And when you're down there, you can just wrap it with onion.
 >
-> There is a completely simple solution.
+> Because cheese really goes well with onion.
 >
-> You just bring a pack of onions with you.
+> Oh, that's nice.
 >
-> And when it's down there,
+> You know, I do it because what it means.
 >
-> you can just put onions on it.
->
-> Because cheese really goes well with onions.
->
-> Oh, that's my girl.
->
-> You know,
->
-> I don't know what that means.
->
-> No one is having sex here tonight.
+> Tonight no one gets sex here.
 >
 > And now we're all in one room together.
->
-> Thank you.
 >
 > Okay, thank you.

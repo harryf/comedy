@@ -17,9 +17,11 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Welcome to the Brown Bag Lunch Series.
+> to the brown bag lunch series.
 >
-> I have the distinct pleasure to warm up the crowd and get you all very excited.
+> I have the distinct pleasure to warm up the crowd
+>
+> and get you all very excited.
 >
 > I'm sure that you're all really excited.
 >
@@ -27,73 +29,75 @@ notes: |
 >
 > That was awesome.
 >
-> I would like to introduce a long-time acquaintance, a comedian,
+> I would like to introduce a long-time acquaintance,
 >
-> a entrepreneur, a wanted in 13 states.
+> a comedian, an entrepreneur, a wanted in 13 states,
 >
-> Ladies and gentlemen, Terry Fox.
+> ladies and gentlemen, Harry Fox.
 >
-> So my name is actually Harry Hooks.
+> So my name is actually Harry Fox.
 >
 > It's a German name.
 >
-> It's spelled F-E-C-K-S.
+> It's spelled F-U-C-K-S. I repeat, F-U-C-K-S.
 >
-> I repeat, F-E-C-K-S.
+> But in a room of English speakers like this,
 >
-> I've been in a room of English speakers ever since I was 11.
->
-> You'd think my name was Harry Fox.
+> a lot of you think my name is Harry Fox.
 >
 > My name is not Harry Fox.
 >
 > Besides, in my family, when we have a family get-together,
 >
-> we get very upset when we call us a group of fuckers.
+> we get very upset when you call us a group of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them Halbert and Watford.
+> I had to call them Halbert and Watson.
 >
-> I'm a bit disturbed by these people sat all the way by.
+> I'm a bit disturbed by these people sat all the way back
 >
-> Can you bring it down here?
+> there.
 >
-> Because we need to include you in the awkwardness happening up front here.
+> Can we bring you down here?
 >
-> So, yeah, you know, the problem with this name, Harry Fox,
+> Because we need to include you in the awkwardness
+>
+> happening up front here.
+>
+> So yeah, you know, the problem with this name, Harry Fox,
 >
 > honestly, is it sets a very high level of expectation.
 >
-> And I've only really done that this much.
+> And I've only really done about this much acting.
 >
-> I don't think I can answer it that much.
+> I haven't done too much acting.
 >
-> And, you know, in fact, recently, it's been a long time since I've had sex.
+> And in fact, recently, it's been a long time
 >
-> So, put your hands up if you haven't had sex in a long time.
+> since I've had sex at school.
 >
-> Okay, now, I thought I was coming to Ricardo.
+> Put your hands up if you haven't had sex in a long time.
 >
-> It turns out it's the new command that's anonymous in Chapter 2.
+> OK, now, I thought I was coming to Ricardo.
 >
-> All right, so, maybe to help you understand my condition,
+> It turns out it's an infomaniac synonymous with up at two.
+>
+> All right, so maybe to help you understand my condition,
 >
 > when you haven't had sex for a long time,
 >
-> it's kind of like you're hallucinating.
+> it's kind of like the hallucination.
 >
-> Because, you know, you could be walking down the street
+> Because, you know, you could be walking down the street,
 >
 > and you see a couple of dogs sniffing each other's asses.
 >
-> And you look at them and you think,
+> And you look at them, and you think, it's too shallow to me.
 >
-> I wish that was me.
+> Or, you know, you go into Migo, and you spot an axion
 >
-> Or, you know, you go into Mico
->
-> and you spot an axion on a watermelon.
+> on a watermelon.
 >
 > You get one hand on that watermelon, maybe two.
 >
@@ -101,121 +105,99 @@ notes: |
 >
 > It's just you on that watermelon.
 >
-> It's getting hot, it's getting steamy.
+> It's getting hot.
 >
-> You're oblivious to all the people.
+> It's getting steamy.
 >
-> And then you hear this,
+> You're oblivious to all the people
 >
-> you're the man's shins, is it?
+> and then you hear this, you're the man's chance, is it?
 >
-> And you look, and there's nobody about to hit you with that.
+> And you look, and there's an old lady about to hit you
 >
-> You've got a handbag, and you think,
+> with a handbag.
 >
-> she's not.
+> And you think, she's hot.
 >
-> Yeah, so, you know, so I've been having it hard.
+> Yeah, so, you know, it's not that I'm having it hard.
 >
-> But, you know, I think here, in this office,
+> But, you know, I think here in this office,
 >
-> we need to take a moment right now
+> we need to take a moment right now for those people working
 >
-> for those people working here that have it extreme,
+> here that had an extreme event.
 >
-> the people that have it toughest.
+> The people that had the toughest.
 >
-> And they're specifically, I'm talking about your managers,
+> And there, specifically, I'm talking about your managers.
 >
-> like Francesco, for example,
+> Like, Francesco, for example, and Jeremy,
 >
-> and Jeremy, who's mysteriously disappeared.
+> who's mysteriously disappeared at this point.
 >
 > Oh, no, he's there.
 >
 > And Jeremy, because these guys have it really tough.
 >
-> Like, on the one hand, from a bug,
+> Like, on the one hand, from above,
 >
-> they get goals like land on Mars by the end of Q4.
+> they get goals like land on Mars by end of Q4.
 >
-> And then on the other hand,
+> And then on the other hand, they have to manage you.
 >
-> they have to manage you.
->
-> I mean, what do you want to manage you?
+> I mean, would you want to manage you?
 >
 > Exactly.
 >
-> And one polluted person back there.
+> And one deluded person back there.
 >
-> And, you know, have you ever looked in their calendar?
+> And, you know, had never looked in their calendars.
 >
 > Their calendars are so packed.
 >
-> They have to block time.
->
-> They have to go to the toilet.
+> They have to book time to go to the toilet.
 >
 > And can you imagine the pressure?
 >
-> You know, they're sat there.
+> You know, they're sat there going,
 >
-> They're like, I've got to get three minutes to get this done.
+> I've got to get three minutes to get this done,
 >
-> Or I've got to sit in a meeting for an hour.
+> or I've got to sit in a meeting for an hour.
 >
-> It's a load of pressure.
+> It's a lot of pressure.
 >
-> But, you know, and one of the hardest things
+> But, you know, one of the hardest things
 >
-> that you have to do as a manager is firing people.
+> you have to do as a manager is firing people.
 >
-> Now, it's so bad.
+> Now, it's so bad that if you're a manager
 >
-> But if you're a manager and you've never fired someone
+> and you've never fired someone before,
 >
-> before, it's behind your back if you're a virgin.
+> it's kind of like you're a virgin.
 >
 > Because, you know, you might be hanging out
 >
-> by the coffee machine with some other managers
+> by the coffee machine with some other managers,
 >
-> and they're like, yeah, I've got to fire that guy.
+> and they're like, yeah, I have to fire that guy.
 >
 > And you go, yeah, I fire people too.
 >
-> And they're going to be like, who is this virgin?
+> And they look at you like, who is this virgin?
 >
 > And, you know, and then the big day comes.
 >
-> You know, it's your first time you're going to fire someone.
+> You know, it's the first time you're going to fire someone.
 >
-> And before you do, you're all nervous and tense.
+> Before the big, you're all nervous and tense.
 >
-> And then it comes and then you just fire them far too quickly.
+> And then it comes, and then you just fire them far too quickly.
 >
-> And afterwards, you're like, you say something stupid like,
+> And afterwards, you're like, you say something stupid,
 >
-> how was it for you?
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
->
-> And then you're like, I don't know.
+> like, how was it for you?
 >
 > This is why, you know, this is the pressure
 >
@@ -225,31 +207,29 @@ notes: |
 >
 > Because I'm a single dad, you know, I have a job.
 >
-> I have two teenage kids who live with me.
+> I have two teenage kids that live with me.
 >
 > And, you know, it's a lot to deal with, you know.
 >
 > And it's even made harder these days by technology.
 >
-> For example, my son, he plays Fortnite.
+> For example, my son, he plays "Fortnite."
 >
 > And for those of you that don't know, sorry,
 >
-> I'm just smiling a bit because Jeremy's giving me this.
+> I'm just smiling a bit because Jeremy is giving me
 >
-> And I was like, oh, what is this?
+> this look like, oh, what is coming now?
 >
-> What is coming now?
+> But, well, I'm going to get back into the zone, you know.
 >
-> But I'm going to get back into the zone, you know.
->
-> He plays Fortnite.
+> He plays "Fortnite."
 >
 > So for those of you that don't know,
 >
-> Fortnite is a shooter you play online against other people.
+> "Fortnite" is a shooter you play online against other people.
 >
-> And recently, the makers of Fortnite
+> And recently, the makers of "Fortnite"
 >
 > said they had 125 million players online all at once.
 >
@@ -257,134 +237,120 @@ notes: |
 >
 > People are saying they are ruining an entire generation.
 >
-> But for me as a father, I think Fortnite
+> But for me, as a father, I think "Fortnite"
 >
-> might actually be teaching my son some important live skills.
+> might actually be teaching my son some important life skills.
 >
 > For example, he's learned to sit in a chair for eight hours
 >
-> without moving, speaking, or going to the toilet, which
+> without moving, speaking, or going to the toilet,
 >
-> is obviously great preparation for office life.
+> which is obviously a great preparation for office life.
 >
-> And his English has radically improved thanks to Fortnite.
+> And his English has radically improved thanks to "Fortnite."
 >
-> He's learned some key phrases like, bitch, I will fuck you up,
+> He's learned some key phrases like, "Bitch,
 >
-> or I will piss on you like Donald Trump, you know.
+> I will fuck you up," or "I will piss on you like Donald Trump."
 >
-> So it makes me very proud, you know, responsible player.
+> It makes me very proud, you know, responsible parenting.
 >
 > But, you know, that's my son.
 >
 > I also have a teenage daughter.
 >
-> Now, as a single father of a teenage daughter,
+> Now, as a single father with a teenage daughter,
 >
 > I am constantly being confronted with situations
 >
-> that I am fully unprepared for.
+> that I am totally unprepared for.
 >
-> Like recently, I came back from work.
+> Like, recently, I came back from work.
 >
-> I went into the bathroom, and oh, my god,
+> I went into the bathroom, and, oh, my God,
 >
-> it looked like it was wine and cereal.
+> it looked like a crime scene in there.
 >
 > There was a bloody handprint on the mirror,
 >
-> drops of blood on the sink, more blood on the floor.
+> drops of blood on the sink, more blood on the floor,
 >
-> And the toilet looked like something from a horror movie.
+> and the toilet looked like something from a horror movie.
 >
-> And then I heard a screaming.
+> And then I heard a screaming, and I looked around,
 >
-> And I looked around.
+> and I realized the screaming was coming from me.
 >
-> And I realized a screaming was coming from me.
+> At that moment, my daughter sat up and said,
 >
-> At that moment, my daughter sat up and said, hey, dad,
+> "Hey, Dad, I got my period."
 >
-> I got my period.
+> So to clean up her menstrual blood, I was like,
 >
-> So that's a killing of her nature.
+> "Can I get you anything?"
 >
-> But I was like, can I get you anything?
+> And she was like, "Dad, get me tampons."
 >
-> And she was like, dad, get me 10 points.
+> Now, obviously, as a man,
 >
-> Now, obviously, as a man, I--
+> I have zero qualifications for this job,
 >
-> you know, I have zero qualifications for this stuff.
+> but I thought, "This can't be so hard."
 >
-> But I thought, this can't be so hard.
+> So I went back to me going, "Where are we?"
 >
-> So I went back to New York, where I live.
+> And I took a look around,
 >
-> And I took a look around.
+> and what I discovered is that tampon product names
 >
-> And what I discovered is that 10-point product names
+> are exactly of no use whatsoever
 >
-> are, in fact, of no use whatsoever
+> when it comes to choosing a tampon.
 >
-> when it comes to using a napalm.
+> For example, you have names like "Phoebe Probe."
 >
-> For example, you have names like bogey to blow.
+> What is this, like, the professional women
 >
-> I think that's, like, a professional name
+> that do these kind of things?
 >
-> that means something to me.
+> Doesn't sound like something I want with my daughter.
 >
-> It didn't sound like something I loved in my day to day life.
+> Or "Tampax Radiance."
 >
-> And 10-patch radios.
+> What are they saying, like, glow-in-the-dark tampons,
 >
-> You know what they say.
+> so when the lights are out, you need to get it in?
 >
-> They're, like, glow-in-the-dark 10 points.
+> The one I like the most is "Always Infinity."
 >
-> So when the lights are out, you need to get it in.
+> I thought it was very imaginative, "Always Infinity."
 >
-> The one I like the most is Always in Tennessee.
+> The one in the vagina isn't an infeasible black hole.
 >
-> I thought it was a great legend.
+> But I ended up choosing another product by Laws.
 >
-> So it's Always in Tennessee.
+> It's called "Always Home by 11."
 >
-> The one in the vagina isn't unsuitable by color.
+> It is amazing.
 >
-> But I ended up choosing another product by yours.
+> It's around about 10 o'clock, it starts to leak,
 >
-> It's called Always Home by Eleven.
+> and she is "Always Home by 11."
 >
-> Isn't it amazing?
+> And the whole experience for me as a father,
 >
-> It's around about 10 o'clock.
+> it was a very proud one, because as a father,
 >
-> It starts early.
+> it's not every day that you get to choose
 >
-> It's Always Home by Eleven.
+> what your daughter's tampon has in her vagina.
 >
-> And the whole experience for me as a father
+> And I think that is the right place for me
 >
-> was a very terrible one.
+> to stop the comedy while you stop the audience on something.
 >
-> Because it's a product that's not every day
->
-> that you get to choose what you're going to find
->
-> and what you're buying.
->
-> And I think that is the right way for me
->
-> to stop the comedy while you stop
->
-> while you're eating something.
->
-> So we're done with the comedy part now.
+> So we're going with the comedy part now.
 >
 > If you want to applause, you can.
 >
-> If you need to leave, please do.
->
-> Thank you.
+> If you need to, leave, please do.

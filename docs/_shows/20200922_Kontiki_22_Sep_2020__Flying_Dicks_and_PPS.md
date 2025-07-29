@@ -17,154 +17,168 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> that's a man who definitely his dog no selection process okay let's move along
+> That's a man who definitely fucks his dog.
 >
-> everybody
+> No selection process!
 >
-> next comedian this guy he's been living here in switzerland for the past 18
+> Okay, let's move along.
 >
-> years
+> Everybody.
 >
-> but he's actually from the uk folks give it up for harry everybody give it up
+> Next comedian.
 >
-> for harry
+> This guy, he's been living here in Switzerland for the past 18 years, but he's actually from
 >
-> yes so my name is harry
+> the UK.
 >
-> and i suffer from pps that's perfect penis syndrome
+> Folks, give it up for Harry, everybody.
 >
-> i'm also the most humble person i know and it's hard it's hard to be this
+> Give it up for Harry!
 >
-> humble
+> Yes, so my name is Harry.
 >
-> when your penis is this perfect
+> And I suffer from PPS.
 >
-> sometimes sometimes i just go to the supermarket i go to the vegetable section
+> That's perfect penis syndrome.
 >
-> stare down some cucumbers
+> I'm also the most humble person I know, and it's hard.
 >
-> but it's just glare at them let them know i'm not intimidated
+> It's hard to be this humble when your penis is this perfect.
 >
-> and it's very distressing to have this condition because i only found out last
+> Sometimes, sometimes I just go to the supermarket, I go to the vegetable section, stare down
 >
-> year that i have
+> some cucumbers, just glare at them, let them know I'm not intimidated.
 >
-> this you see i met a lady she was a bit of an expert a expert if you were and
+> And it's very distressing to have this condition because I only found out last year that I
 >
-> when she told me
+> have this.
 >
-> i was just shocked and stunned i even started to cry because i needed this
+> You see, I met a lady, she was a bit of an expert, a dickspert, if you will.
 >
-> information 30 years ago
+> And when she told me, I was just shocked and stunned, I even started to cry because I needed
 >
-> i mean it would have changed everything like if i'd known this at the age of 17
+> this information 30 years ago.
 >
-> you know
+> I mean, it would have changed everything.
 >
-> i could have been a pool boy or a snake charmer but instead instead i went into
+> Like if I'd known this at the age of 17, you know, I could have been a pool boy or a snake
 >
-> computers i've
+> charmer.
 >
-> been working with the wrong hardware for my entire life and it made me very
+> But instead, instead I went into computers, I've been working with the wrong hardware
 >
-> depressed and and so
+> for my entire life.
 >
-> you know i did what a real man does under these circumstances i go on youtube
+> And it made me very depressed.
 >
-> and watch animal
+> And so, you know, I did what a real man does under these circumstances.
 >
-> videos but then i found an animal that blew my mind this animal is so amazing
+> I go on YouTube and watch animal videos.
 >
-> it's a sea creature
+> But then I found an animal that blew my mind.
 >
-> frankie can you guess what animal i'm talking about turtle turtle nice choice
+> This animal is so amazing.
 >
-> but wrong
+> It's a sea creature.
 >
-> the animal i'm talking about is the argonaut octopus wow this creature is
+> Frankie, can you guess what animal I'm talking about?
 >
-> amazing so let me
+> >> Turtle.
 >
-> explain this a little bit like the female algonaut is super aggressive if the
+> >> Turtle.
 >
-> male gets anywhere near
+> Nice choice, but wrong.
 >
-> she's going to eat it so the men are terrified of the females i think there's
+> The animal I'm talking about is the Argonaut octopus.
 >
-> some guys here that
+> Wow.
 >
-> can relate to this tonight so the men have developed a unique solution i have
+> This creature is amazing.
 >
-> to explain
+> So let me explain this a little bit.
 >
-> this in my david attenborough voice when the male of a species spots a female
+> Like the female Argonaut is super aggressive.
 >
-> he detaches his penis
+> If a male gets anywhere near it, she's going to eat it.
 >
-> it swims through the water and homes in on her vagina
+> So the men are terrified of the females.
 >
-> sorry not your vagina um this is real this is real you can google that there's
+> I think there's some guys here that can relate to this tonight.
 >
-> an
+> So the man developed a unique solution.
 >
-> then just put that in layman's sense there is an octopus out there with a
+> I have to explain this in my David Attenborough voice.
 >
-> detachable heat seeking
+> When the male of the species spots a female, he detaches his penis, it swims through the
 >
-> dick this is incredible how are we not teaching kids in school about this and
+> water and homes in on her vagina.
 >
-> it really blew my
+> Sorry, not your vagina.
 >
-> mind and it got me thinking wait a second how would it be if human beings had
+> This is real.
 >
-> detachable dicks
+> This is real.
 >
-> saying you know like you know we probably have like dick related sports we've
+> You can Google that shit.
 >
-> had like dick racing
+> Don't just put that in layman's terms, there's an octopus out there with a detachable, heat-seeking
 >
-> at the olympics you got the decathlon nike changes its slogan to just dick it
+> dick.
 >
-> and we have a whole range of new dick related problems like uh what if you lost
+> This is incredible.
 >
-> your dick
+> How are we not teaching kids in school about this?
 >
-> you just have to hope on your phone you got an app called like find my penis
+> And it really blew my mind, and it got me thinking, wait a second, how would it be if
 >
-> could you borrow your friend's dick that's a crazy thought thank you would be
+> human beings had detachable dicks?
 >
-> like i wasn't
+> Wow, that would be insane, you know?
 >
-> cheating it was kareem's dick insane stuff and you know you know you think
+> We probably have, like, dick-related sports, we have, like, dick racing, at the Olympics
 >
-> about it and you really
+> you've got the dickathlon, Nike changes its slogan to "Just Dick It!"
 >
-> think that's true like like you know imagine it's monday morning and michaela
+> And we have a whole range of new dick-related problems, like, what if you lost your dick?
 >
-> there you know the
+> Wow, that would be insane.
 >
-> organ harvester she's at the tram stop thinking about all the kidneys she's
+> You just have to hope on your phone you've got an app called, like, "Find My Penis."
 >
-> gonna harvest today
+> Could you borrow your friend's dick?
 >
-> she's just on her phone doing the mass and suddenly
+> That's a crazy thought.
 >
-> bam this dick just slaps her in the face she's like she hides behind some old
+> Frankie would be like, "I wasn't cheating, it was Corinne's dick!"
 >
-> ladies
+> Insane stuff, and you know, when you think about it, and you really think that's true,
 >
-> she gets down she pulls out her dick shield like captain america
+> like, imagine, it's Monday morning, and Michaela there, the organ harvester, she's at the tram
 >
-> dicks are just flying all around hitting the shoe she spots a perfect penis on
+> stop thinking about all the kidneys she's going to harvest today, she's just on her
 >
-> the ground she's like
+> phone doing the maths, and suddenly, BAM, this dick just slaps her in the face.
 >
-> i'll take that she jumps in she arrives at the hospital runs in through the
+> She's like, "Fuck!"
 >
-> door and luckily there's a sign saying please keep your penis attached during
+> She hides behind some old ladies, she gets down, she pulls out her dick shield like Captain
 >
-> office hours
+> America, dicks are just flying all around, hitting the shoe.
 >
-> that's it thank you people
+> She spots a perfect penis on the ground, she's like, "I'll take that."
 >
-> yes wow we really learned a lot about each other okay
+> She jumps in, she arrives at the hospital, runs in through the door, and luckily there's
+>
+> a sign saying, "Please keep your penis attached during office hours."
+>
+> That's it.
+>
+> Thank you, people.
+>
+> Yes!
+>
+> Wow!
+>
+> We really learned a lot about each other.
+>
+> Okay.

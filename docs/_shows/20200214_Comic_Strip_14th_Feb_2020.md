@@ -16,67 +16,45 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Our next performer's gonna be Harry Fox.
+> My next performer is going to be Harry Fox, and I have to say, I am very much disappointed
 >
-> And I have to say, I am very much disappointed
+> that a guy looking like him, with a name like him, is not a wasted 80s porn star with a
 >
-> that a guy looking like him, with a name like him,
+> mustache.
 >
-> is not a wasted 80s porn star with a mustache.
+> However, I am very grateful having met Harry, because whenever I'm wondering what it is
 >
-> However, I am very grateful having met Harry,
+> with middle-aged white guys turning their weirdness into creepiness, I just give Harry
 >
-> because whenever I'm wondering what it is with middle-aged white guys
->
-> turning their weirdness into creepiness,
->
-> I just give Harry a call and ask him.
->
-> And whenever I cannot reach him, I'm just gonna phone Marcus.
+> a call and ask him, and whenever I cannot reach him, I'm just going to phone Marcus.
 >
 > Same spectrum, same spectrum.
 >
-> I mean, Harry tries desperately with his comedy
+> I mean, Harry tries desperately with his comedy to be as sexy as a sweet potato, but I told
 >
-> to be as sexy as a sweet potato.
+> him recently, "Harry, the only thing you and a sweet potato have in common is that at some
 >
-> But I told him recently,
+> point they're getting fried.
 >
-> "Harry, the only thing you and a sweet potato have in common
+> The sweet potato is getting more delicious, and your skin is so fried by the sun you look
 >
-> "is that at some point, they're getting fried.
+> like Donatella Versace."
 >
-> "A sweet potato is getting more delicious,
+> And I mean Donatella now, not the coked-up, swollen-up 80s version of Donatella, where
 >
-> "and your skin is so fried by the sun,
+> you were like, "Yeah, I'd do that, you know, after a couple of drinks.
 >
-> "you look like Donatella Versace.
+> She's rich.
 >
-> "And I mean Donatella now.
->
-> "Not the coked-up, swollen-up 80s version of Donatella,
->
-> "where you were like, 'Yeah, I'd do that,'
->
-> "you know, after, like, a couple of drinks.
->
-> "She's rich.
->
-> "And maybe meet her brother, because I'm secretly gay,
->
-> "and I'm gonna, you know,
->
-> "I'm gonna meet Johnny."
+> I'd maybe meet her brother, because I'm secretly gay, and I want to meet Johnny."
 >
 > But no, Harry's just trying.
 >
-> Harry Fox, his face and his name
+> Harry Fox, his face and his name have disappointed more women than Tiger Woods.
 >
-> have disappointed more women than Tiger Woods.
+> They've disappointed more women than Sex and the City 2.
 >
-> They have disappointed more women than Sex and the City 2.
->
-> They have disappointed more women than Harvey Weinstein.
+> They've disappointed more women than Harvey Weinstein.
 >
 > Too much?
 >
@@ -88,962 +66,320 @@ notes: ""
 >
 > He's a power bottom.
 >
-> I mean, really, he can take it.
+> I mean, really.
 >
-> I mean, give him a good look and tell me
+> He can take it.
 >
-> you wouldn't be worried if you were driving by your child's school,
+> I mean, give him a good look and tell me you wouldn't be worried if you were driving by
 >
-> slowly,
+> your child's school, slowly, in that lightly lemon-colored van, trying to sell your children
 >
-> in that lightly lemon-colored van,
->
-> trying to sell your children candy.
+> candy.
 >
 > No, he wouldn't do that.
 >
 > He has two children of his own.
 >
-> Sadly, he didn't bring them.
+> Sadly, he didn't bring 'em.
 >
-> I wanted him to bring his son,
+> I wanted him to bring his son, just to show his son, "You have no chance, Gromia.
 >
-> just to show his son.
+> You're not normal with a father named Harry Fox."
 >
-> You have no chance growing up normal
+> So, ladies and gentlemen, give it up for a guy who will always be overshadowed by his
 >
-> with a father named Harry Fox.
->
-> So, ladies and gentlemen,
->
-> give it up for a guy
->
-> who will always be overshadowed by his own name.
+> own name.
 >
 > Give it up for Harry Fox!
 >
-> I mean, am I right in feeling
->
-> that the penis and the appearance of a sex offender?
+> I mean, am I right if you look at the penis and the appearance of a sex offender?
 >
 > Yes, I am.
 >
-> Even if you wouldn't dare to say it
->
-> because he's standing here.
->
-> I dare.
->
-> I state the truth.
+> Even if you wouldn't dare to say it because you're standing here, I dare, I say the truth.
 >
 > Therefore, I'm dangerous with a microphone.
 >
 > Give a huge round of applause for Harry again!
 >
-> So, my name is actually Harry Fox.
+> So my name is actually Harry Fox.
 >
-> It's a German name.
+> It's a German name, spelled F-U-C-K-S, I repeat, F-U-C-K-S, but when I'm in a room with English
 >
-> Spelled F-U-C-K-S.
+> speakers like this, a lot of you think my name is Harry Fox.
 >
-> I repeat, F-U-C-K-S.
+> My name is not Harry Fox, and in my family, when we have a family get-together, we get
 >
-> But when I'm in a room with English speakers like this,
+> very upset when you call us a group of fuckers.
 >
-> a lot of you think my name is Harry Fox.
->
-> My name is not Harry Fox.
->
-> And in my family,
->
-> when we have a family get-together,
->
-> we get very upset
->
-> when you call us a group of fuckers.
->
-> Oh, I thought it was going to be a fuck-fest.
+> "Oh, I thought it was going to be a fuck-fest."
 >
 > I'm sure you did.
 >
 > And I have two kids.
 >
-> I've had to call them "how-but" and "what-but".
+> I've had to call them "Halberd" and "Walder," just so I can get started.
 >
-> Just so we can get started.
+> The real problem with a name like Harry Fox is it sets a very high level of expectation,
 >
-> The real problem with a name like Harry Fox
+> and there just hasn't been enough fucking...
 >
-> is it sets a very high level of expectation.
->
-> And that just hasn't been enough.
->
-> In fact, if I can share this with you,
->
-> it has actually been a long time since I've had sex.
+> If I can share this with you, it has actually been a long time since I've had sex.
 >
 > Put your hands up if you haven't had sex in a long time.
 >
 > Obviously.
 >
-> I'm going to write a book called "The Joy of No Sex".
+> He's going to write a book called "The Joy of No Sex," but no, I hadn't realized I was
 >
-> But, no, I hadn't realized that
+> coming to the Basel Nymphomaniacs Anonymous meeting, so maybe if I can just explain my
 >
-> I was coming to the
+> condition a bit, how it is when you haven't had sex in a long time, because it's kind
 >
-> Basel Nymphomaniacs Anonymous meeting today.
+> of like you're hallucinating.
 >
-> So, maybe if I can just explain my condition a bit,
+> You could be walking down the street, you see a couple of dogs sniffing each other's
 >
-> how it is when you haven't had sex in a long time.
+> asses, you look at them and think, "I wish that was me."
 >
-> Because it's kind of like you're hallucinating.
+> Or you go into Migros, you spot an acción on a watermelon, you get one hand on that
 >
-> You could be walking down the street.
+> watermelon, maybe two, BAM, it's like you're in a new dimension, it's just you and that
 >
-> You see a couple of dogs
+> watermelon.
 >
-> sniffing each other's asses.
+> It's getting hot, it's getting steamy, you don't care about all the people watching,
 >
-> You look at them and think,
+> and then you hear this voice saying, "You're the man's shaman," and you look and there's
 >
-> "I wish that was me."
+> an old lady about to hit you with her handbag, and you think, "She's nice."
 >
-> Well, you go into migros.
+> Do you know what makes this even more depressing, is that even at my age, I don't really know
 >
-> You go into migros.
+> if I'm any good at sex, because I read recently, to be good at anything, it takes 10,000 hours.
 >
-> You spot an axion on a watermelon.
+> 10,000 hours is a lot of fucking hours.
 >
-> You get one hand on that watermelon.
+> I mean, if I add it all up, maybe, maybe I get to 5,000 hours, if I include masturbation.
 >
-> Maybe two.
+> But I did some maths on this, and I'm like, "I've got to figure this out," because what
 >
-> Bam!
+> I've discovered is if you fuck for 24 hours a day for an entire year, you're only at 8,000
 >
-> It's like you're in a new dimension.
+> hours.
 >
-> It's just you and that watermelon.
+> If you live to 70, you need to fuck 10 times a day, from the day you are born, until the
 >
-> It's getting hot.
+> day you die.
 >
-> It's getting steamy.
+> And I don't know what's worse about that, the idea of newborn babies fucking, or the
 >
-> You don't care about all the people watching.
+> thought of sex with old people, of the day they're dying.
 >
-> And then you hear this voice saying,
+> But you know what makes this even more depressing, is that right here, right now, when I look
 >
-> "You're the man shaman's."
+> at all of you wasting time listening to me, I know that all of you must suck at sex, too.
 >
-> You say, "Can you look?"
+> It's incredible.
 >
-> And there's an old lady about to hit you with her handbag.
+> Okay, someone here is like, "This is bullshit, I know I'm good at sex," like Mr. Leatherjacket
 >
-> And you think,
+> over there.
 >
-> "She's nice."
+> He's already got his girlfriend, his girlfriend hit me for it, wow.
 >
-> Do you know what makes this even more depressing?
+> Listen, I'm sorry, but I hate to break this to you, but there are only two types of people
 >
-> It's that even at my age,
->
-> I don't really know if I'm any good at sex.
->
-> Because I read recently,
->
-> to be good at anything,
->
-> it takes 10,000 hours.
->
-> 10,000 hours is a lot of fucking time.
->
-> Yes, it is.
->
-> I mean, if I add it all up,
->
-> maybe,
->
-> maybe I get to 5,000 hours
->
-> if I include masturbation.
->
-> But I did some maths on this,
->
-> and I'm like,
->
-> "I've got to figure this out."
->
-> What I've discovered is
->
-> if you fuck for 24 hours a day
->
-> for an entire year,
->
-> you're only at 8,000 hours.
->
-> If you live to 70,
->
-> you need to fuck 10 times a day.
->
-> From the day you are born
->
-> until the day you die.
->
-> And I don't know what's worse about that,
->
-> the idea of newborn babies fucking,
->
-> or the thought of sex with old people
->
-> on the day they're dying.
->
-> But you know what makes this even more depressing?
->
-> It's that right here, right now,
->
-> when I look at all of you
->
-> wasting time listening to me,
->
-> I know that all of you
->
-> must suck at sex, too.
->
-> Okay, someone here is like,
->
-> "This is bullshit.
->
-> "I know I'm good at sex."
->
-> Like Mr. Leather Jacket over there.
->
-> He's already got his girlfriend,
->
-> his girlfriend pimping for him.
->
-> Wow.
->
-> Listen, I'm sorry,
->
-> but I hate to break this to you.
->
-> There are only two types of people
->
-> that think they're good at sex.
->
-> Prostitutes and compulsive liars.
+> that think they're good at sex, prostitutes and compulsive liars.
 >
 > You know you're a hoe.
 >
-> No, but, yeah, I don't know.
+> No, but, yeah, I don't know, do we have anyone here with a Swiss girlfriend?
 >
-> Do we have anyone here with a Swiss girlfriend?
+> Oh, okay, yeah, we got, okay, I'm going to take these guys, because, what's your name,
 >
-> Oh, okay.
+> sir?
 >
-> Here we go.
+> - Janik.
 >
-> Okay, I'm going to take these guys.
+> - Janik?
 >
-> What's your name, sir?
+> - Janik.
 >
-> Jane.
+> - Janik, I'm sorry, I don't know what your name for it is, and what's your name, ma'am?
 >
-> Jane?
+> - Leonie.
 >
-> Janick.
+> - Leonie, that's a beautiful name, beautiful couple, wow, sat on the floor, so much commitment
 >
-> Janick.
+> together.
 >
-> Okay, Janick, whatever it is.
+> You know, and I'm happy for you, because a year ago, today, on Valentine's Day, I was
 >
-> And what's your name, ma'am?
+> dumped by my first Swiss girlfriend.
 >
-> Leonie.
+> I mean, admittedly, I had forgotten it was Valentine's Day, and now I will never forget
 >
-> Leonie.
+> ever again.
 >
-> That's a beautiful name.
+> But I did learn a lot from my Swiss girlfriend, and, you know, one of the things is I learned
 >
-> Beautiful couple.
+> that Swiss women have certain key phrases, like, if Leonie says to you, she says, "Oh,
 >
-> Wow, sat on the floor,
+> shitsley, this is a good thing," this means that later on there's a high chance of sexual
 >
-> so much commitment together.
+> favors.
 >
-> You know, and I'm happy for you.
+> But if she says to you, "Shuts, this is a bad thing, you should probably spend the night
 >
-> And I'm happy for you,
+> on the sofa," especially this sofa with these three ladies, that wouldn't be a bad decision.
 >
-> because a year ago today on Valentine's Day,
+> And if she says to you, "This is a great thing," this means she's as horny as a whore, wow.
 >
-> I was dumped by my first Swiss girlfriend.
+> Okay, you have to think about that one a little bit.
 >
-> Thank you.
+> Or if she says to you, "Now, this one's a little bit confusing, but under no circumstances
 >
-> Thank you.
+> should you try to lick her asshole," unless she says, "This is an schiestreck," in which
 >
-> I mean, admittedly,
+> case you could try to lick her asshole, but you might be in for a nasty surprise.
 >
-> I had forgotten it was Valentine's Day.
->
-> And now I will never forget ever again.
->
-> But I did learn a lot from my Swiss girlfriend.
->
-> And, you know, one of the things is
->
-> I learned that Swiss women have certain key phrases.
->
-> Like if Leonie says to you, she says,
->
-> "Oh, shitly, this is a good thing."
->
-> This means that later on,
->
-> there's a high chance of sexual favors.
->
-> But if she says to you,
->
-> "Shut!"
->
-> This is a bad thing.
->
-> You should probably spend the night on the sofa,
->
-> especially this sofa with these three ladies.
->
-> That wouldn't be a bad decision.
->
-> And if she says to you,
->
-> "Hurrakaya!"
->
-> This is a great thing.
->
-> This means she's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> She's as horny as a whore.
->
-> And if she says to you,
->
-> "Hurrakaya!"
->
-> This is a great thing.
->
-> This means she's as horny as a whore.
->
-> Wow.
->
-> Okay.
->
-> You have to think about that one a little bit.
->
-> Or if she says to you,
->
-> "Lek mich doch amarsch!"
->
-> Now, this one's a little bit confusing,
->
-> but under no circumstances should you try to lick her asshole.
->
-> Unless,
->
-> unless she says,
->
-> "Es ein schießtreck!"
->
-> In which case,
->
-> she says,
->
-> "Es ein schießtreck!"
->
-> "Es ein schießtreck!"
->
-> "Es ein schießtreck!"
->
-> "Es ein schießtreck!"
->
-> "Es ein schießtreck!"
->
-> Unless,
->
-> unless she says,
->
-> "Es ein schießtreck!"
->
-> In which case,
->
-> you could try to lick her asshole,
->
-> but you might be in for a nasty surprise.
->
-> But you know,
->
-> okay.
->
-> But you know,
->
-> so I'm single.
->
-> I've been,
->
-> I've been dating a bit.
->
-> And you know,
+> But, you know, okay, but, you know, so I'm single, I've been dating a bit, and, you know,
 >
 > dating's really hard these days.
 >
-> Actually,
+> Actually, I think dating is actually especially hard for women, because I read a statistic
 >
-> I think dating is actually especially hard for women.
+> recently that almost 50% of men between the ages of 20 and 40 sent a dick pic in the last
 >
-> Because,
->
-> I read a statistic recently,
->
-> that almost 50% of women
->
-> are single.
->
-> I mean,
->
-> if you're single,
->
-> if you're in a relationship,
->
-> I mean,
->
-> if you're in a relationship,
->
-> if you're in a relationship,
->
-> if you're in a relationship,
->
-> I mean,
->
-> if you're in a relationship,
->
-> 50% of men between the ages of 20 and 40
->
-> sent a dick pic in the last 12 months.
+> 12 months.
 >
 > I'm just looking around here.
 >
-> This guy looks a bit dick picky.
+> This guy looks a bit dick-picky, I don't know.
 >
-> I don't know.
+> Yeah, but he's even prouder of the dick pics.
 >
-> Yeah,
+> But ladies, that might be a hard number to visualize, but, like, if you gave your number
 >
-> but he's even proud of the dick pics.
+> to 10 guys in this room, it's like, by Christmas time, you've got a stack of five dicks on
 >
-> But ladies,
+> your phone.
 >
-> that might be a hard number to visualize.
+> You can just print them out, hang them from your Christmas tree, get your Christmas cards.
 >
-> But like,
+> Now, I don't take dick pics myself, believe it or not, but, and the reason for that is
 >
-> if you gave your number to 10 guys in this room tonight,
+> actually it's not because I think it's wrong, it's because I'm a bit of a perfectionist.
 >
-> by Christmas time,
+> Because taking a quality dick pic, that's hard, you know, you've got to learn to think
 >
-> you got a stack of five dicks on your phone.
->
-> You can just print them out,
->
-> hang them from your Christmas tree,
->
-> at your Christmas class.
->
-> Now,
->
-> I don't take dick pics myself.
->
-> Believe it or not.
->
-> And the reason for that is actually,
->
-> it's not because I think it's wrong,
->
-> it's because I'm a bit of a perfectionist.
->
-> Because taking a quality dick pic,
->
-> that's hard,
->
-> you know.
->
-> You've got to learn to think about it.
+> about it.
 >
 > You've got to think about the lighting.
 >
-> Do you go for some soft tone
+> Do you go for some soft tone to bring out the skin color, or maybe something more red
 >
-> to bring in the light?
+> and erotic?
 >
-> Do you go for a little bit of light?
+> And on Valentine's Day, do you need some props, like some roses around here?
 >
-> Do you go for some light?
+> Do I want to risk pricking my dick?
 >
-> Do you go for a little bit of light?
+> And it's also, it's a selfie.
 >
-> Do you go for a little bit of light?
+> You've got to think about the angle.
 >
-> Do you go for a little bit of light?
+> Is it like here, or here, or something like this?
 >
-> Do you go for a little bit of light?
+> Luckily I'm a bit of an entrepreneur.
 >
-> Do you go for a little bit of light?
+> That's why I invented the dick pic selfie stick.
 >
-> Do you go for a little bit of light?
+> And for you guys tonight, special offer on dickpicselfiestick.com, $29.99.
 >
-> Do you go for a little bit of light?
+> But, okay, I should apologize, because, you know, I've been telling a lot of dark sexual
 >
-> Do you go for a little bit of light?
+> jokes, and honestly, I think it goes back to my childhood, because when I was seven,
 >
-> Do you go for a little bit of light?
+> something terrible happened.
 >
-> Do you go for a little bit of light?
+> That's right, I was circumcised.
 >
-> Do you go for a little bit of light?
+> Okay, judging by this reaction, not a lot of you understand circumcision.
 >
-> Do you go for a little bit of light?
+> Come and talk to me after, I'll show you.
 >
-> Do you go for a little bit of light?
+> But what began as a very traumatic childhood experience in adult life, has turned into
 >
-> Do you go for a little bit of light?
+> a real advantage, because on those rare occasions where a woman finds her head close to the
 >
-> Do you go for a little bit of light?
+> tip of my penis, she will invariably sigh, like, "Ugh."
 >
-> Do you go for a little bit of light?
+> And I'll be like, "Hey, why are you sighing on my penis?"
 >
-> Do you go for a little bit of light?
+> And she will say, "You have no idea how many dirty dicks there are out there."
 >
-> Do you go for a little bit of light?
+> And what I learned, what I learned is that amongst my uncut brethren, a lot of you guys
 >
-> Do you go for a little bit of light?
+> are not putting in enough attention in this area.
 >
-> Do you go for a little bit of light?
+> So I thought I'd just wrap up with a few tips to help you make your woman's life more pleasant,
 >
-> Do you go for a little bit of light?
+> especially on Valentine's Day, that's important.
 >
-> Do you go for a little bit of light?
+> So you know like in your car, you've got that wunderbaum just hanging from the rear view
 >
-> Do you go for a little bit of light?
+> mirror?
 >
-> Do you go for a little bit of light?
+> Just hang it from your penis.
 >
-> Do you go for a little bit of light?
+> You know, women are very sensitive to smell, that will immediately make their life more
 >
-> Do you go for a little bit of light?
+> pleasant.
 >
-> Do you go for a little bit of light?
+> Or another thing you can do is just like up here, up above your penis, just tattoo a pleasant
 >
-> Do you go for a little bit of light?
+> scene.
 >
-> Do you go for a little bit of light?
+> Like a field of green grass with some flowers growing, maybe a tree with a few birds singing.
 >
-> Do you go for a little bit of light?
+> Something to help take her mind off the disgusting act she has to perform.
 >
-> Do you go for a little bit of light?
+> But looking around, I've seen you're not really believing that these are real solutions.
 >
-> Do you go for a little bit of light?
+> So I've got a simpler one, a simpler one for you guys.
 >
-> Do you go for a little bit of light?
+> All you've got to do is bring a box of crackers.
 >
-> Do you go for a little bit of light?
+> And while she's down there, just give her the crackers.
 >
-> Do you go for a little bit of light?
+> Because cheese goes really well with crackers.
 >
-> Do you go for a little bit of light?
+> Woo-hoo-hoo-hoo-hoo!
 >
-> Do you go for a little bit of light?
+> Woo-woo-woo-woo-woo!
 >
-> Do you go for a little bit of light?
+> Oh, I love that.
 >
-> Do you go for a little bit of light?
+> I love that because you know why?
 >
-> Do you go for a little bit of light?
+> Because it means that no one here is getting sex tonight.
 >
-> Do you go for a little bit of light?
+> And now we're all in one scene together.
 >
-> Do you go for a little bit of light?
+> Woo!
 >
-> Do you go for a little bit of light?
+> Wow.
 >
-> Do you go for a little bit of light?
+> All right, thank you guys.
 >
-> Do you go for a little bit of light?
+> Woo-woo-woo-woo-woo-woo!
 >
-> Do you go for a little bit of light?
+> Give it up for Harry Potter!
 >
-> Do you go for a little bit of light?
+> Woo-woo-woo-woo-woo-woo!
 >
-> Do you go for a little bit of light?
+> Cheese likes that one thing.
 >
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> Do you go for a little bit of light?
->
-> I thought one thing.
+> Okay.

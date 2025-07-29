@@ -3,7 +3,7 @@
 	"model": {
 		"type": "large",
 		"multilingual": true,
-		"vocab": 51866,
+		"vocab": 51865,
 		"audio": {
 			"ctx": 1500,
 			"state": 1280,
@@ -16,11 +16,11 @@
 			"head": 20,
 			"layer": 32
 		},
-		"mels": 128,
+		"mels": 80,
 		"ftype": 1
 	},
 	"params": {
-		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
 		"language": "en",
 		"translate": false
 	},
@@ -31,1454 +31,629 @@
 		{
 			"timestamps": {
 				"from": "00:00:00,000",
-				"to": "00:00:05,720"
+				"to": "00:00:06,520"
 			},
 			"offsets": {
 				"from": 0,
-				"to": 5720
+				"to": 6520
 			},
-			"text": " Okay, now, ladies and gentlemen, I want to bring up the first comic of our"
+			"text": " Okay, now. Ladies and gentlemen, I want to bring up the first comic of our second half."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:05,720",
-				"to": "00:00:06,500"
+				"from": "00:00:06,520",
+				"to": "00:00:10,360"
 			},
 			"offsets": {
-				"from": 5720,
-				"to": 6500
+				"from": 6520,
+				"to": 10360
 			},
-			"text": " second half."
+			"text": " He's very funny, ladies and gentlemen. He's been living here for a very long time, but"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:06,500",
-				"to": "00:00:09,910"
+				"from": "00:00:10,360",
+				"to": "00:00:16,200"
 			},
 			"offsets": {
-				"from": 6500,
-				"to": 9910
+				"from": 10360,
+				"to": 16200
 			},
-			"text": " He's very funny, ladies and gentlemen. He's been living here for a very long"
+			"text": " originally he's from the UK. And yes, this name, his name, is completely real. Ladies"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:09,910",
-				"to": "00:00:11,600"
+				"from": "00:00:16,200",
+				"to": "00:00:23,200"
 			},
 			"offsets": {
-				"from": 9910,
-				"to": 11600
+				"from": 16200,
+				"to": 23200
 			},
-			"text": " time, but originally he's from the UK."
+			"text": " and gentlemen, give it up, it's Harry Fox, everybody! Give it up!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:11,600",
-				"to": "00:00:15,540"
+				"from": "00:00:31,000",
+				"to": "00:00:43,000"
 			},
 			"offsets": {
-				"from": 11600,
-				"to": 15540
+				"from": 31000,
+				"to": 43000
 			},
-			"text": " And yes, this name, his name, is completely real."
+			"text": " So my name is actually Harry Fux. It's a German name, it's spelled F-U-C-K-S. I repeat, F-U-C-K-S."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:15,540",
-				"to": "00:00:19,720"
+				"from": "00:00:43,000",
+				"to": "00:00:48,000"
 			},
 			"offsets": {
-				"from": 15540,
-				"to": 19720
+				"from": 43000,
+				"to": 48000
 			},
-			"text": " Ladies and gentlemen, give it up, it's Harry Fox, everybody! Give it up!"
+			"text": " But when I'm in a room with English speakers like this, a lot of people think my name is"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:30,000",
-				"to": "00:00:34,640"
+				"from": "00:00:48,000",
+				"to": "00:00:55,000"
 			},
 			"offsets": {
-				"from": 30000,
-				"to": 34640
+				"from": 48000,
+				"to": 55000
 			},
-			"text": " So my name is actually Harry Fuchs."
+			"text": " Harry Fox. My name is not Harry Fox. Because in my family, when we have a family get-together,"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:34,640",
-				"to": "00:00:42,780"
+				"from": "00:00:55,000",
+				"to": "00:01:05,000"
 			},
 			"offsets": {
-				"from": 34640,
-				"to": 42780
+				"from": 55000,
+				"to": 65000
 			},
-			"text": " It's a German name, it's spelled F-U-C-K-S, I repeat, F-U-C-K-S."
+			"text": " we get very upset when you call us a group of fuckers. And I have two kids. I had to"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:42,780",
-				"to": "00:00:47,420"
+				"from": "00:01:05,000",
+				"to": "00:01:16,000"
 			},
 			"offsets": {
-				"from": 42780,
-				"to": 47420
+				"from": 65000,
+				"to": 76000
 			},
-			"text": " Boy, I'm in a room with English speakers like this, a lot of you would think my"
+			"text": " call them \"how the\" and \"what the\". It's a hard life. But you know, maybe we can immediately"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:47,420",
-				"to": "00:00:48,740"
+				"from": "00:01:16,000",
+				"to": "00:01:22,000"
 			},
 			"offsets": {
-				"from": 47420,
-				"to": 48740
+				"from": 76000,
+				"to": 82000
 			},
-			"text": " name is Harry Fox."
+			"text": " go, \"I need to share something with you, because not so long ago, I got dumped by my first"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:48,740",
-				"to": "00:00:52,220"
+				"from": "00:01:22,000",
+				"to": "00:01:28,000"
 			},
 			"offsets": {
-				"from": 48740,
-				"to": 52220
+				"from": 82000,
+				"to": 88000
 			},
-			"text": " My name is not Harry Fox."
+			"text": " Swiss girlfriend.\" Thank you, I appreciate that. I was heartbroken, but on the plus side,"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:52,220",
-				"to": "00:00:56,740"
+				"from": "00:01:28,000",
+				"to": "00:01:34,000"
 			},
 			"offsets": {
-				"from": 52220,
-				"to": 56740
+				"from": 88000,
+				"to": 94000
 			},
-			"text": " Because in my family, when we have a family get-together, we get very upset"
+			"text": " it did make me an expert on all Swiss women. And what I learnt is that Swiss women, they"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:56,740",
-				"to": "00:00:59,860"
+				"from": "00:01:34,000",
+				"to": "00:01:38,000"
 			},
 			"offsets": {
-				"from": 56740,
-				"to": 59860
+				"from": 94000,
+				"to": 98000
 			},
-			"text": " when you call us a group of fuckers."
+			"text": " don't communicate very well, especially when it comes to their men. And the reason for"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:00,000",
-				"to": "00:01:03,220"
+				"from": "00:01:38,000",
+				"to": "00:01:45,000"
 			},
 			"offsets": {
-				"from": 60000,
-				"to": 63220
+				"from": 98000,
+				"to": 105000
 			},
-			"text": " And I have two kids."
+			"text": " this is that it wasn't until 1991 that the last canton of Appenzell, Innerhorden, finally"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:03,220",
-				"to": "00:01:07,860"
+				"from": "00:01:45,000",
+				"to": "00:01:55,000"
 			},
 			"offsets": {
-				"from": 63220,
-				"to": 67860
+				"from": 105000,
+				"to": 115000
 			},
-			"text": " I had to call them how-the and what-the."
+			"text": " agreed to give women the right to have orgasms. So I thought, you know, maybe if there are"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:07,860",
-				"to": "00:01:11,900"
+				"from": "00:01:55,000",
+				"to": "00:02:01,000"
 			},
 			"offsets": {
-				"from": 67860,
-				"to": 71900
+				"from": 115000,
+				"to": 121000
 			},
-			"text": " It's a hard life."
+			"text": " any guys who you end up with a Swiss girlfriend, I prepared a few key phrases for you, so that"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:11,900",
-				"to": "00:01:17,620"
+				"from": "00:02:01,000",
+				"to": "00:02:07,000"
 			},
 			"offsets": {
-				"from": 71900,
-				"to": 77620
+				"from": 121000,
+				"to": 127000
 			},
-			"text": " But, you know, maybe we can immediately go, I need to share something with you,"
+			"text": " you can understand her better. For example, if she says to you, \"Oh, schätzli\", this"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:17,620",
-				"to": "00:01:22,800"
+				"from": "00:02:07,000",
+				"to": "00:02:14,000"
 			},
 			"offsets": {
-				"from": 77620,
-				"to": 82800
+				"from": 127000,
+				"to": 134000
 			},
-			"text": " because, you know, not so long ago, I got dumped by my first Swiss girlfriend."
+			"text": " is a good thing. This means there is a high chance of sexual favors, actually. But if"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:22,800",
-				"to": "00:01:26,500"
+				"from": "00:02:14,000",
+				"to": "00:02:19,000"
 			},
 			"offsets": {
-				"from": 82800,
-				"to": 86500
+				"from": 134000,
+				"to": 139000
 			},
-			"text": " Thank you, I appreciate that. I was heartbroken."
+			"text": " she says, \"Schatz\", this is a bad thing. That means you should probably spend the night"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:26,500",
-				"to": "00:01:29,980"
+				"from": "00:02:19,000",
+				"to": "00:02:27,000"
 			},
 			"offsets": {
-				"from": 86500,
-				"to": 89980
+				"from": 139000,
+				"to": 147000
 			},
-			"text": " But on the plus side, it did make me an expert."
+			"text": " on the sofa. But if she says to you, \"Oh, le geil\", this is a good thing. This means"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:30,000",
-				"to": "00:01:31,460"
+				"from": "00:02:27,000",
+				"to": "00:02:36,000"
 			},
 			"offsets": {
-				"from": 90000,
-				"to": 91460
+				"from": 147000,
+				"to": 156000
 			},
-			"text": " I was an expert on all Swiss women."
+			"text": " I'm as horny as a whore. But if she says to you, \"Leck mich doch am Arsch\", under no circumstances"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:31,460",
-				"to": "00:01:35,290"
+				"from": "00:02:36,000",
+				"to": "00:02:44,000"
 			},
 			"offsets": {
-				"from": 91460,
-				"to": 95290
+				"from": 156000,
+				"to": 164000
 			},
-			"text": " And what I learned is that Swiss women, they don't communicate very well,"
+			"text": " should you try to lick her asshole. Unless, unless she says to you, \"Das ist ein Schießdreck\","
 		},
 		{
 			"timestamps": {
-				"from": "00:01:35,290",
-				"to": "00:01:37,360"
+				"from": "00:02:44,000",
+				"to": "00:02:49,000"
 			},
 			"offsets": {
-				"from": 95290,
-				"to": 97360
+				"from": 164000,
+				"to": 169000
 			},
-			"text": " especially when it comes to their men."
+			"text": " in which case you could think about licking her asshole, but you might be in for a nasty"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:37,360",
-				"to": "00:01:42,520"
+				"from": "00:02:49,000",
+				"to": "00:02:58,000"
 			},
 			"offsets": {
-				"from": 97360,
-				"to": 102520
+				"from": 169000,
+				"to": 178000
 			},
-			"text": " And the reason for this is that it wasn't until 1991 that the last canton of"
+			"text": " surprise. Yeah, I know. But, you know, since then, since then, I'm currently facing a really"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:42,520",
-				"to": "00:01:48,120"
+				"from": "00:02:58,000",
+				"to": "00:03:03,000"
 			},
 			"offsets": {
-				"from": 102520,
-				"to": 108120
+				"from": 178000,
+				"to": 183000
 			},
-			"text": " Appenzell-Innerhornden finally agreed to give women the right to have orgasms."
+			"text": " hard decision. Because I started seeing this other woman, it's very casual right now, just"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:48,120",
-				"to": "00:01:55,800"
+				"from": "00:03:03,000",
+				"to": "00:03:11,000"
 			},
 			"offsets": {
-				"from": 108120,
-				"to": 115800
+				"from": 183000,
+				"to": 191000
 			},
-			"text": " So I thought, you know, maybe if there are any guys who you end up with a Swiss"
+			"text": " coming off, but yesterday she asked me, for her birthday, if I would buy her a dildo."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:55,800",
-				"to": "00:01:59,120"
+				"from": "00:03:11,000",
+				"to": "00:03:16,000"
 			},
 			"offsets": {
-				"from": 115800,
-				"to": 119120
+				"from": 191000,
+				"to": 196000
 			},
-			"text": " girlfriend, I prepared a few key phrases."
+			"text": " Now, first of all, I was like, \"Oh, wow, I'm really touched.\" I'd say, \"Our relationships"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:00,000",
-				"to": "00:02:02,620"
+				"from": "00:03:16,000",
+				"to": "00:03:22,000"
 			},
 			"offsets": {
-				"from": 120000,
-				"to": 122620
+				"from": 196000,
+				"to": 202000
 			},
-			"text": " So you can understand her better."
+			"text": " reached a new level.\" But then I got online and I took a look and I realized that choosing"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:02,620",
-				"to": "00:02:08,380"
+				"from": "00:03:22,000",
+				"to": "00:03:28,000"
 			},
 			"offsets": {
-				"from": 122620,
-				"to": 128380
+				"from": 202000,
+				"to": 208000
 			},
-			"text": " For example, if she says to you, oh, shetsly, this is a good thing, this means"
+			"text": " a dildo is really hard, you know. You've got a lot to think about. The size, the shape,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:08,380",
-				"to": "00:02:12,300"
+				"from": "00:03:28,000",
+				"to": "00:03:34,000"
 			},
 			"offsets": {
-				"from": 128380,
-				"to": 132300
+				"from": 208000,
+				"to": 214000
 			},
-			"text": " there is a high chance of sexual favors, actually."
+			"text": " the vibrational frequency. I studied physics, I have to think about these things. And, you"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:12,300",
-				"to": "00:02:17,060"
+				"from": "00:03:34,000",
+				"to": "00:03:39,000"
 			},
 			"offsets": {
-				"from": 132300,
-				"to": 137060
+				"from": 214000,
+				"to": 219000
 			},
-			"text": " But if she says, like, shuts, this is a bad thing, that means you should"
+			"text": " know, even the color. I don't even know what color would be appropriate. So I thought maybe"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:17,060",
-				"to": "00:02:19,800"
+				"from": "00:03:39,000",
+				"to": "00:03:44,000"
 			},
 			"offsets": {
-				"from": 137060,
-				"to": 139800
+				"from": 219000,
+				"to": 224000
 			},
-			"text": " probably spend the night on the sofa."
+			"text": " tonight, maybe tonight I could ask the ladies here to help me out. Would you help me out"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:19,800",
-				"to": "00:02:27,800"
+				"from": "00:03:44,000",
+				"to": "00:03:50,000"
 			},
 			"offsets": {
-				"from": 139800,
-				"to": 147800
+				"from": 224000,
+				"to": 230000
 			},
-			"text": " But if she says to you, poor guy, this is a good thing, this means I'm as horny"
+			"text": " with this problem? Because, you know, I know that you're all angels. You would never own"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:27,800",
-				"to": "00:02:29,200"
+				"from": "00:03:50,000",
+				"to": "00:03:54,000"
 			},
 			"offsets": {
-				"from": 147800,
-				"to": 149200
+				"from": 230000,
+				"to": 234000
 			},
-			"text": " as a whore."
+			"text": " a dildo. Well, except for Tamara, perhaps, because she's in a long-term relationship,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:30,000",
-				"to": "00:02:36,640"
+				"from": "00:03:54,000",
+				"to": "00:04:02,000"
 			},
 			"offsets": {
-				"from": 150000,
-				"to": 156640
+				"from": 234000,
+				"to": 242000
 			},
-			"text": " But if she says to you, lick mich doch am Arsch, under no circumstances should"
+			"text": " a long distance. But, you know, just imagine this scenario. There's a terrorist bomb. It's"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:36,640",
-				"to": "00:02:38,560"
+				"from": "00:04:02,000",
+				"to": "00:04:08,000"
 			},
 			"offsets": {
-				"from": 156640,
-				"to": 158560
+				"from": 242000,
+				"to": 248000
 			},
-			"text": " you try to lick her asshole."
+			"text": " going to go off. The only way to stop it is a dildo. Okay? Are you with me? Can you help"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:38,560",
-				"to": "00:02:44,620"
+				"from": "00:04:08,000",
+				"to": "00:04:16,000"
 			},
 			"offsets": {
-				"from": 158560,
-				"to": 164620
+				"from": 248000,
+				"to": 256000
 			},
-			"text": " Unless, unless she says to you, das ist ein Schießdreck, in which case you"
+			"text": " me out? Would you help me out, ladies? Give me a little, woo! Holy shit, what happened"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:44,620",
-				"to": "00:02:49,500"
+				"from": "00:04:16,000",
+				"to": "00:04:21,000"
 			},
 			"offsets": {
-				"from": 164620,
-				"to": 169500
+				"from": 256000,
+				"to": 261000
 			},
-			"text": " could think about licking her asshole, but you might be in for a nasty surprise."
+			"text": " here? None of them own dildos here. Oh, my God. Well, let me try this on you. So let"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:49,500",
-				"to": "00:02:51,940"
+				"from": "00:04:21,000",
+				"to": "00:04:27,000"
 			},
 			"offsets": {
-				"from": 169500,
-				"to": 171940
+				"from": 261000,
+				"to": 267000
 			},
-			"text": " Yeah, I know."
+			"text": " me just ask you, like, we're going to test some color options. Like blue. Would you buy"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:51,940",
-				"to": "00:02:57,600"
+				"from": "00:04:27,000",
+				"to": "00:04:36,000"
 			},
 			"offsets": {
-				"from": 171940,
-				"to": 177600
+				"from": 267000,
+				"to": 276000
 			},
-			"text": " But, you know, since then, since then, I'm currently facing a really hard"
+			"text": " a blue dildo? No. Okay. What about yellow? Would you take a yellow dildo? No. Okay, good."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:57,600",
-				"to": "00:02:58,680"
+				"from": "00:04:36,000",
+				"to": "00:04:40,000"
 			},
 			"offsets": {
-				"from": 177600,
-				"to": 178680
+				"from": 276000,
+				"to": 280000
 			},
-			"text": " decision."
+			"text": " All right, let's try something a bit more realistic. What about something that's kind"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:58,680",
-				"to": "00:02:59,240"
+				"from": "00:04:40,000",
+				"to": "00:04:45,000"
 			},
 			"offsets": {
-				"from": 178680,
-				"to": 179240
+				"from": 280000,
+				"to": 285000
 			},
-			"text": " Because."
+			"text": " of peach or vanilla or light pink, you know? Would you choose that as a dildo? Is that"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:00,000",
-				"to": "00:03:03,280"
+				"from": "00:04:45,000",
+				"to": "00:04:53,000"
 			},
 			"offsets": {
-				"from": 180000,
-				"to": 183280
+				"from": 285000,
+				"to": 293000
 			},
-			"text": " I started seeing this other woman, it's very casual right now, just on and off,"
+			"text": " what I should do? Yes. Okay. Thank you for being so open. Anyone else? Is this what I"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:03,280",
-				"to": "00:03:10,200"
+				"from": "00:04:53,000",
+				"to": "00:05:03,000"
 			},
 			"offsets": {
-				"from": 183280,
-				"to": 190200
+				"from": 293000,
+				"to": 303000
 			},
-			"text": " but yesterday, she asked me, for her birthday, if I would buy her a dildo."
+			"text": " should do? Okay, let's just check. What about a black dildo? I'll get it. Wow, she looks"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:10,200",
-				"to": "00:03:14,720"
+				"from": "00:05:03,000",
+				"to": "00:05:09,000"
 			},
 			"offsets": {
-				"from": 190200,
-				"to": 194720
+				"from": 303000,
+				"to": 309000
 			},
-			"text": " Now, first of all, I was like, oh, wow, I'm really touched."
+			"text": " like a dildo pro over there. Thank you. Maybe we can talk about this later on. You can give"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:14,720",
-				"to": "00:03:17,220"
+				"from": "00:05:09,000",
+				"to": "00:05:13,000"
 			},
 			"offsets": {
-				"from": 194720,
-				"to": 197220
+				"from": 309000,
+				"to": 313000
 			},
-			"text": " It's like our relationships reached a new level."
+			"text": " me some good advice. But, you know, to me, what's really, I think I've learned what I"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:17,220",
-				"to": "00:03:22,210"
+				"from": "00:05:13,000",
+				"to": "00:05:19,000"
 			},
 			"offsets": {
-				"from": 197220,
-				"to": 202210
+				"from": 313000,
+				"to": 319000
 			},
-			"text": " But then I got online and I took a look, and I realized that choosing a dildo"
+			"text": " needed to know from this. Because, ladies, what you've told me is that your vaginas are"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:22,210",
-				"to": "00:03:24,260"
+				"from": "00:05:19,000",
+				"to": "00:05:27,000"
 			},
 			"offsets": {
-				"from": 202210,
-				"to": 204260
+				"from": 319000,
+				"to": 327000
 			},
-			"text": " is really hard, you know."
+			"text": " racist. Holy fuck! You had an option. You chose the white male patriarchal dildo. I"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:24,260",
-				"to": "00:03:29,720"
+				"from": "00:05:27,000",
+				"to": "00:05:34,000"
 			},
 			"offsets": {
-				"from": 204260,
-				"to": 209720
+				"from": 327000,
+				"to": 334000
 			},
-			"text": " You've got a lot to think about, the size, the shape, the vibrational frequency."
+			"text": " am shocked. Because my dick, my dick is not racist, you know, like green, red, whatever,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:30,000",
-				"to": "00:03:32,320"
+				"from": "00:05:34,000",
+				"to": "00:05:40,000"
 			},
 			"offsets": {
-				"from": 210000,
-				"to": 212320
+				"from": 334000,
+				"to": 340000
 			},
-			"text": " I've studied physics, I have to think about these things."
+			"text": " brown. My dick is just happy getting it anyway. But these racist vaginas in here, oh my God."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:32,320",
-				"to": "00:03:34,920"
+				"from": "00:05:40,000",
+				"to": "00:05:44,000"
 			},
 			"offsets": {
-				"from": 212320,
-				"to": 214920
+				"from": 340000,
+				"to": 344000
 			},
-			"text": " And, you know, even the color."
+			"text": " What are you going to do? Are you going to build a wall here, stop the Mexicans getting"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:34,920",
-				"to": "00:03:37,700"
+				"from": "00:05:44,000",
+				"to": "00:05:50,000"
 			},
 			"offsets": {
-				"from": 214920,
-				"to": 217700
+				"from": 344000,
+				"to": 350000
 			},
-			"text": " I don't even know what color would be appropriate."
+			"text": " in? When we get a group of vaginas together, do you start wearing pointy hats and burning"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:37,700",
-				"to": "00:03:42,170"
+				"from": "00:05:50,000",
+				"to": "00:05:58,000"
 			},
 			"offsets": {
-				"from": 217700,
-				"to": 222170
+				"from": 350000,
+				"to": 358000
 			},
-			"text": " So I thought, maybe tonight, maybe tonight, I could ask the ladies here to help"
+			"text": " crosses in your pants? Is there like a riot going on, going, \"Make vaginas great again\"?"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:42,170",
-				"to": "00:03:42,720"
+				"from": "00:05:58,000",
+				"to": "00:06:04,000"
 			},
 			"offsets": {
-				"from": 222170,
-				"to": 222720
+				"from": 358000,
+				"to": 364000
 			},
-			"text": " me out."
+			"text": " Is that what's happening here? I am shocked, ladies, you know? I am very shocked. Now you"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:42,720",
-				"to": "00:03:44,340"
+				"from": "00:06:04,000",
+				"to": "00:06:11,000"
 			},
 			"offsets": {
-				"from": 222720,
-				"to": 224340
+				"from": 364000,
+				"to": 371000
 			},
-			"text": " Would you help me out with this problem?"
+			"text": " have equal pay. You could at least invest some of that money in genital equality. All"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:44,340",
-				"to": "00:03:48,260"
+				"from": "00:06:11,000",
+				"to": "00:06:17,000"
 			},
 			"offsets": {
-				"from": 224340,
-				"to": 228260
+				"from": 371000,
+				"to": 377000
 			},
-			"text": " Because, you know, I know that you're all angels."
+			"text": " right. I think I can't be on stage here anymore with all these racist vaginas. I am shocked."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:48,260",
-				"to": "00:03:50,180"
+				"from": "00:06:17,000",
+				"to": "00:06:19,000"
 			},
 			"offsets": {
-				"from": 228260,
-				"to": 230180
+				"from": 377000,
+				"to": 379000
 			},
-			"text": " You would never own a dildo."
-		},
-		{
-			"timestamps": {
-				"from": "00:03:50,180",
-				"to": "00:03:54,050"
-			},
-			"offsets": {
-				"from": 230180,
-				"to": 234050
-			},
-			"text": " Well, except for Tamara, perhaps, because she's in a long-term relationship, a"
-		},
-		{
-			"timestamps": {
-				"from": "00:03:54,050",
-				"to": "00:03:54,940"
-			},
-			"offsets": {
-				"from": 234050,
-				"to": 234940
-			},
-			"text": " long distance."
-		},
-		{
-			"timestamps": {
-				"from": "00:03:54,940",
-				"to": "00:03:59,940"
-			},
-			"offsets": {
-				"from": 234940,
-				"to": 239940
-			},
-			"text": " But, you know, just imagine this scenario."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:00,280",
-				"to": "00:04:01,540"
-			},
-			"offsets": {
-				"from": 240280,
-				"to": 241540
-			},
-			"text": " There's a terrorist bomb."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:01,540",
-				"to": "00:04:02,560"
-			},
-			"offsets": {
-				"from": 241540,
-				"to": 242560
-			},
-			"text": " It's going to go off."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:02,560",
-				"to": "00:04:05,260"
-			},
-			"offsets": {
-				"from": 242560,
-				"to": 245260
-			},
-			"text": " The only way to stop it is a dildo."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:05,260",
-				"to": "00:04:05,780"
-			},
-			"offsets": {
-				"from": 245260,
-				"to": 245780
-			},
-			"text": " Okay?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:05,780",
-				"to": "00:04:07,020"
-			},
-			"offsets": {
-				"from": 245780,
-				"to": 247020
-			},
-			"text": " Are you with me?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:07,020",
-				"to": "00:04:08,140"
-			},
-			"offsets": {
-				"from": 247020,
-				"to": 248140
-			},
-			"text": " Can you help me out?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:08,140",
-				"to": "00:04:09,640"
-			},
-			"offsets": {
-				"from": 248140,
-				"to": 249640
-			},
-			"text": " Would you help me out with this?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:09,640",
-				"to": "00:04:11,720"
-			},
-			"offsets": {
-				"from": 249640,
-				"to": 251720
-			},
-			"text": " Give me a little..."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:11,720",
-				"to": "00:04:16,180"
-			},
-			"offsets": {
-				"from": 251720,
-				"to": 256180
-			},
-			"text": " Holy shit, what happened here?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:16,180",
-				"to": "00:04:18,240"
-			},
-			"offsets": {
-				"from": 256180,
-				"to": 258240
-			},
-			"text": " None of them own dildos here."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:18,240",
-				"to": "00:04:18,800"
-			},
-			"offsets": {
-				"from": 258240,
-				"to": 258800
-			},
-			"text": " Oh, my God."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:18,800",
-				"to": "00:04:20,960"
-			},
-			"offsets": {
-				"from": 258800,
-				"to": 260960
-			},
-			"text": " Well, let me try this on you."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:20,960",
-				"to": "00:04:24,260"
-			},
-			"offsets": {
-				"from": 260960,
-				"to": 264260
-			},
-			"text": " So let me just ask you, like, we're going to test some color options."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:24,260",
-				"to": "00:04:25,820"
-			},
-			"offsets": {
-				"from": 264260,
-				"to": 265820
-			},
-			"text": " Like, blue."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:25,820",
-				"to": "00:04:28,040"
-			},
-			"offsets": {
-				"from": 265820,
-				"to": 268040
-			},
-			"text": " Would you buy a blue dildo?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:28,040",
-				"to": "00:04:29,300"
-			},
-			"offsets": {
-				"from": 268040,
-				"to": 269300
-			},
-			"text": " No."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:30,000",
-				"to": "00:04:32,120"
-			},
-			"offsets": {
-				"from": 270000,
-				"to": 272120
-			},
-			"text": " What about yellow?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:32,120",
-				"to": "00:04:34,320"
-			},
-			"offsets": {
-				"from": 272120,
-				"to": 274320
-			},
-			"text": " Would you take a yellow dildo?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:34,320",
-				"to": "00:04:35,000"
-			},
-			"offsets": {
-				"from": 274320,
-				"to": 275000
-			},
-			"text": " No."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:35,000",
-				"to": "00:04:35,840"
-			},
-			"offsets": {
-				"from": 275000,
-				"to": 275840
-			},
-			"text": " Okay, good."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:35,840",
-				"to": "00:04:38,140"
-			},
-			"offsets": {
-				"from": 275840,
-				"to": 278140
-			},
-			"text": " All right, let's try something a bit more realistic."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:38,140",
-				"to": "00:04:42,800"
-			},
-			"offsets": {
-				"from": 278140,
-				"to": 282800
-			},
-			"text": " What about something that's kind of peach or vanilla or light pink, you know?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:42,800",
-				"to": "00:04:44,580"
-			},
-			"offsets": {
-				"from": 282800,
-				"to": 284580
-			},
-			"text": " Would you choose that as a dildo?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:44,580",
-				"to": "00:04:45,720"
-			},
-			"offsets": {
-				"from": 284580,
-				"to": 285720
-			},
-			"text": " Is that what I should do?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:45,720",
-				"to": "00:04:47,380"
-			},
-			"offsets": {
-				"from": 285720,
-				"to": 287380
-			},
-			"text": " Okay, yeah."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:47,380",
-				"to": "00:04:50,600"
-			},
-			"offsets": {
-				"from": 287380,
-				"to": 290600
-			},
-			"text": " Thank you for being so open."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:50,600",
-				"to": "00:04:51,460"
-			},
-			"offsets": {
-				"from": 290600,
-				"to": 291460
-			},
-			"text": " Anyone else?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:51,460",
-				"to": "00:04:53,540"
-			},
-			"offsets": {
-				"from": 291460,
-				"to": 293540
-			},
-			"text": " Is this what I should do?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:53,540",
-				"to": "00:04:55,820"
-			},
-			"offsets": {
-				"from": 293540,
-				"to": 295820
-			},
-			"text": " Okay, let's just check."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:55,820",
-				"to": "00:04:57,660"
-			},
-			"offsets": {
-				"from": 295820,
-				"to": 297660
-			},
-			"text": " What about a black dildo?"
-		},
-		{
-			"timestamps": {
-				"from": "00:04:57,660",
-				"to": "00:04:59,460"
-			},
-			"offsets": {
-				"from": 297660,
-				"to": 299460
-			},
-			"text": " Okay."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:00,000",
-				"to": "00:05:05,380"
-			},
-			"offsets": {
-				"from": 300000,
-				"to": 305380
-			},
-			"text": " Wow, it's like a dildo pro over there."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:05,380",
-				"to": "00:05:06,460"
-			},
-			"offsets": {
-				"from": 305380,
-				"to": 306460
-			},
-			"text": " Thank you."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:06,460",
-				"to": "00:05:08,380"
-			},
-			"offsets": {
-				"from": 306460,
-				"to": 308380
-			},
-			"text": " Maybe we can talk about this later on."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:08,380",
-				"to": "00:05:09,640"
-			},
-			"offsets": {
-				"from": 308380,
-				"to": 309640
-			},
-			"text": " You can give me some good advice."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:09,640",
-				"to": "00:05:11,780"
-			},
-			"offsets": {
-				"from": 309640,
-				"to": 311780
-			},
-			"text": " But, you know, to me, what's really..."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:11,780",
-				"to": "00:05:14,240"
-			},
-			"offsets": {
-				"from": 311780,
-				"to": 314240
-			},
-			"text": " I think I've learned what I needed to know from this."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:14,240",
-				"to": "00:05:20,120"
-			},
-			"offsets": {
-				"from": 314240,
-				"to": 320120
-			},
-			"text": " Because, ladies, what you've told me is that your vaginas are racist."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:20,120",
-				"to": "00:05:21,940"
-			},
-			"offsets": {
-				"from": 320120,
-				"to": 321940
-			},
-			"text": " Holy fuck."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:21,940",
-				"to": "00:05:23,180"
-			},
-			"offsets": {
-				"from": 321940,
-				"to": 323180
-			},
-			"text": " You had an option."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:23,180",
-				"to": "00:05:26,600"
-			},
-			"offsets": {
-				"from": 323180,
-				"to": 326600
-			},
-			"text": " You chose the white male patriarchal dildo."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:26,600",
-				"to": "00:05:28,280"
-			},
-			"offsets": {
-				"from": 326600,
-				"to": 328280
-			},
-			"text": " I am shocked."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:28,280",
-				"to": "00:05:29,640"
-			},
-			"offsets": {
-				"from": 328280,
-				"to": 329640
-			},
-			"text": " Because my dick..."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:29,640",
-				"to": "00:05:31,340"
-			},
-			"offsets": {
-				"from": 329640,
-				"to": 331340
-			},
-			"text": " My dick is not racist, you know."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:31,340",
-				"to": "00:05:34,900"
-			},
-			"offsets": {
-				"from": 331340,
-				"to": 334900
-			},
-			"text": " Like, green, red, whatever, brown."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:34,900",
-				"to": "00:05:36,900"
-			},
-			"offsets": {
-				"from": 334900,
-				"to": 336900
-			},
-			"text": " My dick is just happy getting in anywhere."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:36,900",
-				"to": "00:05:39,340"
-			},
-			"offsets": {
-				"from": 336900,
-				"to": 339340
-			},
-			"text": " But these racist vaginas in here."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:39,340",
-				"to": "00:05:40,040"
-			},
-			"offsets": {
-				"from": 339340,
-				"to": 340040
-			},
-			"text": " Oh, my God."
-		},
-		{
-			"timestamps": {
-				"from": "00:05:40,040",
-				"to": "00:05:41,540"
-			},
-			"offsets": {
-				"from": 340040,
-				"to": 341540
-			},
-			"text": " What are you going to do?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:41,540",
-				"to": "00:05:43,060"
-			},
-			"offsets": {
-				"from": 341540,
-				"to": 343060
-			},
-			"text": " Are you going to build a wall here?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:43,060",
-				"to": "00:05:44,740"
-			},
-			"offsets": {
-				"from": 343060,
-				"to": 344740
-			},
-			"text": " Stop the Mexicans getting in?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:44,740",
-				"to": "00:05:48,020"
-			},
-			"offsets": {
-				"from": 344740,
-				"to": 348020
-			},
-			"text": " When we get a group of vaginas together,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:48,020",
-				"to": "00:05:51,000"
-			},
-			"offsets": {
-				"from": 348020,
-				"to": 351000
-			},
-			"text": " do you start wearing pointy hats and burning crosses?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:51,000",
-				"to": "00:05:52,600"
-			},
-			"offsets": {
-				"from": 351000,
-				"to": 352600
-			},
-			"text": " What the fuck?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:52,600",
-				"to": "00:05:53,580"
-			},
-			"offsets": {
-				"from": 352600,
-				"to": 353580
-			},
-			"text": " In your pants?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:53,580",
-				"to": "00:05:55,680"
-			},
-			"offsets": {
-				"from": 353580,
-				"to": 355680
-			},
-			"text": " Is there, like, a riot going on going,"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:55,680",
-				"to": "00:05:57,960"
-			},
-			"offsets": {
-				"from": 355680,
-				"to": 357960
-			},
-			"text": " Make vaginas great again!"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:57,960",
-				"to": "00:05:59,620"
-			},
-			"offsets": {
-				"from": 357960,
-				"to": 359620
-			},
-			"text": " Is that what's happening?"
-		},
-		{
-			"timestamps": {
-				"from": "00:05:59,640",
-				"to": "00:06:01,940"
-			},
-			"offsets": {
-				"from": 359640,
-				"to": 361940
-			},
-			"text": " I am shocked, ladies."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:01,940",
-				"to": "00:06:03,180"
-			},
-			"offsets": {
-				"from": 361940,
-				"to": 363180
-			},
-			"text": " You know, I am very shocked."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:03,180",
-				"to": "00:06:04,900"
-			},
-			"offsets": {
-				"from": 363180,
-				"to": 364900
-			},
-			"text": " Now you have equal pay."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:04,900",
-				"to": "00:06:07,560"
-			},
-			"offsets": {
-				"from": 364900,
-				"to": 367560
-			},
-			"text": " You could at least invest some of that money"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:07,560",
-				"to": "00:06:09,740"
-			},
-			"offsets": {
-				"from": 367560,
-				"to": 369740
-			},
-			"text": " in genital equality."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:09,740",
-				"to": "00:06:11,620"
-			},
-			"offsets": {
-				"from": 369740,
-				"to": 371620
-			},
-			"text": " All right."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:11,620",
-				"to": "00:06:13,960"
-			},
-			"offsets": {
-				"from": 371620,
-				"to": 373960
-			},
-			"text": " I think I can't be on stage here anymore"
-		},
-		{
-			"timestamps": {
-				"from": "00:06:13,960",
-				"to": "00:06:15,560"
-			},
-			"offsets": {
-				"from": 373960,
-				"to": 375560
-			},
-			"text": " with all these racist vaginas."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:15,560",
-				"to": "00:06:17,260"
-			},
-			"offsets": {
-				"from": 375560,
-				"to": 377260
-			},
-			"text": " I'm shocked."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:17,260",
-				"to": "00:06:17,980"
-			},
-			"offsets": {
-				"from": 377260,
-				"to": 377980
-			},
-			"text": " Thank you."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:17,980",
-				"to": "00:06:18,460"
-			},
-			"offsets": {
-				"from": 377980,
-				"to": 378460
-			},
-			"text": " Good night."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:18,460",
-				"to": "00:06:24,740"
-			},
-			"offsets": {
-				"from": 378460,
-				"to": 384740
-			},
-			"text": " That was Barry Fox, everybody."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:24,740",
-				"to": "00:06:27,020"
-			},
-			"offsets": {
-				"from": 384740,
-				"to": 387020
-			},
-			"text": " Very nice."
-		},
-		{
-			"timestamps": {
-				"from": "00:06:27,020",
-				"to": "00:06:28,220"
-			},
-			"offsets": {
-				"from": 387020,
-				"to": 388220
-			},
-			"text": " We have a very dirty video."
+			"text": " Thank you. Good night."
 		}
 	]
 }

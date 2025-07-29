@@ -16,276 +16,190 @@ notes: ""
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Okay, okay, ladies and gentlemen, we only have one last act left in our first
+> Okay, okay, ladies and gentlemen, we only have one last act left in our first act.
 >
-> half, okay, but you guys are in for a treat, okay, this next comedian, he's
+> Okay, you guys are in for a treat.
 >
-> never been here in Lutzer before, this is his very first time, so we're very
+> Okay, this is a comedian, he's never been here in Lutzer before.
 >
-> excited for him, okay, now I want to bring him up on stage, I have to say
+> This is his very first time, so we're very excited for him, okay?
 >
-> though, so his name, this is his real name, okay, ladies and gentlemen, give it
+> Now, I want to bring him up on stage.
 >
-> up, big round of applause, it's Harry Fox, everybody, give it up!
+> I have to say, though, so his name, this is his real name, okay, ladies and gentlemen.
 >
-> Harry Fox!
+> Give it up, big round of applause, it's Harry Fox, everybody, give it up!
 >
-> So my name is actually Harry Fuchs, it's a German name, it's spelled F-U-C-K-S,
+> Give it up for Harry Fox!
 >
-> I repeat, F-U-C-K-S, when I'm in a room with English speakers like this, a lot
+> So my name is actually Harry Fux.
 >
-> of you think my name is Harry Fox.
+> It's a German name.
 >
-> My name is not Harry Fuchs.
+> It's spelled F-U-C-K-S.
 >
-> In my family, when we have a family get-together, we get very upset when you
+> I repeat, F-U-C-K-S.
 >
-> call us a group of fuckers.
+> When I'm in a room with English speakers like this, a lot of you think my name is Harry Fux.
 >
-> And I have two kids, I had to call them how-the and what-the.
+> My name is not Harry Fux.
 >
-> But the real problem with a name like Harry Fuchs is it sets a very high level
+> In my family, when we have a family get-together, we get very upset when you call us a group of
 >
-> of...
+> fuckers.
 >
-> ...expectation, and honestly, I've only really done about this much fucking,
+> And I have two kids.
 >
-> honestly, it was that much fucking, and, you know, if I can share something,
+> I had to call them Howler and Whatler.
 >
-> you know, it's actually, unlike Chris, it's actually, for me, been quite a long
+> But the real problem with a name like Harry Fux is it sets a very high level of expectation.
 >
-> time since I had sex.
+> And honestly, I've only really done about this much fucking.
+>
+> Honestly, it was that much fucking.
+>
+> And, you know, if I can share something, you know, it's actually, unlike Chris,
+>
+> it's actually, for me, been quite a long time since I had sex.
 >
 > Put your hands up if you haven't had sex in a long time.
 >
 > Irish guy?
 >
-> Are you sure?
+> You sure?
 >
-> Okay, well...
+> Okay, well, anyway, anyway, I hadn't realized I was coming to this Nymphomaniacs Anonymous meet-up.
 >
-> Anyway, anyway, I hadn't realized I was coming to this Nymphomaniacs Anonymous
+> But maybe to help you understand my condition, what it's like when you haven't had sex for a long
 >
-> meet-up, but maybe to help you understand my condition, what it's like when you
+> time,
 >
-> haven't had sex for a long time, it's kind of like, like, you could be walking
+> it's kind of like, you could be walking down the street and you see a couple of dogs sniffing each
 >
-> down the street, and you see a couple of dogs sniffing each other's asses, and
+> other's asses.
 >
-> you look at them and you think, um, I wish that was me.
+> And you look at them and you think, "I wish that wasn't me."
 >
-> Or you go into Mikro.
+> Or you go into Migros, you go into Migros and you spot an Accionon watermelon.
 >
-> You go into Mikro.
+> And you go, "One hand on that watermelon. Maybe two."
 >
-> And you spot an action on watermelon.
+> And BAM, it's like you're in a new dimension.
 >
-> You get one hand on that watermelon, maybe two, and bam, it's like you're in a
+> You are that watermelon. You're just getting hot, getting steamy.
 >
-> new dimension.
+> You're oblivious to all the people watching.
 >
-> It's just you and that watermelon, you're just getting hot, getting steamy, you're
+> And then you hear this, "Junge Mann! Schemen sie sich nicht!"
 >
-> oblivious to all the people watching.
+> And you look, and there's an old lady about to hit you with her handbag.
 >
-> And then you hear this, "Jungermann, schämen Sie sich nicht!"
+> And you think, "She's nice."
 >
-> And you look, and there's an old lady about to hit you with a handbag, and you
+> But it actually gets worse because, you know, I've been thinking about this quite a lot.
 >
-> think, uh, she's nice.
+> And I actually realized that even at this age, I don't know if I'm any good at sex.
 >
-> But, uh, it actually gets worse, because, you know, I've been thinking about
->
-> this quite a lot, and I actually realized that even at this age, I don't know
->
-> if I'm any good at sex.
->
-> 'Cause I read recently that to be good at anything, it takes 10,000 hours.
+> Because I read recently that to be good at anything, it takes 10,000 hours.
 >
 > 10,000 hours is a lot of fucking.
 >
-> Now, I've done the math for you.
+> Now I've done the math, the math teacher will be very proud of me.
 >
-> 10,000 hours is a lot of fucking.
+> If you fuck for 24 hours a day for an entire year, you own your 8,000 hours.
 >
-> Now, I've done the math for you.
+> If you live to 70, you need to fuck 10 times a day.
 >
-> Now, I've done the math for you.
+> From the day you were born until the day you die.
 >
-> Now, I've done the math for you.
->
-> Now, I've done the math for you.
->
-> Now, I've done the math for you.
->
-> Now, I've done the math for you.
->
-> Now, I've done the math for you.
->
-> Now, I've done the math for you.
->
-> Now, I've done the math for you.
->
-> Now, I've done the math...
->
-> Now, I've done the math...
->
-> Now, I've done the math... Math teacher will be very proud of me.
->
-> If you fuck for 24 hours a day for an entire year, you're only at 8,000 hours.
->
-> If you live to 70, you need to fuck 10 times a day from the day you were born
->
-> until the day you die.
->
-> And what's worse about that, the idea of newborn babies fucking?
+> And what's worse about that? The idea of newborn babies fucking?
 >
 > Or the idea of sex with old people on the day they're dying?
 >
-> Or the idea of sex with old people on the day they're dying?
+> But at this point, someone here is thinking, "This is bullshit. I know I'm good at sex."
 >
-> Or the idea of sex with old people on the day they're dying?
+> Like, "Chris, the Greek man here, I'm a Greek man. I'm good at sex."
 >
-> Or the idea of sex with old people on the day they're dying?
+> Chris, I hate to break this to you.
 >
-> Or the idea of sex with old people on the day they're dying?
+> There are only two types of people that think that.
 >
-> Or the idea of sex with old people on the day they're dying?
+> Prostitutes and compulsive liars.
 >
-> Or the idea of sex with old people on the day they're dying?
+> Stop lying, Chris. You know you're a ho.
 >
-> Or the idea of sex with old people on the day they're dying?
+> Let's just take a quick time out here because I'm actually a bit puzzled by what's going on here.
 >
-> Or the idea of sex with old people on the day they're dying?
+> So this is your 973rd date. Paulina, what is going on here?
 >
-> Or the idea of sex with old people on the day they're dying?
+> If he is at least half as good at sex as he thinks he is, you are missing out.
 >
-> Or the idea of sex with old people on the day they're dying?
+> You need to take him out of the friend zone, Paulina. Tonight is the night.
 >
-> Or the idea of sex with old people on the day they're dying?
+> Chris, I did what I could for you, man.
 >
-> man. I'm a Greek man. I'm good at sex. Chris, I hate to break this to you.
+> But you're probably wondering, "Okay, here's this guy. He talks about sex a lot. Why is this?"
 >
-> There are only
+> Well, actually, I think it goes back to my childhood.
 >
-> two types of people that think that. Prostitutes and compulsive liars. Stop
+> Because when I was about seven, something was taken from me.
 >
-> lying, Chris. You
+> That's right. I was circumcised.
 >
-> know you're a ho. Let's just take a quick time out here because I'm actually a
+> Now, judging by that reaction, a lot of you don't seem to know what circumcision is.
 >
-> bit puzzled
+> Come and talk to me after. I'll show you.
 >
-> by what's going on here. So this is your 970th date. Paulina, what is going on
+> But you see, what began for me as a very traumatic childhood experience in adult life has turned
 >
-> here? If he
+> into a real advantage.
 >
-> is at least half as good at sex as he thinks he is, you are missing out. You
+> Because on those rare occasions that a woman's head comes close to the tip of my penis,
 >
-> need to take
+> she will invariably sigh like, "Oh."
 >
-> him out of the friend zone, Paulina. Tonight is the night. Chris, I did what I
+> And I'll be like, "Hey, why are you sighing on my penis?"
 >
-> could for
+> And she'll be like, "You have no idea how many dirty dicks there are out there."
 >
-> you, man. But, you know, you're probably wondering, like, okay, here's this guy.
+> Yeah, I know. And what I learned, actually, is that amongst my uncut brethren like Chris,
 >
-> He talks about
+> a lot of these guys are not putting enough attention in this area.
 >
-> sex a lot. Why?
+> Paulina, maybe you're making the right choice.
 >
-> Why is this? Well, actually, I think it goes back to my childhood because when
+> But, Chris, I've got a few tips for you so that you can make Paulina's experience pleasant.
 >
-> I was about
+> Like, Chris, you know you have in your car like a wunderbaum?
 >
-> seven, something was taken from me. That's right. I was circumcised. Now,
+> Just take it, hang it from your penis.
 >
-> judging by
+> Women are very sensitive to smell. That will immediately make her life more pleasant.
 >
-> that reaction, a lot of you don't seem to know what circumcision is. Come and
+> Another thing you could think about, though, is right here, up above your penis,
 >
-> talk to
+> just try tattooing a pleasant scene like a field of green grass with some flowers growing.
 >
-> me after. I'll show you. But, you see, what began for me as a very traumatic
+> Maybe a tree with a few birds singing.
 >
-> childhood
+> Something to take her mind off the disgusting act she has to perform.
 >
-> experience in adult life has turned into a very traumatic childhood experience
+> But there is actually even a simple thing that might be too hard for you, Chris,
 >
-> in adult
+> so let's go for the simple solution.
 >
-> life has turned into a real advantage because on those rare occasions that a
+> Just bring a box of crackers.
 >
-> woman's head
+> And while she's down there, just feed her the crackers.
 >
-> comes close to the tip of my penis, she will invariably sigh, like, "Oh." And I'll
+> Because cheese goes really well with crackers.
 >
-> be like,
+> I'm sorry, Chris, I fucked it up for you.
 >
-> "Hey, why are you sighing on my penis?" And she'll be like, "You have no idea
+> No one here is getting any sex tonight.
 >
-> how many
+> But you guys have been great. Thank you very much.
 >
-> dirty dicks there are out there." Yeah, I know. And what I learned, actually,
+> And give it up again. That was Harry Fox, everybody.
 >
-> is amongst
->
-> my uncut brethren, there's a lot of dirty dicks that are out there. I mean,
->
-> there's
->
-> a lot of things that are out there. There's a lot of dirty dicks that are out
->
-> there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out
->
-> there. There's a lot of dirty dicks that are out there. There's a lot of dirty
->
-> dicks that are
->
-> out there. There's a lot of dirty dicks that are out there. There's a lot of
->
-> dirty dicks that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
->
-> There's a lot of dirty dicks that are out there. There's a lot of dirty dicks
->
-> that are out there.
+> Wow, so we definitely all learned a little bit about each other in this half.

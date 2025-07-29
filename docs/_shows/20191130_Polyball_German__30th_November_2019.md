@@ -17,454 +17,256 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> There are two more ads left, and the next ad comes originally from the United
+> Two more ads and the next ad comes originally from Great Britain and I just wanted to say
 >
-> Kingdom.
+> Welcome Harry Fuchs!
 >
-> So I just wanted to say: Welcome Harry Fuchs!
+> Let me say a big round of applause for Harry Fuchs!
 >
-> That's what I said. Big applause for Harry Fuchs!
+> So my name is actually Harry Fuchs, that's a German name, you write F-U-C-K-S, I repeat, F-U-C-K-S
 >
-> So my name is actually Harry Fuchs. It's a German name.
->
-> You write F-U-C-K-S. I repeat: F-U-C-K-S.
->
-> But because I grew up in England, I call myself a lot Harry Fuchs.
+> But because I grew up in England, many call me Harry Fuchs.
 >
 > My name is not Harry Fuchs.
 >
-> And in my family, when we meet, we get very close.
+> In my family, when we meet, we get very annoyed when you call us a group of f*ckers.
 >
-> My mom calls us a group of fuckers.
+> And I have two children, I had to call them Halver and Walther.
 >
-> And I have two children. I had to call them Halber and Wadber.
+> But that takes a bit of time to process.
 >
-> But that takes some time to understand.
+> But the real problem with names like Harry Fuchs is that it sets very high expectations.
 >
-> But the real problem with a name like Harry Fuchs is that it sets very high
+> To be honest, I've never had so much sex, okay, to be honest, it was so much sex.
 >
-> expectations.
+> And in the last time, in the last months, I've actually, if I may say so, had no sex.
 >
-> And to be honest, I've only had so much sex...
->
-> And lately, in the last few months, I haven't had any sex.
->
-> Hands up if you haven't had any sex for a long time.
+> Hands up if you haven't had sex for a long time.
 >
 > Okay, that surprises me.
 >
-> Wow, I thought that was after the Poly Bowl.
+> Wow, I thought it was after the polyball.
 >
-> Okay, but I understand. We're here at the Zurich Infomercial, an anonymous
+> Okay, but I understand, we're here at the Zurich Nymphomania Anonymity.
 >
-> event.
+> Okay, I'll try to tell you a little bit about how it is for me, how it is with my condition.
 >
-> I try to tell you a little bit about how it is for me, how it is with my
+> It's almost as if you hallucinate.
 >
-> condition.
+> So when I walk down the street and I see a couple of dogs, and they're sniffing at each other.
 >
-> It's almost as if you're being polluted.
+> And I think, "I want to be part of it too."
 >
-> So when I walk down the street and I see a couple of dogs, and they're licking
->
-> their asses.
->
-> And I think: I want to be part of it too.
->
-> Or you go to Migros and you see an action on watermelon.
+> Or you go to the micro, and you see an action on watermelons.
 >
 > You get one hand on the watermelon, maybe two.
 >
-> And boom!
+> And then you're suddenly in a new dimension.
 >
-> You're suddenly in a new dimension.
+> And you're sniffing this watermelon, no matter who's watching.
 >
-> I'm in this watermelon.
+> And then I hear, "Boy, why are you ashamed?"
 >
-> No matter who's watching.
+> And I look, there's a group of women, they want to hit me with their handbags.
 >
-> And then I hear: "Boy, shame on you!"
+> And I think, "Very nice."
 >
-> And I look, there's an old woman and she doesn't want to hit me with her handbag.
+> Yeah, it's difficult.
 >
-> And I think: "Very nice!"
+> What also bothers me a lot at the moment is, even at my age, I don't know if I'm good at sex.
 >
-> Yes, it's difficult.
+> Because recently I read something that said, "To be good at anything, it takes 10,000 hours."
 >
-> What also bothers me quite a bit at the moment is:
+> 10,000 hours is a lot of f*cking.
 >
-> Even at my age, I don't know if I'm good at sex.
->
-> Because in the end I read something that says:
->
-> "To be good at something, it takes 10,000 hours."
->
-> 10,000 hours is a lot of work.
->
-> So if you get 24 hours a day for one year,
->
-> then you're only at 8,000 hours.
+> So if you f*ck 24 hours a day, in one year, you're only at 8,000 hours.
 >
 > That's calculated.
 >
-> Or if you get up to 70,
+> And if you live to 70, you have to f*ck 10 times a day, from the day you were born until the day
 >
-> you have to fuck 10 times a day.
+> you die.
 >
-> From the day you were born
+> And I don't know what's wrong with the idea of f*cking babies.
 >
-> to the day you die.
+> Or the idea of having sex with old people on the day they die.
 >
-> And I don't know what's so strange about it.
+> Okay, that was a bit too dark, I'm sorry.
 >
-> The thought of "Why do I fuck them?"
+> So, I think at the moment it's a very difficult time, especially for women.
 >
-> or the idea of sex with old people
+> Because I saw a statistic that said, almost 50% of men between the ages of 20 and 40 have had a
 >
-> on the day they die.
->
-> That was a little too dark.
->
-> I'm sorry.
->
-> I think at the moment it's a very difficult time.
->
-> Especially for women.
->
-> Because I saw a statistic that says:
->
-> Almost 50% of men between 20 and 40
->
-> have had a dick pic in the last three months.
+> dick-dick in the last three months.
 >
 > That's a huge number.
 >
-> To visualize this:
+> And to visualize that, if you divide the number by 10 men here, before Christmas you have a stack
 >
-> If you divide the number by 10 men here,
+> of 5 dicks on your phone.
 >
-> before Christmas
+> And then you could use it for Christmas cards, to decorate a Christmas tree, you can do a lot with
 >
-> you have a stack of punk dicks on your phone.
+> it.
 >
-> And then you can use it for Christmas cards,
+> So I personally don't send dick-dicks.
 >
-> to decorate your Christmas tree.
+> Not because I'm better, but because I'm a perfectionist.
 >
-> You can do a lot with it.
+> Because to send such a good dick-dick is difficult, because you have to think about a lot of things.
 >
-> Personally, I personally don't send dick pics.
+> For example, the light. Do I need a beautiful color that brings out the main color, or something
 >
-> Not because I'm better,
->
-> but because I'm a perfectionist.
->
-> Sending such a good dick pic is difficult,
->
-> because you have to think about a lot.
->
-> For example, the light.
->
-> Do I need a nice color that brings out the main color?
->
-> Or something more red and erotic?
+> more red and erotic?
 >
 > Do I need a few objects, like roses?
 >
-> And so on and so forth.
+> All around here, it's a bit dangerous, with the thorns.
 >
-> It's a little dangerous.
+> So you have to think about which angle is best, like a selfie, like here, or here, or...
 >
-> With the thorns.
+> It's difficult, but I'm a bit of an entrepreneur, that's why I developed the dick-dick selfie stick.
 >
-> You have to think about which one looks better.
+> You can all get it on dick-dick-selfie-stick.com, tonight at 9.29 pm.
 >
-> Are they selfies?
+> Okay, that's my gift for you at the Polyball. Thank you very much, have a nice evening.
 >
-> Here?
+> So, we're at the last act, and it's actually also an English comedy.
 >
-> Or here?
+> So, please, welcome to the stage, to Shane Orto!
 >
-> It's difficult.
+> Shane Orto, a big round of applause! I don't know you, so I don't need a big round of applause.
 >
-> But I'm a little entrepreneurial.
+> What's your name? Okay.
 >
-> That's why I developed the Dick Pic Selfie Stick.
+> Nice to meet you!
 >
-> For all of you here,
+> So, today I'm going to try to do something that the Swiss themselves can't do.
 >
-> you can get it at DickPicSelfieStick.com.
+> To be funny while sitting.
 >
-> Only 29.99 tonight.
+> So, I broke my ankle, while biking, and I spent time on crutches, here in Switzerland, also in
 >
-> Okay.
+> England.
 >
-> This is my gift for you.
+> And the reaction of the people couldn't be any different. In one corner, everyone wanted to talk to
 >
-> A Polyball.
+> me.
 >
-> Thank you very much.
+> "Oh, James, did you do well? Oh, did it hurt? Oh, I hope you didn't die again."
 >
-> Have a nice evening.
+> In Switzerland, at first, no one wanted to talk to me, because they always had the same answer.
 >
-> Harry Fox, everybody.
+> "Same school."
 >
-> Harry Fox.
->
-> Sorry.
->
-> So.
->
-> We're at the last act.
->
-> And it's actually also an English comedy.
->
-> So.
->
-> Please.
->
-> Welcome to the stage.
->
-> Shane Orton.
->
-> Shane Orton.
->
-> A big round of applause.
->
-> I don't know what to say.
->
-> I don't know what to say.
->
-> What is it?
->
-> Okay.
->
-> Welcome to the stage.
->
-> So.
->
-> Would you like to do something that the Swiss can't do themselves?
->
-> I don't know if I can do it.
->
-> It's funny to be a hopper.
->
-> I broke my ankle last year.
->
-> Just after biking.
->
-> I spent a lot of time on crutches.
->
-> Here in Switzerland and England.
->
-> Our reaction to people could not be different.
->
-> In England, everyone is talking to me.
->
-> "Oh, you did well!"
->
-> "Oh, you did well!"
->
-> "Oh, I hope you will be there soon!"
->
-> In Switzerland, first of all, no one wanted to talk to me.
->
-> But in general, they always had the same answer.
->
-> "Same thing!"
->
-> Hello everyone from Switzerland.
->
-> I'm from England, a region called Essex.
+> Do you know Switzerland? Yes, that's how it is in England, a region called Essex.
 >
 > Do you know Essex?
 >
-> For those who don't know, Essex is shit.
+> Shit.
 >
-> We are outside the big city.
+> For those of you who don't know, Essex is shit.
 >
-> No one likes us.
+> We're sitting outside a big city.
 >
-> No one wants to visit us.
+> No one likes us, no one wants to visit us. We have a terrible reputation.
 >
-> We have a very bad reputation.
+> In Switzerland, there's only one region that's the same.
 >
-> In Switzerland, there is only one region that is equal.
+> That's the Canton of Aargau.
 >
-> That is the Canterbury Gau.
+> Does anyone here live in the Canton of Aargau?
 >
-> Does anyone here have a Canterbury Gau?
+> Beautiful, isn't it?
 >
-> That's beautiful.
->
-> It's beautiful.
->
-> This is something that is very special to us.
+> We have something that's very special.
 >
 > These are our Essex girls.
 >
-> They are worldwide famous.
+> They have red, white and red hair, like their orange self-dyed eyebrows.
 >
-> Worldwide famous.
+> But I don't have to give it to you, right?
 >
-> With their orange, self-brown, black hair.
+> Because they made this city hateful, years before we all got used to it.
 >
-> But we have to admit it, right?
+> Do you know the Essex girls?
 >
-> Because they made this song very hot.
+> I'll tell you. Teenage puberty.
 >
-> Long before we all heard about it.
+> Yes, unfortunately I'm not allowed to laugh.
 >
-> Do you know the "Essig Mädels"?
+> But my mother was sexy when I was born.
 >
-> Do you know what it means?
+> But it wasn't so bad for me to have young dogs.
 >
-> I'll tell you.
+> For example, I always had a pig.
 >
-> Teenage pregnancy.
+> And the parents of the other children were always very friendly.
 >
-> Yes, unfortunately I can't laugh.
+> But there were also things that were strange.
 >
-> But my mother was 16 when I came to the world.
+> For example, it was strange that they could both get on the bus.
 >
-> But it wasn't that bad for me to have a young mother.
+> And both were half price.
 >
-> For example, I always had a son-in-law.
+> But for a dog it wasn't all that easy.
 >
-> And the part of the other children, they were always very friendly.
+> It's difficult to have a child.
 >
-> But there were things that were difficult.
+> When you have a child at six years old, it's a bit like a spiral.
 >
-> For example, it was funny.
->
-> For example, it was funny that both of them could go to school.
->
-> And both at the same price.
->
-> But for some, it wasn't that easy.
->
-> Or it's more difficult to have a child.
->
-> A child.
->
-> So when you have a child at the age of 16, it's a bit like a stumbling block in
->
-> the Catholic children's choir.
->
-> The church destroys it.
+> It destroys the childhood.
 >
 > I know what you're thinking.
 >
-> "Same fault."
+> The same school.
 >
-> Exactly.
+> But that's not true.
 >
-> But that's the reality.
+> Now I live in Switzerland.
 >
-> And now I'm here in Switzerland.
+> I've been living in Switzerland for ten years.
 >
-> How nice.
+> And I have to say, the biggest advantage of Switzerland is the quality of life.
 >
-> How nice.
+> I live in one of the few countries in the world where you can save money when you only go on
 >
-> I live in Switzerland.
+> holiday.
 >
-> I've been here for 10 years.
+> And you don't just save money, you also feel good.
 >
-> And I have to say, the biggest advantage of Switzerland, of course, is the
+> And you look around and think, "Hmm, they shit here."
 >
-> quality of life, right?
+> The other big advantage is the loyalty to Switzerland.
 >
-> I want to live in one of the countries in the world where I can save money.
+> If you make a Swiss friend, you make a Swiss friend of life.
 >
-> Where you can only go on vacation.
+> That's what I heard.
 >
-> And you don't just save money, but you also feel comfortable.
+> Do you spend your life with Swiss friends?
 >
-> And you come around and say, "Hmm, this is shit here."
+> No?
 >
-> The other big advantage, I have to say, right?
+> Shit, do more!
 >
-> The other big advantage is the loyalty in Switzerland.
+> Do more!
 >
-> If you want to save money, you have to save money.
+> What else can I say?
 >
-> If you want to save money, you have to save money.
+> The other big advantage is safety.
 >
-> If you want to save money, you have to save money.
+> In the summer we can go swimming and leave our stuff on the beach.
 >
-> If you want to save money, you have to save money.
+> And when the sun comes up, they're still there.
 >
-> If you want to save money, you have to save money.
+> What I like to do is to test the limits of safety.
 >
-> And you have to save money.
+> And I leave a lot of things unattended and see if they're still there when I come back.
 >
-> And you have to save money.
+> My wife hates me for doing that with our daughter.
 >
-> You have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> You have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> You have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> If you want to save money, you have to save money.
->
-> We can go swimming and leave our stuff behind. And when we get back, we're
->
-> still here.
->
-> What I like to do is to limit this security test.
->
-> I leave a lot of things unnoticed and look to see if we're still here and come
->
-> back.
->
-> My wife hates it when I do this with our dogs.
->
-> Just kidding. We don't have any daughters.
+> Just a joke, we don't have any daughters.
 >
 > Not anymore.
 >
-> So I'll give you some money.
->
-> Exactly. Exactly.
+> Merci beacause you shake gold!

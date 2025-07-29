@@ -3,7 +3,7 @@
 	"model": {
 		"type": "large",
 		"multilingual": true,
-		"vocab": 51866,
+		"vocab": 51865,
 		"audio": {
 			"ctx": 1500,
 			"state": 1280,
@@ -16,11 +16,11 @@
 			"head": 20,
 			"layer": 32
 		},
-		"mels": 128,
+		"mels": 80,
 		"ftype": 1
 	},
 	"params": {
-		"model": "/Users/harry/.whisper/ggml-large-v3.bin",
+		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
 		"language": "en",
 		"translate": false
 	},
@@ -37,4682 +37,2229 @@
 				"from": 0,
 				"to": 5000
 			},
-			"text": " Comedian #2 is half British, half German."
+			"text": " - Comedian number two is half British, half German."
 		},
 		{
 			"timestamps": {
 				"from": "00:00:05,000",
-				"to": "00:00:08,000"
+				"to": "00:00:07,820"
 			},
 			"offsets": {
 				"from": 5000,
-				"to": 8000
+				"to": 7820
 			},
 			"text": " 100% confused."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:08,000",
-				"to": "00:00:12,000"
+				"from": "00:00:07,820",
+				"to": "00:00:11,860"
 			},
 			"offsets": {
-				"from": 8000,
-				"to": 12000
+				"from": 7820,
+				"to": 11860
 			},
-			"text": " What else about him?"
+			"text": " Okay, what else about him?"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:12,000",
-				"to": "00:00:17,000"
+				"from": "00:00:11,860",
+				"to": "00:00:17,580"
 			},
 			"offsets": {
-				"from": 12000,
-				"to": 17000
+				"from": 11860,
+				"to": 17580
 			},
 			"text": " I need to prepare this intro better."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:17,000",
-				"to": "00:00:21,000"
+				"from": "00:00:17,580",
+				"to": "00:00:21,020"
 			},
 			"offsets": {
-				"from": 17000,
-				"to": 21000
+				"from": 17580,
+				"to": 21020
 			},
-			"text": " He's also a regular here at Comedy House."
+			"text": " So he's also a regular here at Comedy House."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:21,000",
-				"to": "00:00:25,000"
+				"from": "00:00:21,020",
+				"to": "00:00:23,580"
 			},
 			"offsets": {
-				"from": 21000,
-				"to": 25000
+				"from": 21020,
+				"to": 23580
 			},
-			"text": " It's his 4th time here on this stage, so super happy to have him here."
+			"text": " It's his, I think, fourth time here on this stage."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:25,000",
-				"to": "00:00:29,000"
+				"from": "00:00:23,580",
+				"to": "00:00:25,500"
 			},
 			"offsets": {
-				"from": 25000,
-				"to": 29000
+				"from": 23580,
+				"to": 25500
 			},
-			"text": " Please, make a big round of applause, everybody!"
+			"text": " He's super happy to have him here."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:29,000",
-				"to": "00:00:31,000"
+				"from": "00:00:25,500",
+				"to": "00:00:29,740"
 			},
 			"offsets": {
-				"from": 29000,
-				"to": 31000
+				"from": 25500,
+				"to": 29740
 			},
-			"text": " Come on!"
+			"text": " Please make a big round of applause, everybody."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:31,000",
-				"to": "00:00:50,000"
+				"from": "00:00:29,740",
+				"to": "00:00:30,580"
 			},
 			"offsets": {
-				"from": 31000,
-				"to": 50000
+				"from": 29740,
+				"to": 30580
 			},
-			"text": " So my name is Harry."
+			"text": " Come on."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:50,000",
-				"to": "00:00:54,000"
+				"from": "00:00:30,580",
+				"to": "00:00:33,740"
 			},
 			"offsets": {
-				"from": 50000,
-				"to": 54000
+				"from": 30580,
+				"to": 33740
 			},
-			"text": " And I suffer from PPS."
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:54,000",
-				"to": "00:00:58,000"
+				"from": "00:00:33,740",
+				"to": "00:00:53,200"
 			},
 			"offsets": {
-				"from": 54000,
-				"to": 58000
+				"from": 33740,
+				"to": 53200
 			},
-			"text": " That's Perfect Penis Syndrome."
+			"text": " - So my name is Eric, and I suffer from PPS."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:58,000",
-				"to": "00:01:05,000"
+				"from": "00:00:53,200",
+				"to": "00:00:57,820"
 			},
 			"offsets": {
-				"from": 58000,
-				"to": 65000
+				"from": 53200,
+				"to": 57820
+			},
+			"text": " That's perfect penis syndrome."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,260",
+				"to": "00:01:04,720"
+			},
+			"offsets": {
+				"from": 60260,
+				"to": 64720
 			},
 			"text": " And I'm also the most humble person I know."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:05,000",
-				"to": "00:01:09,000"
+				"from": "00:01:04,720",
+				"to": "00:01:08,940"
 			},
 			"offsets": {
-				"from": 65000,
-				"to": 69000
+				"from": 64720,
+				"to": 68940
 			},
-			"text": " And it's hard, it's really hard to be this humble."
+			"text": " And it's hard, it's really hard to be this humble"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:09,000",
-				"to": "00:01:12,000"
+				"from": "00:01:08,940",
+				"to": "00:01:12,100"
 			},
 			"offsets": {
-				"from": 69000,
-				"to": 72000
+				"from": 68940,
+				"to": 72100
 			},
-			"text": " When your penis is this perfect."
+			"text": " when your penis is this perfect."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:12,000",
-				"to": "00:01:16,000"
+				"from": "00:01:12,100",
+				"to": "00:01:13,620"
 			},
 			"offsets": {
-				"from": 72000,
-				"to": 76000
+				"from": 72100,
+				"to": 73620
 			},
-			"text": " Sometimes I go to the supermarket."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:16,000",
-				"to": "00:01:19,000"
+				"from": "00:01:13,620",
+				"to": "00:01:16,620"
 			},
 			"offsets": {
-				"from": 76000,
-				"to": 79000
+				"from": 73620,
+				"to": 76620
 			},
-			"text": " I go into the vegetable section."
+			"text": " Sometimes I go to the supermarket,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:19,000",
-				"to": "00:01:22,000"
+				"from": "00:01:16,620",
+				"to": "00:01:19,260"
 			},
 			"offsets": {
-				"from": 79000,
-				"to": 82000
+				"from": 76620,
+				"to": 79260
+			},
+			"text": " I go into the vegetable section,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,260",
+				"to": "00:01:22,640"
+			},
+			"offsets": {
+				"from": 79260,
+				"to": 82640
 			},
 			"text": " I see some cucumbers, I just stare them down."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:22,000",
+				"from": "00:01:22,640",
+				"to": "00:01:23,660"
+			},
+			"offsets": {
+				"from": 82640,
+				"to": 83660
+			},
+			"text": " (audience laughing)"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,660",
 				"to": "00:01:26,000"
 			},
 			"offsets": {
-				"from": 82000,
+				"from": 83660,
 				"to": 86000
 			},
 			"text": " Just to let them know I'm not intimidated."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:27,000",
-				"to": "00:01:30,000"
+				"from": "00:01:26,000",
+				"to": "00:01:27,700"
 			},
 			"offsets": {
-				"from": 87000,
-				"to": 90000
+				"from": 86000,
+				"to": 87700
 			},
-			"text": " And actually, this has been a big surprise for me."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:30,000",
-				"to": "00:01:34,000"
+				"from": "00:01:27,700",
+				"to": "00:01:30,300"
 			},
 			"offsets": {
-				"from": 90000,
-				"to": 94000
+				"from": 87700,
+				"to": 90300
 			},
-			"text": " Because I only learned that I have PPS last Christmas."
+			"text": " And actually, this has been a big surprise for me"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:34,000",
-				"to": "00:01:36,000"
+				"from": "00:01:30,300",
+				"to": "00:01:34,100"
 			},
 			"offsets": {
-				"from": 94000,
-				"to": 96000
+				"from": 90300,
+				"to": 94100
 			},
-			"text": " Because I met this lady."
+			"text": " because I only learned that I have PPS last Christmas"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:36,000",
-				"to": "00:01:38,000"
+				"from": "00:01:34,100",
+				"to": "00:01:38,740"
 			},
 			"offsets": {
-				"from": 96000,
-				"to": 98000
+				"from": 94100,
+				"to": 98740
 			},
-			"text": " She was a bit of an expert."
+			"text": " because I met this lady, she was a bit of an expert,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:38,000",
-				"to": "00:01:40,000"
+				"from": "00:01:38,740",
+				"to": "00:01:40,460"
 			},
 			"offsets": {
-				"from": 98000,
-				"to": 100000
+				"from": 98740,
+				"to": 100460
 			},
-			"text": " Dixpert, if you will."
+			"text": " expert, if you will."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:40,000",
-				"to": "00:01:43,000"
+				"from": "00:01:40,460",
+				"to": "00:01:41,540"
 			},
 			"offsets": {
-				"from": 100000,
-				"to": 103000
+				"from": 100460,
+				"to": 101540
 			},
-			"text": " And when she told me, I was stunned."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:43,000",
-				"to": "00:01:44,000"
+				"from": "00:01:41,540",
+				"to": "00:01:44,740"
 			},
 			"offsets": {
-				"from": 103000,
-				"to": 104000
+				"from": 101540,
+				"to": 104740
 			},
-			"text": " I was shocked."
+			"text": " And when she told me, I was stunned, I was shocked,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:44,000",
-				"to": "00:01:50,000"
+				"from": "00:01:44,740",
+				"to": "00:01:49,740"
 			},
 			"offsets": {
-				"from": 104000,
-				"to": 110000
+				"from": 104740,
+				"to": 109740
 			},
-			"text": " Because I needed to have this information 30 years ago."
+			"text": " because I needed to have this information 30 years ago."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:50,000",
-				"to": "00:01:52,000"
+				"from": "00:01:49,740",
+				"to": "00:01:52,660"
 			},
 			"offsets": {
-				"from": 110000,
-				"to": 112000
+				"from": 109740,
+				"to": 112660
 			},
 			"text": " You know, it would have changed everything."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:52,000",
-				"to": "00:01:54,000"
+				"from": "00:01:52,660",
+				"to": "00:01:54,060"
 			},
 			"offsets": {
-				"from": 112000,
-				"to": 114000
+				"from": 112660,
+				"to": 114060
 			},
 			"text": " It could have changed my whole life."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:54,000",
-				"to": "00:01:56,000"
+				"from": "00:01:54,060",
+				"to": "00:01:56,780"
 			},
 			"offsets": {
-				"from": 114000,
-				"to": 116000
+				"from": 114060,
+				"to": 116780
 			},
-			"text": " I could have just been like a poor boy."
+			"text": " I could have just been like a poor boy"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:56,000",
-				"to": "00:01:59,000"
+				"from": "00:01:56,780",
+				"to": "00:02:01,780"
 			},
 			"offsets": {
-				"from": 116000,
-				"to": 119000
+				"from": 116780,
+				"to": 121780
 			},
-			"text": " Or a pizza delivery guy."
+			"text": " or a pizza delivery guy, maybe a snake charmer, I don't know."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:59,000",
-				"to": "00:02:01,000"
+				"from": "00:02:01,780",
+				"to": "00:02:02,980"
 			},
 			"offsets": {
-				"from": 119000,
-				"to": 121000
+				"from": 121780,
+				"to": 122980
 			},
-			"text": " Maybe a snake charmer."
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:01,000",
-				"to": "00:02:06,000"
+				"from": "00:02:02,980",
+				"to": "00:02:06,100"
 			},
 			"offsets": {
-				"from": 121000,
-				"to": 126000
+				"from": 122980,
+				"to": 126100
 			},
 			"text": " Instead, I've spent my whole life working with computers."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:06,000",
-				"to": "00:02:09,000"
+				"from": "00:02:06,100",
+				"to": "00:02:09,880"
 			},
 			"offsets": {
-				"from": 126000,
-				"to": 129000
+				"from": 126100,
+				"to": 129880
 			},
 			"text": " I've been working with the wrong hardware."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:09,000",
-				"to": "00:02:17,000"
+				"from": "00:02:09,880",
+				"to": "00:02:13,140"
 			},
 			"offsets": {
-				"from": 129000,
-				"to": 137000
+				"from": 129880,
+				"to": 133140
+			},
+			"text": " (audience laughing)"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,140",
+				"to": "00:02:18,140"
+			},
+			"offsets": {
+				"from": 133140,
+				"to": 138140
 			},
 			"text": " But something else did happen in these 30 years."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:17,000",
-				"to": "00:02:20,000"
+				"from": "00:02:18,140",
+				"to": "00:02:20,420"
 			},
 			"offsets": {
-				"from": 137000,
-				"to": 140000
+				"from": 138140,
+				"to": 140420
 			},
 			"text": " I became a father."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:20,000",
-				"to": "00:02:22,000"
+				"from": "00:02:20,420",
+				"to": "00:02:22,060"
 			},
 			"offsets": {
-				"from": 140000,
-				"to": 142000
+				"from": 140420,
+				"to": 142060
 			},
 			"text": " Do we have any parents here tonight?"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:22,000",
-				"to": "00:02:24,000"
+				"from": "00:02:22,060",
+				"to": "00:02:24,280"
 			},
 			"offsets": {
-				"from": 142000,
-				"to": 144000
+				"from": 142060,
+				"to": 144280
 			},
 			"text": " Give me a round of applause."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:25,000",
-				"to": "00:02:28,000"
+				"from": "00:02:24,280",
+				"to": "00:02:25,100"
 			},
 			"offsets": {
-				"from": 145000,
-				"to": 148000
+				"from": 144280,
+				"to": 145100
 			},
-			"text": " A big respect to that."
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:28,000",
-				"to": "00:02:32,000"
+				"from": "00:02:25,100",
+				"to": "00:02:29,700"
 			},
 			"offsets": {
-				"from": 148000,
-				"to": 152000
+				"from": 145100,
+				"to": 149700
 			},
-			"text": " Because, you know, I really appreciate that you have come out here."
+			"text": " And a big respect to that because, you know,"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:32,000",
-				"to": "00:02:37,000"
+				"from": "00:02:29,700",
+				"to": "00:02:32,020"
 			},
 			"offsets": {
-				"from": 152000,
-				"to": 157000
+				"from": 149700,
+				"to": 152020
 			},
-			"text": " Hiring a babysitter in this city costs as much as these management consultants."
+			"text": " I really appreciate that you have come out here."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:37,000",
-				"to": "00:02:41,000"
+				"from": "00:02:32,020",
+				"to": "00:02:34,140"
 			},
 			"offsets": {
-				"from": 157000,
-				"to": 161000
+				"from": 152020,
+				"to": 154140
 			},
-			"text": " So, I actually really appreciate the effort tonight."
+			"text": " Hiring a babysitter in this city"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:41,000",
-				"to": "00:02:43,000"
+				"from": "00:02:34,140",
+				"to": "00:02:36,820"
 			},
 			"offsets": {
-				"from": 161000,
-				"to": 163000
+				"from": 154140,
+				"to": 156820
+			},
+			"text": " costs as much as these management consultants."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,820",
+				"to": "00:02:37,860"
+			},
+			"offsets": {
+				"from": 156820,
+				"to": 157860
+			},
+			"text": " (audience laughing)"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,860",
+				"to": "00:02:41,300"
+			},
+			"offsets": {
+				"from": 157860,
+				"to": 161300
+			},
+			"text": " So I actually really appreciate your effort tonight."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,300",
+				"to": "00:02:43,140"
+			},
+			"offsets": {
+				"from": 161300,
+				"to": 163140
 			},
 			"text": " No, it's true."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:43,000",
-				"to": "00:02:44,000"
+				"from": "00:02:43,140",
+				"to": "00:02:44,220"
 			},
 			"offsets": {
-				"from": 163000,
-				"to": 164000
+				"from": 163140,
+				"to": 164220
 			},
-			"text": " So, I'm a single dad."
+			"text": " So I'm a single dad."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:44,000",
-				"to": "00:02:46,000"
+				"from": "00:02:44,220",
+				"to": "00:02:47,740"
 			},
 			"offsets": {
-				"from": 164000,
-				"to": 166000
+				"from": 164220,
+				"to": 167740
 			},
-			"text": " And I have two teenage kids."
+			"text": " I have two teenage kids, and they live with me."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:46,000",
-				"to": "00:02:47,000"
+				"from": "00:02:47,740",
+				"to": "00:02:50,860"
 			},
 			"offsets": {
-				"from": 166000,
-				"to": 167000
+				"from": 167740,
+				"to": 170860
 			},
-			"text": " And they live with me."
+			"text": " And living with teenagers is like living"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:47,000",
-				"to": "00:02:53,000"
+				"from": "00:02:50,860",
+				"to": "00:02:53,100"
 			},
 			"offsets": {
-				"from": 167000,
-				"to": 173000
+				"from": 170860,
+				"to": 173100
 			},
-			"text": " And living with teenagers is like living in a student baby as a flight chair."
+			"text": " in a student bedroom with a flat chair."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:54,000",
-				"to": "00:02:56,000"
+				"from": "00:02:54,180",
+				"to": "00:02:56,180"
 			},
 			"offsets": {
-				"from": 174000,
-				"to": 176000
+				"from": 174180,
+				"to": 176180
 			},
-			"text": " Because there's never any milk."
+			"text": " 'Cause there's never any milk."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:56,000",
-				"to": "00:02:58,000"
+				"from": "00:02:56,180",
+				"to": "00:02:59,960"
 			},
 			"offsets": {
-				"from": 176000,
-				"to": 178000
+				"from": 176180,
+				"to": 179960
 			},
-			"text": " It's always a mess."
+			"text": " It's always a mess, and I get to pay for everything."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:58,000",
-				"to": "00:03:00,000"
+				"from": "00:02:59,960",
+				"to": "00:03:02,780"
 			},
 			"offsets": {
-				"from": 178000,
-				"to": 180000
-			},
-			"text": " And I get to pay for everything."
-		},
-		{
-			"timestamps": {
-				"from": "00:03:00,000",
-				"to": "00:03:03,000"
-			},
-			"offsets": {
-				"from": 180000,
-				"to": 183000
+				"from": 179960,
+				"to": 182780
 			},
 			"text": " It's the shittest flat chair ever."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:03,000",
-				"to": "00:03:08,860"
+				"from": "00:03:02,780",
+				"to": "00:03:04,620"
 			},
 			"offsets": {
-				"from": 183000,
-				"to": 188860
+				"from": 182780,
+				"to": 184620
 			},
-			"text": " Well, actually, I can imagine one thing even worse might be being a flat chair"
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:08,860",
-				"to": "00:03:10,000"
+				"from": "00:03:04,620",
+				"to": "00:03:07,380"
 			},
 			"offsets": {
-				"from": 188860,
-				"to": 190000
+				"from": 184620,
+				"to": 187380
 			},
-			"text": " with these embryos."
+			"text": " Although, actually, I can imagine one thing even worse"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:10,000",
-				"to": "00:03:13,000"
+				"from": "00:03:07,380",
+				"to": "00:03:09,980"
 			},
 			"offsets": {
-				"from": 190000,
-				"to": 193000
+				"from": 187380,
+				"to": 189980
 			},
-			"text": " Can you imagine when it comes to cleaning up?"
+			"text": " might be being in a flat chair with these umbrellas."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:13,000",
-				"to": "00:03:17,000"
+				"from": "00:03:09,980",
+				"to": "00:03:11,500"
 			},
 			"offsets": {
-				"from": 193000,
-				"to": 197000
+				"from": 189980,
+				"to": 191500
+			},
+			"text": " (audience laughing)"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,500",
+				"to": "00:03:13,360"
+			},
+			"offsets": {
+				"from": 191500,
+				"to": 193360
+			},
+			"text": " Can you imagine, when it comes to cleaning up?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,360",
+				"to": "00:03:17,420"
+			},
+			"offsets": {
+				"from": 193360,
+				"to": 197420
 			},
 			"text": " Hmm, we need a strategy for vacuum cleaning."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:17,000",
-				"to": "00:03:20,000"
+				"from": "00:03:17,420",
+				"to": "00:03:19,740"
 			},
 			"offsets": {
-				"from": 197000,
-				"to": 200000
+				"from": 197420,
+				"to": 199740
 			},
-			"text": " Like, I'll explain the strategy and you do it."
+			"text": " I'll explain the strategy, and you do it,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:20,000",
-				"to": "00:03:23,000"
+				"from": "00:03:19,740",
+				"to": "00:03:22,060"
 			},
 			"offsets": {
-				"from": 200000,
-				"to": 203000
+				"from": 199740,
+				"to": 202060
 			},
-			"text": " And she'll be like, \"No, no, I'm not insured for any vacuum cleaning.\""
+			"text": " and she'll be like, \"No, no, I'm not insured"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:23,000",
-				"to": "00:03:25,000"
+				"from": "00:03:22,060",
+				"to": "00:03:24,260"
 			},
 			"offsets": {
-				"from": 203000,
-				"to": 205000
+				"from": 202060,
+				"to": 204260
 			},
-			"text": " That would be that flat chair."
+			"text": " \"for any vacuum cleaning."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:25,000",
-				"to": "00:03:26,000"
+				"from": "00:03:24,260",
+				"to": "00:03:25,620"
 			},
 			"offsets": {
-				"from": 205000,
-				"to": 206000
+				"from": 204260,
+				"to": 205620
 			},
-			"text": " No."
+			"text": " \"That would be that flat chair.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:03:26,000",
-				"to": "00:03:27,000"
+				"from": "00:03:25,620",
+				"to": "00:03:29,900"
 			},
 			"offsets": {
-				"from": 206000,
-				"to": 207000
+				"from": 205620,
+				"to": 209900
 			},
-			"text": " But I live with these teenagers."
+			"text": " No, but I live with these teenagers, and yeah."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:27,000",
-				"to": "00:03:28,000"
+				"from": "00:03:29,900",
+				"to": "00:03:32,460"
 			},
 			"offsets": {
-				"from": 207000,
-				"to": 208000
+				"from": 209900,
+				"to": 212460
 			},
-			"text": " And, yeah."
+			"text": " And it's been tough, but there is some good news."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:28,000",
-				"to": "00:03:29,000"
+				"from": "00:03:32,460",
+				"to": "00:03:36,500"
 			},
 			"offsets": {
-				"from": 208000,
-				"to": 209000
+				"from": 212460,
+				"to": 216500
 			},
-			"text": " And it's been tough."
+			"text": " There is some amazing news, because tonight,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:29,000",
-				"to": "00:03:30,000"
+				"from": "00:03:36,500",
+				"to": "00:03:40,060"
 			},
 			"offsets": {
-				"from": 209000,
-				"to": 210000
+				"from": 216500,
+				"to": 220060
 			},
-			"text": " But there is some good news."
+			"text": " I get to get some revenge, because they're actually"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:30,000",
-				"to": "00:03:31,000"
+				"from": "00:03:40,060",
+				"to": "00:03:44,060"
 			},
 			"offsets": {
-				"from": 210000,
-				"to": 211000
+				"from": 220060,
+				"to": 224060
 			},
-			"text": " There is some amazing news."
+			"text": " both there in the back, my two teenage kids."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:31,000",
-				"to": "00:03:32,000"
+				"from": "00:03:44,060",
+				"to": "00:03:45,280"
 			},
 			"offsets": {
-				"from": 211000,
-				"to": 212000
+				"from": 224060,
+				"to": 225280
 			},
-			"text": " Because tonight, I get to get some revenge."
+			"text": " Give them a little wave."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:32,000",
-				"to": "00:03:33,000"
+				"from": "00:03:45,280",
+				"to": "00:03:48,940"
 			},
 			"offsets": {
-				"from": 212000,
-				"to": 213000
+				"from": 225280,
+				"to": 228940
 			},
-			"text": " Because they're actually both there in the back."
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:33,000",
-				"to": "00:03:34,000"
+				"from": "00:03:48,940",
+				"to": "00:03:52,060"
 			},
 			"offsets": {
-				"from": 213000,
-				"to": 214000
+				"from": 228940,
+				"to": 232060
 			},
-			"text": " My two teenage kids."
+			"text": " Just to give you some context, two nights ago,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:34,000",
-				"to": "00:03:35,000"
+				"from": "00:03:52,060",
+				"to": "00:03:54,060"
 			},
 			"offsets": {
-				"from": 214000,
-				"to": 215000
+				"from": 232060,
+				"to": 234060
 			},
-			"text": " Give it a little wave."
+			"text": " they basically destroyed our flat."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:35,000",
-				"to": "00:03:37,000"
+				"from": "00:03:54,060",
+				"to": "00:03:55,260"
 			},
 			"offsets": {
-				"from": 215000,
-				"to": 217000
+				"from": 234060,
+				"to": 235260
 			},
-			"text": " I'll just give you some context."
+			"text": " There was complete mess."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:37,000",
-				"to": "00:03:38,000"
+				"from": "00:03:55,260",
+				"to": "00:03:57,460"
 			},
 			"offsets": {
-				"from": 217000,
-				"to": 218000
+				"from": 235260,
+				"to": 237460
 			},
-			"text": " Two nights ago, they basically just came out of the bathroom."
+			"text": " I got back home, pizza boxes."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:38,000",
-				"to": "00:03:39,000"
+				"from": "00:03:57,460",
+				"to": "00:03:59,220"
 			},
 			"offsets": {
-				"from": 218000,
-				"to": 219000
+				"from": 237460,
+				"to": 239220
 			},
-			"text": " And they were just sitting there."
+			"text": " It was just a disaster."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:39,000",
-				"to": "00:03:40,000"
+				"from": "00:03:59,220",
+				"to": "00:04:01,860"
 			},
 			"offsets": {
-				"from": 219000,
-				"to": 220000
+				"from": 239220,
+				"to": 241860
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " So tonight, we're gonna have a little discussion,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:40,000",
-				"to": "00:03:41,000"
+				"from": "00:04:01,860",
+				"to": "00:04:02,700"
 			},
 			"offsets": {
-				"from": 220000,
-				"to": 221000
+				"from": 241860,
+				"to": 242700
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " aren't we, guys?"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:41,000",
-				"to": "00:03:42,000"
+				"from": "00:04:02,700",
+				"to": "00:04:03,860"
 			},
 			"offsets": {
-				"from": 221000,
-				"to": 222000
+				"from": 242700,
+				"to": 243860
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:42,000",
-				"to": "00:03:43,000"
+				"from": "00:04:03,860",
+				"to": "00:04:07,020"
 			},
 			"offsets": {
-				"from": 222000,
-				"to": 223000
+				"from": 243860,
+				"to": 247020
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " So I have a, first I've got a teenage boy."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:43,000",
-				"to": "00:03:44,000"
+				"from": "00:04:07,020",
+				"to": "00:04:12,020"
 			},
 			"offsets": {
-				"from": 223000,
-				"to": 224000
+				"from": 247020,
+				"to": 252020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " He's 14, and he's having a bit of a tough time right now"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:44,000",
-				"to": "00:03:45,000"
+				"from": "00:04:12,020",
+				"to": "00:04:18,700"
 			},
 			"offsets": {
-				"from": 224000,
-				"to": 225000
+				"from": 252020,
+				"to": 258700
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " with the ladies, because he's actually been rejected"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:45,000",
-				"to": "00:03:46,000"
+				"from": "00:04:18,700",
+				"to": "00:04:23,700"
 			},
 			"offsets": {
-				"from": 225000,
-				"to": 226000
+				"from": 258700,
+				"to": 263700
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " over 50 times by the same girl."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:46,000",
-				"to": "00:03:47,000"
+				"from": "00:04:23,700",
+				"to": "00:04:25,460"
 			},
 			"offsets": {
-				"from": 226000,
-				"to": 227000
+				"from": 263700,
+				"to": 265460
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:47,000",
-				"to": "00:03:48,000"
+				"from": "00:04:25,460",
+				"to": "00:04:28,140"
 			},
 			"offsets": {
-				"from": 227000,
-				"to": 228000
+				"from": 265460,
+				"to": 268140
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " I'm glad you're keeping up the family tradition, then."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:48,000",
-				"to": "00:03:49,000"
+				"from": "00:04:28,140",
+				"to": "00:04:30,220"
 			},
 			"offsets": {
-				"from": 228000,
-				"to": 229000
+				"from": 268140,
+				"to": 270220
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:49,000",
-				"to": "00:03:50,000"
+				"from": "00:04:30,220",
+				"to": "00:04:32,480"
 			},
 			"offsets": {
-				"from": 229000,
-				"to": 230000
+				"from": 270220,
+				"to": 272480
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " But I do hope you don't get PPS."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:50,000",
-				"to": "00:03:51,000"
+				"from": "00:04:32,480",
+				"to": "00:04:34,420"
 			},
 			"offsets": {
-				"from": 230000,
-				"to": 231000
+				"from": 272480,
+				"to": 274420
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:51,000",
-				"to": "00:03:52,000"
+				"from": "00:04:34,420",
+				"to": "00:04:39,020"
 			},
 			"offsets": {
-				"from": 231000,
-				"to": 232000
+				"from": 274420,
+				"to": 279020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " And actually, recently, we had a very awkward situation,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:52,000",
-				"to": "00:03:53,000"
+				"from": "00:04:39,020",
+				"to": "00:04:43,440"
 			},
 			"offsets": {
-				"from": 232000,
-				"to": 233000
+				"from": 279020,
+				"to": 283440
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " because I caught him looking at porn."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:53,000",
-				"to": "00:03:54,000"
+				"from": "00:04:43,440",
+				"to": "00:04:47,460"
 			},
 			"offsets": {
-				"from": 233000,
-				"to": 234000
+				"from": 283440,
+				"to": 287460
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Wow, that's an awkward situation, definitely."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:54,000",
-				"to": "00:03:55,000"
+				"from": "00:04:47,460",
+				"to": "00:04:50,580"
 			},
 			"offsets": {
-				"from": 234000,
-				"to": 235000
+				"from": 287460,
+				"to": 290580
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Luckily, luckily, I'm a bit of an expert."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:55,000",
-				"to": "00:03:56,000"
+				"from": "00:04:50,580",
+				"to": "00:04:52,860"
 			},
 			"offsets": {
-				"from": 235000,
-				"to": 236000
+				"from": 290580,
+				"to": 292860
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " I could point him at all the best categories."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:56,000",
-				"to": "00:03:57,000"
+				"from": "00:04:52,860",
+				"to": "00:04:53,900"
 			},
 			"offsets": {
-				"from": 236000,
-				"to": 237000
+				"from": 292860,
+				"to": 293900
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:57,000",
-				"to": "00:03:58,000"
+				"from": "00:04:53,900",
+				"to": "00:04:56,020"
 			},
 			"offsets": {
-				"from": 237000,
-				"to": 238000
+				"from": 293900,
+				"to": 296020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " It's important to be a responsible parent."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:58,000",
-				"to": "00:03:59,000"
+				"from": "00:04:56,020",
+				"to": "00:04:59,300"
 			},
 			"offsets": {
-				"from": 238000,
-				"to": 239000
+				"from": 296020,
+				"to": 299300
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " And actually, another thing about my son"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:59,000",
-				"to": "00:04:00,000"
+				"from": "00:04:59,300",
+				"to": "00:05:03,260"
 			},
 			"offsets": {
-				"from": 239000,
-				"to": 240000
+				"from": 299300,
+				"to": 303260
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " is he plays a lot of GTA, Grand Theft Auto."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:00,000",
-				"to": "00:04:01,000"
+				"from": "00:05:03,260",
+				"to": "00:05:05,260"
 			},
 			"offsets": {
-				"from": 240000,
-				"to": 241000
+				"from": 303260,
+				"to": 305260
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Now, some of you who know this game may be thinking,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:01,000",
-				"to": "00:04:02,000"
+				"from": "00:05:05,260",
+				"to": "00:05:06,580"
 			},
 			"offsets": {
-				"from": 241000,
-				"to": 242000
+				"from": 305260,
+				"to": 306580
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " \"You can't let him play that."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:02,000",
-				"to": "00:04:03,000"
+				"from": "00:05:06,580",
+				"to": "00:05:09,160"
 			},
 			"offsets": {
-				"from": 242000,
-				"to": 243000
+				"from": 306580,
+				"to": 309160
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " \"That's that game where he gets to beat up hookers"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:03,000",
-				"to": "00:04:04,000"
+				"from": "00:05:09,160",
+				"to": "00:05:11,080"
 			},
 			"offsets": {
-				"from": 243000,
-				"to": 244000
+				"from": 309160,
+				"to": 311080
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " \"and run over old ladies.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:04,000",
-				"to": "00:04:05,000"
+				"from": "00:05:11,080",
+				"to": "00:05:12,740"
 			},
 			"offsets": {
-				"from": 244000,
-				"to": 245000
+				"from": 311080,
+				"to": 312740
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:05,000",
-				"to": "00:04:06,000"
+				"from": "00:05:12,740",
+				"to": "00:05:14,620"
 			},
 			"offsets": {
-				"from": 245000,
-				"to": 246000
+				"from": 312740,
+				"to": 314620
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " But you know, I think, I think, actually,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:06,000",
-				"to": "00:04:07,000"
+				"from": "00:05:14,620",
+				"to": "00:05:19,620"
 			},
 			"offsets": {
-				"from": 246000,
-				"to": 247000
+				"from": 314620,
+				"to": 319620
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " GTA is teaching him some important life skills."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:07,000",
-				"to": "00:04:08,000"
+				"from": "00:05:19,620",
+				"to": "00:05:23,220"
 			},
 			"offsets": {
-				"from": 247000,
-				"to": 248000
+				"from": 319620,
+				"to": 323220
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " For example, he's learned to sit in a chair for eight hours"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:08,000",
-				"to": "00:04:09,000"
+				"from": "00:05:23,220",
+				"to": "00:05:25,640"
 			},
 			"offsets": {
-				"from": 248000,
-				"to": 249000
+				"from": 323220,
+				"to": 325640
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " without moving, eating, or going to the toilet."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:09,000",
-				"to": "00:04:10,000"
+				"from": "00:05:25,640",
+				"to": "00:05:27,020"
 			},
 			"offsets": {
-				"from": 249000,
-				"to": 250000
+				"from": 325640,
+				"to": 327020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:10,000",
-				"to": "00:04:11,000"
+				"from": "00:05:27,020",
+				"to": "00:05:29,700"
 			},
 			"offsets": {
-				"from": 250000,
-				"to": 251000
+				"from": 327020,
+				"to": 329700
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Which is clearly great preparation for the future"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:11,000",
-				"to": "00:04:12,000"
+				"from": "00:05:29,700",
+				"to": "00:05:30,880"
 			},
 			"offsets": {
-				"from": 251000,
-				"to": 252000
+				"from": 329700,
+				"to": 330880
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " of his life."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:12,000",
-				"to": "00:04:13,000"
+				"from": "00:05:30,880",
+				"to": "00:05:32,180"
 			},
 			"offsets": {
-				"from": 252000,
-				"to": 253000
+				"from": 330880,
+				"to": 332180
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:13,000",
-				"to": "00:04:14,000"
+				"from": "00:05:32,180",
+				"to": "00:05:34,020"
 			},
 			"offsets": {
-				"from": 253000,
-				"to": 254000
+				"from": 332180,
+				"to": 334020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " And also, he plays online."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:14,000",
-				"to": "00:04:15,000"
+				"from": "00:05:34,020",
+				"to": "00:05:35,740"
 			},
 			"offsets": {
-				"from": 254000,
-				"to": 255000
+				"from": 334020,
+				"to": 335740
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Thank you, Andrea, for saying that."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:15,000",
-				"to": "00:04:16,000"
+				"from": "00:05:35,740",
+				"to": "00:05:37,420"
 			},
 			"offsets": {
-				"from": 255000,
-				"to": 256000
+				"from": 335740,
+				"to": 337420
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " The rest, I've lost them."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:16,000",
-				"to": "00:04:17,000"
+				"from": "00:05:37,420",
+				"to": "00:05:38,660"
 			},
 			"offsets": {
-				"from": 256000,
-				"to": 257000
+				"from": 337420,
+				"to": 338660
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " So I was going to say anything."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:17,000",
-				"to": "00:04:18,000"
+				"from": "00:05:38,660",
+				"to": "00:05:40,580"
 			},
 			"offsets": {
-				"from": 257000,
-				"to": 258000
+				"from": 338660,
+				"to": 340580
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:18,000",
-				"to": "00:04:19,000"
+				"from": "00:05:40,580",
+				"to": "00:05:44,100"
 			},
 			"offsets": {
-				"from": 258000,
-				"to": 259000
+				"from": 340580,
+				"to": 344100
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " So he plays online, and one thing I really appreciate"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:19,000",
-				"to": "00:04:20,000"
+				"from": "00:05:44,100",
+				"to": "00:05:45,740"
 			},
 			"offsets": {
-				"from": 259000,
-				"to": 260000
+				"from": 344100,
+				"to": 345740
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " as I've come originally from England,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:20,000",
-				"to": "00:04:21,000"
+				"from": "00:05:45,740",
+				"to": "00:05:48,740"
 			},
 			"offsets": {
-				"from": 260000,
-				"to": 261000
+				"from": 345740,
+				"to": 348740
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " is it's radically improved his English."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:21,000",
-				"to": "00:04:22,000"
+				"from": "00:05:48,740",
+				"to": "00:05:50,060"
 			},
 			"offsets": {
-				"from": 261000,
-				"to": 262000
+				"from": 348740,
+				"to": 350060
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " His English has got a lot better."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:22,000",
-				"to": "00:04:23,000"
+				"from": "00:05:50,060",
+				"to": "00:05:52,540"
 			},
 			"offsets": {
-				"from": 262000,
-				"to": 263000
+				"from": 350060,
+				"to": 352540
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " He's learned some key phrases like,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:23,000",
-				"to": "00:04:24,000"
+				"from": "00:05:52,540",
+				"to": "00:05:54,260"
 			},
 			"offsets": {
-				"from": 263000,
-				"to": 264000
+				"from": 352540,
+				"to": 354260
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " \"Bitch, I will fuck you up!\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:24,000",
-				"to": "00:04:25,000"
+				"from": "00:05:54,260",
+				"to": "00:05:56,380"
 			},
 			"offsets": {
-				"from": 264000,
-				"to": 265000
+				"from": 354260,
+				"to": 356380
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:25,000",
-				"to": "00:04:26,000"
+				"from": "00:05:56,380",
+				"to": "00:05:58,980"
 			},
 			"offsets": {
-				"from": 265000,
-				"to": 266000
+				"from": 356380,
+				"to": 358980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " \"I will piss on you like Donald Trump!\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:26,000",
-				"to": "00:04:27,000"
+				"from": "00:05:58,980",
+				"to": "00:06:00,140"
 			},
 			"offsets": {
-				"from": 266000,
-				"to": 267000
+				"from": 358980,
+				"to": 360140
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:27,000",
-				"to": "00:04:28,000"
+				"from": "00:06:00,140",
+				"to": "00:06:00,980"
 			},
 			"offsets": {
-				"from": 267000,
-				"to": 268000
+				"from": 360140,
+				"to": 360980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " It's great."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:28,000",
-				"to": "00:04:29,000"
+				"from": "00:06:00,980",
+				"to": "00:06:03,220"
 			},
 			"offsets": {
-				"from": 268000,
-				"to": 269000
+				"from": 360980,
+				"to": 363220
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " It makes me feel like we're making good progress."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:29,000",
-				"to": "00:04:30,000"
+				"from": "00:06:03,220",
+				"to": "00:06:04,620"
 			},
 			"offsets": {
-				"from": 269000,
-				"to": 270000
+				"from": 363220,
+				"to": 364620
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:30,000",
-				"to": "00:04:31,000"
+				"from": "00:06:04,620",
+				"to": "00:06:09,340"
 			},
 			"offsets": {
-				"from": 270000,
-				"to": 271000
+				"from": 364620,
+				"to": 369340
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " But, you know, we've done, like, the teenage son."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:31,000",
-				"to": "00:04:32,000"
+				"from": "00:06:09,340",
+				"to": "00:06:13,740"
 			},
 			"offsets": {
-				"from": 271000,
-				"to": 272000
+				"from": 369340,
+				"to": 373740
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Of course, my other kid is the teenage girl."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:32,000",
-				"to": "00:04:33,000"
+				"from": "00:06:13,740",
+				"to": "00:06:17,340"
 			},
 			"offsets": {
-				"from": 272000,
-				"to": 273000
+				"from": 373740,
+				"to": 377340
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " And as a single dad, with a teenage daughter,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:33,000",
-				"to": "00:04:34,000"
+				"from": "00:06:17,340",
+				"to": "00:06:21,140"
 			},
 			"offsets": {
-				"from": 273000,
-				"to": 274000
+				"from": 377340,
+				"to": 381140
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " I'm constantly being confronted with situations"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:34,000",
-				"to": "00:04:35,000"
+				"from": "00:06:21,140",
+				"to": "00:06:23,540"
 			},
 			"offsets": {
-				"from": 274000,
-				"to": 275000
+				"from": 381140,
+				"to": 383540
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " that I'm wholly unprepared for."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:35,000",
-				"to": "00:04:36,000"
+				"from": "00:06:23,540",
+				"to": "00:06:24,980"
 			},
 			"offsets": {
-				"from": 275000,
-				"to": 276000
+				"from": 383540,
+				"to": 384980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " I can feel the tension."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:36,000",
-				"to": "00:04:37,000"
+				"from": "00:06:24,980",
+				"to": "00:06:26,140"
 			},
 			"offsets": {
-				"from": 276000,
-				"to": 277000
+				"from": 384980,
+				"to": 386140
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:37,000",
-				"to": "00:04:38,000"
+				"from": "00:06:26,140",
+				"to": "00:06:26,980"
 			},
 			"offsets": {
-				"from": 277000,
-				"to": 278000
+				"from": 386140,
+				"to": 386980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " That's good."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:38,000",
-				"to": "00:04:39,000"
+				"from": "00:06:26,980",
+				"to": "00:06:29,020"
 			},
 			"offsets": {
-				"from": 278000,
-				"to": 279000
+				"from": 386980,
+				"to": 389020
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Because I remember this time,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:39,000",
-				"to": "00:04:40,000"
+				"from": "00:06:29,020",
+				"to": "00:06:31,100"
 			},
 			"offsets": {
-				"from": 279000,
-				"to": 280000
+				"from": 389020,
+				"to": 391100
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " this happened a little while ago."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:40,000",
-				"to": "00:04:41,000"
+				"from": "00:06:31,100",
+				"to": "00:06:35,540"
 			},
 			"offsets": {
-				"from": 280000,
-				"to": 281000
+				"from": 391100,
+				"to": 395540
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " I came back from work, I went into the bathroom,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:41,000",
-				"to": "00:04:42,000"
+				"from": "00:06:35,540",
+				"to": "00:06:38,560"
 			},
 			"offsets": {
-				"from": 281000,
-				"to": 282000
+				"from": 395540,
+				"to": 398560
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " and oh my God, it looked like a crime scene."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:42,000",
-				"to": "00:04:43,000"
+				"from": "00:06:38,560",
+				"to": "00:06:40,420"
 			},
 			"offsets": {
-				"from": 282000,
-				"to": 283000
+				"from": 398560,
+				"to": 400420
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:43,000",
-				"to": "00:04:44,000"
+				"from": "00:06:40,420",
+				"to": "00:06:43,940"
 			},
 			"offsets": {
-				"from": 283000,
-				"to": 284000
+				"from": 400420,
+				"to": 403940
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " There was a bloody handprint on the mirror."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:44,000",
-				"to": "00:04:45,000"
+				"from": "00:06:43,940",
+				"to": "00:06:47,100"
 			},
 			"offsets": {
-				"from": 284000,
-				"to": 285000
+				"from": 403940,
+				"to": 407100
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Drops of blood in the sink, more blood on the floor,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:45,000",
-				"to": "00:04:46,000"
+				"from": "00:06:47,100",
+				"to": "00:06:51,500"
 			},
 			"offsets": {
-				"from": 285000,
-				"to": 286000
+				"from": 407100,
+				"to": 411500
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " and that toilet looked like something from a horror movie."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:46,000",
-				"to": "00:04:47,000"
+				"from": "00:06:51,500",
+				"to": "00:06:55,260"
 			},
 			"offsets": {
-				"from": 286000,
-				"to": 287000
+				"from": 411500,
+				"to": 415260
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " And then I heard a screaming, and I looked around,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:47,000",
-				"to": "00:04:48,000"
+				"from": "00:06:55,260",
+				"to": "00:06:59,660"
 			},
 			"offsets": {
-				"from": 287000,
-				"to": 288000
+				"from": 415260,
+				"to": 419660
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " and I realized the screaming was coming from me."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:48,000",
-				"to": "00:04:49,000"
+				"from": "00:06:59,660",
+				"to": "00:07:02,740"
 			},
 			"offsets": {
-				"from": 288000,
-				"to": 289000
+				"from": 419660,
+				"to": 422740
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:49,000",
-				"to": "00:04:50,000"
+				"from": "00:07:02,740",
+				"to": "00:07:05,180"
 			},
 			"offsets": {
-				"from": 289000,
-				"to": 290000
+				"from": 422740,
+				"to": 425180
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " And at that moment, my daughter turned up and said,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:50,000",
-				"to": "00:04:51,000"
+				"from": "00:07:05,180",
+				"to": "00:07:08,660"
 			},
 			"offsets": {
-				"from": 290000,
-				"to": 291000
+				"from": 425180,
+				"to": 428660
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " \"Hey Dad, I got my period!\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:51,000",
-				"to": "00:04:52,000"
+				"from": "00:07:08,660",
+				"to": "00:07:11,620"
 			},
 			"offsets": {
-				"from": 291000,
-				"to": 292000
+				"from": 428660,
+				"to": 431620
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " So after cleaning up her menstrual blood,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:52,000",
-				"to": "00:04:53,000"
+				"from": "00:07:11,620",
+				"to": "00:07:14,940"
 			},
 			"offsets": {
-				"from": 292000,
-				"to": 293000
+				"from": 431620,
+				"to": 434940
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " yeah, now I have to do that, she's a teenager,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:53,000",
-				"to": "00:04:54,000"
+				"from": "00:07:14,940",
+				"to": "00:07:17,100"
 			},
 			"offsets": {
-				"from": 293000,
-				"to": 294000
+				"from": 434940,
+				"to": 437100
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " she just smeared around and shit,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:54,000",
-				"to": "00:04:55,000"
+				"from": "00:07:17,100",
+				"to": "00:07:19,500"
 			},
 			"offsets": {
-				"from": 294000,
-				"to": 295000
+				"from": 437100,
+				"to": 439500
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " that's unfortunately my job."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:55,000",
-				"to": "00:04:56,000"
+				"from": "00:07:19,500",
+				"to": "00:07:22,020"
 			},
 			"offsets": {
-				"from": 295000,
-				"to": 296000
+				"from": 439500,
+				"to": 442020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " After that, I said to her, \"Hey, can I get you something?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:56,000",
-				"to": "00:04:57,000"
+				"from": "00:07:22,020",
+				"to": "00:07:24,920"
 			},
 			"offsets": {
-				"from": 296000,
-				"to": 297000
+				"from": 442020,
+				"to": 444920
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " She said, \"Dad, get me tampons.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:04:57,000",
-				"to": "00:04:58,000"
+				"from": "00:07:24,920",
+				"to": "00:07:27,660"
 			},
 			"offsets": {
-				"from": 297000,
-				"to": 298000
+				"from": 444920,
+				"to": 447660
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Now obviously as a man, this is a job"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:58,000",
-				"to": "00:04:59,000"
+				"from": "00:07:27,660",
+				"to": "00:07:29,980"
 			},
 			"offsets": {
-				"from": 298000,
-				"to": 299000
+				"from": 447660,
+				"to": 449980
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " I have zero qualifications for."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:59,000",
-				"to": "00:05:00,000"
+				"from": "00:07:29,980",
+				"to": "00:07:31,100"
 			},
 			"offsets": {
-				"from": 299000,
-				"to": 300000
+				"from": 449980,
+				"to": 451100
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:00,000",
-				"to": "00:05:01,000"
+				"from": "00:07:31,100",
+				"to": "00:07:32,820"
 			},
 			"offsets": {
-				"from": 300000,
-				"to": 301000
+				"from": 451100,
+				"to": 452820
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " So I said, \"Hey, this can't be so hard.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:05:01,000",
-				"to": "00:05:02,000"
+				"from": "00:07:32,820",
+				"to": "00:07:36,340"
 			},
 			"offsets": {
-				"from": 301000,
-				"to": 302000
+				"from": 452820,
+				"to": 456340
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " So I went over to Migo, I took a look around,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:02,000",
-				"to": "00:05:03,000"
+				"from": "00:07:36,340",
+				"to": "00:07:40,140"
 			},
 			"offsets": {
-				"from": 302000,
-				"to": 303000
+				"from": 456340,
+				"to": 460140
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " and what I discovered is that tampon product names"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:03,000",
-				"to": "00:05:04,000"
+				"from": "00:07:40,140",
+				"to": "00:07:43,660"
 			},
 			"offsets": {
-				"from": 303000,
-				"to": 304000
+				"from": 460140,
+				"to": 463660
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " are useless when it comes to choosing a tampon."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:04,000",
-				"to": "00:05:05,000"
+				"from": "00:07:43,660",
+				"to": "00:07:47,820"
 			},
 			"offsets": {
-				"from": 304000,
-				"to": 305000
+				"from": 463660,
+				"to": 467820
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Because they have names like OB Pro,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:05,000",
-				"to": "00:05:06,000"
+				"from": "00:07:47,820",
+				"to": "00:07:52,020"
 			},
 			"offsets": {
-				"from": 305000,
-				"to": 306000
+				"from": 467820,
+				"to": 472020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " and what is that, like professional women"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:06,000",
-				"to": "00:05:07,000"
+				"from": "00:07:52,020",
+				"to": "00:07:53,460"
 			},
 			"offsets": {
-				"from": 306000,
-				"to": 307000
+				"from": 472020,
+				"to": 473460
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " that bleed for a living?"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:07,000",
-				"to": "00:05:08,000"
+				"from": "00:07:53,460",
+				"to": "00:07:54,300"
 			},
 			"offsets": {
-				"from": 307000,
-				"to": 308000
+				"from": 473460,
+				"to": 474300
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:08,000",
-				"to": "00:05:09,000"
+				"from": "00:07:54,300",
+				"to": "00:07:57,220"
 			},
 			"offsets": {
-				"from": 308000,
-				"to": 309000
+				"from": 474300,
+				"to": 477220
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " I think I want that for my daughter."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:09,000",
-				"to": "00:05:10,000"
+				"from": "00:07:57,220",
+				"to": "00:08:00,060"
 			},
 			"offsets": {
-				"from": 309000,
-				"to": 310000
+				"from": 477220,
+				"to": 480060
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Or Tampax Radiance, like what is this,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:10,000",
-				"to": "00:05:11,000"
+				"from": "00:08:00,060",
+				"to": "00:08:05,060"
 			},
 			"offsets": {
-				"from": 310000,
-				"to": 311000
+				"from": 480060,
+				"to": 485060
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " like glow-in-the-dark tampons, or what is that, I don't know."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:11,000",
-				"to": "00:05:12,000"
+				"from": "00:08:05,060",
+				"to": "00:08:07,940"
 			},
 			"offsets": {
-				"from": 311000,
-				"to": 312000
+				"from": 485060,
+				"to": 487940
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " And what I like the most is Always Infinity."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:12,000",
-				"to": "00:05:13,000"
+				"from": "00:08:07,940",
+				"to": "00:08:09,060"
 			},
 			"offsets": {
-				"from": 312000,
-				"to": 313000
+				"from": 487940,
+				"to": 489060
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:13,000",
-				"to": "00:05:14,000"
+				"from": "00:08:09,060",
+				"to": "00:08:12,300"
 			},
 			"offsets": {
-				"from": 313000,
-				"to": 314000
+				"from": 489060,
+				"to": 492300
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " For her vagina, it's an unfillable black hole."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:14,000",
-				"to": "00:05:15,000"
+				"from": "00:08:12,300",
+				"to": "00:08:14,620"
 			},
 			"offsets": {
-				"from": 314000,
-				"to": 315000
+				"from": 492300,
+				"to": 494620
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:15,000",
-				"to": "00:05:16,000"
+				"from": "00:08:14,620",
+				"to": "00:08:17,980"
 			},
 			"offsets": {
-				"from": 315000,
-				"to": 316000
+				"from": 494620,
+				"to": 497980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " But I ended up choosing another product from Always."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:16,000",
-				"to": "00:05:17,000"
+				"from": "00:08:17,980",
+				"to": "00:08:21,420"
 			},
 			"offsets": {
-				"from": 316000,
-				"to": 317000
+				"from": 497980,
+				"to": 501420
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " It's called Always Home by Eleven, wow."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:17,000",
-				"to": "00:05:18,000"
+				"from": "00:08:21,420",
+				"to": "00:08:22,260"
 			},
 			"offsets": {
-				"from": 317000,
-				"to": 318000
+				"from": 501420,
+				"to": 502260
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:18,000",
-				"to": "00:05:19,000"
+				"from": "00:08:22,260",
+				"to": "00:08:24,500"
 			},
 			"offsets": {
-				"from": 318000,
-				"to": 319000
+				"from": 502260,
+				"to": 504500
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " This is fantastic."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:19,000",
-				"to": "00:05:20,000"
+				"from": "00:08:24,500",
+				"to": "00:08:26,620"
 			},
 			"offsets": {
-				"from": 319000,
-				"to": 320000
+				"from": 504500,
+				"to": 506620
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " 'Cause it's right about 10 o'clock, it's so sleek,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:20,000",
-				"to": "00:05:21,000"
+				"from": "00:08:26,620",
+				"to": "00:08:29,980"
 			},
 			"offsets": {
-				"from": 320000,
-				"to": 321000
+				"from": 506620,
+				"to": 509980
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " and she's Always Home by Eleven, it's amazing."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:21,000",
-				"to": "00:05:22,000"
+				"from": "00:08:29,980",
+				"to": "00:08:33,940"
 			},
 			"offsets": {
-				"from": 321000,
-				"to": 322000
+				"from": 509980,
+				"to": 513940
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " And for me, as a father, I have to say,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:22,000",
-				"to": "00:05:23,000"
+				"from": "00:08:33,940",
+				"to": "00:08:36,460"
 			},
 			"offsets": {
-				"from": 322000,
-				"to": 323000
+				"from": 513940,
+				"to": 516460
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " it was a very proud moment."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:23,000",
-				"to": "00:05:24,000"
+				"from": "00:08:36,460",
+				"to": "00:08:39,380"
 			},
 			"offsets": {
-				"from": 323000,
-				"to": 324000
+				"from": 516460,
+				"to": 519380
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Because it's not every day that you get to choose"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:24,000",
-				"to": "00:05:25,000"
+				"from": "00:08:39,380",
+				"to": "00:08:41,660"
 			},
 			"offsets": {
-				"from": 324000,
-				"to": 325000
+				"from": 519380,
+				"to": 521660
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " what your daughter crams in her vagina."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:25,000",
-				"to": "00:05:26,000"
+				"from": "00:08:41,660",
+				"to": "00:08:44,660"
 			},
 			"offsets": {
-				"from": 325000,
-				"to": 326000
+				"from": 521660,
+				"to": 524660
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:26,000",
-				"to": "00:05:27,000"
+				"from": "00:08:44,660",
+				"to": "00:08:51,740"
 			},
 			"offsets": {
-				"from": 326000,
-				"to": 327000
+				"from": 524660,
+				"to": 531740
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " I had a better response to that than I expected."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:27,000",
-				"to": "00:05:28,000"
+				"from": "00:08:51,740",
+				"to": "00:08:53,020"
 			},
 			"offsets": {
-				"from": 327000,
-				"to": 328000
+				"from": 531740,
+				"to": 533020
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Thank you very much."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:28,000",
-				"to": "00:05:29,000"
+				"from": "00:08:53,020",
+				"to": "00:08:55,100"
 			},
 			"offsets": {
-				"from": 328000,
-				"to": 329000
+				"from": 533020,
+				"to": 535100
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " All right, well let me just wrap it up by saying this,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:29,000",
-				"to": "00:05:30,000"
+				"from": "00:08:55,100",
+				"to": "00:08:57,060"
 			},
 			"offsets": {
-				"from": 329000,
-				"to": 330000
+				"from": 535100,
+				"to": 537060
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " is that these days, actually, my daughter"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:30,000",
-				"to": "00:05:31,000"
+				"from": "00:08:57,060",
+				"to": "00:08:59,780"
 			},
 			"offsets": {
-				"from": 330000,
-				"to": 331000
+				"from": 537060,
+				"to": 539780
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " is currently thinking about becoming,"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:31,000",
-				"to": "00:05:32,000"
+				"from": "00:08:59,780",
+				"to": "00:09:02,500"
 			},
 			"offsets": {
-				"from": 331000,
-				"to": 332000
+				"from": 539780,
+				"to": 542500
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " oh, thank you, this guy really gets it."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:32,000",
-				"to": "00:05:33,000"
+				"from": "00:09:02,500",
+				"to": "00:09:04,740"
 			},
 			"offsets": {
-				"from": 332000,
-				"to": 333000
+				"from": 542500,
+				"to": 544740
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " I appreciate it, he must be a dad or something."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:33,000",
-				"to": "00:05:34,000"
+				"from": "00:09:04,740",
+				"to": "00:09:06,980"
 			},
 			"offsets": {
-				"from": 333000,
-				"to": 334000
+				"from": 544740,
+				"to": 546980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:34,000",
-				"to": "00:05:35,000"
+				"from": "00:09:06,980",
+				"to": "00:09:10,340"
 			},
 			"offsets": {
-				"from": 334000,
-				"to": 335000
+				"from": 546980,
+				"to": 550340
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " And no, these days, my daughter's actually thinking"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:35,000",
-				"to": "00:05:36,000"
+				"from": "00:09:10,340",
+				"to": "00:09:12,980"
 			},
 			"offsets": {
-				"from": 335000,
-				"to": 336000
+				"from": 550340,
+				"to": 552980
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " about becoming a massage therapist."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:36,000",
-				"to": "00:05:37,000"
+				"from": "00:09:12,980",
+				"to": "00:09:15,660"
 			},
 			"offsets": {
-				"from": 336000,
-				"to": 337000
+				"from": 552980,
+				"to": 555660
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " So this story, at least, does have a happy ending."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:37,000",
-				"to": "00:05:38,000"
+				"from": "00:09:15,660",
+				"to": "00:09:18,660"
 			},
 			"offsets": {
-				"from": 337000,
-				"to": 338000
+				"from": 555660,
+				"to": 558660
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " (audience laughing)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:38,000",
-				"to": "00:05:39,000"
+				"from": "00:09:18,660",
+				"to": "00:09:21,220"
 			},
 			"offsets": {
-				"from": 338000,
-				"to": 339000
+				"from": 558660,
+				"to": 561220
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " Give it up to these two guys."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:39,000",
-				"to": "00:05:40,000"
+				"from": "00:09:21,220",
+				"to": "00:09:22,940"
 			},
 			"offsets": {
-				"from": 339000,
-				"to": 340000
+				"from": 561220,
+				"to": 562940
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " I love them, they're lovely people."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:40,000",
-				"to": "00:05:41,000"
+				"from": "00:09:22,940",
+				"to": "00:09:24,500"
 			},
 			"offsets": {
-				"from": 340000,
-				"to": 341000
+				"from": 562940,
+				"to": 564500
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:41,000",
-				"to": "00:05:42,000"
+				"from": "00:09:24,500",
+				"to": "00:09:26,420"
 			},
 			"offsets": {
-				"from": 341000,
-				"to": 342000
+				"from": 564500,
+				"to": 566420
 			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " In this case, thank you."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:42,000",
-				"to": "00:05:43,000"
+				"from": "00:09:26,420",
+				"to": "00:09:29,580"
 			},
 			"offsets": {
-				"from": 342000,
-				"to": 343000
+				"from": 566420,
+				"to": 569580
 			},
-			"text": " And they were like, \"What's going on?\""
+			"text": " (audience applauding)"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:43,000",
-				"to": "00:05:44,000"
+				"from": "00:09:31,860",
+				"to": "00:09:33,860"
 			},
 			"offsets": {
-				"from": 343000,
-				"to": 344000
+				"from": 571860,
+				"to": 573860
 			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:44,000",
-				"to": "00:05:45,000"
-			},
-			"offsets": {
-				"from": 344000,
-				"to": 345000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:45,000",
-				"to": "00:05:46,000"
-			},
-			"offsets": {
-				"from": 345000,
-				"to": 346000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:46,000",
-				"to": "00:05:47,000"
-			},
-			"offsets": {
-				"from": 346000,
-				"to": 347000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:47,000",
-				"to": "00:05:48,000"
-			},
-			"offsets": {
-				"from": 347000,
-				"to": 348000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:48,000",
-				"to": "00:05:49,000"
-			},
-			"offsets": {
-				"from": 348000,
-				"to": 349000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:49,000",
-				"to": "00:05:50,000"
-			},
-			"offsets": {
-				"from": 349000,
-				"to": 350000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:50,000",
-				"to": "00:05:51,000"
-			},
-			"offsets": {
-				"from": 350000,
-				"to": 351000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:51,000",
-				"to": "00:05:52,000"
-			},
-			"offsets": {
-				"from": 351000,
-				"to": 352000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:52,000",
-				"to": "00:05:53,000"
-			},
-			"offsets": {
-				"from": 352000,
-				"to": 353000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:53,000",
-				"to": "00:05:54,000"
-			},
-			"offsets": {
-				"from": 353000,
-				"to": 354000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:54,000",
-				"to": "00:05:55,000"
-			},
-			"offsets": {
-				"from": 354000,
-				"to": 355000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:55,000",
-				"to": "00:05:56,000"
-			},
-			"offsets": {
-				"from": 355000,
-				"to": 356000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:56,000",
-				"to": "00:05:57,000"
-			},
-			"offsets": {
-				"from": 356000,
-				"to": 357000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:57,000",
-				"to": "00:05:58,000"
-			},
-			"offsets": {
-				"from": 357000,
-				"to": 358000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:58,000",
-				"to": "00:05:59,000"
-			},
-			"offsets": {
-				"from": 358000,
-				"to": 359000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:59,000",
-				"to": "00:06:00,000"
-			},
-			"offsets": {
-				"from": 359000,
-				"to": 360000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:00,000",
-				"to": "00:06:01,000"
-			},
-			"offsets": {
-				"from": 360000,
-				"to": 361000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:01,000",
-				"to": "00:06:02,000"
-			},
-			"offsets": {
-				"from": 361000,
-				"to": 362000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:02,000",
-				"to": "00:06:03,000"
-			},
-			"offsets": {
-				"from": 362000,
-				"to": 363000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:03,000",
-				"to": "00:06:04,000"
-			},
-			"offsets": {
-				"from": 363000,
-				"to": 364000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:04,000",
-				"to": "00:06:05,000"
-			},
-			"offsets": {
-				"from": 364000,
-				"to": 365000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:05,000",
-				"to": "00:06:06,000"
-			},
-			"offsets": {
-				"from": 365000,
-				"to": 366000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:06,000",
-				"to": "00:06:07,000"
-			},
-			"offsets": {
-				"from": 366000,
-				"to": 367000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:07,000",
-				"to": "00:06:08,000"
-			},
-			"offsets": {
-				"from": 367000,
-				"to": 368000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:08,000",
-				"to": "00:06:09,000"
-			},
-			"offsets": {
-				"from": 368000,
-				"to": 369000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:09,000",
-				"to": "00:06:10,000"
-			},
-			"offsets": {
-				"from": 369000,
-				"to": 370000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:10,000",
-				"to": "00:06:11,000"
-			},
-			"offsets": {
-				"from": 370000,
-				"to": 371000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:11,000",
-				"to": "00:06:12,000"
-			},
-			"offsets": {
-				"from": 371000,
-				"to": 372000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:12,000",
-				"to": "00:06:13,000"
-			},
-			"offsets": {
-				"from": 372000,
-				"to": 373000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:13,000",
-				"to": "00:06:14,000"
-			},
-			"offsets": {
-				"from": 373000,
-				"to": 374000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:14,000",
-				"to": "00:06:15,000"
-			},
-			"offsets": {
-				"from": 374000,
-				"to": 375000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:15,000",
-				"to": "00:06:16,000"
-			},
-			"offsets": {
-				"from": 375000,
-				"to": 376000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:16,000",
-				"to": "00:06:17,000"
-			},
-			"offsets": {
-				"from": 376000,
-				"to": 377000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:17,000",
-				"to": "00:06:18,000"
-			},
-			"offsets": {
-				"from": 377000,
-				"to": 378000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:18,000",
-				"to": "00:06:19,000"
-			},
-			"offsets": {
-				"from": 378000,
-				"to": 379000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:19,000",
-				"to": "00:06:20,000"
-			},
-			"offsets": {
-				"from": 379000,
-				"to": 380000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:20,000",
-				"to": "00:06:21,000"
-			},
-			"offsets": {
-				"from": 380000,
-				"to": 381000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:21,000",
-				"to": "00:06:22,000"
-			},
-			"offsets": {
-				"from": 381000,
-				"to": 382000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:22,000",
-				"to": "00:06:23,000"
-			},
-			"offsets": {
-				"from": 382000,
-				"to": 383000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:23,000",
-				"to": "00:06:24,000"
-			},
-			"offsets": {
-				"from": 383000,
-				"to": 384000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:24,000",
-				"to": "00:06:25,000"
-			},
-			"offsets": {
-				"from": 384000,
-				"to": 385000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:25,000",
-				"to": "00:06:26,000"
-			},
-			"offsets": {
-				"from": 385000,
-				"to": 386000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:26,000",
-				"to": "00:06:27,000"
-			},
-			"offsets": {
-				"from": 386000,
-				"to": 387000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:27,000",
-				"to": "00:06:28,000"
-			},
-			"offsets": {
-				"from": 387000,
-				"to": 388000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:28,000",
-				"to": "00:06:29,000"
-			},
-			"offsets": {
-				"from": 388000,
-				"to": 389000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:29,000",
-				"to": "00:06:30,000"
-			},
-			"offsets": {
-				"from": 389000,
-				"to": 390000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:30,000",
-				"to": "00:06:31,000"
-			},
-			"offsets": {
-				"from": 390000,
-				"to": 391000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:31,000",
-				"to": "00:06:32,000"
-			},
-			"offsets": {
-				"from": 391000,
-				"to": 392000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:32,000",
-				"to": "00:06:33,000"
-			},
-			"offsets": {
-				"from": 392000,
-				"to": 393000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:33,000",
-				"to": "00:06:34,000"
-			},
-			"offsets": {
-				"from": 393000,
-				"to": 394000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:34,000",
-				"to": "00:06:35,000"
-			},
-			"offsets": {
-				"from": 394000,
-				"to": 395000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:35,000",
-				"to": "00:06:36,000"
-			},
-			"offsets": {
-				"from": 395000,
-				"to": 396000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:36,000",
-				"to": "00:06:37,000"
-			},
-			"offsets": {
-				"from": 396000,
-				"to": 397000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:37,000",
-				"to": "00:06:38,000"
-			},
-			"offsets": {
-				"from": 397000,
-				"to": 398000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:38,000",
-				"to": "00:06:39,000"
-			},
-			"offsets": {
-				"from": 398000,
-				"to": 399000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:39,000",
-				"to": "00:06:40,000"
-			},
-			"offsets": {
-				"from": 399000,
-				"to": 400000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:40,000",
-				"to": "00:06:41,000"
-			},
-			"offsets": {
-				"from": 400000,
-				"to": 401000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:41,000",
-				"to": "00:06:42,000"
-			},
-			"offsets": {
-				"from": 401000,
-				"to": 402000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:42,000",
-				"to": "00:06:43,000"
-			},
-			"offsets": {
-				"from": 402000,
-				"to": 403000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:43,000",
-				"to": "00:06:44,000"
-			},
-			"offsets": {
-				"from": 403000,
-				"to": 404000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:44,000",
-				"to": "00:06:45,000"
-			},
-			"offsets": {
-				"from": 404000,
-				"to": 405000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:45,000",
-				"to": "00:06:46,000"
-			},
-			"offsets": {
-				"from": 405000,
-				"to": 406000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:46,000",
-				"to": "00:06:47,000"
-			},
-			"offsets": {
-				"from": 406000,
-				"to": 407000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:47,000",
-				"to": "00:06:48,000"
-			},
-			"offsets": {
-				"from": 407000,
-				"to": 408000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:48,000",
-				"to": "00:06:49,000"
-			},
-			"offsets": {
-				"from": 408000,
-				"to": 409000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:49,000",
-				"to": "00:06:50,000"
-			},
-			"offsets": {
-				"from": 409000,
-				"to": 410000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:50,000",
-				"to": "00:06:51,000"
-			},
-			"offsets": {
-				"from": 410000,
-				"to": 411000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:51,000",
-				"to": "00:06:52,000"
-			},
-			"offsets": {
-				"from": 411000,
-				"to": 412000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:52,000",
-				"to": "00:06:53,000"
-			},
-			"offsets": {
-				"from": 412000,
-				"to": 413000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:53,000",
-				"to": "00:06:54,000"
-			},
-			"offsets": {
-				"from": 413000,
-				"to": 414000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:54,000",
-				"to": "00:06:55,000"
-			},
-			"offsets": {
-				"from": 414000,
-				"to": 415000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:55,000",
-				"to": "00:06:56,000"
-			},
-			"offsets": {
-				"from": 415000,
-				"to": 416000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:56,000",
-				"to": "00:06:57,000"
-			},
-			"offsets": {
-				"from": 416000,
-				"to": 417000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:57,000",
-				"to": "00:06:58,000"
-			},
-			"offsets": {
-				"from": 417000,
-				"to": 418000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:58,000",
-				"to": "00:06:59,000"
-			},
-			"offsets": {
-				"from": 418000,
-				"to": 419000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:59,000",
-				"to": "00:07:00,000"
-			},
-			"offsets": {
-				"from": 419000,
-				"to": 420000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:00,000",
-				"to": "00:07:01,000"
-			},
-			"offsets": {
-				"from": 420000,
-				"to": 421000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:01,000",
-				"to": "00:07:02,000"
-			},
-			"offsets": {
-				"from": 421000,
-				"to": 422000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:02,000",
-				"to": "00:07:03,000"
-			},
-			"offsets": {
-				"from": 422000,
-				"to": 423000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:03,000",
-				"to": "00:07:04,000"
-			},
-			"offsets": {
-				"from": 423000,
-				"to": 424000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:04,000",
-				"to": "00:07:05,000"
-			},
-			"offsets": {
-				"from": 424000,
-				"to": 425000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:05,000",
-				"to": "00:07:06,000"
-			},
-			"offsets": {
-				"from": 425000,
-				"to": 426000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:06,000",
-				"to": "00:07:07,000"
-			},
-			"offsets": {
-				"from": 426000,
-				"to": 427000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:07,000",
-				"to": "00:07:08,000"
-			},
-			"offsets": {
-				"from": 427000,
-				"to": 428000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:08,000",
-				"to": "00:07:09,000"
-			},
-			"offsets": {
-				"from": 428000,
-				"to": 429000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:09,000",
-				"to": "00:07:10,000"
-			},
-			"offsets": {
-				"from": 429000,
-				"to": 430000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:10,000",
-				"to": "00:07:11,000"
-			},
-			"offsets": {
-				"from": 430000,
-				"to": 431000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:11,000",
-				"to": "00:07:12,000"
-			},
-			"offsets": {
-				"from": 431000,
-				"to": 432000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:12,000",
-				"to": "00:07:13,000"
-			},
-			"offsets": {
-				"from": 432000,
-				"to": 433000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:13,000",
-				"to": "00:07:14,000"
-			},
-			"offsets": {
-				"from": 433000,
-				"to": 434000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:14,000",
-				"to": "00:07:15,000"
-			},
-			"offsets": {
-				"from": 434000,
-				"to": 435000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:15,000",
-				"to": "00:07:16,000"
-			},
-			"offsets": {
-				"from": 435000,
-				"to": 436000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:16,000",
-				"to": "00:07:17,000"
-			},
-			"offsets": {
-				"from": 436000,
-				"to": 437000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:17,000",
-				"to": "00:07:18,000"
-			},
-			"offsets": {
-				"from": 437000,
-				"to": 438000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:18,000",
-				"to": "00:07:19,000"
-			},
-			"offsets": {
-				"from": 438000,
-				"to": 439000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:19,000",
-				"to": "00:07:20,000"
-			},
-			"offsets": {
-				"from": 439000,
-				"to": 440000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:20,000",
-				"to": "00:07:21,000"
-			},
-			"offsets": {
-				"from": 440000,
-				"to": 441000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:21,000",
-				"to": "00:07:22,000"
-			},
-			"offsets": {
-				"from": 441000,
-				"to": 442000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:22,000",
-				"to": "00:07:23,000"
-			},
-			"offsets": {
-				"from": 442000,
-				"to": 443000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:23,000",
-				"to": "00:07:24,000"
-			},
-			"offsets": {
-				"from": 443000,
-				"to": 444000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:24,000",
-				"to": "00:07:25,000"
-			},
-			"offsets": {
-				"from": 444000,
-				"to": 445000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:25,000",
-				"to": "00:07:26,000"
-			},
-			"offsets": {
-				"from": 445000,
-				"to": 446000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:26,000",
-				"to": "00:07:27,000"
-			},
-			"offsets": {
-				"from": 446000,
-				"to": 447000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:27,000",
-				"to": "00:07:28,000"
-			},
-			"offsets": {
-				"from": 447000,
-				"to": 448000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:28,000",
-				"to": "00:07:29,000"
-			},
-			"offsets": {
-				"from": 448000,
-				"to": 449000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:29,000",
-				"to": "00:07:30,000"
-			},
-			"offsets": {
-				"from": 449000,
-				"to": 450000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:30,000",
-				"to": "00:07:31,000"
-			},
-			"offsets": {
-				"from": 450000,
-				"to": 451000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:31,000",
-				"to": "00:07:32,000"
-			},
-			"offsets": {
-				"from": 451000,
-				"to": 452000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:32,000",
-				"to": "00:07:33,000"
-			},
-			"offsets": {
-				"from": 452000,
-				"to": 453000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:33,000",
-				"to": "00:07:34,000"
-			},
-			"offsets": {
-				"from": 453000,
-				"to": 454000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:34,000",
-				"to": "00:07:35,000"
-			},
-			"offsets": {
-				"from": 454000,
-				"to": 455000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:35,000",
-				"to": "00:07:36,000"
-			},
-			"offsets": {
-				"from": 455000,
-				"to": 456000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:36,000",
-				"to": "00:07:37,000"
-			},
-			"offsets": {
-				"from": 456000,
-				"to": 457000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:37,000",
-				"to": "00:07:38,000"
-			},
-			"offsets": {
-				"from": 457000,
-				"to": 458000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:38,000",
-				"to": "00:07:39,000"
-			},
-			"offsets": {
-				"from": 458000,
-				"to": 459000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:39,000",
-				"to": "00:07:40,000"
-			},
-			"offsets": {
-				"from": 459000,
-				"to": 460000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:40,000",
-				"to": "00:07:41,000"
-			},
-			"offsets": {
-				"from": 460000,
-				"to": 461000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:41,000",
-				"to": "00:07:42,000"
-			},
-			"offsets": {
-				"from": 461000,
-				"to": 462000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:42,000",
-				"to": "00:07:43,000"
-			},
-			"offsets": {
-				"from": 462000,
-				"to": 463000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:43,000",
-				"to": "00:07:44,000"
-			},
-			"offsets": {
-				"from": 463000,
-				"to": 464000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:44,000",
-				"to": "00:07:45,000"
-			},
-			"offsets": {
-				"from": 464000,
-				"to": 465000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:45,000",
-				"to": "00:07:46,000"
-			},
-			"offsets": {
-				"from": 465000,
-				"to": 466000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:46,000",
-				"to": "00:07:47,000"
-			},
-			"offsets": {
-				"from": 466000,
-				"to": 467000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:47,000",
-				"to": "00:07:48,000"
-			},
-			"offsets": {
-				"from": 467000,
-				"to": 468000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:48,000",
-				"to": "00:07:49,000"
-			},
-			"offsets": {
-				"from": 468000,
-				"to": 469000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:49,000",
-				"to": "00:07:50,000"
-			},
-			"offsets": {
-				"from": 469000,
-				"to": 470000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:50,000",
-				"to": "00:07:51,000"
-			},
-			"offsets": {
-				"from": 470000,
-				"to": 471000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:51,000",
-				"to": "00:07:52,000"
-			},
-			"offsets": {
-				"from": 471000,
-				"to": 472000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:52,000",
-				"to": "00:07:53,000"
-			},
-			"offsets": {
-				"from": 472000,
-				"to": 473000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:53,000",
-				"to": "00:07:54,000"
-			},
-			"offsets": {
-				"from": 473000,
-				"to": 474000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:54,000",
-				"to": "00:07:55,000"
-			},
-			"offsets": {
-				"from": 474000,
-				"to": 475000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:55,000",
-				"to": "00:07:56,000"
-			},
-			"offsets": {
-				"from": 475000,
-				"to": 476000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:56,000",
-				"to": "00:07:57,000"
-			},
-			"offsets": {
-				"from": 476000,
-				"to": 477000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:57,000",
-				"to": "00:07:58,000"
-			},
-			"offsets": {
-				"from": 477000,
-				"to": 478000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:58,000",
-				"to": "00:07:59,000"
-			},
-			"offsets": {
-				"from": 478000,
-				"to": 479000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:59,000",
-				"to": "00:08:00,000"
-			},
-			"offsets": {
-				"from": 479000,
-				"to": 480000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:00,000",
-				"to": "00:08:01,000"
-			},
-			"offsets": {
-				"from": 480000,
-				"to": 481000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:01,000",
-				"to": "00:08:02,000"
-			},
-			"offsets": {
-				"from": 481000,
-				"to": 482000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:02,000",
-				"to": "00:08:03,000"
-			},
-			"offsets": {
-				"from": 482000,
-				"to": 483000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:03,000",
-				"to": "00:08:04,000"
-			},
-			"offsets": {
-				"from": 483000,
-				"to": 484000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:04,000",
-				"to": "00:08:05,000"
-			},
-			"offsets": {
-				"from": 484000,
-				"to": 485000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:05,000",
-				"to": "00:08:06,000"
-			},
-			"offsets": {
-				"from": 485000,
-				"to": 486000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:06,000",
-				"to": "00:08:07,000"
-			},
-			"offsets": {
-				"from": 486000,
-				"to": 487000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:07,000",
-				"to": "00:08:08,000"
-			},
-			"offsets": {
-				"from": 487000,
-				"to": 488000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:08,000",
-				"to": "00:08:09,000"
-			},
-			"offsets": {
-				"from": 488000,
-				"to": 489000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:09,000",
-				"to": "00:08:10,000"
-			},
-			"offsets": {
-				"from": 489000,
-				"to": 490000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:10,000",
-				"to": "00:08:11,000"
-			},
-			"offsets": {
-				"from": 490000,
-				"to": 491000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:11,000",
-				"to": "00:08:12,000"
-			},
-			"offsets": {
-				"from": 491000,
-				"to": 492000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:12,000",
-				"to": "00:08:13,000"
-			},
-			"offsets": {
-				"from": 492000,
-				"to": 493000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:13,000",
-				"to": "00:08:14,000"
-			},
-			"offsets": {
-				"from": 493000,
-				"to": 494000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:14,000",
-				"to": "00:08:15,000"
-			},
-			"offsets": {
-				"from": 494000,
-				"to": 495000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:15,000",
-				"to": "00:08:16,000"
-			},
-			"offsets": {
-				"from": 495000,
-				"to": 496000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:16,000",
-				"to": "00:08:17,000"
-			},
-			"offsets": {
-				"from": 496000,
-				"to": 497000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:17,000",
-				"to": "00:08:18,000"
-			},
-			"offsets": {
-				"from": 497000,
-				"to": 498000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:18,000",
-				"to": "00:08:19,000"
-			},
-			"offsets": {
-				"from": 498000,
-				"to": 499000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:19,000",
-				"to": "00:08:20,000"
-			},
-			"offsets": {
-				"from": 499000,
-				"to": 500000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:20,000",
-				"to": "00:08:21,000"
-			},
-			"offsets": {
-				"from": 500000,
-				"to": 501000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:21,000",
-				"to": "00:08:22,000"
-			},
-			"offsets": {
-				"from": 501000,
-				"to": 502000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:22,000",
-				"to": "00:08:23,000"
-			},
-			"offsets": {
-				"from": 502000,
-				"to": 503000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:23,000",
-				"to": "00:08:24,000"
-			},
-			"offsets": {
-				"from": 503000,
-				"to": 504000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:24,000",
-				"to": "00:08:25,000"
-			},
-			"offsets": {
-				"from": 504000,
-				"to": 505000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:25,000",
-				"to": "00:08:26,000"
-			},
-			"offsets": {
-				"from": 505000,
-				"to": 506000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:26,000",
-				"to": "00:08:27,000"
-			},
-			"offsets": {
-				"from": 506000,
-				"to": 507000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:27,000",
-				"to": "00:08:28,000"
-			},
-			"offsets": {
-				"from": 507000,
-				"to": 508000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:28,000",
-				"to": "00:08:29,000"
-			},
-			"offsets": {
-				"from": 508000,
-				"to": 509000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:29,000",
-				"to": "00:08:30,000"
-			},
-			"offsets": {
-				"from": 509000,
-				"to": 510000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:30,000",
-				"to": "00:08:31,000"
-			},
-			"offsets": {
-				"from": 510000,
-				"to": 511000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:31,000",
-				"to": "00:08:32,000"
-			},
-			"offsets": {
-				"from": 511000,
-				"to": 512000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:32,000",
-				"to": "00:08:33,000"
-			},
-			"offsets": {
-				"from": 512000,
-				"to": 513000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:33,000",
-				"to": "00:08:34,000"
-			},
-			"offsets": {
-				"from": 513000,
-				"to": 514000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:34,000",
-				"to": "00:08:35,000"
-			},
-			"offsets": {
-				"from": 514000,
-				"to": 515000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:35,000",
-				"to": "00:08:36,000"
-			},
-			"offsets": {
-				"from": 515000,
-				"to": 516000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:36,000",
-				"to": "00:08:37,000"
-			},
-			"offsets": {
-				"from": 516000,
-				"to": 517000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:37,000",
-				"to": "00:08:38,000"
-			},
-			"offsets": {
-				"from": 517000,
-				"to": 518000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:38,000",
-				"to": "00:08:39,000"
-			},
-			"offsets": {
-				"from": 518000,
-				"to": 519000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:39,000",
-				"to": "00:08:40,000"
-			},
-			"offsets": {
-				"from": 519000,
-				"to": 520000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:40,000",
-				"to": "00:08:41,000"
-			},
-			"offsets": {
-				"from": 520000,
-				"to": 521000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:41,000",
-				"to": "00:08:42,000"
-			},
-			"offsets": {
-				"from": 521000,
-				"to": 522000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:42,000",
-				"to": "00:08:43,000"
-			},
-			"offsets": {
-				"from": 522000,
-				"to": 523000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:43,000",
-				"to": "00:08:44,000"
-			},
-			"offsets": {
-				"from": 523000,
-				"to": 524000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:44,000",
-				"to": "00:08:45,000"
-			},
-			"offsets": {
-				"from": 524000,
-				"to": 525000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:45,000",
-				"to": "00:08:46,000"
-			},
-			"offsets": {
-				"from": 525000,
-				"to": 526000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:46,000",
-				"to": "00:08:47,000"
-			},
-			"offsets": {
-				"from": 526000,
-				"to": 527000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:47,000",
-				"to": "00:08:48,000"
-			},
-			"offsets": {
-				"from": 527000,
-				"to": 528000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:48,000",
-				"to": "00:08:49,000"
-			},
-			"offsets": {
-				"from": 528000,
-				"to": 529000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:49,000",
-				"to": "00:08:50,000"
-			},
-			"offsets": {
-				"from": 529000,
-				"to": 530000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:50,000",
-				"to": "00:08:51,000"
-			},
-			"offsets": {
-				"from": 530000,
-				"to": 531000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:51,000",
-				"to": "00:08:52,000"
-			},
-			"offsets": {
-				"from": 531000,
-				"to": 532000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:52,000",
-				"to": "00:08:53,000"
-			},
-			"offsets": {
-				"from": 532000,
-				"to": 533000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:53,000",
-				"to": "00:08:54,000"
-			},
-			"offsets": {
-				"from": 533000,
-				"to": 534000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:54,000",
-				"to": "00:08:55,000"
-			},
-			"offsets": {
-				"from": 534000,
-				"to": 535000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:55,000",
-				"to": "00:08:56,000"
-			},
-			"offsets": {
-				"from": 535000,
-				"to": 536000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:56,000",
-				"to": "00:08:57,000"
-			},
-			"offsets": {
-				"from": 536000,
-				"to": 537000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:57,000",
-				"to": "00:08:58,000"
-			},
-			"offsets": {
-				"from": 537000,
-				"to": 538000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:58,000",
-				"to": "00:08:59,000"
-			},
-			"offsets": {
-				"from": 538000,
-				"to": 539000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:08:59,000",
-				"to": "00:09:00,000"
-			},
-			"offsets": {
-				"from": 539000,
-				"to": 540000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:00,000",
-				"to": "00:09:01,000"
-			},
-			"offsets": {
-				"from": 540000,
-				"to": 541000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:01,000",
-				"to": "00:09:02,000"
-			},
-			"offsets": {
-				"from": 541000,
-				"to": 542000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:02,000",
-				"to": "00:09:03,000"
-			},
-			"offsets": {
-				"from": 542000,
-				"to": 543000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:03,000",
-				"to": "00:09:04,000"
-			},
-			"offsets": {
-				"from": 543000,
-				"to": 544000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:04,000",
-				"to": "00:09:05,000"
-			},
-			"offsets": {
-				"from": 544000,
-				"to": 545000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:05,000",
-				"to": "00:09:06,000"
-			},
-			"offsets": {
-				"from": 545000,
-				"to": 546000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:06,000",
-				"to": "00:09:07,000"
-			},
-			"offsets": {
-				"from": 546000,
-				"to": 547000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:07,000",
-				"to": "00:09:08,000"
-			},
-			"offsets": {
-				"from": 547000,
-				"to": 548000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:08,000",
-				"to": "00:09:09,000"
-			},
-			"offsets": {
-				"from": 548000,
-				"to": 549000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:09,000",
-				"to": "00:09:10,000"
-			},
-			"offsets": {
-				"from": 549000,
-				"to": 550000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:10,000",
-				"to": "00:09:11,000"
-			},
-			"offsets": {
-				"from": 550000,
-				"to": 551000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:11,000",
-				"to": "00:09:12,000"
-			},
-			"offsets": {
-				"from": 551000,
-				"to": 552000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:12,000",
-				"to": "00:09:13,000"
-			},
-			"offsets": {
-				"from": 552000,
-				"to": 553000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:13,000",
-				"to": "00:09:14,000"
-			},
-			"offsets": {
-				"from": 553000,
-				"to": 554000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:14,000",
-				"to": "00:09:15,000"
-			},
-			"offsets": {
-				"from": 554000,
-				"to": 555000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:15,000",
-				"to": "00:09:16,000"
-			},
-			"offsets": {
-				"from": 555000,
-				"to": 556000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:16,000",
-				"to": "00:09:17,000"
-			},
-			"offsets": {
-				"from": 556000,
-				"to": 557000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:17,000",
-				"to": "00:09:18,000"
-			},
-			"offsets": {
-				"from": 557000,
-				"to": 558000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:18,000",
-				"to": "00:09:19,000"
-			},
-			"offsets": {
-				"from": 558000,
-				"to": 559000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:19,000",
-				"to": "00:09:20,000"
-			},
-			"offsets": {
-				"from": 559000,
-				"to": 560000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:20,000",
-				"to": "00:09:21,000"
-			},
-			"offsets": {
-				"from": 560000,
-				"to": 561000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:21,000",
-				"to": "00:09:22,000"
-			},
-			"offsets": {
-				"from": 561000,
-				"to": 562000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:22,000",
-				"to": "00:09:23,000"
-			},
-			"offsets": {
-				"from": 562000,
-				"to": 563000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:23,000",
-				"to": "00:09:24,000"
-			},
-			"offsets": {
-				"from": 563000,
-				"to": 564000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:24,000",
-				"to": "00:09:25,000"
-			},
-			"offsets": {
-				"from": 564000,
-				"to": 565000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:25,000",
-				"to": "00:09:26,000"
-			},
-			"offsets": {
-				"from": 565000,
-				"to": 566000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:26,000",
-				"to": "00:09:27,000"
-			},
-			"offsets": {
-				"from": 566000,
-				"to": 567000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:27,000",
-				"to": "00:09:28,000"
-			},
-			"offsets": {
-				"from": 567000,
-				"to": 568000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:28,000",
-				"to": "00:09:29,000"
-			},
-			"offsets": {
-				"from": 568000,
-				"to": 569000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:29,000",
-				"to": "00:09:30,000"
-			},
-			"offsets": {
-				"from": 569000,
-				"to": 570000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:30,000",
-				"to": "00:09:31,000"
-			},
-			"offsets": {
-				"from": 570000,
-				"to": 571000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:31,000",
-				"to": "00:09:32,000"
-			},
-			"offsets": {
-				"from": 571000,
-				"to": 572000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:32,000",
-				"to": "00:09:33,000"
-			},
-			"offsets": {
-				"from": 572000,
-				"to": 573000
-			},
-			"text": " And I was like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:33,000",
-				"to": "00:09:34,000"
-			},
-			"offsets": {
-				"from": 573000,
-				"to": 574000
-			},
-			"text": " And they were like, \"What's going on?\""
-		},
-		{
-			"timestamps": {
-				"from": "00:09:34,000",
-				"to": "00:09:35,000"
-			},
-			"offsets": {
-				"from": 574000,
-				"to": 575000
-			},
-			"text": " And I was like, \"What's going on?\""
+			"text": " Thank you, Donuts! Thank you, McDonough!"
 		}
 	]
 }

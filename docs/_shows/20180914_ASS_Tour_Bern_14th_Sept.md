@@ -17,600 +17,190 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Good question, certainly.
+> So we're about, actually, almost at the end of our first half. We only have one
 >
-> So, we're about, actually, almost at the end of our first half.
+> last comedian left in our first half, and we're very excited to have him here
 >
-> We only have one last comedian left in our first half,
+> tonight.
 >
-> and we're very excited to have him here tonight.
+> Without further ado, let me bring him up. Here he is, the very funny Harry Fox,
 >
-> Without further ado, let me bring him up.
+> everybody! Bring him up!
 >
-> Here he is, the very funny Harry Fuchs, everybody!
+> So, my name is actually Harry Fooks. It's a German name. Spelled F-O-O-C-K-S. I
 >
-> Bring him up!
+> repeat, F-O-O-C-K-S.
 >
-> Woo!
+> But all these English speakers here still think my name is Harry Fox.
 >
-> Yeah, so, my name is actually Harry Fuchs.
->
-> It's a German name.
->
-> Spelled F-U-C-K-S.
->
-> I repeat, F-U-C-K-S.
->
-> But all these English speakers here still think my name is Harry Fuchs.
->
-> The problem with a name like Harry Fuchs is it sets a very high bar of
+> The problem with a name like Harry Fox is it sets a very high bar of
 >
 > expectations.
 >
-> Because if my name was Harry Fuchs, I would have come on here tonight,
+> Because if my name was Harry Fox, I would have come on here tonight and I would
 >
-> and I would have been like,
+> have been like, "Yo, what's up, Harry Fox in the house!"
 >
-> Yo, what's up, Harry Fuchs in the house?
+> But that's not really me, I'm kind of quiet.
 >
-> But that's not really me.
+> And the other thing is, obviously, I actually need to fuck a lot. And that hasn't
 >
-> I'm kind of quiet.
+> really been happening.
 >
-> And the other thing is, obviously, I'd actually need to fuck a lot.
->
-> And that hasn't really been happening.
->
-> Although, to say I'm actually a father and a single dad,
->
-> I have two teenagers,
+> Although, to say I'm actually a father and a single dad, I have two teenagers,
 >
 > so just enough happened for my genes to pass to another generation.
 >
-> I have these two teenagers,
+> I have these two teenagers, and I call them Halver and Wopper.
 >
-> and I call them Halberd and Wopper.
+> And as a single dad, I'm always being confronted with situations I'm wholly
 >
-> And as a single dad,
+> unprepared for.
 >
-> I'm always being confronted with situations I'm wholly unprepared for.
+> For example, recently I came back from work, and I went into the bathroom, and
 >
-> For example, recently I came back from work,
+> oh my God, it looked like a crime scene in there.
 >
-> and I went into the bathroom,
+> There was bloody hand print on the mirror, there was blood in the sink, drops
 >
-> and oh my God, it looked like a crime scene in there.
+> of blood on the floor, and the toilet looked like something from a horror movie.
 >
-> There was a bloody handprint on the mirror,
+> And then I heard this screaming, and I looked around, and I realized the
 >
-> there was blood in the sink,
+> screaming was coming from me.
 >
-> drops of blood on the floor,
+> And at that point, my daughter showed up, and she said, "Hey, Dad, I got my
 >
-> and the toilet looked like something from a horror movie.
+> period!"
 >
-> And then I heard this,
+> And after cleaning up my daughter's menstrual blood, she said, "Hey, can I get
 >
-> this screaming,
+> you something?"
 >
-> and I looked around,
+> And my daughter was like, "Dad, get me tampons."
 >
-> and I realized the screaming was coming from me.
+> Now, as a man, I obviously know completely nothing about buying tampons, but I
 >
-> And at that point, my daughter showed up,
+> thought, "Hey, this can't be so hard."
 >
-> and she said, like,
+> So I went to Medro, I took a look around, and what I learned is that tampon
 >
-> Hey, Dad, I got my period.
+> product names are exactly no use whatsoever when it comes to choosing a tampon.
 >
-> So, after cleaning up my daughter's menstrual blood,
+> For example, you have names like OB-PRO, like professional women that bleed for
 >
-> I said,
+> a living.
 >
-> Hey, can I get you something?
+> Or Tampax Radiance, glow-in-the-dark tampons for when the lights are off.
 >
-> And my daughter was like,
+> The one I like the most is Always Infinity, for when your vagina is an unfillable
 >
-> Dad, get me 10 months.
+> black hole.
 >
-> Now,
+> Anyway, it worked out okay, I chose something, it worked out fine for my
 >
-> as a man,
+> daughter, and for me, it ended up being a very proud moment as a father.
 >
-> I obviously know completely nothing about buying tampons,
+> Because it's not every day that you get to choose what your daughter crimes in
 >
-> but I thought, hey, this can't be so hard.
+> her vagina.
 >
-> So, I went to Negro,
+> I know this because, you know, I've actually lived in Switzerland for 17 years
 >
-> I took a look around,
+> now, and I'm actually in the process of applying for my Swiss passport.
 >
-> and what I learned is that tampon product names
+> And when I get that passport, I'm going to be voting ESPAPÉ, because it's time
 >
-> are exactly no use whatsoever
+> to do something about all the immigrants.
 >
-> when it comes to choosing a tampon.
+> And specifically, I mean all the English-speaking immigrants.
 >
-> For example, you have names like
+> Because, let's take a look at what these guys have been doing, you know.
 >
-> OB Pro,
+> They voted for Brexit, they voted for Trump, and then they go, "Oh my god, we
 >
-> which is like professional women that bleed for a living,
+> fucked up our country. Let's just sneak over to Switzerland."
 >
-> or
+> And if you take a look, what are they actually bringing to the party here in
 >
-> OB Pro,
+> Switzerland, it's really not that much.
 >
-> Tampax Radiance,
+> Because, you know, think about the Indians and the Vietnamese, when they came
 >
-> Glow-in-the-Dark Tampons,
+> here, they brought great cuisine.
 >
-> and when the lights are off.
+> Or, for example, the Brazilians and the Romanians, when they came here, they
 >
-> The one I like the most is
+> brought sexual relief.
 >
-> Always Infinity.
+> But these English speakers, you know, they're not even bothering to learn the
 >
-> But when your vagina is an unfillable black hole.
+> language, they're going out in the evening and listening to stand-up comedy in
 >
-> Anyway, it worked out okay.
+> English.
 >
-> I chose something,
+> So, you know, I'm going to make it my mission to prevent this country from
 >
-> it worked out fine for my daughter,
+> getting stolen.
 >
-> and for me, it ended up being a very proud moment as a father.
+> And the reason for this actually goes back to my childhood, because when I was
 >
-> Because it's not every day that you get to choose
+> seven, something was taken from me.
 >
-> what your daughter crimes in her vagina.
+> That's right, I was circumcised.
 >
-> So, it's not every day that you get to choose
+> Now, judging by the quiet response here, a lot of you don't know what circumcision
 >
-> what your daughter crimes in her vagina.
+> is.
 >
-> So, it's not every day that you get to choose
+> Come talk to me after, I'll show you.
 >
-> what your daughter crimes in her vagina.
+> But what began as a very traumatic experience in my childhood, as an adult, has
 >
-> So, it's not every day that you get to choose
+> turned into a real advantage.
 >
-> what your daughter crimes in her vagina.
+> Because on those rare occasions where a woman does get in proximity with the
 >
-> So, it's not every day that you get to choose
+> end of my penis, she will invariably sigh, like, "Ugh."
 >
-> what your daughter crimes in her vagina.
+> And I'd be like, "Hey, why are you sighing on my penis?"
 >
-> So, it's not every day that you get to choose
+> And she'd be like, "You have no idea how many dirty dicks there are out there."
 >
-> what your daughter crimes in her vagina.
+> And what I learned, actually, what I learned is amongst my uncut brethren, a
 >
-> So, it's not every day that you get to choose
+> lot of you guys are not putting enough attention in this area.
 >
-> what your daughter crimes in your vagina.
+> So what I thought, I would finish with just a few tips for you guys to help
 >
-> So, it's not every day that you get to choose
+> make your woman's life more pleasant.
 >
-> what your daughter crimes in your vagina.
+> So, first thing you can do, thank you for that, she knows what it's about.
 >
-> So, it's not every day that you get to choose
+> The first thing you can do is, you know in your car, like on the rear view
 >
-> what your daughter crimes in your vagina.
+> mirror, you have like an air freshener, a wonder balm, just hang it from your
 >
-> So, it's not every day that you get to choose
+> penis.
 >
-> what your daughter crimes in your vagina.
+> Women are very sensitive to smell, that immediately makes their life better.
 >
-> So, it's not every day that you get to choose
+> Women are also very visual, so like right here, above your penis, just tattoo a
 >
-> what your daughter crimes in your vagina.
+> pleasant scene.
 >
-> So, it's not every day that you get to choose
+> Like, a field of green grass with some flowers growing, maybe a tree with some
 >
-> what your daughter crimes in your vagina.
+> birds singing, a couple of squirrels.
 >
-> So, it's not every day that you get to choose
+> You know, something to take her mind off the disgusting actress.
 >
-> what your daughter crimes in your vagina.
+> But there is actually an easier thing you can do, is just simply bring a box of
 >
-> So, it's not every day that you get to choose
+> crackers with you while she's down there.
 >
-> what your daughter crimes in your vagina.
+> Just kind of feed her the crackers.
 >
-> So, it's not every day that you get to choose
+> Because cheese goes really well with crackers.
 >
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
->
-> what your daughter crimes in your vagina.
->
-> So, it's not every day that you get to choose
+> I'm going to leave you with that one. Thank you very much.

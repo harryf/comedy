@@ -17,31 +17,41 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> He leads us to our very last act of tonight, okay?
+> And that brings us to our very last act of tonight, okay?
 >
 > Everybody focus, everybody in.
 >
-> I know people have been jumping into the water this whole time, you know.
+> I know people have been jumping into the water
 >
-> Somebody's telling a joke, like, yeah, I used to be on an airplane.
+> this whole time, you know.
 >
-> It's kind of hard to keep the concentration, but we're ready now for our last
+> Somebody's telling a good joke,
 >
-> comedian of tonight.
+> "Yeah, I used to be on an airplane."
 >
-> And this guy, he is actually originally British, but he's been living here in
+> Kind of hard to keep the concentration,
 >
-> Switzerland for the past 17 years.
+> but we're ready now for our last comedian of tonight.
+>
+> And this guy, he is actually originally British,
+>
+> but he's been living here in Switzerland
+>
+> for the past 17 years.
 >
 > And yes, this is his real name.
 >
-> Ladies and gentlemen, give it up for Harry Fox, ladies and gentlemen.
+> Ladies and gentlemen, give it up for Harry Fox,
+>
+> ladies and gentlemen.
 >
 > It's Harry Fox.
 >
-> Hey, and thanks.
+> - Hey, and thanks.
 >
-> Give it up for Amit as well for organizing such a fantastic night tonight.
+> Give it up for Amit as well
+>
+> for organizing such a fantastic night tonight.
 >
 > This guy has worked hard for this.
 >
@@ -49,25 +59,23 @@ notes: |
 >
 > I mean, wow.
 >
-> Like, this is such a great night.
+> Like, this is such a great night, you know.
 >
-> You know, you got a river, you got an open sky, you got a giant concrete penis
+> You got a river, you got an open sky,
 >
-> over there.
+> you got a giant concrete penis over there.
 >
 > That's wonderful.
 >
-> Nadine, you hate gray bills.
->
-> Don't you?
+> Nadine, you hate gray buildings, don't you?
 >
 > This must, this has been a very traumatic night for you.
 >
 > I feel you, you know.
 >
-> Hopefully, you'll be able to forget about this by tomorrow.
+> Hopefully you'll be able to forget about this by tomorrow.
 >
-> So, my name is actually Harry Fox.
+> So my name is actually Harry Fuchs.
 >
 > It's a German name.
 >
@@ -75,81 +83,93 @@ notes: |
 >
 > I repeat, F-U-C-K-S.
 >
-> But when I'm in the open air with a bunch of English speakers like this, a lot
+> But when I'm in the open air with a bunch of English speakers
 >
-> of you think my name is Harry Fox.
+> and I say this, a lot of you think my name is Harry Fuchs.
 >
-> My name is not Harry Fox.
+> My name is not Harry Fuchs.
 >
-> And in my family, when we have a family get-together, we get very upset when
+> And in my family, when we have a family get together,
 >
-> you call us a group of fuckers.
+> we get very upset when you call us a group of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them how-the and what-the.
+> I had to call them Halver and Wather.
 >
 > Just to, okay, we need some processing, that joke.
 >
 > Just work on that.
 >
-> No, the real problem with the name Harry Fox is actually, if I can just say,
+> No, the real problem with the name, my Harry Fuchs,
+>
+> is actually, if I can just say,
 >
 > there just simply hasn't been enough fucking in my life.
 >
 > And in fact, you know, you can see I'm quite old.
 >
-> And even at this age, I honestly don't know if I'm any good at sex.
+> And even at this age,
 >
-> Because I read recently that to be good at anything, it takes 10,000 hours.
+> I honestly don't know if I'm any good at sex.
+>
+> 'Cause I read recently that to be good at anything,
+>
+> it takes 10,000 hours.
 >
 > Wow.
 >
 > 10,000 hours is a lot of fucking.
 >
-> I mean, maybe, if I add it all up, maybe I get to 5,000 hours if I include
+> I mean, maybe, if I add it all up,
 >
-> masturbation.
+> maybe I get to 5,000 hours if I include masturbation.
 >
-> But, you know, what makes this, I actually did some more maths on this.
+> But, you know, what makes this,
 >
-> Did you know that you actually need to fuck 24 hours a day for an entire year
+> I actually did some more maths on this.
 >
-> to get to just 8,000 hours?
+> Did you know that you actually need to fuck 24 hours a day
+>
+> for an entire year to get to just 8,000 hours?
 >
 > Wow.
 >
-> And if you live to 70, you need to fuck 10 times a day from the day you were
+> And if you live to 70,
 >
-> born until the day you die.
+> you need to fuck 10 times a day
 >
-> And I don't know what's worse about that.
+> from the day you were born until the day you die.
 >
-> The thought of newborn babies.
+> And I don't know what's worse about that,
 >
-> Babies having sex.
+> the thought of newborn babies having sex
 >
-> Or the idea of sex with old people on the day they're dying.
+> or the idea of sex with old people
+>
+> on the day they're dying.
 >
 > It's a terrible thought.
 >
-> But you know what makes this even worse?
+> But you know what makes this even worse is like,
 >
-> It's like, as I stand here, like, watching all of you wasting time listening to
+> as I stand here like watching all of you wasting time
 >
-> me,
+> listening to me,
 >
 > I know that all of you must suck at sex too.
 >
 > Wow.
 >
-> Of course, except for Alan.
+> Oh, of course, except for Alan,
 >
-> Because he has big data on spanking.
+> 'cause he has big data on spanking.
 >
 > Give it up for Alan over there and his spanking.
 >
-> Yeah, so what am I going to do next?
+> Yeah.
+>
+> So what am I gonna do next?
 >
 > Let's take a little look.
 >
@@ -157,35 +177,35 @@ notes: |
 >
 > Let's try and lift this up.
 >
-> I get inspired, you know, sometimes when I see a happy couple that are really
+> I get inspired.
 >
-> in love,
+> You know, sometimes when I see a happy couple
+>
+> that are really in love,
 >
 > like Anna and Floris over there.
 >
-> What a great couple.
->
-> Aren't they wonderful?
+> What a great couple, aren't they wonderful?
 >
 > Give it up for Anna and Floris.
 >
-> Because, you know, Floris, before he got into this relationship, he was like a
+> Because, you know, Floris,
 >
-> mean fighting machine,
+> before he got into this relationship,
 >
-> like an attack dog.
+> he was like a mean fighting machine, like an attack dog.
 >
 > He had all his surgery knives.
 >
 > He was a rough guy.
 >
-> And then Anna looked at him and thought, "Hmm, I wonder what I can do to turn
+> And then Anna looked at him and thought,
 >
-> Floris into a poodle,
+> hmm, I wonder what I can do to turn Floris into a poodle
 >
-> so I can take him to brunch and show him off to my friends and go,
+> so I can take him to brunch and show him off to my friends
 >
-> 'Oh, look what I did with this little doggy-woggy.
+> and go, oh, look what I did with this little doggie woggie.
 >
 > Isn't he cute?
 >
@@ -193,7 +213,7 @@ notes: |
 >
 > He doesn't even shit behind the curtains anymore.
 >
-> It's great.'"
+> It's great.
 >
 > Floris, should we fix this quickly?
 >
@@ -207,9 +227,7 @@ notes: |
 >
 > Okay, good luck, Floris.
 >
-> All right.
->
-> So I'm single.
+> All right, so I'm single.
 >
 > Has anyone been on a Tinder date here?
 >
@@ -221,33 +239,37 @@ notes: |
 >
 > Yes, I do.
 >
-> All right.
+> All right, look, for you guys,
 >
-> Look, for you guys, Tinder isn't such a bad thing because you're all kind of
+> Tinder isn't such a bad thing
 >
-> young and cute.
+> 'cause you're all kind of young and cute.
 >
-> For me, for me, Tinder is a dark place because I have to do all the Tinder.
+> For me, for me, Tinder is a dark place
+>
+> because I have to do older Tinder.
 >
 > Do you know what that means?
 >
-> That means I have to swipe my way through broken marriages, drug and alcohol
+> That means I have to swipe my way through broken marriages,
 >
-> problems,
+> drug and alcohol problems, faded tattoos saying,
 >
-> faded tattoos saying, "No regrets."
+> no regrets, it's brutal.
 >
-> It's brutal.
+> And you know what the scariest thing,
 >
-> And you know what the scariest thing, the scariest thing on all the Tinder?
+> the scariest thing on older Tinder?
 >
 > It's the sight of a 50-year-old woman making a duck face.
 >
-> I mean, how the fuck do you get to be?
+> I mean, how the fuck do you get to be 50
 >
-> 50 and think that a duck face is okay?
+> and think that a duck face is okay?
 >
-> The only time a duck face is ever okay is when both your parents are ducks.
+> The only time a duck face is ever okay
+>
+> is when both your parents are ducks.
 >
 > And ducks actually only live about 10 years.
 >
@@ -257,17 +279,15 @@ notes: |
 >
 > You can do some duck face later.
 >
-> Maybe I'll hook up with Ahmed.
+> Maybe I'll hook up with Ann that week.
 >
-> Yeah.
+> Yeah, wow.
 >
-> Wow.
+> Oh my God.
 >
-> Oh, my God.
+> Wow, you've got some great genes
 >
-> Wow.
->
-> You've got some great genes that you've inherited here.
+> that you've inherited here.
 >
 > They'd be very happy with that.
 >
@@ -277,25 +297,23 @@ notes: |
 >
 > So where are we going?
 >
-> Yeah.
+> Yeah, but I don't know.
 >
-> But I don't know.
+> I mean, I guess one of the things
 >
-> I mean, I guess one of the things that's tricky on social media these days,
+> that's tricky on social media these days,
 >
-> especially for
+> especially for women, is the danger of dick pics.
 >
-> women, is the danger of dick pics.
+> Because I read this statistic recently
 >
-> Because I read the statistic recently that almost 50% of men between 20 and 40
+> that almost 50% of men between 20 and 40
 >
-> sent a
->
-> dick pic in the last six months.
+> send a dick pic in the last six months.
 >
 > I'm just looking around here.
 >
-> Steve is looking a bit dick pic-y over there.
+> Steve is looking a bit dick picky over there.
 >
 > I don't know.
 >
@@ -303,77 +321,21 @@ notes: |
 >
 > I'm just handing out dick pics.
 >
-> But, you know, ladies, that might be a hard number to visualize, but I'll mansplain
+> But, you know, ladies,
 >
-> this
+> that might be a hard number to visualize,
 >
-> for you, if you'll excuse me.
+> but I'll mansplain this for you, if you'll excuse me.
 >
-> If you give your number to 10 guys here tonight, by Christmas time, you've got
+> If you give your number to 10 guys here tonight,
 >
-> a stack of five
+> by Christmas time,
 >
-> dicks on your phone.
+> you got a stack of five dicks on your phone.
 >
-> You can just print them out, use them as Christmas cards.
+> You can just print them out,
 >
-> If you give your number to 10 guys here tonight, by Christmas time, you got a
->
-> stack of five
->
-> dicks on your phone.
->
-> You can just print them out.
->
-> Use them as Christmas cards.
->
-> If you give your number to 10 guys here tonight, by Christmas time, you got a
->
-> stack of five
->
-> dicks on your phone.
->
-> You can just print them out.
->
-> Use them as Christmas cards.
->
-> Hang them from your tree.
->
-> If you give your number to 10 guys here tonight, by Christmas time, you got a
->
-> stack of five
->
-> dicks on your phone.
->
-> You can just print them out.
->
-> Use them as Christmas cards.
->
-> Hang them from your tree.
->
-> If you give your number to 10 guys here tonight, by Christmas time, you got a
->
-> stack of five
->
-> dicks on your phone.
->
-> You can just print them out.
->
-> Use them as Christmas cards.
->
-> Hang them from your tree.
->
-> If you give your number to 10 guys here tonight, by Christmas time, you got a
->
-> stack of five
->
-> dicks on your phone.
->
-> You can just print them out.
->
-> Use them as Christmas cards.
->
-> Hang them from your tree.
+> use them as Christmas cards, hang them from your tree.
 >
 > Steve's dick at the top of your tree will look great.
 >
@@ -381,138 +343,138 @@ notes: |
 >
 > Let's get off dicks for a second.
 >
-> Yeah, so lady, yellow dress lady, we go to you for, what is your favorite sea
+> Yeah, so lady, yellow dress lady,
 >
-> animal?
+> you'll we go to you for,
+>
+> what is your favorite sea animal?
 >
 > What is the greatest sea animal that you can think of?
 >
 > You've gone blank.
 >
-> Shark.
->
 > Oh, shark.
 >
-> I was just about to say, good choice.
+> I was just about to say, good, good choice.
 >
-> Sharks, they're mean.
+> Sharks, they're mean, but you're wrong.
 >
-> But you're wrong.
+> The greatest sea animal is the Argonaut octopus.
 >
-> The greatest sea animal is the...
+> I found out about this recently.
 >
-> Oh, shark.
+> This animal is incredible.
 >
-> I was just about to say, good choice.
+> Now to explain this, I'm gonna do my David Attenborough voice
 >
-> Sharks, they're mean.
+> because when the male Argonaut octopus spots a female,
 >
-> But you're wrong.
+> he detaches his penis.
 >
-> The greatest sea animal is the...
+> It swims through the water and homes in on her vagina.
 >
-> Shark.
+> Sorry, not your vagina, madam.
 >
-> Oh, shark.
+> Sorry about that.
 >
-> I was just about to say, good choice.
+> No, I shit you not.
 >
-> Sharks, they're mean.
+> This is, in layman's terms,
 >
-> But you're wrong.
+> there is an octopus out there
 >
-> The greatest sea animal is the...
+> with a detachable, heat-seeking dick.
 >
-> Shark.
+> This thing is incredible.
 >
-> Shark.
+> Google that shit, it's real.
 >
-> argonaut octopus i found out about this recently this animal is incredible now
+> And it got me thinking, like, you know,
 >
-> to explain this i'm
+> what would happen if human beings had detachable penises?
 >
-> going to do my david attenborough voice because when the male argonaut octopus
+> That would be crazy.
 >
-> spots a female
+> This lady's going, oh, fuck.
 >
-> he detaches his penis it swims through the water and homes in on her vagina i'm
+> Yeah, I mean, you know, we'd start,
 >
-> sorry not your
+> probably we'd have, like, dick-related sports, you know?
 >
-> vagina madam i'm sorry about that uh no i should you know this is in layman's
+> You'd have, like, dick racing at the Olympics.
 >
-> terms there is an
+> You got the decathlon.
 >
-> octopus out there with a detachable heat-seeking dick this thing is incredible
+> Nike changes its slogan to just dick it.
 >
-> google that shit
+> And you'd have to learn how to deal
 >
-> it's real and it got me thinking like you know what would happen if human
+> with, like, a detachable dick.
 >
-> beings had detachable
+> Like, what if you lost your dick?
 >
-> penises that would be crazy those ladies going oh fuck yeah i mean i mean you
+> Wow, that would be crazy.
 >
-> know we'd start
+> You'd just have to hope you got an app on your phone,
 >
-> probably we'd have like dick related
+> find my penis.
 >
-> sports you know you'd have like dick racing at the olympics you got the decathlon
+> Could you borrow your friend's dick?
 >
-> nike changes its slogan to just dick it and you'd have to learn how to deal
+> I wasn't cheating, it was his dick.
 >
-> with like a
+> But I mean, you know, we talked about dick pics before.
 >
-> detachable dick like what if you lost your dick wow that would be crazy you
+> Flying dicks, that would be terrible, you know?
 >
-> just have to hope you
+> Can you imagine that would be,
 >
-> got an app on your phone find my penis could you borrow your friend's dick i
+> like, take Nadine, for example, again, you know?
 >
-> wasn't cheating it was
+> She's, it's Monday morning.
 >
-> his dick but i mean
+> She's on the way to wherever she's going,
 >
-> i mean you know we talked about dick pics before flying dicks that would be
+> just, like, hating all the great buildings around,
 >
-> terrible you know can
+> just getting stressed.
 >
-> you imagine that would be like like take nadine for example again you know she's
+> And suddenly, bam, this dick just slaps her in the face.
 >
-> it's monday
+> She, like, ducks down behind some old ladies
 >
-> morning she's on the way to wherever she's going just like hating all the great
+> just to throw it off.
 >
-> buildings around
+> She gets down, she pulls out her dick shield
 >
-> just getting stressed and suddenly bam this dick just slaps her in the face she
+> like Captain America.
 >
-> like ducks down
+> Dicks are flying all around, hitting the shield.
 >
-> behind some old ladies just to throw it off she gets down she pulls out her
+> She's like, "Oh, fuck, the tram arrives."
 >
-> dick shield like captain
+> She jumps in, she gets to wherever she is
 >
-> america dicks are flying all around hitting the shield she's like oh fuck the
+> to work or university or something.
 >
-> tram arrives she
+> And luckily, there's a sign saying,
 >
-> jumps in she gets to wherever she is to work or university or something and
+> "Please keep your penis attached during office hours."
 >
-> luckily there's a sign
+> All right, that's what I've got for you tonight.
 >
-> saying please keep your penis attached during office hours all right that's
+> You guys have been a lot of fun.
 >
-> what i've got for
+> Give it up to yourselves.
 >
-> you tonight you guys have been a lot of fun give it up to yourselves it's been
+> It's been a great night.
 >
-> a great night
+> Thank you so much.
 >
-> thank you so much i'm flying out of here
+> I'm flying out of here.
 >
-> you
+> Yes!
 >
-> yes
+> And we've made it to the end of the show tonight.
 >
-> and we've made it to the end of the show tonight thank you all so much
+> Thank you all so much.

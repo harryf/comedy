@@ -17,266 +17,318 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> I'll bring up this next guy.
+> I'm going to bring up this next guy.
 >
 > Uh, he's, uh, he's very funny.
 >
-> He's been living here since he was a British guy.
+> He's been living here in Switzerland.
 >
-> He's living here since he was a British guy.
+> He's a British guy living here in Switzerland.
 >
 > And, uh, and this is his real name.
 >
 > Ladies and gentlemen, give it up.
 >
-> It's Harry Fox, ladies and gentlemen.
->
-> Give it up!
+> It's Harry Fox, ladies and gentlemen. Give it up!
 >
 > So my name is actually Harry Books.
 >
 > It's a German name.
 >
-> Spelled F-U-C-K-S.
+> Spelled F. U. C. K. S.
 >
-> I repeat, F-U-C-K-S.
+> I repeat, F. U.
 >
-> But when I'm in a room with English speakers like this,
+> C. K. S.
 >
-> a lot of you think my name is Harry Fox.
+> But when I'm in a room with English speakers
+>
+> like this one, what do you think?
+>
+> My name is Harry Fox.
 >
 > My name is not Harry Fox.
 >
-> And in my family, when we have a family get-together,
+> And in my family,
 >
-> we get very upset when you call us a group of fuckers.
+> when we have a family get-together,
+>
+> we get very upset when you call us
+>
+> a group of fuckers.
 >
 > And I have two kids.
 >
-> I had to call them housewives.
+> I had to call them
 >
-> Mother and what-the.
+> Halba and Watba.
 >
-> Just to give them a good start in life.
+> But, uh, honestly,
 >
-> But, uh, honestly, the real problem with a name like Harry Fox is, uh,
+> the real problem with a name like
+>
+> Harry Fox is, uh,
 >
 > there just hasn't been enough fucking.
 >
-> In fact, uh, recently, it's been a long time since I've had sex.
+> In fact, uh,
 >
-> Put your hands up if you haven't had sex in a long time.
+> recently, it's been a long time
 >
-> Yeah.
+> since I've had sex. Put your hands up
+>
+> if you haven't had sex in a long time.
 >
 > Yes, thank you.
 >
-> Thank you.
+> I mean, I would say obviously.
 >
-> I mean, I would say obviously, but, uh...
+> We share the same issues.
 >
-> I'm funny, I have this, we share the same issues.
+> No, uh, but for the rest of you,
 >
-> No, uh, but for the rest of you, I'm a bit disappointed
+> I'm a bit disappointed that you haven't
 >
-> that you haven't been respecting the social distancing guidelines.
+> been respecting the social distancing
 >
-> I didn't realize that I'm coming here tonight
+> guidelines. I didn't realize
 >
-> for the Zurich Nymphomaniacs Anonymous.
+> that I'm coming here tonight for the
 >
-> So maybe, uh, so I can explain our condition here,
+> Nymphomaniacs Anonymous.
 >
-> how it is when...
+> So maybe, uh, so I can explain
+>
+> our condition here, how it is
 >
 > when you haven't had sex in a long time.
 >
-> It's kind of like you're hallucinating.
+> It's kind of like you're
+>
+> hallucinating.
 >
 > Because you could be walking down the street,
 >
-> you see a couple of dogs sniffing each other's asses,
+> you see a couple of dogs
 >
-> and you just think, I wish that was me.
+> sniffing each other's
 >
-> Or you go into Migros,
+> asses, and you just
 >
-> you go into Migros and you spot an axion on watermelon.
+> think, "I wish that was me."
+>
+> Or you go into Migros.
+>
+> You go into Migros and you spot
+>
+> an acción on watermelon.
 >
 > You get one hand on that watermelon,
 >
 > maybe two,
 >
-> and bam, it's like you're in a...
+> BAM! It's like you're in a new
 >
-> a new dimension.
+> dimension. It's just you
 >
-> It's just you and that watermelon.
+> and that watermelon, it's getting hot,
 >
-> It's getting hot, it's getting steamy,
+> it's getting steamy, you don't care about
 >
-> you don't care about all the people looking.
+> what people are looking. And then you hear this,
 >
-> And then you hear this,
+> "Younger man shamans, is it?"
 >
-> you're the man's shaman, ZZ.
+> And you look and there's an old lady about
 >
-> And you look and there's an old lady
+> to hit you with a handbag, and you think,
 >
-> about to hit you with a handbag,
+> "She's nice."
 >
-> and you think, she's nice.
+> Yeah, so that's
 >
-> Yeah, so that's...
+> how that's been going.
 >
-> that's how that's been going.
->
-> Um, yeah, I don't know, this whole COVID thing,
+> Yeah, I don't know, this whole COVID thing,
 >
 > a lot of people have been very bored.
 >
-> I know not you guys, you've been too busy having sex,
+> I know not you guys, you've been too busy
 >
-> but...
+> having sex.
 >
-> but me, I wasn't bored
+> But me, I wasn't bored
 >
-> because I did important work during lockdown.
+> because I did important
 >
-> I explored one of the universe's greatest mysteries.
+> work during lockdown.
 >
-> Of course, I'm talking about lesbians.
+> I explored one of the
 >
-> Now, I think that lesbians don't get enough attention,
+> universe's greatest mysteries.
 >
-> and obviously, who better to speak for lesbians
+> Of course, I'm talking
 >
-> than a middle-aged bald guy from England?
+> about lesbians.
+>
+> Now, I think that lesbians
+>
+> don't get enough attention, and
+>
+> obviously, who better
+>
+> to speak for lesbians than a middle-aged
+>
+> bald guy from New York?
 >
 > Do we have any lesbians here tonight?
 >
-> Okay, lesbians.
+> Okay, lesbians are like
 >
-> I'm a ninja, so you can never see them.
+> ninjas, you can never see them,
 >
-> They're just, uh, hiding places.
+> they're just hiding places.
 >
-> So, well, I did some research on lesbians,
+> So, well, I did some research
 >
-> and one thing I learned is that only 1.1% of women
+> on lesbians, and one thing I learned
 >
-> identify as lesbian,
+> is that only 1.1%
 >
-> which to me seems like a surprisingly low number.
+> of women
 >
-> I would have expected more
+> identify as lesbian.
 >
-> because of what else would explain
+> Which, to me, seems like a surprisingly
 >
-> the most boring prison series ever,
+> low number. I would have
 >
-> Orange is the New Black.
+> expected more because of what else
 >
-> And, in fact, you know, I got thinking about it,
+> would explain the most
 >
-> and I'm pretty sure that every woman has had that moment
+> boring prison series ever,
 >
-> where she's just lying on her back daydreaming
+> "Orange is the New Black."
 >
-> while some guy is down here just fiddling around
+> And, in fact,
 >
-> and getting it all wrong.
+> I got thinking about it, and I'm pretty
 >
-> She thought, maybe it's time to be a lesbian.
+> sure that every woman has had
 >
-> Okay, I'm sensing some identification
+> that moment where she's just
 >
-> when it's still at the, uh, the hidden libel.
+> lying on her back daydreaming
 >
-> Okay, maybe there's some couples discussions there.
+> while some guy is down here
 >
-> But I think one of the things that I find is a bit strange is,
+> just fiddling around and getting
 >
-> I wonder if lesbians are really happy
+> all wrong. She thought,
 >
-> being bundled in there with LGBT.
+> "Maybe it's time to be a lesbian."
 >
-> Because the G's and the B's and the T's,
+> Okay, I'm sensing some
 >
-> they, their favorite hobby is ass-fucking.
+> identification, but it's still
+>
+> at the hidden level.
+>
+> Okay, maybe there's some couples discussions.
+>
+> I think one of the things that I find
+>
+> is a bit strange is, I wonder
+>
+> if lesbians are really happy
+>
+> being bundled in there
+>
+> with LGBT.
+>
+> Because the G's and the
+>
+> B's and the T's,
+>
+> their favorite hobby
+>
+> is ass fucking.
 >
 > And lesbians, you know,
 >
-> lesbians, they would rather, like, hold hands and, you know,
+> lesbians, they would rather
 >
-> go for a walk in the nature, drink some lemon tea.
+> hold hands and, you know,
 >
-> It seems like an odd collection of people.
+> go for a walk in the nature, drink some
 >
-> You have, like, an LGBT meet-up and all the G, B's,
+> lemon tea. It seems like an odd collection
 >
-> and T's are discussing what lube to buy.
+> of people. You have, like, an
 >
-> And the lesbians are just in the corner doing some knitting.
+> LGBT meet-up, and
 >
-> I don't know.
+> all the G, B's, and T's
 >
-> I don't know if I'm getting the right lesbian stereotypes here.
+> are discussing what lube to buy,
 >
-> In fact, I don't want to shame any women here
+> and the lesbians are just in the corner
 >
-> that are considering as a result of your relationship
+> doing some knitting. I don't know.
 >
-> becoming a lesbian.
+> I don't know if I'm getting the right lesbian
 >
-> But, uh, you know, I, like,
+> stereotype here.
 >
-> I really don't want to end up in a situation
+> In fact, I don't want to shame any
+>
+> women here that are considering, as a
+>
+> result of your relationship, becoming
+>
+> a lesbian. [laughter]
+>
+> But, you know, I really
+>
+> don't want to end up in a situation
 >
 > where I'm being chased down the street
 >
-> by a horde of rampaging lesbians
+> by a horde of rampaging
 >
-> who just want to, you know,
+> lesbians who just want to kill me.
 >
-> just want to kill me.
+> Although that is surprisingly
 >
-> Although that is surprisingly not a very scary thought.
+> not a very scary thought.
 >
-> In fact, I probably wouldn't run that fast
+> In fact, I probably
 >
-> and I might just, you know...
+> wouldn't run that fast, and I might
 >
-> Oh, uh, please, please don't hurt me.
+> just, you know... [laughter]
 >
-> I think, uh...
+> Oh, please, please, don't
 >
-> Okay, so that's...
+> hurt me. I think...
 >
-> That was my, uh, lesbians in lockdown set
+> Okay, so that's... that was
 >
-> and I've got nothing more than that.
+> my lesbians
 >
-> Thank you.
+> in lockdown set, and I've
 >
-> As you can see, lockdown did me no good whatsoever.
+> got nothing more than that. Thank you. As you can
 >
-> That's it.
+> see, lockdown did me no
 >
-> That was Harry Pops, ladies and gentlemen.
+> good whatsoever. [laughter]
 >
-> Definitely living up to his name.
+> This is Harry Fox, ladies and gentlemen.
 >
-> Uh, ladies and gentlemen.
+> He's living up to his name.
 >
-> Let's, uh, we have one last comment.
+> Ladies and gentlemen.
 >
-> Yes.
->
-> You're up.
->
-> What do I do?
->
-> Um, I didn't...
->
-> I, I called you.
+> We have one last...

@@ -17,270 +17,304 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Yeah, so my name is actually Harry Fuchs. It's a German name. Spelled F-U-C-K-S.
+> - Yeah, so, my name is actually Harry Hooks.
 >
-> I repeat, F-U-C-K-S.
+> It's a German name.
 >
-> But we have English speakers in the room, and you guys think my name is Harry Fuchs.
+> Spelled F-U-C-K-S, I repeat, F-U-C-K-S.
 >
-> My name is not Harry Fuchs. In my family, when we have a family get-together,
+> But we have English speakers in the room
 >
-> we get
+> and you guys think my name is Harry Fox.
 >
-> very upset if you call us a group of fuckers. I have two kids. I call them Halva
+> My name is not Harry Fox.
 >
-> and Wadda.
+> In my family, when we have a family get-together,
 >
-> It's been a good start in life. But it's hard to have this name, because, you
+> we get very upset if you call us a group of fuckers.
 >
-> know,
+> I have two kids.
 >
-> always stupid things are happening. Recently, this American tourist came up to
+> I call them Howler and Wadler.
 >
-> me, and he
+> Always giving me a good start in life.
 >
-> was like, yo, Harry Fuchs, man. Harry Fuchs.
+> But it's hard, it's hard to have this name
 >
-> What? Harry Fuchs what, man? I'm like, what? He's like, Harry Fuchs what, man?
+> because, you know, always stupid things are happening.
 >
-> And I was like, hmm. Okay, let me see if I can throw him off with some adverbs.
+> Recently, this American tourist came up to me
 >
-> Harry Fuchs hopefully. Harry Fuchs occasionally. Harry Fuchs enthusiastically.
+> and he was like, "Yo, Harry Fox, man.
 >
-> He's like, no, man, no. Harry Fuchs goats, man. Harry Fuchs chickens. Harry Fuchs
+> "Harry Fox what?
 >
-> tigers.
+> "Harry Fox what, man?"
 >
-> Now, I don't know about you.
+> And I'm like, "What?"
 >
-> I don't know about you. But I'm pretty sure that in the entire history of man,
+> He's like, "Harry Fox what, man?"
 >
-> no one
+> And I'm like, "Hmm, okay, let me see
 >
-> has ever successfully fucked a tiger. And in fact, probably a few got fucked up
+> "if I can throw him off with some adverbs.
 >
-> by tigers.
+> "Harry fucks hopefully.
 >
-> But this made me realize that there's actually a whole category of unfuckable
+> "Harry fucks occasionally.
 >
-> animals. You
+> "Harry fucks enthusiastically."
 >
-> know, like, take hippos, for example. Now, you may get up behind a hippo and
+> He's like, "No, man, no, Harry fucks goats, man.
 >
-> think, hmm,
+> "Harry fucks chickens.
 >
-> yeah, that's a great answer. Just slide in there. But don't do it. Hippos will
+> "Harry fucks tigers."
 >
-> fuck you
+> Now, I don't know about you,
 >
-> up. They are the most dangerous animal in Africa. They kill about 500 people
+> but I'm pretty sure that in the entire history of man,
 >
-> every year.
+> no one has ever successfully fucked a tiger.
 >
-> A lady here having issues with hippo fucking. Sorry about that. But it's true.
+> And in fact, probably a few got fucked up by tigers.
 >
-> Another animal
+> But this made me realize that
 >
-> you can't fuck is elephants. Just too high up, you know. Can't reach that. Okay,
+> there's actually a whole category of unfuckable animals.
 >
-> some
+> You know, like take hippos, for example.
 >
-> guy at the back said, I could do that. He's lying. But, you know, it's like, it's
+> Now, you might get up behind a hippo and think,
 >
-> tough.
+> "Hmm, yeah, that's a great answer to slide in there,"
 >
-> But maybe if the mom isn't watching, you could probably fuck a baby elephant.
+> but don't do it.
 >
-> Okay, good. Good. I'm just finding your level. I'm finding your level. What I'm
+> Hippos will fuck you up.
 >
-> seeing, what
+> They are the most dangerous animal in Africa.
 >
-> I'm hearing is that you're okay with bestiality, not pedophile bestiality. I'm
+> They kill about 500 people every year.
 >
-> going to stay
+> A lady here having issues with hippo fucking.
 >
-> away from that for the rest of the show, right? And, but I have to confess, I
+> Sorry about that.
 >
-> do have a lot
+> But it's true.
 >
-> of dark thoughts going on in my head, a lot of twisted stuff. And I think it
+> Another animal you can't fuck is elephants.
 >
-> goes back
+> It's just too high up, you know?
 >
-> to my childhood. I went to a Catholic school, but I got thrown out for molesting
+> It's like, "I can't reach that."
 >
-> a priest.
+> Okay, some guy at the back said, "I could do that."
 >
-> Okay. Catholic pedophiles were kind of okay there. Okay. Because, you know,
+> He's lying.
 >
-> recently I
+> But, you know, it's like, it's tough.
 >
-> watched this movie Spotlight. I don't know if you've seen this. It's about the
+> But maybe if the mom isn't watching,
 >
-> priests
+> you could probably fuck a baby elephant.
 >
-> molesting kids in Boston. It's a really disturbing movie. You know, there's,
+> Okay, good.
 >
-> there's priests
+> Good.
 >
-> that are doing their choir boys. It's fucked up. And got me thinking like, you
+> I'm just finding your level.
 >
-> know, and
+> I'm finding your level.
 >
-> this list of 10 commandments where they have like, don't worship false idols.
+> What I'm seeing, what I'm hearing,
 >
-> Don't, don't
+> is that you're okay with bestiality,
 >
-> be jealous of people. Don't be jealous of people. Don't be jealous of people.
+> not pedophile bestiality.
 >
-> Don't
+> I'm gonna stay away from that for the rest of the show.
 >
-> be jealous of your neighbor's wife. And maybe don't fuck your neighbor's kids.
+> Relax.
 >
-> Maybe
+> But I have to confess,
 >
-> they should have had that on there. You know, when Moses went up the mountain
+> I do have a lot of dark thoughts going on in my head,
 >
-> and he was
+> a lot of twisted stuff.
 >
-> like, okay, here's a list of things. But Lord, shouldn't we put something on
+> And I think it goes back to my childhood.
 >
-> here about kid
+> I went to a Catholic school,
 >
-> fucking? This is kind of uncool. And Lord's like, I don't need to put that on
+> but I got thrown out for molesting a priest.
 >
-> there. Obviously
+> Okay, Catholic pedophiles were kind of okay there, okay?
 >
-> no one's going to do that. That's sick. But now, you know, if I was God, I
+> Because, you know, recently I watched this movie Spotlight.
 >
-> would be really
+> I don't know if you've seen this.
 >
-> fucking angry. I'd be wanting to send a sign. Maybe like, I don't know, I don't
+> It's about the priest molesting kids in Boston.
 >
-> know. I
+> It's a really disturbing movie.
 >
-> don't know. Maybe light a fire or two. I don't know. Maybe burn a few churches.
+> You know, there's priests that'll do it
 >
-> Maybe
+> and they're quiet boys.
 >
-> it was a sign. I don't know. I don't know. No, honestly, I think, but honestly,
+> It's fucked up.
 >
-> I think
+> And got me thinking, like, you know,
 >
-> what's fucked me up isn't actually not anything happened in my childhood. It's
+> and this list of 10 commandments,
 >
-> actually because
+> where they have, like, don't worship false idols,
 >
-> I'm a dad. Two kids, they're teenagers now. And I've been through the whole
+> don't be jealous of your neighbor's wife,
 >
-> thing of parenting
+> and maybe don't fuck your neighbor's kids.
 >
-> and it really is hard and tough. You know, I was there when the kids were born.
+> Maybe they should have had that on there, you know?
 >
-> I was
+> When Moses went up the mountain and he was like,
 >
-> in the room. And, you know, I was there when the kids were born. I was in the
+> "Okay, here's a list of things.
 >
-> room. And,
+> "But Lord, shouldn't we put something on here
 >
-> you know, I was there when the kids were born. I was in the room. And, you know,
+> "about kid fucking and this is kind of uncool?"
 >
-> I was
+> And Lord's like, "I don't need to put that on there.
 >
-> in the room. And, you know, I was in the room. And, you know, I was in the room.
+> "Obviously no one's gonna do that.
 >
-> And
+> "That's sick."
 >
-> the good old days, men could just go to the pub and drink whiskey and smoke cigars.
+> But now, you know, if I was God,
 >
-> Now
+> I would be really fucking angry.
 >
-> you've got to be there supporting your loved one. And I was behind her, holding
+> I'd be wanting to send a sign.
 >
-> her, supporting
+> Maybe light the fire or two, I don't know.
 >
-> her, calming her down. And at a certain point, the nurse said, hey, I can see
+> Maybe burn a few churches.
 >
-> the head. Do
+> Maybe it was a sign, I don't know.
 >
-> you want to come around here and have a look? Advice to all the guys here, the
+> I don't know.
 >
-> correct answer
+> No, honestly, I think what's fucked me up
 >
-> is no. You do not want to look. Because if you go around there and look, you're
+> is actually not anything that happened in my childhood.
 >
-> going
+> It's actually 'cause I'm a dad.
 >
-> to see something that's going to trouble you. You're going to see something
+> Two kids, they're teenagers now.
 >
-> that's going
+> And I've been through the whole thing of parenting
 >
-> to trouble you. You're going to see something that's going to trouble you. You're
+> and it really is hard and tough.
 >
-> going
+> You know, I was there when the kids were born.
 >
-> to see something that's going to traumatize you for life. Because that part of
+> I was in the room.
 >
-> your loved
+> And, you know, in the good old days,
 >
-> one, that thing you like the most, just got turned into the Gotthard Tunnel.
+> men could just go to the pub and drink whiskey
 >
-> And like
+> and smoke cigars.
 >
-> the Gotthard Tunnel, in the future, it's going to take you a really long time
+> Now you've gotta be there supporting your loved one.
+>
+> And I was behind her, holding her,
+>
+> supporting her, calming her down.
+>
+> And at a certain point, the nurse said,
+>
+> "Hey, I can see the head.
+>
+> "Do you wanna come 'round here and have a look?"
+>
+> Advice to all the guys here, the correct answer is no.
+>
+> You do not want to look.
+>
+> 'Cause if you go 'round there and look,
+>
+> you're gonna see something
+>
+> that's gonna traumatize you for life.
+>
+> 'Cause that part of your loved one,
+>
+> that thing you like the most,
+>
+> just got turned into the Gotthard Tunnel.
+>
+> And like the Gotthard Tunnel,
+>
+> in future it's gonna take you a really long time
 >
 > to get in there.
 >
-> And once you're inside, you're going to be kind of bored, maybe falling asleep.
+> And once you're inside,
 >
-> And
+> you're gonna be kind of bored,
 >
-> you're probably wishing, shit, I wish I'd taken that second tunnel up, you know?
+> maybe falling asleep.
 >
-> Here
+> And you're probably wishing,
 >
-> we go.
+> "Gee, I wish I'd taken that second time at the end."
 >
-> You've got some of the people got that one, you sick individuals. But, you know,
+> Here we go, some of the people got that one,
 >
-> I mean,
+> you sick individuals.
 >
-> honestly, the thing for me as a father is realizing how much society, what it
+> But, you know, I mean, honestly,
 >
-> tells
+> the thing for me as a father is realizing
 >
-> you about babies, is completely different to the experience. And, you know, a
+> how much society, what it tells you about babies
 >
-> good example
+> is completely different to the experience.
 >
-> of this is, you know, like, have you ever seen a group of young women, and one
+> And, you know, a good example of this is,
 >
-> of them's
+> you know, like, have you ever seen a group of young women
 >
-> just had a child, and they're all there going, oh, so cute, so sweet, oh, I
+> and one of them's just had a child
 >
-> just love the
+> and they're all there going,
 >
-> way babies smell.
+> "Oh, so cute, so sweet, oh.
 >
-> I hate to break it to you, but that is not the smell of a baby. That is a smell
+> "I just love the way babies smell."
 >
-> of something
+> I hate to break it to you,
 >
-> that just spent nine months in your friend's vagina. And what you should really
+> but that is not the smell of a baby.
 >
-> be saying
+> That is a smell of something that just spent nine months
 >
-> is, oh, so cute, so sweet, I just love the smell of your vagina.
+> in your friend's vagina.
 >
-> Okay, I think that is, I've traumatized you enough. You've had enough trauma, I
+> And what you should really be saying is,
 >
-> think
+> "Oh, so cute, so sweet.
 >
-> I'm going to end there. You've been great for tolerating this. I might quit
+> "I just love the smell of your vagina."
 >
-> that up
+> Okay, I think that has traumatized you enough.
 >
-> here before.
+> You've had enough trauma, I think I'm gonna end there.
 >
-> Get up again for Harry Potter.
+> You've been great for tolerating this.
+>
+> I might quick get up here before the film.
+>
+> Give it up again for Harry.
