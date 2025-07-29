@@ -13,10 +13,10 @@ title: Search
 
 <script>
 const { liteClient: algoliasearch } = window['algoliasearch/lite'];
-const searchClient = algoliasearch('589M3LLSPH', 'c7a68813fc10dcebe016e1c51a3a3c75');
+const searchClient = algoliasearch('{{ site.algolia.application_id }}', '{{ site.algolia.search_only_api_key }}');
 
 const search = instantsearch({
-    indexName: 'comedy',
+    indexName: '{{ site.algolia.index_name }}',
     searchClient: searchClient,
     routing: {
         router: instantsearch.routers.history({
