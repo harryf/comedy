@@ -17,187 +17,157 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> So we're about, actually, almost at the end of our first half. We only have one
+> So we're about, actually, almost at the end of our first half. We only have one last comedian left
 >
-> last comedian left in our first half, and we're very excited to have him here
+> in our first half, and we're very excited to have him here tonight.
 >
-> tonight.
+> Without further ado, let me bring him up. Here he is, the very funny Harry Fox, everybody! Bring
 >
-> Without further ado, let me bring him up. Here he is, the very funny Harry Fox,
+> him up!
 >
-> everybody! Bring him up!
->
-> So, my name is actually Harry Fooks. It's a German name. Spelled F-O-O-C-K-S. I
->
-> repeat, F-O-O-C-K-S.
+> So, my name is actually Harry Fooks. It's a German name. Spelled F-O-O-C-K-S. I repeat, F-O-O-C-K-S.
 >
 > But all these English speakers here still think my name is Harry Fox.
 >
-> The problem with a name like Harry Fox is it sets a very high bar of
+> The problem with a name like Harry Fox is it sets a very high bar of expectations.
 >
-> expectations.
+> Because if my name was Harry Fox, I would have come on here tonight and I would have been like, "Yo,
 >
-> Because if my name was Harry Fox, I would have come on here tonight and I would
->
-> have been like, "Yo, what's up, Harry Fox in the house!"
+> what's up, Harry Fox in the house!"
 >
 > But that's not really me, I'm kind of quiet.
 >
-> And the other thing is, obviously, I actually need to fuck a lot. And that hasn't
+> And the other thing is, obviously, I actually need to fuck a lot. And that hasn't really been
 >
-> really been happening.
+> happening.
 >
-> Although, to say I'm actually a father and a single dad, I have two teenagers,
+> Although, to say I'm actually a father and a single dad, I have two teenagers, so just enough
 >
-> so just enough happened for my genes to pass to another generation.
+> happened for my genes to pass to another generation.
 >
 > I have these two teenagers, and I call them Halver and Wopper.
 >
-> And as a single dad, I'm always being confronted with situations I'm wholly
+> And as a single dad, I'm always being confronted with situations I'm wholly unprepared for.
 >
-> unprepared for.
+> For example, recently I came back from work, and I went into the bathroom, and oh my God, it looked
 >
-> For example, recently I came back from work, and I went into the bathroom, and
+> like a crime scene in there.
 >
-> oh my God, it looked like a crime scene in there.
+> There was bloody hand print on the mirror, there was blood in the sink, drops of blood on the floor,
 >
-> There was bloody hand print on the mirror, there was blood in the sink, drops
+> and the toilet looked like something from a horror movie.
 >
-> of blood on the floor, and the toilet looked like something from a horror movie.
+> And then I heard this screaming, and I looked around, and I realized the screaming was coming from
 >
-> And then I heard this screaming, and I looked around, and I realized the
+> me.
 >
-> screaming was coming from me.
+> And at that point, my daughter showed up, and she said, "Hey, Dad, I got my period!"
 >
-> And at that point, my daughter showed up, and she said, "Hey, Dad, I got my
->
-> period!"
->
-> And after cleaning up my daughter's menstrual blood, she said, "Hey, can I get
->
-> you something?"
+> And after cleaning up my daughter's menstrual blood, she said, "Hey, can I get you something?"
 >
 > And my daughter was like, "Dad, get me tampons."
 >
-> Now, as a man, I obviously know completely nothing about buying tampons, but I
+> Now, as a man, I obviously know completely nothing about buying tampons, but I thought, "Hey, this
 >
-> thought, "Hey, this can't be so hard."
+> can't be so hard."
 >
-> So I went to Medro, I took a look around, and what I learned is that tampon
+> So I went to Medro, I took a look around, and what I learned is that tampon product names are
 >
-> product names are exactly no use whatsoever when it comes to choosing a tampon.
+> exactly no use whatsoever when it comes to choosing a tampon.
 >
-> For example, you have names like OB-PRO, like professional women that bleed for
->
-> a living.
+> For example, you have names like OB-PRO, like professional women that bleed for a living.
 >
 > Or Tampax Radiance, glow-in-the-dark tampons for when the lights are off.
 >
-> The one I like the most is Always Infinity, for when your vagina is an unfillable
+> The one I like the most is Always Infinity, for when your vagina is an unfillable black hole.
 >
-> black hole.
+> Anyway, it worked out okay, I chose something, it worked out fine for my daughter, and for me, it
 >
-> Anyway, it worked out okay, I chose something, it worked out fine for my
+> ended up being a very proud moment as a father.
 >
-> daughter, and for me, it ended up being a very proud moment as a father.
+> Because it's not every day that you get to choose what your daughter crimes in her vagina.
 >
-> Because it's not every day that you get to choose what your daughter crimes in
+> I know this because, you know, I've actually lived in Switzerland for 17 years now, and I'm
 >
-> her vagina.
+> actually in the process of applying for my Swiss passport.
 >
-> I know this because, you know, I've actually lived in Switzerland for 17 years
+> And when I get that passport, I'm going to be voting ESPAPÉ, because it's time to do something
 >
-> now, and I'm actually in the process of applying for my Swiss passport.
->
-> And when I get that passport, I'm going to be voting ESPAPÉ, because it's time
->
-> to do something about all the immigrants.
+> about all the immigrants.
 >
 > And specifically, I mean all the English-speaking immigrants.
 >
 > Because, let's take a look at what these guys have been doing, you know.
 >
-> They voted for Brexit, they voted for Trump, and then they go, "Oh my god, we
+> They voted for Brexit, they voted for Trump, and then they go, "Oh my god, we fucked up our country.
 >
-> fucked up our country. Let's just sneak over to Switzerland."
+> Let's just sneak over to Switzerland."
 >
-> And if you take a look, what are they actually bringing to the party here in
+> And if you take a look, what are they actually bringing to the party here in Switzerland, it's
 >
-> Switzerland, it's really not that much.
+> really not that much.
 >
-> Because, you know, think about the Indians and the Vietnamese, when they came
+> Because, you know, think about the Indians and the Vietnamese, when they came here, they brought
 >
-> here, they brought great cuisine.
+> great cuisine.
 >
-> Or, for example, the Brazilians and the Romanians, when they came here, they
+> Or, for example, the Brazilians and the Romanians, when they came here, they brought sexual relief.
 >
-> brought sexual relief.
+> But these English speakers, you know, they're not even bothering to learn the language, they're
 >
-> But these English speakers, you know, they're not even bothering to learn the
+> going out in the evening and listening to stand-up comedy in English.
 >
-> language, they're going out in the evening and listening to stand-up comedy in
+> So, you know, I'm going to make it my mission to prevent this country from getting stolen.
 >
-> English.
+> And the reason for this actually goes back to my childhood, because when I was seven, something was
 >
-> So, you know, I'm going to make it my mission to prevent this country from
->
-> getting stolen.
->
-> And the reason for this actually goes back to my childhood, because when I was
->
-> seven, something was taken from me.
+> taken from me.
 >
 > That's right, I was circumcised.
 >
-> Now, judging by the quiet response here, a lot of you don't know what circumcision
->
-> is.
+> Now, judging by the quiet response here, a lot of you don't know what circumcision is.
 >
 > Come talk to me after, I'll show you.
 >
-> But what began as a very traumatic experience in my childhood, as an adult, has
+> But what began as a very traumatic experience in my childhood, as an adult, has turned into a real
 >
-> turned into a real advantage.
+> advantage.
 >
-> Because on those rare occasions where a woman does get in proximity with the
+> Because on those rare occasions where a woman does get in proximity with the end of my penis, she
 >
-> end of my penis, she will invariably sigh, like, "Ugh."
+> will invariably sigh, like, "Ugh."
 >
 > And I'd be like, "Hey, why are you sighing on my penis?"
 >
 > And she'd be like, "You have no idea how many dirty dicks there are out there."
 >
-> And what I learned, actually, what I learned is amongst my uncut brethren, a
+> And what I learned, actually, what I learned is amongst my uncut brethren, a lot of you guys are
 >
-> lot of you guys are not putting enough attention in this area.
+> not putting enough attention in this area.
 >
-> So what I thought, I would finish with just a few tips for you guys to help
+> So what I thought, I would finish with just a few tips for you guys to help make your woman's life
 >
-> make your woman's life more pleasant.
+> more pleasant.
 >
 > So, first thing you can do, thank you for that, she knows what it's about.
 >
-> The first thing you can do is, you know in your car, like on the rear view
+> The first thing you can do is, you know in your car, like on the rear view mirror, you have like an
 >
-> mirror, you have like an air freshener, a wonder balm, just hang it from your
->
-> penis.
+> air freshener, a wonder balm, just hang it from your penis.
 >
 > Women are very sensitive to smell, that immediately makes their life better.
 >
-> Women are also very visual, so like right here, above your penis, just tattoo a
+> Women are also very visual, so like right here, above your penis, just tattoo a pleasant scene.
 >
-> pleasant scene.
+> Like, a field of green grass with some flowers growing, maybe a tree with some birds singing, a
 >
-> Like, a field of green grass with some flowers growing, maybe a tree with some
->
-> birds singing, a couple of squirrels.
+> couple of squirrels.
 >
 > You know, something to take her mind off the disgusting actress.
 >
-> But there is actually an easier thing you can do, is just simply bring a box of
+> But there is actually an easier thing you can do, is just simply bring a box of crackers with you
 >
-> crackers with you while she's down there.
+> while she's down there.
 >
 > Just kind of feed her the crackers.
 >

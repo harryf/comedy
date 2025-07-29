@@ -17,256 +17,384 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Two more ads and the next ad comes originally from Great Britain and I just wanted to say
+> Noch zwei mehr Acts und der nächste Act kommt ursprünglich aus Großbritannien.
 >
-> Welcome Harry Fuchs!
+> Und also, ich wollte einfach sagen, willkommen Harry Fuchs!
 >
-> Let me say a big round of applause for Harry Fuchs!
+> Wie gesagt, großen Applaus für Harry Fuchs!
 >
-> So my name is actually Harry Fuchs, that's a German name, you write F-U-C-K-S, I repeat, F-U-C-K-S
+> Also, mein Name ist eigentlich Harry Fuchs.
 >
-> But because I grew up in England, many call me Harry Fuchs.
+> Das ist ein deutscher Name, das schreibt man F-Ü-C-K-S, ich wiederhole, F-Ü-C-K-S.
 >
-> My name is not Harry Fuchs.
+> Aber weil ich in England aufgewachsen bin, nenne mich hier Harry Fuchs.
 >
-> In my family, when we meet, we get very annoyed when you call us a group of f*ckers.
+> Mein Name ist nicht Harry Fuchs.
 >
-> And I have two children, I had to call them Halver and Walther.
+> Und in meiner Familie, wenn wir uns treffen, wir würden sehr genervt, wenn euch uns nennt
 >
-> But that takes a bit of time to process.
+> eine Gruppe Fuckers.
 >
-> But the real problem with names like Harry Fuchs is that it sets very high expectations.
+> Und ich habe zwei Kinder, ich musste sie Halber und Wobber nennen.
 >
-> To be honest, I've never had so much sex, okay, to be honest, it was so much sex.
+> Es dauert ein bisschen Zeit, zu überlegen.
 >
-> And in the last time, in the last months, I've actually, if I may say so, had no sex.
+> Aber das echte Problem mit Namen wie Harry Fuchs ist, es setzt sehr höhe Erwartungen.
 >
-> Hands up if you haven't had sex for a long time.
+> Denn ehrlich gesagt, ich habe noch so viel Sex, okay, ehrlich, es war so viel Sex.
 >
-> Okay, that surprises me.
+> Und in der letzten Zeit, in den letzten Monaten, habe ich eigentlich, wenn ich das teilen darf,
 >
-> Wow, I thought it was after the polyball.
+> keinen Sex gehabt.
 >
-> Okay, but I understand, we're here at the Zurich Nymphomania Anonymity.
+> Hände hoch, wenn ihr keinen Sex gehabt habt seit langem.
 >
-> Okay, I'll try to tell you a little bit about how it is for me, how it is with my condition.
+> Okay, das überrascht mich.
 >
-> It's almost as if you hallucinate.
+> Wow, ich dachte, das kam nach der Polybo.
 >
-> So when I walk down the street and I see a couple of dogs, and they're sniffing at each other.
+> Okay, aber ich verstehe, wir sind hier bei der syrischen Impfung an der Anonymtheit.
 >
-> And I think, "I want to be part of it too."
+> Okay, ich versuche es ein bisschen für euch zu erzählen, wie es ist für mich, wie es
 >
-> Or you go to the micro, and you see an action on watermelons.
+> ist mit meinen Konditionen.
 >
-> You get one hand on the watermelon, maybe two.
+> Es ist fast, als ob man halluciniert.
 >
-> And then you're suddenly in a new dimension.
+> Also wenn ich die Strasse entlang laufe und ich sehe ein paar Hunde und die schnüffeln
 >
-> And you're sniffing this watermelon, no matter who's watching.
+> sich an der Ärsche und ich denke, ich will auch dabei.
 >
-> And then I hear, "Boy, why are you ashamed?"
+> Oder man geht in den Mikro und man sieht eine Aktion auf Wassermelonen.
 >
-> And I look, there's a group of women, they want to hit me with their handbags.
+> Man kriegt eine Hand auf der Wassermelone, vielleicht zwei und dann ist man plötzlich
 >
-> And I think, "Very nice."
+> in einer neuen Dimension.
 >
-> Yeah, it's difficult.
+> Nur ich in dieser Wassermelone, egal wer zuschaut.
 >
-> What also bothers me a lot at the moment is, even at my age, I don't know if I'm good at sex.
+> Und dann höre ich, Junge, warum schämen Sie sich?
 >
-> Because recently I read something that said, "To be good at anything, it takes 10,000 hours."
+> Und ich schaue, da ist ein Abzug Frauen, sie will mich mit der Handtasche schlagen.
 >
-> 10,000 hours is a lot of f*cking.
+> Und ich denke, sie ist schön.
 >
-> So if you f*ck 24 hours a day, in one year, you're only at 8,000 hours.
+> Ja, es ist schwierig.
 >
-> That's calculated.
+> Was mich auch ziemlich irrtiert, muss ich sagen, ist, ich war auch in meinem Alter, weiß
 >
-> And if you live to 70, you have to f*ck 10 times a day, from the day you were born until the day
+> ich nicht, ob ich gut bei Sex bin.
 >
-> you die.
+> Aber letztlich habe ich etwas gelesen, das sagt, um bei irgendwas gut zu sein, braucht
 >
-> And I don't know what's wrong with the idea of f*cking babies.
+> es 10.000 Stunden.
 >
-> Or the idea of having sex with old people on the day they die.
+> 10.000 Stunden ist eine Menge für mich.
 >
-> Okay, that was a bit too dark, I'm sorry.
+> Also wenn du fickst so 24 Stunden am Tag, für ein Jahr, dann bist du nur bei 8.000
 >
-> So, I think at the moment it's a very difficult time, especially for women.
+> Stunden.
 >
-> Because I saw a statistic that said, almost 50% of men between the ages of 20 and 40 have had a
+> Das ist ausgerechnet.
 >
-> dick-dick in the last three months.
+> Oder wenn du lebst bis 70, du musst 10 Mal am Tag ficken, von dem Tag, wo du geboren
 >
-> That's a huge number.
+> warst, bis zum Tag, dass du stirbst.
 >
-> And to visualize that, if you divide the number by 10 men here, before Christmas you have a stack
+> Und ich weiß nicht, was daran schlimmer ist, der Gedanke von Babys, die ficken oder die
 >
-> of 5 dicks on your phone.
+> Idee von Sex mit alten Leuten auf den Tag, wo sie sterben.
 >
-> And then you could use it for Christmas cards, to decorate a Christmas tree, you can do a lot with
+> Okay, das war ein bisschen zu dunkel, es tut mir leid, es tut mir leid.
 >
-> it.
+> Also, ich finde momentan, es ist eine sehr schwierige Zeit, besonders für Frauen, weil
 >
-> So I personally don't send dick-dicks.
+> ich habe eine Statistik gesehen, die sagt, also fast 50% von Männern zwischen 20 und
 >
-> Not because I'm better, but because I'm a perfectionist.
+> 40 haben einen Dickdick in den letzten drei Monaten geschickt.
 >
-> Because to send such a good dick-dick is difficult, because you have to think about a lot of things.
+> Das ist eine enorme Zahl.
 >
-> For example, the light. Do I need a beautiful color that brings out the main color, or something
+> Um das zu visualisieren, also wenn ihr eine Nummer an 10 Männer hier verteilt, vor Weihnachten
 >
-> more red and erotic?
+> habt ihr eine Stafel von Funkdicks auf dem Handy.
 >
-> Do I need a few objects, like roses?
+> Und dann könntet ihr die verwenden für Weihnachtskarten, um den Weihnachtsbaum zu schmucken.
 >
-> All around here, it's a bit dangerous, with the thorns.
+> Also, man kann viel damit machen.
 >
-> So you have to think about which angle is best, like a selfie, like here, or here, or...
+> Also, ich persönlich schicke keinen Dickdicks.
 >
-> It's difficult, but I'm a bit of an entrepreneur, that's why I developed the dick-dick selfie stick.
+> Nicht, weil ich besser bin, aber weil ich ein Perfektsinist bin.
 >
-> You can all get it on dick-dick-selfie-stick.com, tonight at 9.29 pm.
+> Weil so ein guter Dickdick zu schicken, ist schwierig, denn man muss sich an vieles denken,
 >
-> Okay, that's my gift for you at the Polyball. Thank you very much, have a nice evening.
+> zum Beispiel das Licht.
 >
-> So, we're at the last act, and it's actually also an English comedy.
+> Also, brauche ich so eine schöne Farbe, die der Hauptfarbe ausbringt oder etwas mehr so
 >
-> So, please, welcome to the stage, to Shane Orto!
+> rot oder rotisch.
 >
-> Shane Orto, a big round of applause! I don't know you, so I don't need a big round of applause.
+> Brauche ich auch so ein paar Objekte, so wie Rosen.
 >
-> What's your name? Okay.
+> Also, das hier rumherum ist ein bisschen gefährlich, diese Dornen.
 >
-> Nice to meet you!
+> Also, man muss sich überlegen, am besten ein Blickwinkel.
 >
-> So, today I'm going to try to do something that the Swiss themselves can't do.
+> So ein Selfie, so hier oder hier oder...
 >
-> To be funny while sitting.
+> Das ist schwierig, aber ich bin ein bisschen unternehmerisch, deswegen habe ich den Dickdick
 >
-> So, I broke my ankle, while biking, and I spent time on crutches, here in Switzerland, also in
+> Selfie-Stick entwickelt.
 >
-> England.
+> Für euch alle, ihr könnt es auf dickdickselfiestick.com kriegen, heute Abend um 9.29 Uhr.
 >
-> And the reaction of the people couldn't be any different. In one corner, everyone wanted to talk to
+> Okay, das ist mein Geschenk für euch an der Poly Bowl.
 >
-> me.
+> Danke vielmals und schöne Abend.
 >
-> "Oh, James, did you do well? Oh, did it hurt? Oh, I hope you didn't die again."
+> Harry Fuchs, everybody, Harry Fuchs.
 >
-> In Switzerland, at first, no one wanted to talk to me, because they always had the same answer.
+> So, wir sind am letzten Akt und er ist eigentlich auch eine Englisch-Dominantin.
 >
-> "Same school."
+> Also, bitte, willkommen auf der Bühne zu Shane Orto.
 >
-> Do you know Switzerland? Yes, that's how it is in England, a region called Essex.
+> Shane Orto, ein grosses Applaus.
 >
-> Do you know Essex?
+> Ich gehe nicht, weil es nicht ein grosses Applaus wäre.
+>
+> Das ist ein grosses Applaus.
+>
+> Okay.
+>
+> Hören Sie miteinander.
+>
+> Also, heute versuchen wir zu tun, etwas, das die Schweizer selber nicht schaffen können.
+>
+> Lustig, Apotheker zu sein.
+>
+> Also, ich habe ein schwieriges Jahr.
+>
+> Also, ich habe meine Füße eingebrochen beim Aufbreiten.
+>
+> Und ich habe Zeit auf Krücken verbracht.
+>
+> Hier in der Schweiz und auch in England.
+>
+> Und die Reaktion von den Leuten könnte nicht anders sein.
+>
+> In einem England konnte jeder mit mir reden.
+>
+> Oh, Shane, es hat sich gut getan.
+>
+> Oh, es hat sich leid getan.
+>
+> Oh, ich hoffe, du bist in Friedenstaaten eingebreitet.
+>
+> In der Schweiz, zuerst wollte niemand mit mir reden.
+>
+> Aber überhaupt hatten wir immer die gleiche Antwort.
+>
+> Selber schuld.
+>
+> Grüße an die Schweizer.
+>
+> Ja, ich komme aus England.
+>
+> Eine Region, die Essex heißt.
+>
+> Kennt ihr mal Essex?
 >
 > Shit.
 >
-> For those of you who don't know, Essex is shit.
+> Für die, die nicht wissen, Essex ist scheiße.
 >
-> We're sitting outside a big city.
+> Wir sitzen außerhalb der großen Stadt.
 >
-> No one likes us, no one wants to visit us. We have a terrible reputation.
+> Niemand mag uns.
 >
-> In Switzerland, there's only one region that's the same.
+> Niemand will uns besuchen.
 >
-> That's the Canton of Aargau.
+> Wir haben einen ganz schlechten Beruf.
 >
-> Does anyone here live in the Canton of Aargau?
+> In der Schweiz gibt es nur eine Region,
 >
-> Beautiful, isn't it?
+> die begleichbar ist.
 >
-> We have something that's very special.
+> Das ist der Kanton Aargau.
 >
-> These are our Essex girls.
+> Haben wir jemanden hier von Kanton Aargau?
 >
-> They have red, white and red hair, like their orange self-dyed eyebrows.
+> Schönes Fleisch.
 >
-> But I don't have to give it to you, right?
+> Wir haben etwas, das allerweil ungespeziell ist.
 >
-> Because they made this city hateful, years before we all got used to it.
+> Und die sind unsere Essex-Mädels.
 >
-> Do you know the Essex girls?
+> Die sind weltweit berühmt.
 >
-> I'll tell you. Teenage puberty.
+> Weltweit berühmt.
 >
-> Yes, unfortunately I'm not allowed to laugh.
+> Mit ihren orangen Selbstbräunen.
 >
-> But my mother was sexy when I was born.
+> Und festen Haaren.
 >
-> But it wasn't so bad for me to have young dogs.
+> Aber ich muss es nicht zugeben.
 >
-> For example, I always had a pig.
+> Die haben diesen Stil hessisch gemacht.
 >
-> And the parents of the other children were always very friendly.
+> Lange bevor wir alle unter Druck von Brüdern waren.
 >
-> But there were also things that were strange.
+> Kennt ihr die Essex-Mädels?
 >
-> For example, it was strange that they could both get on the bus.
+> Ich sage euch.
 >
-> And both were half price.
+> Teenage-Krankenschaft.
 >
-> But for a dog it wasn't all that easy.
+> Ja, leider darf ich nicht lachen.
 >
-> It's difficult to have a child.
+> Meine Mutter war 16,
 >
-> When you have a child at six years old, it's a bit like a spiral.
+> als ich in die Welt kam.
 >
-> It destroys the childhood.
+> Es war aber für mich nicht so schlecht,
 >
-> I know what you're thinking.
+> eine junge Mutter zu haben.
 >
-> The same school.
+> Weil zum Beispiel,
 >
-> But that's not true.
+> ich hatte immer einen Schminkwagen.
 >
-> Now I live in Switzerland.
+> Und die Papas der anderen Kinder,
 >
-> I've been living in Switzerland for ten years.
+> die waren immer selbstständig.
 >
-> And I have to say, the biggest advantage of Switzerland is the quality of life.
+> Aber es gab Sachen, die sich hingefahren haben.
 >
-> I live in one of the few countries in the world where you can save money when you only go on
+> Zum Beispiel auch, die komisch waren.
 >
-> holiday.
+> Zum Beispiel, dass es komisch war,
 >
-> And you don't just save money, you also feel good.
+> dass die Schulfachschreiben könnten.
 >
-> And you look around and think, "Hmm, they shit here."
+> Und beides im halben Kreis.
 >
-> The other big advantage is the loyalty to Switzerland.
+> Aber für eine Mutter war es nicht allzu einfach.
 >
-> If you make a Swiss friend, you make a Swiss friend of life.
+> Und es war schwieriger,
 >
-> That's what I heard.
+> so einen Mann und ein Kind zu haben.
 >
-> Do you spend your life with Swiss friends?
+> Ein Kind,
 >
-> No?
+> als wenn man ein Kind umsetzen kann,
 >
-> Shit, do more!
+> ist ein bisschen wie
 >
-> Do more!
+> eine Steigerung
 >
-> What else can I say?
+> in dem katholischen Kinderkorb.
 >
-> The other big advantage is safety.
+> Es zerstört die Kindheit.
 >
-> In the summer we can go swimming and leave our stuff on the beach.
+> Ich weiß, was ich denke.
 >
-> And when the sun comes up, they're still there.
+> Selbe Schuld.
 >
-> What I like to do is to test the limits of safety.
+> Aber das ist eine Gelbenheit.
 >
-> And I leave a lot of things unattended and see if they're still there when I come back.
+> Und jetzt bin ich da, in der Schweiz.
 >
-> My wife hates me for doing that with our daughter.
+> Aber ich lebe in der Schweiz
 >
-> Just a joke, we don't have any daughters.
+> schon seit 10 Jahren.
 >
-> Not anymore.
+> Und ich muss sagen,
 >
-> Merci beacause you shake gold!
+> der größte Vorteil der Schweiz
+>
+> ist der Lebensqualität.
+>
+> Ich lebe in einem der Regionen der Welt,
+>
+> wo man Geld sparen kann,
+>
+> wenn man nur
+>
+> aus einer Linderurlaub geht.
+>
+> Und man spart nicht nur Geld,
+>
+> man spart sich auch Wohle,
+>
+> wenn man herumguckt und denkt,
+>
+> "Hm, sie scheissen hier."
+>
+> Der andere große Vorteil,
+>
+> muss ich sagen,
+>
+> ist die Loyalität in der Schweiz.
+>
+> Macht man einen
+>
+> scheissen Freund,
+>
+> macht man einen Freund das Leben.
+>
+> So habe ich es eben gehört.
+>
+> Gibt es ein Mann hier,
+>
+> gibt es ein Mann aus meinem Leben mit scheissen Freunden?
+>
+> Nein?
+>
+> Scheisse, tut mir her.
+>
+> Tut mir her.
+>
+> Also, mach einen Freund heute Abend.
+>
+> Gut, also,
+>
+> was will ich noch sagen?
+>
+> Die andere Vorteil der Schweiz
+>
+> ist die Sicherheit.
+>
+> Die Sicherheit.
+>
+> Im Sommer können wir schlimmer gehen
+>
+> und unsere Sachen auf den Boden verlassen.
+>
+> Und wenn wir zurückkommen,
+>
+> wir werden immer noch da.
+>
+> Was ich gerne tue,
+>
+> ist die Grenze dieser Sicherheit zu testen.
+>
+> Und ich lasse sehr viele Dinge
+>
+> unaufgesichtet
+>
+> und schaue, ob wir noch da sind,
+>
+> wenn wir zurückkommen.
+>
+> Und meine Frau hasst es nicht,
+>
+> es wird unsere Tochter machen.
+>
+> Scherz, wir haben keine Töchter.
+>
+> Nicht mehr.
+>
+> Herzlichen Dank, dass ich geschenkt wurde.
+>
+> Geh nach Hause, geh nach Hause.

@@ -17,17 +17,13 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> So, it's really a special night for me tonight, because my daughter's here, and
->
-> she's with
+> So, it's really a special night for me tonight, because my daughter's here, and she's with
 >
 > her boyfriend.
 >
 > And now they're curious about how it feels to have a shit on your back.
 >
-> I think it's somewhere around here is where I realize that my life is a
->
-> complete failure.
+> I think it's somewhere around here is where I realize that my life is a complete failure.
 >
 > In fact, my name is not Harry Fuchs, it's Harry Fuchs, it's a German name.
 >
@@ -37,19 +33,13 @@ notes: |
 >
 > We are not a group of fuckers.
 >
-> Yeah, so, but I mean, honestly, the name Harry Fuchs sets a high level of
+> Yeah, so, but I mean, honestly, the name Harry Fuchs sets a high level of expectation, you'd
 >
-> expectation, you'd
->
-> be thinking that I'm some kind of porn star, probably pre-internet, a guy that
->
-> had some
+> be thinking that I'm some kind of porn star, probably pre-internet, a guy that had some
 >
 > DVDs like "Harry Fuchs Dallas", "Harry Fuchs Europe", "Harry Fuchs Your Mum".
 >
-> To be fair, to be fair, the honest truth is, there's just been way too little
->
-> fucking in
+> To be fair, to be fair, the honest truth is, there's just been way too little fucking in
 >
 > my life.
 >
@@ -59,45 +49,27 @@ notes: |
 >
 > This is serious now, please, you can stop laughing.
 >
-> After four and a half years, it was a very traumatic experience, but actually,
+> After four and a half years, it was a very traumatic experience, but actually, it's now
 >
-> it's now
+> made me an expert on all Swiss women and one of the things that you find difficult when
 >
-> made me an expert on all Swiss women and one of the things that you find
->
-> difficult when
->
-> you have a Swiss girlfriend is they don't communicate very well, they don't
->
-> express
+> you have a Swiss girlfriend is they don't communicate very well, they don't express
 >
 > themselves very well, especially towards women.
 >
-> And the surprising reason for this is actually, Switzerland has a very poor
->
-> track record on
+> And the surprising reason for this is actually, Switzerland has a very poor track record on
 >
 > women's rights.
 >
-> Not a lot of people know this, but in 1991, just not long ago, you know, it was
+> Not a lot of people know this, but in 1991, just not long ago, you know, it was the last
 >
-> the last
+> canton of Appenzell-Innerhorden finally agreed to give women the right to have orgasms.
 >
-> canton of Appenzell-Innerhorden finally agreed to give women the right to have
+> So Swiss women have quite a lot of catching up to do compared to, say, Dutch, German or
 >
-> orgasms.
+> American women when it comes to the fine arts of nagging and making their men feel miserable.
 >
-> So Swiss women have quite a lot of catching up to do compared to, say, Dutch,
->
-> German or
->
-> American women when it comes to the fine arts of nagging and making their men
->
-> feel miserable.
->
-> But I thought to help any guys who end up in a similar situation to me, there'd
->
-> be a
+> But I thought to help any guys who end up in a similar situation to me, there'd be a
 >
 > few key phrases that will help you understand your lady better.
 >
@@ -115,55 +87,37 @@ notes: |
 >
 > This means, "I'm as horny as a whore."
 >
-> But if she says, "Leck mich doch am Arsch," under no circumstances should you
+> But if she says, "Leck mich doch am Arsch," under no circumstances should you try to lick
 >
-> try to lick
->
-> her asshole, unless if she follows with, "Das ist ein Schiestreck," in which
->
-> case you could
+> her asshole, unless if she follows with, "Das ist ein Schiestreck," in which case you could
 >
 > think about licking her asshole, but you might be in for a nasty surprise.
 >
 > So international relations is hard.
 >
-> I know that because I've been here 17 years, originally came from the UK, and
+> I know that because I've been here 17 years, originally came from the UK, and actually
 >
-> actually
+> I'm at the point now where I'm just about to start applying for my Swiss passport.
 >
-> I'm at the point now where I'm just about to start applying for my Swiss
->
-> passport.
->
-> And when I get that passport, actually, I'm going to be voting SVP because it's
->
-> time to
+> And when I get that passport, actually, I'm going to be voting SVP because it's time to
 >
 > do something about all the immigrants, all the English-speaking immigrants.
 >
-> I mean the Americans, the English, the Australians, those freaking Canadians,
->
-> the Kiwis, because
+> I mean the Americans, the English, the Australians, those freaking Canadians, the Kiwis, because
 >
 > let's look at these guys.
 >
 > Look what they've been doing.
 >
-> They voted for Brexit, they voted for Trump, and then they go, "Oh my God, we've
->
-> fucked
+> They voted for Brexit, they voted for Trump, and then they go, "Oh my God, we've fucked
 >
 > up our country.
 >
 > Let's just sneak over to Switzerland."
 >
-> But then you've got to ask, what are these guys actually bringing to the party
+> But then you've got to ask, what are these guys actually bringing to the party here in
 >
-> here in
->
-> Switzerland because when the Indians or the Vietnamese came here, they brought
->
-> great cuisine.
+> Switzerland because when the Indians or the Vietnamese came here, they brought great cuisine.
 >
 > Or the Romanians or the Brazilians, they brought sexual relief.
 >
@@ -177,9 +131,7 @@ notes: |
 >
 > So for me, my mission now is to stop this country getting stolen.
 >
-> And this actually goes back to my childhood when I was just seven years old,
->
-> something
+> And this actually goes back to my childhood when I was just seven years old, something
 >
 > was taken from me.
 >
@@ -189,29 +141,21 @@ notes: |
 >
 > Come talk to me afterwards, I'll show you.
 >
-> But the reason why I was circumcised was not actually for religious reasons, it
->
-> was a medical
+> But the reason why I was circumcised was not actually for religious reasons, it was a medical
 >
 > emergency.
 >
 > And the only way they could save my life was by cutting off my foreskin.
 >
-> But what began as a very traumatic childhood experience, actually in adult life,
+> But what began as a very traumatic childhood experience, actually in adult life, turned
 >
-> turned
->
-> to a real advantage because on those rare occasions where a woman would come
->
-> into close
+> to a real advantage because on those rare occasions where a woman would come into close
 >
 > proximity with the tip of my penis, she would invariably sigh like, "Ahh."
 >
 > And I'd be like, "Hey, why are you sighing on my penis?"
 >
-> And she'd be like, "You have no idea what a relief it is because there are so
->
-> many dirty
+> And she'd be like, "You have no idea what a relief it is because there are so many dirty
 >
 > dicks out there."
 >
@@ -221,23 +165,17 @@ notes: |
 >
 > I know, I feel it.
 >
-> Because what I learned is that actually amongst my uncut brethren, a lot of you
->
-> guys are not
+> Because what I learned is that actually amongst my uncut brethren, a lot of you guys are not
 >
 > putting enough attention into this area.
 >
-> And so what I thought, I'd wrap up with just a few tips to help you make your
->
-> woman's life
+> And so what I thought, I'd wrap up with just a few tips to help you make your woman's life
 >
 > more pleasant.
 >
 > So the first thing you can do, of course, is air freshener.
 >
-> You know like in your car, hanging from the rear view mirror, you have that
->
-> Wonder Balm?
+> You know like in your car, hanging from the rear view mirror, you have that Wonder Balm?
 >
 > Just hang it from your penis.
 >
@@ -247,33 +185,23 @@ notes: |
 >
 > Women are also very visual.
 >
-> So what you can do is right here up above your penis is just tattoo a pleasant
+> So what you can do is right here up above your penis is just tattoo a pleasant scene
 >
-> scene
->
-> like a field of nice green grass with some flowers growing in it or maybe a
->
-> tree with
+> like a field of nice green grass with some flowers growing in it or maybe a tree with
 >
 > a few birds singing in it.
 >
 > Something to take her mind off the disgusting act she has to perform.
 >
-> But probably the simplest thing you can do is just simply bring a box of
->
-> crackers with
+> But probably the simplest thing you can do is just simply bring a box of crackers with
 >
 > you.
 >
-> And when she's down there, just kind of feed her the crackers because cheese
->
-> goes really
+> And when she's down there, just kind of feed her the crackers because cheese goes really
 >
 > well with crackers.
 >
-> What I didn't tell you, that's my last joke, but my mission is always to end
->
-> the night
+> What I didn't tell you, that's my last joke, but my mission is always to end the night
 >
 > when no one's getting any sex.
 >

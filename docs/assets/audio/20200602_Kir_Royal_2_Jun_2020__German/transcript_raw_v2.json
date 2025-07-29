@@ -21,11 +21,11 @@
 	},
 	"params": {
 		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
-		"language": "en",
+		"language": "de",
 		"translate": false
 	},
 	"result": {
-		"language": "en"
+		"language": "de"
 	},
 	"transcription": [
 		{
@@ -37,271 +37,315 @@
 				"from": 0,
 				"to": 5000
 			},
-			"text": " Originally he came to Zurich at the age of 18 and he has the best name in the world."
+			"text": " Er kommt ursprünglich aber 18 Jahre aus Zürich und hat den besten Namen auf der Welt."
 		},
 		{
 			"timestamps": {
 				"from": "00:00:05,000",
-				"to": "00:00:08,000"
+				"to": "00:00:07,000"
 			},
 			"offsets": {
 				"from": 5000,
-				"to": 8000
+				"to": 7000
 			},
-			"text": " A big round of applause for Harry Fuchs!"
+			"text": " Einen fetten Applaus für Harry Fuchs!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:08,000",
-				"to": "00:00:22,000"
+				"from": "00:00:07,000",
+				"to": "00:00:21,000"
 			},
 			"offsets": {
-				"from": 8000,
-				"to": 22000
+				"from": 7000,
+				"to": 21000
 			},
-			"text": " So my name is actually Harry Fuchs."
+			"text": " Mein Name ist eigentlich Harry Fuchs."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:22,000",
-				"to": "00:00:25,000"
+				"from": "00:00:21,000",
+				"to": "00:00:24,000"
 			},
 			"offsets": {
-				"from": 22000,
-				"to": 25000
+				"from": 21000,
+				"to": 24000
 			},
-			"text": " That's a German name."
+			"text": " Das ist ein deutscher Name."
 		},
 		{
 			"timestamps": {
 				"from": "00:00:25,000",
-				"to": "00:00:33,000"
+				"to": "00:00:32,000"
 			},
 			"offsets": {
 				"from": 25000,
-				"to": 33000
+				"to": 32000
 			},
-			"text": " I sometimes write F-Ü-CKS. I repeat, F-Ü-CKS."
+			"text": " Ich schreibe manchmal \"FÜCKS\", wiederhole \"FÜCKS\"."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:33,000",
-				"to": "00:00:40,000"
+				"from": "00:00:32,000",
+				"to": "00:00:38,000"
 			},
 			"offsets": {
-				"from": 33000,
-				"to": 40000
+				"from": 32000,
+				"to": 38000
 			},
-			"text": " But when I grew up in England, many believed that my name was Harry Fuchs."
+			"text": " Aber weil ich in England aufgewachsen bin, glauben viele, dass ich Harry Fuchs heiße."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:40,000",
-				"to": "00:00:43,000"
+				"from": "00:00:38,000",
+				"to": "00:00:41,000"
 			},
 			"offsets": {
-				"from": 40000,
-				"to": 43000
+				"from": 38000,
+				"to": 41000
 			},
-			"text": " My name is not Harry Fuchs."
+			"text": " Ich heiße nicht Harry Fuchs."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:43,000",
-				"to": "00:00:52,000"
+				"from": "00:00:41,000",
+				"to": "00:00:48,740"
 			},
 			"offsets": {
-				"from": 43000,
-				"to": 52000
+				"from": 41000,
+				"to": 48740
 			},
-			"text": " In my family, when we meet, we would be very annoyed if someone called us a group of fuckers."
+			"text": " In meiner Familie, wenn wir uns treffen, würden sehr generven, wenn jemand uns eine Gruppe von"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:52,000",
-				"to": "00:01:00,000"
+				"from": "00:00:48,740",
+				"to": "00:00:50,000"
 			},
 			"offsets": {
-				"from": 52000,
-				"to": 60000
+				"from": 48740,
+				"to": 50000
 			},
-			"text": " I have two children, and to give them a good start, I had to call them Halber and Wopper."
+			"text": " Fuckers nennt."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:00,000",
-				"to": "00:01:04,000"
+				"from": "00:00:51,000",
+				"to": "00:00:58,130"
 			},
 			"offsets": {
-				"from": 60000,
-				"to": 64000
+				"from": 51000,
+				"to": 58130
 			},
-			"text": " Just like that."
+			"text": " Und ich habe zwei Kinder. Um ihnen einen guten Start zu geben, musste ich sie \"How the\" und \"What"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:04,000",
-				"to": "00:01:07,000"
+				"from": "00:00:58,130",
+				"to": "00:00:59,000"
 			},
 			"offsets": {
-				"from": 64000,
-				"to": 67000
+				"from": 58130,
+				"to": 59000
 			},
-			"text": " Thank you. So one of them got it."
+			"text": " the\" nennen."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:07,000",
-				"to": "00:01:12,000"
+				"from": "00:00:59,000",
+				"to": "00:01:01,000"
 			},
 			"offsets": {
-				"from": 67000,
-				"to": 72000
+				"from": 59000,
+				"to": 61000
 			},
-			"text": " The rest are just shocked, but I'll do the rest."
+			"text": " Einfach so."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,000",
+				"to": "00:01:06,000"
+			},
+			"offsets": {
+				"from": 61000,
+				"to": 66000
+			},
+			"text": " Danke. Also einer hat es geschafft."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,000",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 66000,
+				"to": 71000
+			},
+			"text": " Die Resten sind einfach nur schockiert, aber ich mache den Rest der Show."
 		},
 		{
 			"timestamps": {
 				"from": "00:01:12,000",
-				"to": "00:01:19,750"
-			},
-			"offsets": {
-				"from": 72000,
-				"to": 79750
-			},
-			"text": " No, the real problem with names like Harry Fuchs is that in my life there have been far too few"
-		},
-		{
-			"timestamps": {
-				"from": "00:01:19,750",
 				"to": "00:01:21,000"
 			},
 			"offsets": {
-				"from": 79750,
+				"from": 72000,
 				"to": 81000
 			},
-			"text": " fucking Fuchs."
+			"text": " Das echte Problem mit Namen wie Harry Fuchs ist, dass es in meinem Leben viel zu wenig \"Fucken\" gab."
 		},
 		{
 			"timestamps": {
 				"from": "00:01:21,000",
-				"to": "00:01:27,000"
+				"to": "00:01:24,000"
 			},
 			"offsets": {
 				"from": 81000,
+				"to": 84000
+			},
+			"text": " Kann man \"Fucken\" sagen? Ich weiß nicht."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,000",
+				"to": "00:01:27,000"
+			},
+			"offsets": {
+				"from": 84000,
 				"to": 87000
 			},
-			"text": " Can you say F-Ü-CKS? I don't know. I was born in England."
+			"text": " Ich habe es gar nicht gefunden."
 		},
 		{
 			"timestamps": {
 				"from": "00:01:27,000",
-				"to": "00:01:35,000"
+				"to": "00:01:34,000"
 			},
 			"offsets": {
 				"from": 87000,
-				"to": 95000
+				"to": 94000
 			},
-			"text": " And if I may share that, because of the whole Corona lockdown, I didn't have sex at all."
+			"text": " Und wenn ich das teilen darf, wegen der ganzen Corona-Lockdown, habe ich gar keinen Sex gehabt."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:35,000",
-				"to": "00:01:41,000"
+				"from": "00:01:34,000",
+				"to": "00:01:39,000"
 			},
 			"offsets": {
-				"from": 95000,
-				"to": 101000
+				"from": 94000,
+				"to": 99000
 			},
-			"text": " Hands up if you didn't have sex at all in the last time."
+			"text": " Hände hoch, wenn ihr auch gar keinen Sex gehabt habt in letzter Zeit."
 		},
 		{
 			"timestamps": {
 				"from": "00:01:41,000",
-				"to": "00:01:44,000"
+				"to": "00:01:43,000"
 			},
 			"offsets": {
 				"from": 101000,
-				"to": 104000
+				"to": 103000
 			},
-			"text": " Wow. Okay."
+			"text": " Wow, okay."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:44,000",
-				"to": "00:01:50,000"
+				"from": "00:01:43,000",
+				"to": "00:01:48,000"
 			},
 			"offsets": {
-				"from": 104000,
-				"to": 110000
+				"from": 103000,
+				"to": 108000
 			},
-			"text": " I didn't know that I would come to the Zurich nymphomaniac track."
+			"text": " Ich wusste nicht, dass ich zum syrischen Nymphomanentrag komme."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:50,000",
-				"to": "00:01:53,000"
+				"from": "00:01:48,000",
+				"to": "00:01:56,300"
 			},
 			"offsets": {
-				"from": 110000,
-				"to": 113000
+				"from": 108000,
+				"to": 116300
 			},
-			"text": " Okay, so that you can understand me."
+			"text": " Okay, so, dass ihr mich bestehen könnt, wie es ist, wenn man seit langem keinen Sex mehr gehabt"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:53,000",
+				"from": "00:01:56,300",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 116300,
+				"to": 117000
+			},
+			"text": " hat."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,000",
 				"to": "00:02:00,000"
 			},
 			"offsets": {
-				"from": 113000,
+				"from": 117000,
 				"to": 120000
 			},
-			"text": " If you haven't had sex for a long time, it's as if you hallucinate."
+			"text": " Es ist, als ob man delusioniert."
 		},
 		{
 			"timestamps": {
 				"from": "00:02:00,000",
-				"to": "00:02:07,000"
+				"to": "00:02:05,300"
 			},
 			"offsets": {
 				"from": 120000,
-				"to": 127000
+				"to": 125300
 			},
-			"text": " For example, when you're on the street, you see a couple of dogs sniffing at each other's asses."
+			"text": " So zum Beispiel, wenn man auf der Straße ist, sieht man ein paar Hunde, die schnüffeln sich an"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:07,000",
-				"to": "00:02:11,000"
+				"from": "00:02:05,300",
+				"to": "00:02:06,000"
 			},
 			"offsets": {
-				"from": 127000,
-				"to": 131000
+				"from": 125300,
+				"to": 126000
 			},
-			"text": " And you think, \"I'd like to do that too.\""
+			"text": " der Ärsche."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,000",
+				"to": "00:02:10,000"
+			},
+			"offsets": {
+				"from": 126000,
+				"to": 130000
+			},
+			"text": " Und man denkt, ich will auch dabei."
 		},
 		{
 			"timestamps": {
 				"from": "00:02:11,000",
-				"to": "00:02:16,000"
+				"to": "00:02:17,000"
 			},
 			"offsets": {
 				"from": 131000,
-				"to": 136000
+				"to": 137000
 			},
-			"text": " Or you go to the micro. You go to the micro, you get one hand on the watermelon."
+			"text": " Oder man geht in den Migros, man kriegt eine Hand auf den Wassermelonen, vielleicht zwei."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:16,000",
+				"from": "00:02:17,000",
 				"to": "00:02:21,000"
 			},
 			"offsets": {
-				"from": 136000,
+				"from": 137000,
 				"to": 141000
 			},
-			"text": " Maybe two. Boom! It's as if you're in a new dimension."
+			"text": " Bum, es ist, als ob man in einer neuen Dimension ist."
 		},
 		{
 			"timestamps": {
@@ -312,7 +356,7 @@
 				"from": 141000,
 				"to": 144000
 			},
-			"text": " It's getting warm, it's getting hot, it doesn't matter who's watching."
+			"text": " Es wird warm, es wird heiß, es ist egal, wer zuschaut."
 		},
 		{
 			"timestamps": {
@@ -323,271 +367,249 @@
 				"from": 144000,
 				"to": 147000
 			},
-			"text": " And then suddenly you hear, \"Young man, are you ashamed?\""
+			"text": " Und dann plötzlich hört man, junger Mann, schämen Sie sich."
 		},
 		{
 			"timestamps": {
 				"from": "00:02:27,000",
-				"to": "00:02:30,000"
+				"to": "00:02:33,000"
 			},
 			"offsets": {
 				"from": 147000,
-				"to": 150000
+				"to": 153000
 			},
-			"text": " \"That's an old woman. She wants to hit you with her handkerchief.\""
+			"text": " Das ist eine alte Frau, sie würde sich mit der Handtasche schlagen und man denkt, sehr schön."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:30,000",
-				"to": "00:02:35,000"
-			},
-			"offsets": {
-				"from": 150000,
-				"to": 155000
-			},
-			"text": " And you think, \"Very nice.\""
-		},
-		{
-			"timestamps": {
-				"from": "00:02:35,000",
+				"from": "00:02:33,000",
 				"to": "00:02:39,000"
 			},
 			"offsets": {
-				"from": 155000,
+				"from": 153000,
 				"to": 159000
 			},
-			"text": " Yes, that's how it is when you haven't had sex for a long time."
+			"text": " Ja, so ist es, wenn man seit langem keinen Sex mehr gehabt hat."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:39,000",
-				"to": "00:02:46,000"
+				"from": "00:02:40,000",
+				"to": "00:02:45,000"
 			},
 			"offsets": {
-				"from": 159000,
-				"to": 166000
+				"from": 160000,
+				"to": 165000
 			},
-			"text": " And when you see the lockdown, \"My stupid suitcase came up with a really stupid idea.\""
+			"text": " Und wenn man in den Lockdown zieht, meinen blöden Kopf ist eine ganz blöde Idee gekommen."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:46,000",
-				"to": "00:02:49,000"
+				"from": "00:02:45,000",
+				"to": "00:02:48,000"
 			},
 			"offsets": {
-				"from": 166000,
-				"to": 169000
+				"from": 165000,
+				"to": 168000
 			},
-			"text": " \"I opened a Tinder profile.\""
+			"text": " Ich habe ein Tinder-Profil aufgemacht."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:49,000",
+				"from": "00:02:48,000",
 				"to": "00:02:52,000"
 			},
 			"offsets": {
-				"from": 169000,
+				"from": 168000,
 				"to": 172000
 			},
-			"text": " Okay, for you, you're all relatively young."
+			"text": " Okay, für euch, also ihr seid alle relativ jung."
 		},
 		{
 			"timestamps": {
 				"from": "00:02:52,000",
-				"to": "00:03:03,000"
+				"to": "00:02:59,000"
 			},
 			"offsets": {
 				"from": 172000,
-				"to": 183000
+				"to": 179000
 			},
-			"text": " Tinder is still a great place, because you can swipe hot bodies and possible erotic encounters."
+			"text": " Tinder ist noch so ein super toller Ort, weil ihr dürft euch so heiße Körpers swipen"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:03,000",
-				"to": "00:03:10,000"
+				"from": "00:02:59,000",
+				"to": "00:03:05,000"
 			},
 			"offsets": {
-				"from": 183000,
-				"to": 190000
+				"from": 179000,
+				"to": 185000
 			},
-			"text": " It's your thing. Your perfect match is somewhere in there."
+			"text": " und mögliche erotische Gegner und das Traum, das Traum ist dein Prinz."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,000",
+				"to": "00:03:09,000"
+			},
+			"offsets": {
+				"from": 185000,
+				"to": 189000
+			},
+			"text": " Dein perfekter Match ist irgendwo, irgendwie da drin."
 		},
 		{
 			"timestamps": {
 				"from": "00:03:10,000",
-				"to": "00:03:15,000"
+				"to": "00:03:18,000"
 			},
 			"offsets": {
 				"from": 190000,
-				"to": 195000
+				"to": 198000
 			},
-			"text": " But for me, I have to use old Tinder."
+			"text": " Aber für mich, ich muss alte Tinder verwenden und alte Tinder ist ein dunkler Ort."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:15,000",
-				"to": "00:03:20,000"
+				"from": "00:03:18,000",
+				"to": "00:03:28,000"
 			},
 			"offsets": {
-				"from": 195000,
-				"to": 200000
+				"from": 198000,
+				"to": 208000
 			},
-			"text": " And old Tinder is a dark word."
+			"text": " Weil ich muss dort kaputte Ehen swipen, Drogen und Alkoholprobleme swipen,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:20,000",
-				"to": "00:03:25,000"
+				"from": "00:03:28,000",
+				"to": "00:03:33,000"
 			},
 			"offsets": {
-				"from": 200000,
-				"to": 205000
+				"from": 208000,
+				"to": 213000
 			},
-			"text": " Because I have to swipe broken marriages."
-		},
-		{
-			"timestamps": {
-				"from": "00:03:25,000",
-				"to": "00:03:29,000"
-			},
-			"offsets": {
-				"from": 205000,
-				"to": 209000
-			},
-			"text": " Swipe drugs and alcohol problems."
-		},
-		{
-			"timestamps": {
-				"from": "00:03:29,000",
-				"to": "00:03:34,000"
-			},
-			"offsets": {
-				"from": 209000,
-				"to": 214000
-			},
-			"text": " Broken tattoos that say, \"No regrets!\""
+			"text": " abgebläste Tattoos, die so \"No Regrets\" sagen."
 		},
 		{
 			"timestamps": {
 				"from": "00:03:34,000",
-				"to": "00:03:37,000"
+				"to": "00:03:40,000"
 			},
 			"offsets": {
 				"from": 214000,
-				"to": 217000
+				"to": 220000
 			},
-			"text": " It's dark."
+			"text": " Es ist dunkel und weißt du, ich frage mich \"Ladies, was passiert in den nächsten 10-15 Jahren,"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:37,000",
-				"to": "00:03:44,000"
+				"from": "00:03:40,000",
+				"to": "00:03:43,000"
 			},
 			"offsets": {
-				"from": 217000,
-				"to": 224000
+				"from": 220000,
+				"to": 223000
 			},
-			"text": " I ask myself, \"Ladies, what happens in the next 10 to 15 years that breaks your life?\""
+			"text": " das euer Leben kaputt macht?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:03:44,000",
-				"to": "00:03:58,000"
+				"from": "00:03:43,000",
+				"to": "00:03:52,000"
 			},
 			"offsets": {
-				"from": 224000,
-				"to": 238000
+				"from": 223000,
+				"to": 232000
 			},
-			"text": " Because the worst thing on old Tinder is the sight of a 50-year-old woman who makes a duck face."
+			"text": " Weil das Allerschlimmste auf alte Tinder ist zur Sicht eine 50-jährige Frau,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,000",
+				"to": "00:03:55,000"
+			},
+			"offsets": {
+				"from": 232000,
+				"to": 235000
+			},
+			"text": " die einen Duckface mag."
 		},
 		{
 			"timestamps": {
 				"from": "00:03:58,000",
-				"to": "00:04:05,000"
+				"to": "00:04:04,000"
 			},
 			"offsets": {
 				"from": 238000,
-				"to": 245000
+				"to": 244000
 			},
-			"text": " So how do you get to 50 years where you think the duck face is still okay?"
+			"text": " Also wie kommt man bis zu 50 Jahren, wo man denkt, dass Duckface immer noch okay ist?"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:05,000",
-				"to": "00:04:12,000"
+				"from": "00:04:04,000",
+				"to": "00:04:11,000"
 			},
 			"offsets": {
-				"from": 245000,
-				"to": 252000
+				"from": 244000,
+				"to": 251000
 			},
-			"text": " The only time the duck face is okay is when both parents are ducks."
+			"text": " Der einzige Mal, dass Duckface okay ist, ist, wenn beide Eltern Enten sind."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:12,000",
-				"to": "00:04:15,000"
+				"from": "00:04:11,000",
+				"to": "00:04:19,000"
 			},
 			"offsets": {
-				"from": 252000,
-				"to": 255000
+				"from": 251000,
+				"to": 259000
 			},
-			"text": " And ducks only live 10 years."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:15,000",
-				"to": "00:04:20,000"
-			},
-			"offsets": {
-				"from": 255000,
-				"to": 260000
-			},
-			"text": " So the universe doesn't make room for a 50-year-old duck face."
+			"text": " Und Enten leben nur 10 Jahre, also das Universum hat keinen Platz für 50-jährige Duckface."
 		},
 		{
 			"timestamps": {
 				"from": "00:04:20,000",
-				"to": "00:04:34,000"
+				"to": "00:04:27,000"
 			},
 			"offsets": {
 				"from": 260000,
-				"to": 274000
+				"to": 267000
 			},
-			"text": " And what's even worse, but it's even darker, is swiping when you go on a real old Tinder date."
+			"text": " Ja, und was noch viel schlimmer ist, aber es geht noch dunkler,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:34,000",
+				"from": "00:04:27,000",
+				"to": "00:04:33,000"
+			},
+			"offsets": {
+				"from": 267000,
+				"to": 273000
+			},
+			"text": " ist das ganze Swipen, wenn man auf eine echte alte Tinder geht, Date geht."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,000",
 				"to": "00:04:39,000"
 			},
 			"offsets": {
-				"from": 274000,
+				"from": 273000,
 				"to": 279000
 			},
-			"text": " And you go there and think, \"Yeah, okay, I'm full of courage and joy.\""
+			"text": " Und da geht man da hin und denkt \"Ja, okay, ich bin voll Mut und Freude\""
 		},
 		{
 			"timestamps": {
 				"from": "00:04:39,000",
-				"to": "00:04:43,000"
+				"to": "00:04:46,000"
 			},
 			"offsets": {
 				"from": 279000,
-				"to": 283000
+				"to": 286000
 			},
-			"text": " And then suddenly the conversation changes."
-		},
-		{
-			"timestamps": {
-				"from": "00:04:43,000",
-				"to": "00:04:47,000"
-			},
-			"offsets": {
-				"from": 283000,
-				"to": 287000
-			},
-			"text": " \"Yeah, okay, I fucked up my life for the last 40 years.\""
+			"text": " und dann plötzlich wendet sich das Gespräch um \"Ja, okay, ich habe die letzten 40 Jahre"
 		},
 		{
 			"timestamps": {
@@ -598,7 +620,7 @@
 				"from": 287000,
 				"to": 292000
 			},
-			"text": " \"But somehow I'm still optimistic that it's going to get better from now on.\""
+			"text": " gepackt, aber irgendwie bin ich noch optimistisch, dass es ab jetzt besser wird.\""
 		},
 		{
 			"timestamps": {
@@ -609,29 +631,18 @@
 				"from": 292000,
 				"to": 297000
 			},
-			"text": " And then she says, \"Wow, yes, I also completely ruined my life.\""
+			"text": " Und dann sagt sie \"Wow, ja, ich habe auch mein Leben völlig kaputt gemacht.\""
 		},
 		{
 			"timestamps": {
 				"from": "00:04:57,000",
-				"to": "00:05:01,000"
-			},
-			"offsets": {
-				"from": 297000,
-				"to": 301000
-			},
-			"text": " Then you think, \"Wow, we have something in common.\""
-		},
-		{
-			"timestamps": {
-				"from": "00:05:01,000",
 				"to": "00:05:03,000"
 			},
 			"offsets": {
-				"from": 301000,
+				"from": 297000,
 				"to": 303000
 			},
-			"text": " Which is completely depressing."
+			"text": " Dann denkt man \"Wow, wir haben was Gemeinsames, was völlig Deprimierendes."
 		},
 		{
 			"timestamps": {
@@ -642,172 +653,161 @@
 				"from": 303000,
 				"to": 308000
 			},
-			"text": " You want to come to me and then we can just kill each other."
+			"text": " Du bist zu mir gekommen und dann können wir einander einfach umbringen.\""
 		},
 		{
 			"timestamps": {
 				"from": "00:05:08,000",
-				"to": "00:05:13,000"
+				"to": "00:05:12,000"
 			},
 			"offsets": {
 				"from": 308000,
-				"to": 313000
+				"to": 312000
 			},
-			"text": " That would be the complete end of this world, I think."
+			"text": " Das wäre der komplette Ende dieser Welt, finde ich."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:13,000",
+				"from": "00:05:14,000",
 				"to": "00:05:18,000"
 			},
 			"offsets": {
-				"from": 313000,
+				"from": 314000,
 				"to": 318000
 			},
-			"text": " Yes, and afterwards I thought, \"This article is complete shit, I'll delete it.\""
+			"text": " Und danach dachte ich \"Dieser Arsch ist völlig scheiße, ich lösche es.\""
 		},
 		{
 			"timestamps": {
 				"from": "00:05:18,000",
-				"to": "00:05:23,000"
+				"to": "00:05:22,000"
 			},
 			"offsets": {
 				"from": 318000,
-				"to": 323000
+				"to": 322000
 			},
-			"text": " And just as I was about to delete it, I got another message."
+			"text": " Und gerade als ich es löschen wollte, bekam ich noch eine Nachricht."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:23,000",
+				"from": "00:05:22,000",
 				"to": "00:05:26,000"
 			},
 			"offsets": {
-				"from": 323000,
+				"from": 322000,
 				"to": 326000
 			},
-			"text": " It was from a lady, I think she was 52 years old."
+			"text": " Es war von einer Dame, ich glaube sie war 52, sie hat gesagt"
 		},
 		{
 			"timestamps": {
 				"from": "00:05:26,000",
-				"to": "00:05:34,000"
+				"to": "00:05:32,000"
 			},
 			"offsets": {
 				"from": 326000,
-				"to": 334000
+				"to": 332000
 			},
-			"text": " She said, \"With those beautiful blue eyes, why are you still free here?\""
+			"text": " \"So mit diesen schönen blauen Augen, wieso läufst du noch frei hier rum?\""
 		},
 		{
 			"timestamps": {
-				"from": "00:05:34,000",
-				"to": "00:05:39,000"
+				"from": "00:05:32,000",
+				"to": "00:05:38,000"
 			},
 			"offsets": {
-				"from": 334000,
-				"to": 339000
+				"from": 332000,
+				"to": 338000
 			},
-			"text": " \"Besides, this is the most stupid animation I've ever heard.\""
+			"text": " Also außer das ist der allerblödeste Anmache, den ich je gehört habe."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:39,000",
-				"to": "00:05:43,000"
+				"from": "00:05:38,000",
+				"to": "00:05:42,000"
 			},
 			"offsets": {
-				"from": 339000,
-				"to": 343000
+				"from": 338000,
+				"to": 342000
 			},
-			"text": " \"Imagine, I would tell this to any woman here in our room.\""
+			"text": " Stell dir vor, ich würde das hier irgendeinem Frauen in unserem Raum sagen."
 		},
 		{
 			"timestamps": {
 				"from": "00:05:43,000",
-				"to": "00:05:46,000"
+				"to": "00:05:49,000"
 			},
 			"offsets": {
 				"from": 343000,
-				"to": 346000
+				"to": 349000
 			},
-			"text": " \"You shouldn't be walking around here free.\""
+			"text": " \"Du solltest nicht frei hier rumlaufen, du solltest gefesselt in meiner Höhle sein.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:05:46,000",
-				"to": "00:05:50,000"
+				"from": "00:05:49,000",
+				"to": "00:05:53,000"
 			},
 			"offsets": {
-				"from": 346000,
-				"to": 350000
+				"from": 349000,
+				"to": 353000
 			},
-			"text": " \"You should be stuck in my cave.\""
+			"text": " Das ist völlig verrückt, das sollte man niemandem sagen."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:50,000",
-				"to": "00:05:52,000"
+				"from": "00:05:53,000",
+				"to": "00:05:58,000"
 			},
 			"offsets": {
-				"from": 350000,
-				"to": 352000
+				"from": 353000,
+				"to": 358000
 			},
-			"text": " \"It's completely crazy.\""
+			"text": " Und da ist mir klar geworden, ältere Frauen haben ein bisschen ein Problem."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:52,000",
-				"to": "00:05:54,000"
+				"from": "00:05:58,000",
+				"to": "00:06:01,000"
 			},
 			"offsets": {
-				"from": 352000,
-				"to": 354000
+				"from": 358000,
+				"to": 361000
 			},
-			"text": " \"You shouldn't tell anyone.\""
+			"text": " Die wissen nicht, wie sie Männer anmachen."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:54,000",
-				"to": "00:05:59,000"
+				"from": "00:06:01,000",
+				"to": "00:06:05,000"
 			},
 			"offsets": {
-				"from": 354000,
-				"to": 359000
+				"from": 361000,
+				"to": 365000
 			},
-			"text": " And then it became clear to me, older women have a bit of a problem."
+			"text": " Auf Englisch sagt man \"Die haben zero game.\""
 		},
 		{
 			"timestamps": {
-				"from": "00:05:59,000",
-				"to": "00:06:02,000"
+				"from": "00:06:05,000",
+				"to": "00:06:10,000"
 			},
 			"offsets": {
-				"from": 359000,
-				"to": 362000
+				"from": 365000,
+				"to": 370000
 			},
-			"text": " They don't know how to handle men."
+			"text": " Und was noch schlimmer ist, ich habe letztlich gelesen, als Frauen älter werden,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:02,000",
-				"to": "00:06:06,000"
-			},
-			"offsets": {
-				"from": 362000,
-				"to": 366000
-			},
-			"text": " In English they say, \"They have zero game.\""
-		},
-		{
-			"timestamps": {
-				"from": "00:06:06,000",
+				"from": "00:06:11,000",
 				"to": "00:06:13,000"
 			},
 			"offsets": {
-				"from": 366000,
+				"from": 371000,
 				"to": 373000
 			},
-			"text": " And what's worse, I recently read that as women get older, their lust increases."
+			"text": " dass ihr Lust steigt."
 		},
 		{
 			"timestamps": {
@@ -818,150 +818,139 @@
 				"from": 373000,
 				"to": 377000
 			},
-			"text": " All these years, men have been given all the training."
+			"text": " Also all diese Jahre, Männer haben die ganze Übung bekommen."
 		},
 		{
 			"timestamps": {
 				"from": "00:06:17,000",
-				"to": "00:06:23,000"
+				"to": "00:06:22,000"
 			},
 			"offsets": {
 				"from": 377000,
-				"to": 383000
+				"to": 382000
 			},
-			"text": " Now men are aware of how to handle men."
+			"text": " Jetzt sind die Männer, die wissen so mit diesem Alter, wie man anmacht."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:23,000",
-				"to": "00:06:27,000"
+				"from": "00:06:22,000",
+				"to": "00:06:26,000"
 			},
 			"offsets": {
-				"from": 383000,
-				"to": 387000
+				"from": 382000,
+				"to": 386000
 			},
-			"text": " And then I thought, \"Wait a minute, this is really bad.\""
+			"text": " Und da dachte ich mir, Moment, das ist völlig schlimm."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:27,000",
-				"to": "00:06:31,000"
+				"from": "00:06:26,000",
+				"to": "00:06:32,000"
 			},
 			"offsets": {
-				"from": 387000,
-				"to": 391000
+				"from": 386000,
+				"to": 392000
 			},
-			"text": " So that means they have zero game."
+			"text": " Also das bedeutet dann, die haben zero game, die sind super geil"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:31,000",
-				"to": "00:06:37,000"
+				"from": "00:06:32,000",
+				"to": "00:06:36,000"
 			},
 			"offsets": {
-				"from": 391000,
-				"to": 397000
+				"from": 392000,
+				"to": 396000
 			},
-			"text": " They are super awesome, and nobody wants to sleep with them."
+			"text": " und niemand möchte mit den Leuten schlafen."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:37,000",
+				"from": "00:06:36,000",
 				"to": "00:06:38,000"
 			},
 			"offsets": {
-				"from": 397000,
+				"from": 396000,
 				"to": 398000
 			},
-			"text": " It's bad, I know."
+			"text": " Das ist schlimm."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:38,000",
-				"to": "00:06:43,000"
+				"from": "00:06:39,000",
+				"to": "00:06:42,000"
 			},
 			"offsets": {
-				"from": 398000,
-				"to": 403000
+				"from": 399000,
+				"to": 402000
 			},
-			"text": " And I thought, it was so bad, I thought, \"I can solve this.\""
+			"text": " Das war so schlimm, ich dachte, ich kann das lösen."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:43,000",
-				"to": "00:06:45,000"
+				"from": "00:06:42,000",
+				"to": "00:06:47,000"
 			},
 			"offsets": {
-				"from": 403000,
-				"to": 405000
+				"from": 402000,
+				"to": 407000
 			},
-			"text": " \"I'll find a solution.\""
+			"text": " Ich finde eine Lösung davor, wir brauchen nur noch eine Gruppe,"
 		},
 		{
 			"timestamps": {
-				"from": "00:06:45,000",
-				"to": "00:06:50,000"
+				"from": "00:06:47,000",
+				"to": "00:06:53,000"
 			},
 			"offsets": {
-				"from": 405000,
-				"to": 410000
+				"from": 407000,
+				"to": 413000
 			},
-			"text": " \"We just need one more group that has zero game.\""
+			"text": " die zero game hat, ist super geil und niemanden ficken möchte."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:50,000",
-				"to": "00:06:55,000"
+				"from": "00:06:53,000",
+				"to": "00:06:56,000"
 			},
 			"offsets": {
-				"from": 410000,
-				"to": 415000
+				"from": 413000,
+				"to": 416000
 			},
-			"text": " \"Is super awesome, and doesn't want to fuck anyone.\""
+			"text": " Teenage Jungs."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:55,000",
-				"to": "00:06:57,000"
+				"from": "00:06:56,000",
+				"to": "00:06:59,000"
 			},
 			"offsets": {
-				"from": 415000,
-				"to": 417000
+				"from": 416000,
+				"to": 419000
 			},
-			"text": " \"Teenage Jules.\""
+			"text": " Das ist der perfekte Match."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:57,000",
-				"to": "00:07:00,000"
-			},
-			"offsets": {
-				"from": 417000,
-				"to": 420000
-			},
-			"text": " \"That's the perfect match.\""
-		},
-		{
-			"timestamps": {
-				"from": "00:07:00,000",
+				"from": "00:06:59,000",
 				"to": "00:07:02,000"
 			},
 			"offsets": {
-				"from": 420000,
+				"from": 419000,
 				"to": 422000
 			},
-			"text": " And I'm a bit of an entrepreneur."
+			"text": " Und ich bin ein bisschen unternehmerisch,"
 		},
 		{
 			"timestamps": {
 				"from": "00:07:02,000",
-				"to": "00:07:08,000"
+				"to": "00:07:06,000"
 			},
 			"offsets": {
 				"from": 422000,
-				"to": 428000
+				"to": 426000
 			},
-			"text": " So I just invented a app, it's called \"Teender.\""
+			"text": " also ich entwickle einen Markt gerade, es heißt Tinder."
 		},
 		{
 			"timestamps": {
@@ -972,7 +961,7 @@
 				"from": 428000,
 				"to": 429000
 			},
-			"text": " Yeah, okay."
+			"text": " Ja, ok."
 		},
 		{
 			"timestamps": {
@@ -983,62 +972,62 @@
 				"from": 429000,
 				"to": 432000
 			},
-			"text": " It's similar, it's just a bit younger."
+			"text": " Es ist alles ein bisschen dunkel."
 		},
 		{
 			"timestamps": {
 				"from": "00:07:12,000",
-				"to": "00:07:14,000"
+				"to": "00:07:15,000"
 			},
 			"offsets": {
 				"from": 432000,
-				"to": 434000
+				"to": 435000
 			},
-			"text": " It's similar to the social media app."
+			"text": " Es ist immer ein bisschen Social Dating."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:14,000",
+				"from": "00:07:15,000",
 				"to": "00:07:18,000"
 			},
 			"offsets": {
-				"from": 434000,
+				"from": 435000,
 				"to": 438000
 			},
-			"text": " But I think it actually comes from my childhood."
+			"text": " Aber ich glaube, das kommt eigentlich aus meiner Kindheit."
 		},
 		{
 			"timestamps": {
 				"from": "00:07:18,000",
-				"to": "00:07:25,000"
+				"to": "00:07:24,000"
 			},
 			"offsets": {
 				"from": 438000,
-				"to": 445000
+				"to": 444000
 			},
-			"text": " Because when I was seven, something was taken from me."
+			"text": " Weil als ich sieben war, ist etwas von mir genommen worden."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:25,000",
-				"to": "00:07:29,000"
+				"from": "00:07:24,000",
+				"to": "00:07:27,000"
 			},
 			"offsets": {
-				"from": 445000,
-				"to": 449000
+				"from": 444000,
+				"to": 447000
 			},
-			"text": " Exactly, I was circumcised."
+			"text": " Genau, ich bin beschnitten worden."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:29,000",
+				"from": "00:07:27,000",
 				"to": "00:07:33,000"
 			},
 			"offsets": {
-				"from": 449000,
+				"from": 447000,
 				"to": 453000
 			},
-			"text": " Okay, according to this reaction, most people don't understand what circumcision is."
+			"text": " Ok, laut dieser Reaktion verstehen die meisten nicht, was Beschneidung ist."
 		},
 		{
 			"timestamps": {
@@ -1049,18 +1038,18 @@
 				"from": 453000,
 				"to": 456000
 			},
-			"text": " We can talk about it later."
+			"text": " Nachher können wir darüber reden."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:36,000",
+				"from": "00:07:37,000",
 				"to": "00:07:41,000"
 			},
 			"offsets": {
-				"from": 456000,
+				"from": 457000,
 				"to": 461000
 			},
-			"text": " But what started as a very traumatic childhood."
+			"text": " Was anfing als ganz traumatische Kindheitserlebnis,"
 		},
 		{
 			"timestamps": {
@@ -1071,370 +1060,293 @@
 				"from": 461000,
 				"to": 465000
 			},
-			"text": " As an adult, it has become quite an advantage."
+			"text": " als Erwachsene ist zum rechten Vorteil geworden."
 		},
 		{
 			"timestamps": {
 				"from": "00:07:45,000",
-				"to": "00:07:51,000"
+				"to": "00:07:50,000"
 			},
 			"offsets": {
 				"from": 465000,
-				"to": 471000
+				"to": 470000
 			},
-			"text": " Because even the rare moments when a woman finds her head next to my penis."
+			"text": " Weil auch die seltenen Momente, wo eine Frau den Kopf neben meinen Penis findet,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:51,000",
-				"to": "00:07:55,000"
+				"from": "00:07:50,000",
+				"to": "00:07:54,000"
 			},
 			"offsets": {
-				"from": 471000,
-				"to": 475000
+				"from": 470000,
+				"to": 474000
 			},
-			"text": " When she is always so silent, like..."
+			"text": " hat sie immer so gestöhnt, so wie..."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:55,000",
-				"to": "00:08:00,000"
+				"from": "00:07:54,000",
+				"to": "00:07:59,000"
 			},
 			"offsets": {
-				"from": 475000,
-				"to": 480000
+				"from": 474000,
+				"to": 479000
 			},
-			"text": " And I would say, \"Hey, why are you staring at my penis?\""
+			"text": " Und ich war so, hey, wieso stöhnt du auf meinen Penis?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:00,000",
-				"to": "00:08:08,000"
+				"from": "00:07:59,000",
+				"to": "00:08:06,000"
 			},
 			"offsets": {
-				"from": 480000,
-				"to": 488000
+				"from": 479000,
+				"to": 486000
 			},
-			"text": " And she would say, \"You have no idea how many dirty asses there are out there.\""
+			"text": " Und sie war dann, du hast keine Ahnung, wie viele schmutzige Schwänze es da draußen gibt."
 		},
 		{
 			"timestamps": {
 				"from": "00:08:08,000",
-				"to": "00:08:10,000"
+				"to": "00:08:11,000"
 			},
 			"offsets": {
 				"from": 488000,
-				"to": 490000
+				"to": 491000
 			},
-			"text": " Yeah, so he laughs a lot."
+			"text": " Ja, also der lacht ziemlich viel, ich weiß nicht wieso."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:10,000",
-				"to": "00:08:12,000"
+				"from": "00:08:11,000",
+				"to": "00:08:14,000"
 			},
 			"offsets": {
-				"from": 490000,
-				"to": 492000
+				"from": 491000,
+				"to": 494000
 			},
-			"text": " I don't know why."
+			"text": " Hat wahrscheinlich eine Menge gesehen."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:12,000",
-				"to": "00:08:17,000"
+				"from": "00:08:14,000",
+				"to": "00:08:21,000"
 			},
 			"offsets": {
-				"from": 492000,
-				"to": 497000
+				"from": 494000,
+				"to": 501000
 			},
-			"text": " He probably saw a lot."
+			"text": " Was ich verstanden habe, ist, dass eigentlich als mein unbeschnittener Bruder,"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:17,000",
-				"to": "00:08:22,000"
+				"from": "00:08:21,000",
+				"to": "00:08:25,000"
 			},
 			"offsets": {
-				"from": 497000,
-				"to": 502000
+				"from": 501000,
+				"to": 505000
 			},
-			"text": " And what I understood is that actually as my uncut brother."
+			"text": " ich habe viel zu wenig Acht in diesem Bereich."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:22,000",
-				"to": "00:08:26,000"
+				"from": "00:08:25,000",
+				"to": "00:08:29,000"
 			},
 			"offsets": {
-				"from": 502000,
-				"to": 506000
+				"from": 505000,
+				"to": 509000
 			},
-			"text": " I have far too little attention in this area."
+			"text": " Und deswegen ende ich mit ein paar Tipps, die euch helfen können,"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:26,000",
-				"to": "00:08:30,000"
+				"from": "00:08:29,000",
+				"to": "00:08:32,000"
 			},
 			"offsets": {
-				"from": 506000,
-				"to": 510000
+				"from": 509000,
+				"to": 512000
 			},
-			"text": " And that's why I end with a few tips that can help you."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:30,000",
-				"to": "00:08:33,000"
-			},
-			"offsets": {
-				"from": 510000,
-				"to": 513000
-			},
-			"text": " To make your partner so happy."
+			"text": " euren Partnern so glücklich zu machen."
 		},
 		{
 			"timestamps": {
 				"from": "00:08:33,000",
-				"to": "00:08:35,000"
+				"to": "00:08:38,000"
 			},
 			"offsets": {
 				"from": 513000,
-				"to": 515000
+				"to": 518000
 			},
-			"text": " For example, you know in the car."
+			"text": " Also zum Beispiel, du weißt im Auto, du hast das am Spiegel, diese runden Waren hängen."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:35,000",
-				"to": "00:08:39,000"
+				"from": "00:08:38,000",
+				"to": "00:08:41,000"
 			},
 			"offsets": {
-				"from": 515000,
-				"to": 519000
+				"from": 518000,
+				"to": 521000
 			},
-			"text": " You have this on the mirror, this wonderful pendant."
+			"text": " Hänge es einfach von deinem Penis."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:39,000",
-				"to": "00:08:42,000"
+				"from": "00:08:41,000",
+				"to": "00:08:45,000"
 			},
 			"offsets": {
-				"from": 519000,
-				"to": 522000
+				"from": 521000,
+				"to": 525000
 			},
-			"text": " Just hang it from your penis."
+			"text": " Also Frauen sind sehr großzinnig, das wird sie sofort glücklich machen."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:42,000",
-				"to": "00:08:44,000"
+				"from": "00:08:45,000",
+				"to": "00:08:51,000"
 			},
 			"offsets": {
-				"from": 522000,
-				"to": 524000
+				"from": 525000,
+				"to": 531000
 			},
-			"text": " So women are very generous."
+			"text": " Oder einfach so hier oben, oben von deinem Penis, du kannst einfach so eine schöne Zähne tätowieren."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:44,000",
-				"to": "00:08:46,000"
-			},
-			"offsets": {
-				"from": 524000,
-				"to": 526000
-			},
-			"text": " That will make them happy right away."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:46,000",
-				"to": "00:08:49,000"
-			},
-			"offsets": {
-				"from": 526000,
-				"to": 529000
-			},
-			"text": " And just hang it from your penis."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:49,000",
-				"to": "00:08:52,000"
-			},
-			"offsets": {
-				"from": 529000,
-				"to": 532000
-			},
-			"text": " You can just tattoo a beautiful tooth."
-		},
-		{
-			"timestamps": {
-				"from": "00:08:52,000",
+				"from": "00:08:51,000",
 				"to": "00:08:56,000"
 			},
 			"offsets": {
-				"from": 532000,
+				"from": 531000,
 				"to": 536000
 			},
-			"text": " For example, a fern of green grass."
+			"text": " So zum Beispiel so ein Pferd von grünem Gras, so mit Blumen."
 		},
 		{
 			"timestamps": {
 				"from": "00:08:56,000",
-				"to": "00:08:58,000"
+				"to": "00:08:59,000"
 			},
 			"offsets": {
 				"from": 536000,
-				"to": 538000
+				"to": 539000
 			},
-			"text": " With flowers or flowers."
+			"text": " Oder vielleicht dann, komm, mit ein paar Vögeln."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:58,000",
-				"to": "00:09:01,000"
+				"from": "00:08:59,000",
+				"to": "00:09:02,000"
 			},
 			"offsets": {
-				"from": 538000,
-				"to": 541000
+				"from": 539000,
+				"to": 542000
 			},
-			"text": " Come on, with a couple of birds."
-		},
-		{
-			"timestamps": {
-				"from": "00:09:01,000",
-				"to": "00:09:03,000"
-			},
-			"offsets": {
-				"from": 541000,
-				"to": 543000
-			},
-			"text": " That would be beautiful, wouldn't it?"
+			"text": " Wäre auch schön, oder?"
 		},
 		{
 			"timestamps": {
 				"from": "00:09:03,000",
-				"to": "00:09:05,000"
+				"to": "00:09:06,000"
 			},
 			"offsets": {
 				"from": 543000,
-				"to": 545000
+				"to": 546000
 			},
-			"text": " But there is an easier way."
+			"text": " Es gibt eine einfache Lösung, ich glaube mir das alles nicht."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:05,000",
-				"to": "00:09:07,000"
-			},
-			"offsets": {
-				"from": 545000,
-				"to": 547000
-			},
-			"text": " I don't believe in all this."
-		},
-		{
-			"timestamps": {
-				"from": "00:09:07,000",
+				"from": "00:09:06,000",
 				"to": "00:09:09,000"
 			},
 			"offsets": {
-				"from": 547000,
+				"from": 546000,
 				"to": 549000
 			},
-			"text": " There is a completely easier way."
+			"text": " Es gibt eine völlig einfache Lösung."
 		},
 		{
 			"timestamps": {
 				"from": "00:09:09,000",
-				"to": "00:09:13,000"
+				"to": "00:09:12,000"
 			},
 			"offsets": {
 				"from": 549000,
-				"to": 553000
+				"to": 552000
 			},
-			"text": " You just bring a package of onion knots."
+			"text": " Du bringst einfach mal eine Packung Zwieback mit."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:13,000",
-				"to": "00:09:18,000"
+				"from": "00:09:12,000",
+				"to": "00:09:17,000"
 			},
 			"offsets": {
-				"from": 553000,
-				"to": 558000
+				"from": 552000,
+				"to": 557000
 			},
-			"text": " And when you're down there, you can just wrap it with onion."
+			"text": " Und wenn sie da runter ist, du kannst sie einfach so mit Zwieback furzeln."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:18,000",
-				"to": "00:09:23,000"
+				"from": "00:09:17,000",
+				"to": "00:09:21,000"
 			},
 			"offsets": {
-				"from": 558000,
-				"to": 563000
+				"from": 557000,
+				"to": 561000
 			},
-			"text": " Because cheese really goes well with onion."
+			"text": " Weil Käse passt wirklich gut zum Zwieback."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:23,000",
-				"to": "00:09:26,000"
+				"from": "00:09:21,000",
+				"to": "00:09:25,000"
 			},
 			"offsets": {
-				"from": 563000,
-				"to": 566000
+				"from": 561000,
+				"to": 565000
 			},
-			"text": " Oh, that's nice."
+			"text": " Oh, das mag ich."
 		},
 		{
 			"timestamps": {
 				"from": "00:09:26,000",
-				"to": "00:09:31,000"
+				"to": "00:09:33,000"
 			},
 			"offsets": {
 				"from": 566000,
-				"to": 571000
+				"to": 573000
 			},
-			"text": " You know, I do it because what it means."
+			"text": " Weißt du, ich mag es, weil es bedeutet ist, heute Abend bekommt niemand mehr Sex."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:31,000",
-				"to": "00:09:34,000"
+				"from": "00:09:33,000",
+				"to": "00:09:36,000"
 			},
 			"offsets": {
-				"from": 571000,
-				"to": 574000
+				"from": 573000,
+				"to": 576000
 			},
-			"text": " Tonight no one gets sex here."
+			"text": " Und jetzt sind wir alle in einem Team zusammen."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:34,000",
+				"from": "00:09:36,000",
 				"to": "00:09:38,000"
 			},
 			"offsets": {
-				"from": 574000,
+				"from": 576000,
 				"to": 578000
 			},
-			"text": " And now we're all in one room together."
-		},
-		{
-			"timestamps": {
-				"from": "00:09:38,000",
-				"to": "00:09:42,000"
-			},
-			"offsets": {
-				"from": 578000,
-				"to": 582000
-			},
-			"text": " Okay, thank you."
+			"text": " Danke."
 		}
 	]
 }

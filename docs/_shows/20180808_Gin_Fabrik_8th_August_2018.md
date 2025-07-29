@@ -17,19 +17,13 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> I think you guys will enjoy it, but here he is everybody, Harry Fox, bring him
+> I think you guys will enjoy it, but here he is everybody, Harry Fox, bring him up on stage!
 >
-> up on stage!
->
-> Yeah, so my name is actually not Harry Fox, it's Harry Fooks, it's a German
->
-> name.
+> Yeah, so my name is actually not Harry Fox, it's Harry Fooks, it's a German name.
 >
 > Actually I get a bit upset by all you English speakers calling me Harry Fox.
 >
-> When my family has like a family get-together, we get very upset if you call us
->
-> a group of fuckers.
+> When my family has like a family get-together, we get very upset if you call us a group of fuckers.
 >
 > Because clearly we would be a pack of fucks.
 >
@@ -43,9 +37,7 @@ notes: |
 >
 > It's hard to meet the expectations that people are going to naturally have.
 >
-> In fact, actually, to be completely open with you, it's been a long time since
->
-> I've had any sex.
+> In fact, actually, to be completely open with you, it's been a long time since I've had any sex.
 >
 > Hands up if you also haven't had sex in a long time.
 >
@@ -57,9 +49,7 @@ notes: |
 >
 > It's almost like you're hallucinating.
 >
-> You could be like walking down the street, you see a couple of dogs sniffing
->
-> each other's asses.
+> You could be like walking down the street, you see a couple of dogs sniffing each other's asses.
 >
 > And you look at them and you think, "I wish that was me."
 >
@@ -69,9 +59,7 @@ notes: |
 >
 > And bam, you're in a new space, you're just there with that watermelon.
 >
-> You're oblivious to everyone around you, you completely forget, "Oh, this is me,
->
-> girl."
+> You're oblivious to everyone around you, you completely forget, "Oh, this is me, girl."
 >
 > And suddenly you hear, "Junge man, schämt es dich nicht?"
 >
@@ -103,15 +91,11 @@ notes: |
 >
 > And it's the act of when a woman has shaped her pubic mound to look like a ten-year-old.
 >
-> It's then to stick some gemstones on there, like some emeralds, some rubies,
->
-> some diamonds.
+> It's then to stick some gemstones on there, like some emeralds, some rubies, some diamonds.
 >
 > And then the word bejazzle means vagina and dazzle.
 >
-> So, as a guy pulls down the pants and the light strikes those gemstones, you
->
-> are dazzled.
+> So, as a guy pulls down the pants and the light strikes those gemstones, you are dazzled.
 >
 > Unfortunately, I was not dazzled. Not at all.
 >
@@ -119,9 +103,7 @@ notes: |
 >
 > These are blood diamonds.
 >
-> You put them in the biggest mining company at incredible human suffering and
->
-> cost.
+> You put them in the biggest mining company at incredible human suffering and cost.
 >
 > You can't do this."
 >
@@ -129,9 +111,7 @@ notes: |
 >
 > But it did get me thinking, like, for you ladies,
 >
-> what kind of things could you stick above your vagina that would encourage a
->
-> man to go down on you?
+> what kind of things could you stick above your vagina that would encourage a man to go down on you?
 >
 > And, you know, like, hipsters, for example, they have these beards.
 >
@@ -141,13 +121,9 @@ notes: |
 >
 > Or, you know, a lot of guys are into gaming these days.
 >
-> And, you know, maybe you could get an old Gameboy, take the screen out, stick
+> And, you know, maybe you could get an old Gameboy, take the screen out, stick it on there.
 >
-> it on there.
->
-> And as the guy goes down there, he sees, like, a turtleneck 54, three minutes
->
-> and 21 seconds.
+> And as the guy goes down there, he sees, like, a turtleneck 54, three minutes and 21 seconds.
 >
 > Bob the Builder, two minutes and 45.
 >
@@ -155,19 +131,13 @@ notes: |
 >
 > And, you know, like, high scores are going to totally motivate this guy.
 >
-> In fact, you could also incentivize him with, like, an achievement-unlocked clitoris
+> In fact, you could also incentivize him with, like, an achievement-unlocked clitoris hound.
 >
-> hound.
->
-> Or, you know, if it's just going badly, if you're not enjoying yourself, game
->
-> over, man.
+> Or, you know, if it's just going badly, if you're not enjoying yourself, game over, man.
 >
 > There's no more discussion.
 >
-> But, I mean, I guess, okay, hipsters, gamers, you know, most guys may be not
->
-> into this
+> But, I mean, I guess, okay, hipsters, gamers, you know, most guys may be not into this
 >
 > if you've just picked up some guy at a bar and he's been drinking.
 >

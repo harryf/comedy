@@ -17,460 +17,302 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> The last comedian, are you ready?
+> Letzter Comedian, seid ihr bereit?
 >
-> Our last comedian is originally from England.
+> Unser letzter Comedian ist ursprünglich aus England, halb Deutsch, halb Englisch.
 >
-> Half German, half English.
+> Die absolute brillante Kombination.
 >
-> The absolute brilliant combination.
+> Er wohnt seit längerem in der Schweiz, macht v.a. Comedy auf Englisch.
 >
-> He has been living in Switzerland for a long time.
+> Er ist mega lustig.
 >
-> He mainly comes from English.
+> Bitte begrüssen, Harry Fox!
 >
-> He is very funny.
+> Also, mein Name ist Harry Fox.
 >
-> Please welcome Harry Fox!
+> Das ist ein deutscher Name.
 >
-> My name is Harry Fox.
+> Schreibt man F-Ü-C-K-S, ich wiederhole F-Ü-C-K-S.
 >
-> It's a German name.
+> Aber weil ich in England aufgewachsen bin, glauben viele, dass ich Harry Fox heisse.
 >
-> You write F-Ö-C-K-S.
+> Mein Name ist nicht Harry Fox.
 >
-> I repeat, F-Ö-C-K-S.
+> Meine Familie, wenn wir uns treffen, würden wir sehr genervt, wenn jemand uns eine Gruppe von "Fuckers"
 >
-> But because I grew up in England,
+> nennt.
 >
-> many believe that my name is Harry Fox.
+> Und ich habe zwei Kinder.
 >
-> My name is not Harry Fox.
+> Ich müsste sie "Howber" und "Whopper" nennen.
 >
-> My family, when we meet,
+> Nur ist es ja eine gute Chance, Harry.
 >
-> would be very annoyed if someone called us a group of fuckers.
+> Aber das echte Problem mit einem Namen wie Harry Fox ist, es setzt sehr höhere Erwartungen.
 >
-> And I have two children.
+> Und ehrlich gesagt, ich habe nur so viel Sex gehabt.
 >
-> I had to call them "Haube" and "Woppe".
+> Ja, ehrlich gesagt, nur so viel Sex.
 >
-> But it's a good chance.
+> Eigentlich, und im letzten Sieg, wenn ich das teilen darf, hatte ich gar keinen Sex.
 >
-> But the real problem with a name like Harry Fox
+> Hände hoch, wenn er auch gar keinen Sex gehabt hat, im letzten Sieg.
 >
-> is that it sets very high expectations.
+> Okay, natürlich.
 >
-> And to be honest, I only had so much sex.
+> Aber sonst alle anderen...
 >
-> To be honest, I only had so much sex.
+> Aber ich bin erstarrt, ich wusste nicht, dass ich zu der syrischen Nymphoman Anonym-Treff komme.
 >
-> Actually, and in the last time I was allowed to share this,
+> Okay, dann erzähle ich ein bisschen, sodass ihr mich besser verstehen könnt.
 >
-> I didn't have any sex.
+> Also wenn man seit langem keinen Sex mehr gehabt hat, ist es falsch, als ob man halluciniert.
 >
-> Put your hands up if you didn't have sex either.
+> Also man läuft die Straße entlang, sieht ein paar Hunde, die schnüffeln sich an der Ärsche.
 >
-> Raise your hands.
+> Und man denkt, ich will auch dabei.
 >
-> Of course.
+> Und man geht im Mikro, und man sieht eine Aktion auf Wassermelone.
 >
-> But otherwise everyone else...
+> Man kriegt eine Hand auf diese Wassermelone, vielleicht zwei.
 >
-> But I'm surprised.
+> Und plötzlich ist man in einer neuen Dimension.
 >
-> I didn't know that I would meet the Syrian nymphomaniac anonymously.
+> Es wird warm, es wird heiß, es ist egal, wer zuschaut.
 >
-> Okay, then I'll tell you a little bit
+> Und dann plötzlich hört man "Junger Mann, schämen Sie sich!"
 >
-> so that you can understand me better.
+> Und man schaut, da ist eine alte Dame, und sie will dich mit der Handtasche schlagen.
 >
-> So if you haven't had sex for a long time,
+> Und man denkt, sie ist schön.
 >
-> it's as if you're hallucinating.
+> Ja, aber das ist alles noch schwieriger gemacht.
 >
-> So you walk down the street,
+> In letzter Zeit bin ich auch bekannt gekommen.
 >
-> see a couple of dogs,
+> Also in meinem Alter, ich weiß immer noch nicht, ob ich gut bei Sex bin.
 >
-> sniffing at each other's asses,
+> Weil ich habe gelesen, um bei irgendwas gut zu sein, braucht es 10.000 Stunden.
 >
-> and you think,
+> 10.000 Stunden ist eine Menge Ficken.
 >
-> "I want to be there too."
+> Also wenn ich es alles zusammenrechnen würde,
 >
-> Or you go to the micro,
+> vielleicht bin ich bei 5.000 Stunden, wenn Masturbieren dazu zählt.
 >
-> and you see an action on watermelons.
+> Also wenn du fickst 24 Stunden am Tag für ein ganzes Jahr, bist du nur bei 8.000 Stunden.
 >
-> You get one hand on this watermelon,
+> Das habe ich auch so ausgerechnet.
 >
-> maybe two.
+> Oder wenn du 70 Jahre lebst, musst du 10 Mal am Tag ficken.
 >
-> Suddenly you're in a new dimension.
+> Und der Tag, wo du geboren warst, ist der Tag, dass du stirbst.
 >
-> It's getting warm, it's getting hot,
+> Und ich weiß nicht, was dann schlimmer ist, die Gedanken von kleinen Babys, die ficken,
 >
-> it doesn't matter who's watching.
+> oder die Idee von Sex mit alten Leuten auf dem Tag, wo sie sterben.
 >
-> Then suddenly you hear,
+> Aber es wird zu dunkel vor Ort, es tut mir leid.
 >
-> "Young man, are you ashamed?"
+> Aber eigentlich, der Grund, weshalb ich so wenig Sex bekommen habe,
 >
-> And you look, there's an old lady.
+> letztlich bin ich gedammt worden von meiner ersten Schweizer Freundin.
 >
-> She wants to hit you with her handbag.
+> Danke, danke.
 >
-> And you think,
+> Aber als Vorteil, ich bin jetzt Experte auf alle Schweizer Frauen.
 >
-> "She's beautiful."
+> Und so eine Sache, also Schweizer Frauen, sie sind nicht besonders gut beim Kommunizieren.
 >
-> But what makes it all so difficult,
+> Vor allem ihr Männergegenüber.
 >
-> I recently found out.
+> Der Grund davor ist zwar nur bis 1991, dass der letzte Kanton von Appenzell in Rhone
 >
-> At my age, I still don't know
+> endlich gewählt hat, dass Frauen das Recht haben auf Orgasmus.
 >
-> if I'm good at having sex.
+> Aber was ich davon herausgenommen habe, ich dachte,
 >
-> Because I read,
+> wenn irgendein anderer Mann in der gleichen Situation sich findet,
 >
-> to be good at anything,
+> also ich habe ein paar wichtige Sätze, die euch vielleicht helfen würden,
 >
-> it takes 10,000 hours.
+> ihre Schweizer Freundin zu verstehen.
 >
-> 10,000 hours is a lot of fucking.
+> Zum Beispiel, wenn sie sagt, "Oh, Schätzli", das ist was Gutes,
 >
-> So if I summed it all up,
+> das bedeutet, vielleicht später gibt es ein sexuelles Erlebnis.
 >
-> I'm at 5,000 hours,
+> Aber wenn sie sagt, "Schatz", das ist was Schlechtes,
 >
-> if masturbation counts.
+> dann musst du wahrscheinlich das Nachtabendsofa verbringen.
 >
-> But if you fuck 24 hours a day,
+> Aber wenn sie sagt, "Hure geil", das ist was Gutes,
 >
-> for a whole year,
+> das bedeutet, sie ist so geil wie eine Hure.
 >
-> you're only at 8,000 hours.
+> Aber wenn sie sagt, "Leck mich doch am Arsch",
 >
-> I calculated that too.
+> unter keinem Umstände solltest du ihren Arschloch halten.
 >
-> Or if you live 70 years,
+> Außer dass sie sagt, "Das ist ein Schießdreck, Mann",
 >
-> you have to fuck 10 times a day.
+> das bedeutet, man könnte sie ihren Arschloch recken,
 >
-> From the day you were born
+> aber vielleicht gibt es eine schlechte Überraschung.
 >
-> to the day you die.
+> Wie sieht es aus mit der Zeit?
 >
-> And I don't know what's worse,
+> Gehe ich einfach weiter?
 >
-> the thought of little babies fucking
+> Ich finde, momentan ist es eine schwierige Zeit für Dating,
 >
-> or the idea of having sex with old people
+> vor allem für Frauen, weil ich habe letztlich gelesen,
 >
-> on the day they die.
+> dass fast 50% Männer, alle Männer, im Jahr dann 20-40,
 >
-> I think it's too dark, it's too dark.
+> haben in den letzten drei Monaten ein Dickpic geschickt.
 >
-> Yes, but...
+> Das ist vielleicht eine schwierige Zahl zu verstehen,
 >
-> Actually, the reason why
+> aber, meine Damen, wenn Sie Ihre Nummer an 10 Männer
 >
-> I've had so little sex lately
+> in diesem Raum geben, vor Weihnachten haben Sie
 >
-> is because I was dumped
+> eine Stapel von 5 Dickpics auf Ihrem Leben.
 >
-> by my first Swiss girlfriend.
+> Das könnte dann ausdrücken als Weihnachtskarten,
 >
-> Thank you, thank you.
+> um abends zu schminken.
 >
-> But as an advantage,
+> Ich glaube, der sieht auch ein bisschen dickdicky aus,
 >
-> I'm now an expert on all Swiss women.
+> obwohl er nicht dieses T-Shirt hat.
 >
-> And one thing...
+> Aber ich persönlich sende keinen Dickpics.
 >
-> Swiss women,
+> Nicht, weil ich es schlimm finde,
 >
-> they're not particularly good at communicating.
+> sondern weil ich ein Perfektionist bin.
 >
-> Especially with men.
+> Weil ein gutes Dickpic zu machen, ist schwierig.
 >
-> The reason for that
+> Ich muss sich an vieles denken, zum Beispiel das Licht.
 >
-> is that it was only until 1991
+> Brauche ich so eine schöne, warme Farbe,
 >
-> that the last canton of Appenzell in Rome
+> um eine Hauptfarbe rauszubringen,
 >
-> finally voted for women
+> auf mehr was so rot und rot ist?
 >
-> to have the right to orgasm.
+> Vielleicht brauche ich so irgendwelche Geschaltungen,
 >
-> But what I learned from that...
+> ein bisschen Rosenrum herum, vielleicht?
 >
-> I thought, if any other man
+> Es ist gefährlich, es hat Dornen, das könnte gefährlich sein.
 >
-> finds himself in the same situation...
+> Aber vor allem muss man an den Blickwinkel denken,
 >
-> I have a few important sentences
+> weil es ist eine Selfie.
 >
-> that might help you
+> Muss ich es von hier oder hier oder da machen?
 >
-> to understand your Swiss girlfriend.
+> Das weiss ich nicht.
 >
-> For example, when she says,
+> Zum Glück bin ich ein bisschen unternehmerisch,
 >
-> "Oh, darling."
+> deswegen habe ich den Dickpicselfiestick gefunden.
 >
-> That's a good thing.
+> Für euch alle heute Abend.
 >
-> That means, maybe later
+> Dickpicselfiestick.com.
 >
-> there will be a sexual experience.
+> So 29,99.
 >
-> But if she says, "Honey!"
+> Habe ich noch mehr Tee?
 >
-> That's a bad thing.
+> Mach was Veggies.
 >
-> You'll probably have to spend the night
+> Okay, es geht weiter.
 >
-> with her.
+> Ja, also es tut mir leid, dass ich so schwitze,
 >
-> But if she says, "Oh, honey!"
+> aber eigentlich der Grund davor ist,
 >
-> That's a good thing.
+> als ich klein war, ist mir irgendwas weggenommen worden.
 >
-> That means, she's as hot as a honey.
+> Genau, ich bin beschnitten worden.
 >
-> But if she says, "Lick my ass!"
+> Okay, wenn ich diese Reaktion anhöre,
 >
-> Under no circumstances
+> da verstehe ich, niemand hier weiss, was Beschneidung ist.
 >
-> should she lick your ass.
+> Reden wir dann nachher, ich kann es euch zeigen.
 >
-> Unless she says,
+> Aber was für mich ein ganz schlimmes Kindheitserlebnis war,
 >
-> "That's a piece of shit, man!"
+> als ich gewachsen worden bin,
 >
-> And that means,
+> ist es zum richtigen Vorteil geworden,
 >
-> you could lick her ass,
+> weil auf die seltenen Momente,
 >
-> but maybe there will be
+> wo eine Frau ihren Kopf neben meinem Penis findet,
 >
-> a bad surprise.
+> stöhnt sie immer so.
 >
-> How's the time going?
+> Und ich frage so, wieso stöhnt sie auf meinen Penis?
 >
-> Everything's fine.
+> Und sie hat gesagt, du hast keine Ahnung,
 >
-> I'll just keep going.
+> wie viele schmutzige Schnebel es da draußen gibt.
 >
-> I think, right now,
+> Oh, es tut mir leid, dass ich so etwas sagen musste.
 >
-> it's a difficult time for dating.
+> Okay, ich würde es für Sie korrigieren.
 >
-> Especially for women.
+> Weil, was ich verstanden habe,
 >
-> Because I read recently,
+> für viele unbeschnittene Männer
 >
-> that almost 50% of men,
+> geben viel zu wenig Aufmerksamkeit in diesen Bereich.
 >
-> all men, in the years 20 to 40,
+> Und deswegen ende ich mit ein paar Tipps,
 >
-> have sent a dick pic in the last 3 months.
+> die heute deine Freundin helfen würden.
 >
-> Yes, and that's perhaps
+> Zum Beispiel im Auto, also kennt ihr diesen bunten Baum?
 >
-> a difficult number to understand.
+> Das kannst du einfach von dem Penis hängen.
 >
-> But, ladies and gentlemen,
+> Die Berufsszene von Frauen ist ziemlich stark,
 >
-> if you give your number
+> das wird sofort helfen.
 >
-> to 10 men in this room,
+> Was man auch noch machen könnte,
 >
-> before Christmas,
+> ist hier oben, oben von dem Penis,
 >
-> you'll have a stack of 5 dick pics
+> einfach so eine schöne Tätowierung machen.
 >
-> on your phone.
+> Zum Beispiel so ein Feld voll mit grünem Gras und Blümen
 >
-> That could be expressed
+> oder einen Baum mit Vögeln, so irgendwas,
 >
-> as Christmas cards,
+> so dass sie nicht mehr diese schrecklichen Blicks anschauen muss.
 >
-> to decorate your arm.
+> Aber es gibt eine ganz einfache Lösung.
 >
-> Yes.
+> Du musst einfach nur eine Schachtel Crackers mitbringen.
 >
-> I think he looks a bit dicky, too.
+> Und wenn sie darunter ist, kannst du einfach so die Crackers füttern.
 >
-> With this t-shirt.
+> Der Käse passt super zum Crackers.
 >
-> But I personally,
+> Ja, das ist schön.
 >
-> I personally don't send dick pics.
+> Da weiß ich jetzt, niemanden hier bekommt Sex heute Abend.
 >
-> Not because I think it's bad,
->
-> but because I'm a perfectionist.
->
-> Because making a good dick pic
->
-> is difficult.
->
-> You have to think about a lot of things.
->
-> For example, the light.
->
-> Do I need a nice, warm color
->
-> to bring out the main color,
->
-> or more of something red and reddish?
->
-> And, well, maybe I need
->
-> some kind of shadow,
->
-> a bit of pink around it, maybe.
->
-> Is it dangerous?
->
-> It has thorns,
->
-> that could be dangerous.
->
-> But above all,
->
-> you have to think about the angle of view,
->
-> because it's a selfie.
->
-> Do I have to do it from here,
->
-> or here, or there?
->
-> I don't know.
->
-> I don't know.
->
-> Luckily, I'm a bit of an entrepreneur,
->
-> that's why I invented the dick pic selfie stick.
->
-> For all of you,
->
-> tonight, dickpicselfiestick.com,
->
-> at 9.29, 9.90.
->
-> Do I have more time?
->
-> Do something, Veggie.
->
-> Okay, oh, it goes on.
->
-> Yes, well,
->
-> I'm sorry it's such a funny joke,
->
-> but actually, the reason for it is,
->
-> when I was little,
->
-> something got taken away from me.
->
-> Exactly, I was circumcised.
->
-> Okay, when I listen to this reaction,
->
-> I understand,
->
-> nobody here knows what circumcision is.
->
-> We'll talk about it later,
->
-> I can show it to you.
->
-> But what was a very bad childhood experience for me,
->
-> when I grew up,
->
-> it became a real advantage,
->
-> because on the rare moments,
->
-> when a woman finds her head next to my penis,
->
-> she always frowns like this.
->
-> And I ask her,
->
-> why are you frowning on my penis?
->
-> And she says,
->
-> you have no idea,
->
-> how many dirty snowflakes there are out there.
->
-> Oh, I'm sorry.
->
-> I'm sorry I had to say that.
->
-> Okay, I'll correct it for you.
->
-> Because, what I understood,
->
-> for many uncircumcised men,
->
-> there is far too little attention in this area.
->
-> And that's why I'll end with a few tips,
->
-> that will annoy your girlfriend today.
->
-> For example, in the car,
->
-> do you know this colorful tree?
->
-> You can just hang it from your penis.
->
-> The professional scene of women is very strong,
->
-> that will help you immediately.
->
-> What you could also do,
->
-> is to make a nice tattoo on the top of your penis.
->
-> For example, a field full of green grass and flowers,
->
-> or a tree with birds,
->
-> something like that,
->
-> so that she doesn't have to look at these terrible blinks anymore.
->
-> But there is a very simple solution.
->
-> You just have to bring a box of crackers.
->
-> And while she's down there,
->
-> you can just feed her the crackers.
->
-> Because cheese goes well with crackers.
->
-> Yes, that's nice.
->
-> I know now,
->
-> no one will get sex tonight.
->
-> We're on the same team now.
+> Wir sind im gleichen Team jetzt. Vielen Dank.
 >
 > Okay, thank you.

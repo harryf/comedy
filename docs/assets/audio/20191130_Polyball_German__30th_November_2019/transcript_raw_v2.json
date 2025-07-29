@@ -21,1409 +21,2113 @@
 	},
 	"params": {
 		"model": "/Users/harry/.whisper/ggml-large-v2.bin",
-		"language": "en",
+		"language": "de",
 		"translate": false
 	},
 	"result": {
-		"language": "en"
+		"language": "de"
 	},
 	"transcription": [
 		{
 			"timestamps": {
 				"from": "00:00:00,000",
-				"to": "00:00:09,440"
+				"to": "00:00:06,320"
 			},
 			"offsets": {
 				"from": 0,
-				"to": 9440
+				"to": 6320
 			},
-			"text": " Two more ads and the next ad comes originally from Great Britain and I just wanted to say"
+			"text": " Noch zwei mehr Acts und der nächste Act kommt ursprünglich aus Großbritannien."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:09,440",
-				"to": "00:00:11,440"
+				"from": "00:00:06,320",
+				"to": "00:00:11,600"
 			},
 			"offsets": {
-				"from": 9440,
-				"to": 11440
+				"from": 6320,
+				"to": 11600
 			},
-			"text": " Welcome Harry Fuchs!"
+			"text": " Und also, ich wollte einfach sagen, willkommen Harry Fuchs!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:11,440",
-				"to": "00:00:14,160"
+				"from": "00:00:11,600",
+				"to": "00:00:13,920"
 			},
 			"offsets": {
-				"from": 11440,
-				"to": 14160
+				"from": 11600,
+				"to": 13920
 			},
-			"text": " Let me say a big round of applause for Harry Fuchs!"
+			"text": " Wie gesagt, großen Applaus für Harry Fuchs!"
 		},
 		{
 			"timestamps": {
-				"from": "00:00:24,800",
-				"to": "00:00:38,320"
+				"from": "00:00:13,920",
+				"to": "00:00:27,760"
 			},
 			"offsets": {
-				"from": 24800,
-				"to": 38320
+				"from": 13920,
+				"to": 27760
 			},
-			"text": " So my name is actually Harry Fuchs, that's a German name, you write F-U-C-K-S, I repeat, F-U-C-K-S"
+			"text": " Also, mein Name ist eigentlich Harry Fuchs."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:38,320",
-				"to": "00:00:45,120"
+				"from": "00:00:29,120",
+				"to": "00:00:38,560"
 			},
 			"offsets": {
-				"from": 38320,
-				"to": 45120
+				"from": 29120,
+				"to": 38560
 			},
-			"text": " But because I grew up in England, many call me Harry Fuchs."
+			"text": " Das ist ein deutscher Name, das schreibt man F-Ü-C-K-S, ich wiederhole, F-Ü-C-K-S."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:45,120",
-				"to": "00:00:49,120"
+				"from": "00:00:38,560",
+				"to": "00:00:43,440"
 			},
 			"offsets": {
-				"from": 45120,
-				"to": 49120
+				"from": 38560,
+				"to": 43440
 			},
-			"text": " My name is not Harry Fuchs."
+			"text": " Aber weil ich in England aufgewachsen bin, nenne mich hier Harry Fuchs."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:49,120",
-				"to": "00:00:58,320"
+				"from": "00:00:43,440",
+				"to": "00:00:48,000"
 			},
 			"offsets": {
-				"from": 49120,
-				"to": 58320
+				"from": 43440,
+				"to": 48000
 			},
-			"text": " In my family, when we meet, we get very annoyed when you call us a group of f*ckers."
+			"text": " Mein Name ist nicht Harry Fuchs."
 		},
 		{
 			"timestamps": {
-				"from": "00:00:58,320",
-				"to": "00:01:05,520"
+				"from": "00:00:48,000",
+				"to": "00:00:54,480"
 			},
 			"offsets": {
-				"from": 58320,
-				"to": 65520
+				"from": 48000,
+				"to": 54480
 			},
-			"text": " And I have two children, I had to call them Halver and Walther."
+			"text": " Und in meiner Familie, wenn wir uns treffen, wir würden sehr genervt, wenn euch uns nennt"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:05,520",
-				"to": "00:01:10,720"
+				"from": "00:00:54,480",
+				"to": "00:00:56,400"
 			},
 			"offsets": {
-				"from": 65520,
-				"to": 70720
+				"from": 54480,
+				"to": 56400
 			},
-			"text": " But that takes a bit of time to process."
+			"text": " eine Gruppe Fuckers."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:10,720",
-				"to": "00:01:19,200"
+				"from": "00:00:58,400",
+				"to": "00:01:03,360"
 			},
 			"offsets": {
-				"from": 70720,
-				"to": 79200
+				"from": 58400,
+				"to": 63360
 			},
-			"text": " But the real problem with names like Harry Fuchs is that it sets very high expectations."
+			"text": " Und ich habe zwei Kinder, ich musste sie Halber und Wobber nennen."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:19,200",
-				"to": "00:01:24,080"
+				"from": "00:01:03,360",
+				"to": "00:01:08,240"
 			},
 			"offsets": {
-				"from": 79200,
-				"to": 84080
+				"from": 63360,
+				"to": 68240
 			},
-			"text": " To be honest, I've never had so much sex, okay, to be honest, it was so much sex."
+			"text": " Es dauert ein bisschen Zeit, zu überlegen."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,240",
+				"to": "00:01:17,920"
+			},
+			"offsets": {
+				"from": 68240,
+				"to": 77920
+			},
+			"text": " Aber das echte Problem mit Namen wie Harry Fuchs ist, es setzt sehr höhe Erwartungen."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,920",
+				"to": "00:01:23,360"
+			},
+			"offsets": {
+				"from": 77920,
+				"to": 83360
+			},
+			"text": " Denn ehrlich gesagt, ich habe noch so viel Sex, okay, ehrlich, es war so viel Sex."
 		},
 		{
 			"timestamps": {
 				"from": "00:01:24,080",
-				"to": "00:01:33,360"
+				"to": "00:01:30,560"
 			},
 			"offsets": {
 				"from": 84080,
-				"to": 93360
+				"to": 90560
 			},
-			"text": " And in the last time, in the last months, I've actually, if I may say so, had no sex."
+			"text": " Und in der letzten Zeit, in den letzten Monaten, habe ich eigentlich, wenn ich das teilen darf,"
 		},
 		{
 			"timestamps": {
-				"from": "00:01:33,360",
-				"to": "00:01:38,240"
+				"from": "00:01:30,560",
+				"to": "00:01:32,400"
 			},
 			"offsets": {
-				"from": 93360,
-				"to": 98240
+				"from": 90560,
+				"to": 92400
 			},
-			"text": " Hands up if you haven't had sex for a long time."
+			"text": " keinen Sex gehabt."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:38,240",
-				"to": "00:01:41,280"
+				"from": "00:01:32,400",
+				"to": "00:01:36,240"
 			},
 			"offsets": {
-				"from": 98240,
-				"to": 101280
+				"from": 92400,
+				"to": 96240
 			},
-			"text": " Okay, that surprises me."
+			"text": " Hände hoch, wenn ihr keinen Sex gehabt habt seit langem."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:41,280",
-				"to": "00:01:45,680"
+				"from": "00:01:36,240",
+				"to": "00:01:40,080"
 			},
 			"offsets": {
-				"from": 101280,
-				"to": 105680
+				"from": 96240,
+				"to": 100080
 			},
-			"text": " Wow, I thought it was after the polyball."
+			"text": " Okay, das überrascht mich."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:45,680",
-				"to": "00:01:51,120"
+				"from": "00:01:40,080",
+				"to": "00:01:44,080"
 			},
 			"offsets": {
-				"from": 105680,
-				"to": 111120
+				"from": 100080,
+				"to": 104080
 			},
-			"text": " Okay, but I understand, we're here at the Zurich Nymphomania Anonymity."
+			"text": " Wow, ich dachte, das kam nach der Polybo."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:51,120",
-				"to": "00:01:57,680"
+				"from": "00:01:44,080",
+				"to": "00:01:50,720"
 			},
 			"offsets": {
-				"from": 111120,
-				"to": 117680
+				"from": 104080,
+				"to": 110720
 			},
-			"text": " Okay, I'll try to tell you a little bit about how it is for me, how it is with my condition."
+			"text": " Okay, aber ich verstehe, wir sind hier bei der syrischen Impfung an der Anonymtheit."
 		},
 		{
 			"timestamps": {
-				"from": "00:01:57,680",
-				"to": "00:02:00,720"
+				"from": "00:01:50,720",
+				"to": "00:01:55,840"
 			},
 			"offsets": {
-				"from": 117680,
-				"to": 120720
+				"from": 110720,
+				"to": 115840
 			},
-			"text": " It's almost as if you hallucinate."
+			"text": " Okay, ich versuche es ein bisschen für euch zu erzählen, wie es ist für mich, wie es"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:00,720",
-				"to": "00:02:08,000"
+				"from": "00:01:55,840",
+				"to": "00:01:57,600"
 			},
 			"offsets": {
-				"from": 120720,
-				"to": 128000
+				"from": 115840,
+				"to": 117600
 			},
-			"text": " So when I walk down the street and I see a couple of dogs, and they're sniffing at each other."
+			"text": " ist mit meinen Konditionen."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:08,000",
-				"to": "00:02:13,920"
+				"from": "00:01:57,600",
+				"to": "00:02:00,320"
 			},
 			"offsets": {
-				"from": 128000,
-				"to": 133920
+				"from": 117600,
+				"to": 120320
 			},
-			"text": " And I think, \"I want to be part of it too.\""
+			"text": " Es ist fast, als ob man halluciniert."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:13,920",
-				"to": "00:02:18,720"
+				"from": "00:02:00,320",
+				"to": "00:02:05,360"
 			},
 			"offsets": {
-				"from": 133920,
-				"to": 138720
+				"from": 120320,
+				"to": 125360
 			},
-			"text": " Or you go to the micro, and you see an action on watermelons."
+			"text": " Also wenn ich die Strasse entlang laufe und ich sehe ein paar Hunde und die schnüffeln"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:18,720",
-				"to": "00:02:22,560"
+				"from": "00:02:05,360",
+				"to": "00:02:11,520"
 			},
 			"offsets": {
-				"from": 138720,
-				"to": 142560
+				"from": 125360,
+				"to": 131520
 			},
-			"text": " You get one hand on the watermelon, maybe two."
+			"text": " sich an der Ärsche und ich denke, ich will auch dabei."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:22,560",
-				"to": "00:02:26,320"
+				"from": "00:02:11,520",
+				"to": "00:02:18,400"
 			},
 			"offsets": {
-				"from": 142560,
-				"to": 146320
+				"from": 131520,
+				"to": 138400
 			},
-			"text": " And then you're suddenly in a new dimension."
+			"text": " Oder man geht in den Mikro und man sieht eine Aktion auf Wassermelonen."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:26,320",
-				"to": "00:02:30,000"
+				"from": "00:02:18,400",
+				"to": "00:02:24,320"
 			},
 			"offsets": {
-				"from": 146320,
-				"to": 150000
+				"from": 138400,
+				"to": 144320
 			},
-			"text": " And you're sniffing this watermelon, no matter who's watching."
+			"text": " Man kriegt eine Hand auf der Wassermelone, vielleicht zwei und dann ist man plötzlich"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:30,000",
-				"to": "00:02:32,720"
+				"from": "00:02:24,320",
+				"to": "00:02:26,240"
 			},
 			"offsets": {
-				"from": 150000,
-				"to": 152720
+				"from": 144320,
+				"to": 146240
 			},
-			"text": " And then I hear, \"Boy, why are you ashamed?\""
+			"text": " in einer neuen Dimension."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:32,720",
-				"to": "00:02:37,120"
+				"from": "00:02:26,240",
+				"to": "00:02:29,920"
 			},
 			"offsets": {
-				"from": 152720,
-				"to": 157120
+				"from": 146240,
+				"to": 149920
 			},
-			"text": " And I look, there's a group of women, they want to hit me with their handbags."
+			"text": " Nur ich in dieser Wassermelone, egal wer zuschaut."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:37,120",
-				"to": "00:02:44,000"
+				"from": "00:02:29,920",
+				"to": "00:02:32,880"
 			},
 			"offsets": {
-				"from": 157120,
-				"to": 164000
+				"from": 149920,
+				"to": 152880
 			},
-			"text": " And I think, \"Very nice.\""
+			"text": " Und dann höre ich, Junge, warum schämen Sie sich?"
 		},
 		{
 			"timestamps": {
-				"from": "00:02:44,000",
-				"to": "00:02:45,680"
+				"from": "00:02:32,880",
+				"to": "00:02:36,880"
 			},
 			"offsets": {
-				"from": 164000,
-				"to": 165680
+				"from": 152880,
+				"to": 156880
 			},
-			"text": " Yeah, it's difficult."
+			"text": " Und ich schaue, da ist ein Abzug Frauen, sie will mich mit der Handtasche schlagen."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:45,680",
-				"to": "00:02:55,200"
+				"from": "00:02:36,880",
+				"to": "00:02:39,680"
 			},
 			"offsets": {
-				"from": 165680,
-				"to": 175200
+				"from": 156880,
+				"to": 159680
 			},
-			"text": " What also bothers me a lot at the moment is, even at my age, I don't know if I'm good at sex."
+			"text": " Und ich denke, sie ist schön."
 		},
 		{
 			"timestamps": {
-				"from": "00:02:55,200",
-				"to": "00:03:06,080"
+				"from": "00:02:39,680",
+				"to": "00:02:45,520"
 			},
 			"offsets": {
-				"from": 175200,
-				"to": 186080
+				"from": 159680,
+				"to": 165520
 			},
-			"text": " Because recently I read something that said, \"To be good at anything, it takes 10,000 hours.\""
+			"text": " Ja, es ist schwierig."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:06,080",
-				"to": "00:03:12,800"
+				"from": "00:02:45,520",
+				"to": "00:02:51,680"
 			},
 			"offsets": {
-				"from": 186080,
-				"to": 192800
+				"from": 165520,
+				"to": 171680
 			},
-			"text": " 10,000 hours is a lot of f*cking."
+			"text": " Was mich auch ziemlich irrtiert, muss ich sagen, ist, ich war auch in meinem Alter, weiß"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:12,800",
+				"from": "00:02:51,680",
+				"to": "00:02:55,120"
+			},
+			"offsets": {
+				"from": 171680,
+				"to": 175120
+			},
+			"text": " ich nicht, ob ich gut bei Sex bin."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,120",
+				"to": "00:03:01,040"
+			},
+			"offsets": {
+				"from": 175120,
+				"to": 181040
+			},
+			"text": " Aber letztlich habe ich etwas gelesen, das sagt, um bei irgendwas gut zu sein, braucht"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,040",
+				"to": "00:03:04,080"
+			},
+			"offsets": {
+				"from": 181040,
+				"to": 184080
+			},
+			"text": " es 10.000 Stunden."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,080",
+				"to": "00:03:10,720"
+			},
+			"offsets": {
+				"from": 184080,
+				"to": 190720
+			},
+			"text": " 10.000 Stunden ist eine Menge für mich."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,720",
+				"to": "00:03:20,240"
+			},
+			"offsets": {
+				"from": 192720,
+				"to": 200240
+			},
+			"text": " Also wenn du fickst so 24 Stunden am Tag, für ein Jahr, dann bist du nur bei 8.000"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,240",
 				"to": "00:03:21,760"
 			},
 			"offsets": {
-				"from": 192800,
+				"from": 200240,
 				"to": 201760
 			},
-			"text": " So if you f*ck 24 hours a day, in one year, you're only at 8,000 hours."
+			"text": " Stunden."
 		},
 		{
 			"timestamps": {
 				"from": "00:03:21,760",
-				"to": "00:03:24,640"
+				"to": "00:03:24,400"
 			},
 			"offsets": {
 				"from": 201760,
-				"to": 204640
+				"to": 204400
 			},
-			"text": " That's calculated."
+			"text": " Das ist ausgerechnet."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:24,640",
-				"to": "00:03:33,440"
+				"from": "00:03:24,400",
+				"to": "00:03:30,960"
 			},
 			"offsets": {
-				"from": 204640,
-				"to": 213440
+				"from": 204400,
+				"to": 210960
 			},
-			"text": " And if you live to 70, you have to f*ck 10 times a day, from the day you were born until the day"
+			"text": " Oder wenn du lebst bis 70, du musst 10 Mal am Tag ficken, von dem Tag, wo du geboren"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:33,440",
-				"to": "00:03:35,520"
+				"from": "00:03:30,960",
+				"to": "00:03:35,440"
 			},
 			"offsets": {
-				"from": 213440,
-				"to": 215520
+				"from": 210960,
+				"to": 215440
 			},
-			"text": " you die."
+			"text": " warst, bis zum Tag, dass du stirbst."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:35,520",
-				"to": "00:03:40,480"
+				"from": "00:03:35,440",
+				"to": "00:03:40,720"
 			},
 			"offsets": {
-				"from": 215520,
-				"to": 220480
+				"from": 215440,
+				"to": 220720
 			},
-			"text": " And I don't know what's wrong with the idea of f*cking babies."
+			"text": " Und ich weiß nicht, was daran schlimmer ist, der Gedanke von Babys, die ficken oder die"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:40,480",
-				"to": "00:03:47,680"
+				"from": "00:03:40,720",
+				"to": "00:03:47,120"
 			},
 			"offsets": {
-				"from": 220480,
-				"to": 227680
+				"from": 220720,
+				"to": 227120
 			},
-			"text": " Or the idea of having sex with old people on the day they die."
+			"text": " Idee von Sex mit alten Leuten auf den Tag, wo sie sterben."
 		},
 		{
 			"timestamps": {
-				"from": "00:03:47,680",
+				"from": "00:03:47,120",
 				"to": "00:03:51,520"
 			},
 			"offsets": {
-				"from": 227680,
+				"from": 227120,
 				"to": 231520
 			},
-			"text": " Okay, that was a bit too dark, I'm sorry."
+			"text": " Okay, das war ein bisschen zu dunkel, es tut mir leid, es tut mir leid."
 		},
 		{
 			"timestamps": {
 				"from": "00:03:51,520",
-				"to": "00:03:57,360"
+				"to": "00:03:57,920"
 			},
 			"offsets": {
 				"from": 231520,
-				"to": 237360
+				"to": 237920
 			},
-			"text": " So, I think at the moment it's a very difficult time, especially for women."
+			"text": " Also, ich finde momentan, es ist eine sehr schwierige Zeit, besonders für Frauen, weil"
 		},
 		{
 			"timestamps": {
-				"from": "00:03:57,360",
-				"to": "00:04:06,730"
+				"from": "00:03:57,920",
+				"to": "00:04:05,200"
 			},
 			"offsets": {
-				"from": 237360,
-				"to": 246730
+				"from": 237920,
+				"to": 245200
 			},
-			"text": " Because I saw a statistic that said, almost 50% of men between the ages of 20 and 40 have had a"
+			"text": " ich habe eine Statistik gesehen, die sagt, also fast 50% von Männern zwischen 20 und"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:06,730",
+				"from": "00:04:05,200",
 				"to": "00:04:10,160"
 			},
 			"offsets": {
-				"from": 246730,
+				"from": 245200,
 				"to": 250160
 			},
-			"text": " dick-dick in the last three months."
+			"text": " 40 haben einen Dickdick in den letzten drei Monaten geschickt."
 		},
 		{
 			"timestamps": {
 				"from": "00:04:10,160",
-				"to": "00:04:12,160"
+				"to": "00:04:12,000"
 			},
 			"offsets": {
 				"from": 250160,
-				"to": 252160
+				"to": 252000
 			},
-			"text": " That's a huge number."
+			"text": " Das ist eine enorme Zahl."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:12,160",
-				"to": "00:04:21,350"
+				"from": "00:04:12,000",
+				"to": "00:04:19,440"
 			},
 			"offsets": {
-				"from": 252160,
-				"to": 261350
+				"from": 252000,
+				"to": 259440
 			},
-			"text": " And to visualize that, if you divide the number by 10 men here, before Christmas you have a stack"
+			"text": " Um das zu visualisieren, also wenn ihr eine Nummer an 10 Männer hier verteilt, vor Weihnachten"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:21,350",
-				"to": "00:04:23,840"
+				"from": "00:04:19,440",
+				"to": "00:04:23,760"
 			},
 			"offsets": {
-				"from": 261350,
-				"to": 263840
+				"from": 259440,
+				"to": 263760
 			},
-			"text": " of 5 dicks on your phone."
+			"text": " habt ihr eine Stafel von Funkdicks auf dem Handy."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:23,840",
-				"to": "00:04:31,500"
+				"from": "00:04:23,760",
+				"to": "00:04:29,520"
 			},
 			"offsets": {
-				"from": 263840,
-				"to": 271500
+				"from": 263760,
+				"to": 269520
 			},
-			"text": " And then you could use it for Christmas cards, to decorate a Christmas tree, you can do a lot with"
+			"text": " Und dann könntet ihr die verwenden für Weihnachtskarten, um den Weihnachtsbaum zu schmucken."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:31,500",
-				"to": "00:04:32,080"
+				"from": "00:04:29,520",
+				"to": "00:04:32,000"
 			},
 			"offsets": {
-				"from": 271500,
-				"to": 272080
+				"from": 269520,
+				"to": 272000
 			},
-			"text": " it."
+			"text": " Also, man kann viel damit machen."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:32,080",
-				"to": "00:04:37,120"
+				"from": "00:04:32,000",
+				"to": "00:04:37,040"
 			},
 			"offsets": {
-				"from": 272080,
-				"to": 277120
+				"from": 272000,
+				"to": 277040
 			},
-			"text": " So I personally don't send dick-dicks."
+			"text": " Also, ich persönlich schicke keinen Dickdicks."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:37,120",
-				"to": "00:04:41,440"
+				"from": "00:04:37,040",
+				"to": "00:04:41,520"
 			},
 			"offsets": {
-				"from": 277120,
-				"to": 281440
+				"from": 277040,
+				"to": 281520
 			},
-			"text": " Not because I'm better, but because I'm a perfectionist."
+			"text": " Nicht, weil ich besser bin, aber weil ich ein Perfektsinist bin."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:41,440",
-				"to": "00:04:46,800"
+				"from": "00:04:41,520",
+				"to": "00:04:46,720"
 			},
 			"offsets": {
-				"from": 281440,
-				"to": 286800
+				"from": 281520,
+				"to": 286720
 			},
-			"text": " Because to send such a good dick-dick is difficult, because you have to think about a lot of things."
+			"text": " Weil so ein guter Dickdick zu schicken, ist schwierig, denn man muss sich an vieles denken,"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:46,800",
-				"to": "00:04:54,470"
+				"from": "00:04:46,720",
+				"to": "00:04:48,320"
 			},
 			"offsets": {
-				"from": 286800,
-				"to": 294470
+				"from": 286720,
+				"to": 288320
 			},
-			"text": " For example, the light. Do I need a beautiful color that brings out the main color, or something"
+			"text": " zum Beispiel das Licht."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:54,470",
-				"to": "00:04:56,400"
+				"from": "00:04:48,320",
+				"to": "00:04:54,080"
 			},
 			"offsets": {
-				"from": 294470,
-				"to": 296400
+				"from": 288320,
+				"to": 294080
 			},
-			"text": " more red and erotic?"
+			"text": " Also, brauche ich so eine schöne Farbe, die der Hauptfarbe ausbringt oder etwas mehr so"
 		},
 		{
 			"timestamps": {
-				"from": "00:04:56,400",
-				"to": "00:04:59,920"
+				"from": "00:04:54,080",
+				"to": "00:04:56,240"
 			},
 			"offsets": {
-				"from": 296400,
-				"to": 299920
+				"from": 294080,
+				"to": 296240
 			},
-			"text": " Do I need a few objects, like roses?"
+			"text": " rot oder rotisch."
 		},
 		{
 			"timestamps": {
-				"from": "00:04:59,920",
+				"from": "00:04:56,240",
+				"to": "00:04:59,840"
+			},
+			"offsets": {
+				"from": 296240,
+				"to": 299840
+			},
+			"text": " Brauche ich auch so ein paar Objekte, so wie Rosen."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,840",
 				"to": "00:05:04,560"
 			},
 			"offsets": {
-				"from": 299920,
+				"from": 299840,
 				"to": 304560
 			},
-			"text": " All around here, it's a bit dangerous, with the thorns."
+			"text": " Also, das hier rumherum ist ein bisschen gefährlich, diese Dornen."
 		},
 		{
 			"timestamps": {
 				"from": "00:05:04,560",
-				"to": "00:05:15,200"
+				"to": "00:05:10,000"
 			},
 			"offsets": {
 				"from": 304560,
-				"to": 315200
+				"to": 310000
 			},
-			"text": " So you have to think about which angle is best, like a selfie, like here, or here, or..."
+			"text": " Also, man muss sich überlegen, am besten ein Blickwinkel."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:15,200",
-				"to": "00:05:22,000"
+				"from": "00:05:10,000",
+				"to": "00:05:14,480"
 			},
 			"offsets": {
-				"from": 315200,
-				"to": 322000
+				"from": 310000,
+				"to": 314480
 			},
-			"text": " It's difficult, but I'm a bit of an entrepreneur, that's why I developed the dick-dick selfie stick."
+			"text": " So ein Selfie, so hier oder hier oder..."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:22,000",
-				"to": "00:05:29,680"
+				"from": "00:05:14,480",
+				"to": "00:05:19,280"
 			},
 			"offsets": {
-				"from": 322000,
-				"to": 329680
+				"from": 314480,
+				"to": 319280
 			},
-			"text": " You can all get it on dick-dick-selfie-stick.com, tonight at 9.29 pm."
+			"text": " Das ist schwierig, aber ich bin ein bisschen unternehmerisch, deswegen habe ich den Dickdick"
 		},
 		{
 			"timestamps": {
-				"from": "00:05:29,680",
-				"to": "00:05:36,560"
+				"from": "00:05:19,280",
+				"to": "00:05:21,280"
 			},
 			"offsets": {
-				"from": 329680,
-				"to": 336560
+				"from": 319280,
+				"to": 321280
 			},
-			"text": " Okay, that's my gift for you at the Polyball. Thank you very much, have a nice evening."
+			"text": " Selfie-Stick entwickelt."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:43,520",
+				"from": "00:05:21,280",
+				"to": "00:05:28,880"
+			},
+			"offsets": {
+				"from": 321280,
+				"to": 328880
+			},
+			"text": " Für euch alle, ihr könnt es auf dickdickselfiestick.com kriegen, heute Abend um 9.29 Uhr."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,880",
+				"to": "00:05:32,560"
+			},
+			"offsets": {
+				"from": 328880,
+				"to": 332560
+			},
+			"text": " Okay, das ist mein Geschenk für euch an der Poly Bowl."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,560",
+				"to": "00:05:35,520"
+			},
+			"offsets": {
+				"from": 332560,
+				"to": 335520
+			},
+			"text": " Danke vielmals und schöne Abend."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,520",
+				"to": "00:05:43,440"
+			},
+			"offsets": {
+				"from": 335520,
+				"to": 343440
+			},
+			"text": " Harry Fuchs, everybody, Harry Fuchs."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,440",
 				"to": "00:05:52,000"
 			},
 			"offsets": {
-				"from": 343520,
+				"from": 343440,
 				"to": 352000
 			},
-			"text": " So, we're at the last act, and it's actually also an English comedy."
+			"text": " So, wir sind am letzten Akt und er ist eigentlich auch eine Englisch-Dominantin."
 		},
 		{
 			"timestamps": {
 				"from": "00:05:52,000",
-				"to": "00:05:56,640"
+				"to": "00:05:56,560"
 			},
 			"offsets": {
 				"from": 352000,
-				"to": 356640
+				"to": 356560
 			},
-			"text": " So, please, welcome to the stage, to Shane Orto!"
+			"text": " Also, bitte, willkommen auf der Bühne zu Shane Orto."
 		},
 		{
 			"timestamps": {
-				"from": "00:05:56,640",
-				"to": "00:06:00,640"
+				"from": "00:05:56,560",
+				"to": "00:05:58,080"
 			},
 			"offsets": {
-				"from": 356640,
-				"to": 360640
+				"from": 356560,
+				"to": 358080
 			},
-			"text": " Shane Orto, a big round of applause! I don't know you, so I don't need a big round of applause."
+			"text": " Shane Orto, ein grosses Applaus."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:00,640",
-				"to": "00:06:02,640"
+				"from": "00:05:58,080",
+				"to": "00:06:00,560"
 			},
 			"offsets": {
-				"from": 360640,
-				"to": 362640
+				"from": 358080,
+				"to": 360560
 			},
-			"text": " What's your name? Okay."
+			"text": " Ich gehe nicht, weil es nicht ein grosses Applaus wäre."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:05,760",
-				"to": "00:06:07,760"
+				"from": "00:06:00,560",
+				"to": "00:06:02,560"
 			},
 			"offsets": {
-				"from": 365760,
-				"to": 367760
+				"from": 360560,
+				"to": 362560
 			},
-			"text": " Nice to meet you!"
+			"text": " Das ist ein grosses Applaus."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:07,760",
+				"from": "00:06:02,560",
+				"to": "00:06:04,560"
+			},
+			"offsets": {
+				"from": 362560,
+				"to": 364560
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,560",
+				"to": "00:06:06,560"
+			},
+			"offsets": {
+				"from": 364560,
+				"to": 366560
+			},
+			"text": " Hören Sie miteinander."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,560",
 				"to": "00:06:14,560"
 			},
 			"offsets": {
-				"from": 367760,
+				"from": 366560,
 				"to": 374560
 			},
-			"text": " So, today I'm going to try to do something that the Swiss themselves can't do."
+			"text": " Also, heute versuchen wir zu tun, etwas, das die Schweizer selber nicht schaffen können."
 		},
 		{
 			"timestamps": {
 				"from": "00:06:14,560",
-				"to": "00:06:17,440"
+				"to": "00:06:18,560"
 			},
 			"offsets": {
 				"from": 374560,
-				"to": 377440
+				"to": 378560
 			},
-			"text": " To be funny while sitting."
+			"text": " Lustig, Apotheker zu sein."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:17,440",
-				"to": "00:06:28,840"
+				"from": "00:06:18,560",
+				"to": "00:06:20,560"
 			},
 			"offsets": {
-				"from": 377440,
-				"to": 388840
+				"from": 378560,
+				"to": 380560
 			},
-			"text": " So, I broke my ankle, while biking, and I spent time on crutches, here in Switzerland, also in"
+			"text": " Also, ich habe ein schwieriges Jahr."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:28,840",
-				"to": "00:06:29,840"
+				"from": "00:06:20,560",
+				"to": "00:06:24,560"
 			},
 			"offsets": {
-				"from": 388840,
-				"to": 389840
+				"from": 380560,
+				"to": 384560
 			},
-			"text": " England."
+			"text": " Also, ich habe meine Füße eingebrochen beim Aufbreiten."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:29,840",
-				"to": "00:06:35,840"
+				"from": "00:06:24,560",
+				"to": "00:06:26,560"
 			},
 			"offsets": {
-				"from": 389840,
-				"to": 395840
+				"from": 384560,
+				"to": 386560
 			},
-			"text": " And the reaction of the people couldn't be any different. In one corner, everyone wanted to talk to"
+			"text": " Und ich habe Zeit auf Krücken verbracht."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:35,840",
-				"to": "00:06:35,840"
+				"from": "00:06:26,560",
+				"to": "00:06:28,560"
 			},
 			"offsets": {
-				"from": 395840,
-				"to": 395840
+				"from": 386560,
+				"to": 388560
 			},
-			"text": " me."
+			"text": " Hier in der Schweiz und auch in England."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:35,840",
-				"to": "00:06:42,800"
+				"from": "00:06:28,560",
+				"to": "00:06:32,560"
 			},
 			"offsets": {
-				"from": 395840,
-				"to": 402800
+				"from": 388560,
+				"to": 392560
 			},
-			"text": " \"Oh, James, did you do well? Oh, did it hurt? Oh, I hope you didn't die again.\""
+			"text": " Und die Reaktion von den Leuten könnte nicht anders sein."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:42,800",
-				"to": "00:06:50,800"
+				"from": "00:06:32,560",
+				"to": "00:06:34,560"
 			},
 			"offsets": {
-				"from": 402800,
-				"to": 410800
+				"from": 392560,
+				"to": 394560
 			},
-			"text": " In Switzerland, at first, no one wanted to talk to me, because they always had the same answer."
+			"text": " In einem England konnte jeder mit mir reden."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:50,800",
-				"to": "00:06:54,800"
+				"from": "00:06:34,560",
+				"to": "00:06:36,560"
 			},
 			"offsets": {
-				"from": 410800,
-				"to": 414800
+				"from": 394560,
+				"to": 396560
 			},
-			"text": " \"Same school.\""
+			"text": " Oh, Shane, es hat sich gut getan."
 		},
 		{
 			"timestamps": {
-				"from": "00:06:54,800",
-				"to": "00:07:01,760"
+				"from": "00:06:36,560",
+				"to": "00:06:38,560"
 			},
 			"offsets": {
-				"from": 414800,
-				"to": 421760
+				"from": 396560,
+				"to": 398560
 			},
-			"text": " Do you know Switzerland? Yes, that's how it is in England, a region called Essex."
+			"text": " Oh, es hat sich leid getan."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:01,760",
-				"to": "00:07:05,760"
+				"from": "00:06:38,560",
+				"to": "00:06:42,560"
 			},
 			"offsets": {
-				"from": 421760,
-				"to": 425760
+				"from": 398560,
+				"to": 402560
 			},
-			"text": " Do you know Essex?"
+			"text": " Oh, ich hoffe, du bist in Friedenstaaten eingebreitet."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:05,760",
-				"to": "00:07:07,760"
+				"from": "00:06:42,560",
+				"to": "00:06:46,560"
 			},
 			"offsets": {
-				"from": 425760,
-				"to": 427760
+				"from": 402560,
+				"to": 406560
+			},
+			"text": " In der Schweiz, zuerst wollte niemand mit mir reden."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,560",
+				"to": "00:06:50,560"
+			},
+			"offsets": {
+				"from": 406560,
+				"to": 410560
+			},
+			"text": " Aber überhaupt hatten wir immer die gleiche Antwort."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,560",
+				"to": "00:06:52,560"
+			},
+			"offsets": {
+				"from": 410560,
+				"to": 412560
+			},
+			"text": " Selber schuld."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,560",
+				"to": "00:06:56,560"
+			},
+			"offsets": {
+				"from": 414560,
+				"to": 416560
+			},
+			"text": " Grüße an die Schweizer."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,560",
+				"to": "00:06:58,560"
+			},
+			"offsets": {
+				"from": 416560,
+				"to": 418560
+			},
+			"text": " Ja, ich komme aus England."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,560",
+				"to": "00:07:00,560"
+			},
+			"offsets": {
+				"from": 418560,
+				"to": 420560
+			},
+			"text": " Eine Region, die Essex heißt."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,560",
+				"to": "00:07:02,560"
+			},
+			"offsets": {
+				"from": 420560,
+				"to": 422560
+			},
+			"text": " Kennt ihr mal Essex?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,560",
+				"to": "00:07:06,560"
+			},
+			"offsets": {
+				"from": 422560,
+				"to": 426560
 			},
 			"text": " Shit."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:07,760",
-				"to": "00:07:11,760"
+				"from": "00:07:06,560",
+				"to": "00:07:10,560"
 			},
 			"offsets": {
-				"from": 427760,
-				"to": 431760
+				"from": 426560,
+				"to": 430560
 			},
-			"text": " For those of you who don't know, Essex is shit."
+			"text": " Für die, die nicht wissen, Essex ist scheiße."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:11,760",
-				"to": "00:07:15,760"
+				"from": "00:07:10,560",
+				"to": "00:07:14,560"
 			},
 			"offsets": {
-				"from": 431760,
-				"to": 435760
+				"from": 430560,
+				"to": 434560
 			},
-			"text": " We're sitting outside a big city."
+			"text": " Wir sitzen außerhalb der großen Stadt."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:15,760",
-				"to": "00:07:21,760"
+				"from": "00:07:14,560",
+				"to": "00:07:16,560"
 			},
 			"offsets": {
-				"from": 435760,
-				"to": 441760
+				"from": 434560,
+				"to": 436560
 			},
-			"text": " No one likes us, no one wants to visit us. We have a terrible reputation."
+			"text": " Niemand mag uns."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:21,760",
-				"to": "00:07:27,760"
+				"from": "00:07:16,560",
+				"to": "00:07:18,560"
 			},
 			"offsets": {
-				"from": 441760,
-				"to": 447760
+				"from": 436560,
+				"to": 438560
 			},
-			"text": " In Switzerland, there's only one region that's the same."
+			"text": " Niemand will uns besuchen."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:27,760",
-				"to": "00:07:31,760"
+				"from": "00:07:18,560",
+				"to": "00:07:20,560"
 			},
 			"offsets": {
-				"from": 447760,
-				"to": 451760
+				"from": 438560,
+				"to": 440560
 			},
-			"text": " That's the Canton of Aargau."
+			"text": " Wir haben einen ganz schlechten Beruf."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:31,760",
-				"to": "00:07:35,760"
+				"from": "00:07:20,560",
+				"to": "00:07:24,560"
 			},
 			"offsets": {
-				"from": 451760,
-				"to": 455760
+				"from": 440560,
+				"to": 444560
 			},
-			"text": " Does anyone here live in the Canton of Aargau?"
+			"text": " In der Schweiz gibt es nur eine Region,"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:35,760",
-				"to": "00:07:39,760"
+				"from": "00:07:24,560",
+				"to": "00:07:26,560"
 			},
 			"offsets": {
-				"from": 455760,
-				"to": 459760
+				"from": 444560,
+				"to": 446560
 			},
-			"text": " Beautiful, isn't it?"
+			"text": " die begleichbar ist."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:39,760",
-				"to": "00:07:43,760"
+				"from": "00:07:26,560",
+				"to": "00:07:28,560"
 			},
 			"offsets": {
-				"from": 459760,
-				"to": 463760
+				"from": 446560,
+				"to": 448560
 			},
-			"text": " We have something that's very special."
+			"text": " Das ist der Kanton Aargau."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:43,760",
-				"to": "00:07:47,760"
+				"from": "00:07:28,560",
+				"to": "00:07:32,560"
 			},
 			"offsets": {
-				"from": 463760,
-				"to": 467760
+				"from": 448560,
+				"to": 452560
 			},
-			"text": " These are our Essex girls."
+			"text": " Haben wir jemanden hier von Kanton Aargau?"
 		},
 		{
 			"timestamps": {
-				"from": "00:07:47,760",
-				"to": "00:07:53,760"
+				"from": "00:07:32,560",
+				"to": "00:07:36,560"
 			},
 			"offsets": {
-				"from": 467760,
-				"to": 473760
+				"from": 452560,
+				"to": 456560
 			},
-			"text": " They have red, white and red hair, like their orange self-dyed eyebrows."
+			"text": " Schönes Fleisch."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:53,760",
-				"to": "00:07:57,760"
+				"from": "00:07:36,560",
+				"to": "00:07:42,560"
 			},
 			"offsets": {
-				"from": 473760,
-				"to": 477760
+				"from": 456560,
+				"to": 462560
 			},
-			"text": " But I don't have to give it to you, right?"
+			"text": " Wir haben etwas, das allerweil ungespeziell ist."
 		},
 		{
 			"timestamps": {
-				"from": "00:07:57,760",
-				"to": "00:08:05,760"
+				"from": "00:07:42,560",
+				"to": "00:07:44,560"
 			},
 			"offsets": {
-				"from": 477760,
-				"to": 485760
+				"from": 462560,
+				"to": 464560
 			},
-			"text": " Because they made this city hateful, years before we all got used to it."
+			"text": " Und die sind unsere Essex-Mädels."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:05,760",
-				"to": "00:08:09,760"
+				"from": "00:07:44,560",
+				"to": "00:07:46,560"
 			},
 			"offsets": {
-				"from": 485760,
-				"to": 489760
+				"from": 464560,
+				"to": 466560
 			},
-			"text": " Do you know the Essex girls?"
+			"text": " Die sind weltweit berühmt."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:09,760",
-				"to": "00:08:13,760"
+				"from": "00:07:46,560",
+				"to": "00:07:48,560"
 			},
 			"offsets": {
-				"from": 489760,
-				"to": 493760
+				"from": 466560,
+				"to": 468560
 			},
-			"text": " I'll tell you. Teenage puberty."
+			"text": " Weltweit berühmt."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:13,760",
-				"to": "00:08:17,760"
+				"from": "00:07:48,560",
+				"to": "00:07:50,560"
 			},
 			"offsets": {
-				"from": 493760,
-				"to": 497760
+				"from": 468560,
+				"to": 470560
 			},
-			"text": " Yes, unfortunately I'm not allowed to laugh."
+			"text": " Mit ihren orangen Selbstbräunen."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:17,760",
-				"to": "00:08:21,760"
+				"from": "00:07:50,560",
+				"to": "00:07:52,560"
 			},
 			"offsets": {
-				"from": 497760,
-				"to": 501760
+				"from": 470560,
+				"to": 472560
 			},
-			"text": " But my mother was sexy when I was born."
+			"text": " Und festen Haaren."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:21,760",
-				"to": "00:08:27,760"
+				"from": "00:07:52,560",
+				"to": "00:07:56,560"
 			},
 			"offsets": {
-				"from": 501760,
-				"to": 507760
+				"from": 472560,
+				"to": 476560
 			},
-			"text": " But it wasn't so bad for me to have young dogs."
+			"text": " Aber ich muss es nicht zugeben."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:27,760",
-				"to": "00:08:31,760"
+				"from": "00:07:56,560",
+				"to": "00:07:58,560"
 			},
 			"offsets": {
-				"from": 507760,
-				"to": 511760
+				"from": 476560,
+				"to": 478560
 			},
-			"text": " For example, I always had a pig."
+			"text": " Die haben diesen Stil hessisch gemacht."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:31,760",
-				"to": "00:08:37,760"
+				"from": "00:07:58,560",
+				"to": "00:08:02,560"
 			},
 			"offsets": {
-				"from": 511760,
-				"to": 517760
+				"from": 478560,
+				"to": 482560
 			},
-			"text": " And the parents of the other children were always very friendly."
+			"text": " Lange bevor wir alle unter Druck von Brüdern waren."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:37,760",
-				"to": "00:08:43,760"
+				"from": "00:08:02,560",
+				"to": "00:08:08,560"
 			},
 			"offsets": {
-				"from": 517760,
-				"to": 523760
+				"from": 482560,
+				"to": 488560
 			},
-			"text": " But there were also things that were strange."
+			"text": " Kennt ihr die Essex-Mädels?"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:43,760",
-				"to": "00:08:47,760"
+				"from": "00:08:08,560",
+				"to": "00:08:10,560"
 			},
 			"offsets": {
-				"from": 523760,
-				"to": 527760
+				"from": 488560,
+				"to": 490560
 			},
-			"text": " For example, it was strange that they could both get on the bus."
+			"text": " Ich sage euch."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:47,760",
-				"to": "00:08:51,760"
+				"from": "00:08:10,560",
+				"to": "00:08:12,560"
 			},
 			"offsets": {
-				"from": 527760,
-				"to": 531760
+				"from": 490560,
+				"to": 492560
 			},
-			"text": " And both were half price."
+			"text": " Teenage-Krankenschaft."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:51,760",
-				"to": "00:08:55,760"
+				"from": "00:08:12,560",
+				"to": "00:08:16,560"
 			},
 			"offsets": {
-				"from": 531760,
-				"to": 535760
+				"from": 492560,
+				"to": 496560
 			},
-			"text": " But for a dog it wasn't all that easy."
+			"text": " Ja, leider darf ich nicht lachen."
 		},
 		{
 			"timestamps": {
-				"from": "00:08:55,760",
-				"to": "00:08:59,760"
+				"from": "00:08:16,560",
+				"to": "00:08:18,560"
 			},
 			"offsets": {
-				"from": 535760,
-				"to": 539760
+				"from": 496560,
+				"to": 498560
 			},
-			"text": " It's difficult to have a child."
+			"text": " Meine Mutter war 16,"
 		},
 		{
 			"timestamps": {
-				"from": "00:08:59,760",
-				"to": "00:09:05,760"
+				"from": "00:08:18,560",
+				"to": "00:08:20,560"
 			},
 			"offsets": {
-				"from": 539760,
-				"to": 545760
+				"from": 498560,
+				"to": 500560
 			},
-			"text": " When you have a child at six years old, it's a bit like a spiral."
+			"text": " als ich in die Welt kam."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:05,760",
-				"to": "00:09:09,760"
+				"from": "00:08:20,560",
+				"to": "00:08:24,560"
 			},
 			"offsets": {
-				"from": 545760,
-				"to": 549760
+				"from": 500560,
+				"to": 504560
 			},
-			"text": " It destroys the childhood."
+			"text": " Es war aber für mich nicht so schlecht,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:09,760",
-				"to": "00:09:11,760"
+				"from": "00:08:24,560",
+				"to": "00:08:26,560"
 			},
 			"offsets": {
-				"from": 549760,
-				"to": 551760
+				"from": 504560,
+				"to": 506560
 			},
-			"text": " I know what you're thinking."
+			"text": " eine junge Mutter zu haben."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:11,760",
-				"to": "00:09:13,760"
+				"from": "00:08:26,560",
+				"to": "00:08:28,560"
 			},
 			"offsets": {
-				"from": 551760,
-				"to": 553760
+				"from": 506560,
+				"to": 508560
 			},
-			"text": " The same school."
+			"text": " Weil zum Beispiel,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:13,760",
-				"to": "00:09:15,760"
+				"from": "00:08:28,560",
+				"to": "00:08:30,560"
 			},
 			"offsets": {
-				"from": 553760,
-				"to": 555760
+				"from": 508560,
+				"to": 510560
 			},
-			"text": " But that's not true."
+			"text": " ich hatte immer einen Schminkwagen."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:15,760",
-				"to": "00:09:19,760"
+				"from": "00:08:30,560",
+				"to": "00:08:34,560"
 			},
 			"offsets": {
-				"from": 555760,
-				"to": 559760
+				"from": 510560,
+				"to": 514560
 			},
-			"text": " Now I live in Switzerland."
+			"text": " Und die Papas der anderen Kinder,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:19,760",
-				"to": "00:09:23,760"
+				"from": "00:08:34,560",
+				"to": "00:08:36,560"
 			},
 			"offsets": {
-				"from": 559760,
-				"to": 563760
+				"from": 514560,
+				"to": 516560
 			},
-			"text": " I've been living in Switzerland for ten years."
+			"text": " die waren immer selbstständig."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:23,760",
-				"to": "00:09:29,760"
+				"from": "00:08:36,560",
+				"to": "00:08:40,560"
 			},
 			"offsets": {
-				"from": 563760,
-				"to": 569760
+				"from": 516560,
+				"to": 520560
 			},
-			"text": " And I have to say, the biggest advantage of Switzerland is the quality of life."
+			"text": " Aber es gab Sachen, die sich hingefahren haben."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:29,760",
-				"to": "00:09:38,180"
+				"from": "00:08:40,560",
+				"to": "00:08:42,560"
 			},
 			"offsets": {
-				"from": 569760,
-				"to": 578180
+				"from": 520560,
+				"to": 522560
 			},
-			"text": " I live in one of the few countries in the world where you can save money when you only go on"
+			"text": " Zum Beispiel auch, die komisch waren."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:38,180",
-				"to": "00:09:39,760"
+				"from": "00:08:42,560",
+				"to": "00:08:44,560"
 			},
 			"offsets": {
-				"from": 578180,
-				"to": 579760
+				"from": 522560,
+				"to": 524560
 			},
-			"text": " holiday."
+			"text": " Zum Beispiel, dass es komisch war,"
 		},
 		{
 			"timestamps": {
-				"from": "00:09:39,760",
-				"to": "00:09:43,760"
+				"from": "00:08:44,560",
+				"to": "00:08:46,560"
 			},
 			"offsets": {
-				"from": 579760,
-				"to": 583760
+				"from": 524560,
+				"to": 526560
 			},
-			"text": " And you don't just save money, you also feel good."
+			"text": " dass die Schulfachschreiben könnten."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:43,760",
-				"to": "00:09:49,760"
+				"from": "00:08:46,560",
+				"to": "00:08:48,560"
 			},
 			"offsets": {
-				"from": 583760,
-				"to": 589760
+				"from": 526560,
+				"to": 528560
 			},
-			"text": " And you look around and think, \"Hmm, they shit here.\""
+			"text": " Und beides im halben Kreis."
 		},
 		{
 			"timestamps": {
-				"from": "00:09:57,760",
-				"to": "00:10:05,760"
+				"from": "00:08:48,560",
+				"to": "00:08:52,560"
 			},
 			"offsets": {
-				"from": 597760,
-				"to": 605760
+				"from": 528560,
+				"to": 532560
 			},
-			"text": " The other big advantage is the loyalty to Switzerland."
+			"text": " Aber für eine Mutter war es nicht allzu einfach."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:05,760",
-				"to": "00:10:11,760"
+				"from": "00:08:52,560",
+				"to": "00:08:54,560"
 			},
 			"offsets": {
-				"from": 605760,
-				"to": 611760
+				"from": 532560,
+				"to": 534560
 			},
-			"text": " If you make a Swiss friend, you make a Swiss friend of life."
+			"text": " Und es war schwieriger,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:11,760",
-				"to": "00:10:15,760"
+				"from": "00:08:54,560",
+				"to": "00:08:56,560"
 			},
 			"offsets": {
-				"from": 611760,
-				"to": 615760
+				"from": 534560,
+				"to": 536560
 			},
-			"text": " That's what I heard."
+			"text": " so einen Mann und ein Kind zu haben."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:15,760",
-				"to": "00:10:19,760"
+				"from": "00:08:56,560",
+				"to": "00:08:58,560"
 			},
 			"offsets": {
-				"from": 615760,
-				"to": 619760
+				"from": 536560,
+				"to": 538560
 			},
-			"text": " Do you spend your life with Swiss friends?"
+			"text": " Ein Kind,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:19,760",
-				"to": "00:10:21,760"
+				"from": "00:08:58,560",
+				"to": "00:09:00,560"
 			},
 			"offsets": {
-				"from": 619760,
-				"to": 621760
+				"from": 538560,
+				"to": 540560
 			},
-			"text": " No?"
+			"text": " als wenn man ein Kind umsetzen kann,"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:21,760",
-				"to": "00:10:23,760"
+				"from": "00:09:00,560",
+				"to": "00:09:02,560"
 			},
 			"offsets": {
-				"from": 621760,
-				"to": 623760
+				"from": 540560,
+				"to": 542560
 			},
-			"text": " Shit, do more!"
+			"text": " ist ein bisschen wie"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:23,760",
-				"to": "00:10:25,760"
+				"from": "00:09:02,560",
+				"to": "00:09:04,560"
 			},
 			"offsets": {
-				"from": 623760,
-				"to": 625760
+				"from": 542560,
+				"to": 544560
 			},
-			"text": " Do more!"
+			"text": " eine Steigerung"
 		},
 		{
 			"timestamps": {
-				"from": "00:10:25,760",
-				"to": "00:10:29,760"
+				"from": "00:09:04,560",
+				"to": "00:09:06,560"
 			},
 			"offsets": {
-				"from": 625760,
-				"to": 629760
+				"from": 544560,
+				"to": 546560
 			},
-			"text": " What else can I say?"
+			"text": " in dem katholischen Kinderkorb."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:29,760",
-				"to": "00:10:35,760"
+				"from": "00:09:06,560",
+				"to": "00:09:08,560"
 			},
 			"offsets": {
-				"from": 629760,
-				"to": 635760
+				"from": 546560,
+				"to": 548560
 			},
-			"text": " The other big advantage is safety."
+			"text": " Es zerstört die Kindheit."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:35,760",
-				"to": "00:10:41,760"
+				"from": "00:09:08,560",
+				"to": "00:09:10,560"
 			},
 			"offsets": {
-				"from": 635760,
-				"to": 641760
+				"from": 548560,
+				"to": 550560
 			},
-			"text": " In the summer we can go swimming and leave our stuff on the beach."
+			"text": " Ich weiß, was ich denke."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:41,760",
-				"to": "00:10:45,760"
+				"from": "00:09:10,560",
+				"to": "00:09:12,560"
 			},
 			"offsets": {
-				"from": 641760,
-				"to": 645760
+				"from": 550560,
+				"to": 552560
 			},
-			"text": " And when the sun comes up, they're still there."
+			"text": " Selbe Schuld."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:45,760",
-				"to": "00:10:49,760"
+				"from": "00:09:14,560",
+				"to": "00:09:16,560"
 			},
 			"offsets": {
-				"from": 645760,
-				"to": 649760
+				"from": 554560,
+				"to": 556560
 			},
-			"text": " What I like to do is to test the limits of safety."
+			"text": " Aber das ist eine Gelbenheit."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:49,760",
-				"to": "00:10:59,760"
+				"from": "00:09:16,560",
+				"to": "00:09:18,560"
 			},
 			"offsets": {
-				"from": 649760,
-				"to": 659760
+				"from": 556560,
+				"to": 558560
 			},
-			"text": " And I leave a lot of things unattended and see if they're still there when I come back."
+			"text": " Und jetzt bin ich da, in der Schweiz."
 		},
 		{
 			"timestamps": {
-				"from": "00:10:59,760",
-				"to": "00:11:05,760"
+				"from": "00:09:18,560",
+				"to": "00:09:20,560"
 			},
 			"offsets": {
-				"from": 659760,
-				"to": 665760
+				"from": 558560,
+				"to": 560560
 			},
-			"text": " My wife hates me for doing that with our daughter."
+			"text": " Aber ich lebe in der Schweiz"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:05,760",
-				"to": "00:11:08,760"
+				"from": "00:09:20,560",
+				"to": "00:09:22,560"
 			},
 			"offsets": {
-				"from": 665760,
-				"to": 668760
+				"from": 560560,
+				"to": 562560
 			},
-			"text": " Just a joke, we don't have any daughters."
+			"text": " schon seit 10 Jahren."
 		},
 		{
 			"timestamps": {
-				"from": "00:11:08,760",
-				"to": "00:11:11,760"
+				"from": "00:09:22,560",
+				"to": "00:09:26,560"
 			},
 			"offsets": {
-				"from": 668760,
-				"to": 671760
+				"from": 562560,
+				"to": 566560
 			},
-			"text": " Not anymore."
+			"text": " Und ich muss sagen,"
 		},
 		{
 			"timestamps": {
-				"from": "00:11:11,760",
-				"to": "00:11:15,760"
+				"from": "00:09:26,560",
+				"to": "00:09:28,560"
 			},
 			"offsets": {
-				"from": 671760,
-				"to": 675760
+				"from": 566560,
+				"to": 568560
 			},
-			"text": " Merci beacause you shake gold!"
+			"text": " der größte Vorteil der Schweiz"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,560",
+				"to": "00:09:30,560"
+			},
+			"offsets": {
+				"from": 568560,
+				"to": 570560
+			},
+			"text": " ist der Lebensqualität."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,560",
+				"to": "00:09:32,560"
+			},
+			"offsets": {
+				"from": 570560,
+				"to": 572560
+			},
+			"text": " Ich lebe in einem der Regionen der Welt,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,560",
+				"to": "00:09:34,560"
+			},
+			"offsets": {
+				"from": 572560,
+				"to": 574560
+			},
+			"text": " wo man Geld sparen kann,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,560",
+				"to": "00:09:36,560"
+			},
+			"offsets": {
+				"from": 574560,
+				"to": 576560
+			},
+			"text": " wenn man nur"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,560",
+				"to": "00:09:38,560"
+			},
+			"offsets": {
+				"from": 576560,
+				"to": 578560
+			},
+			"text": " aus einer Linderurlaub geht."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,560",
+				"to": "00:09:42,560"
+			},
+			"offsets": {
+				"from": 578560,
+				"to": 582560
+			},
+			"text": " Und man spart nicht nur Geld,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,560",
+				"to": "00:09:44,560"
+			},
+			"offsets": {
+				"from": 582560,
+				"to": 584560
+			},
+			"text": " man spart sich auch Wohle,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,560",
+				"to": "00:09:46,560"
+			},
+			"offsets": {
+				"from": 584560,
+				"to": 586560
+			},
+			"text": " wenn man herumguckt und denkt,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,560",
+				"to": "00:09:48,560"
+			},
+			"offsets": {
+				"from": 586560,
+				"to": 588560
+			},
+			"text": " \"Hm, sie scheissen hier.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,560",
+				"to": "00:10:00,560"
+			},
+			"offsets": {
+				"from": 588560,
+				"to": 600560
+			},
+			"text": " Der andere große Vorteil,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,560",
+				"to": "00:10:02,560"
+			},
+			"offsets": {
+				"from": 600560,
+				"to": 602560
+			},
+			"text": " muss ich sagen,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,560",
+				"to": "00:10:04,560"
+			},
+			"offsets": {
+				"from": 602560,
+				"to": 604560
+			},
+			"text": " ist die Loyalität in der Schweiz."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,560",
+				"to": "00:10:06,560"
+			},
+			"offsets": {
+				"from": 604560,
+				"to": 606560
+			},
+			"text": " Macht man einen"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,560",
+				"to": "00:10:08,560"
+			},
+			"offsets": {
+				"from": 606560,
+				"to": 608560
+			},
+			"text": " scheissen Freund,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,560",
+				"to": "00:10:10,560"
+			},
+			"offsets": {
+				"from": 608560,
+				"to": 610560
+			},
+			"text": " macht man einen Freund das Leben."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,560",
+				"to": "00:10:12,560"
+			},
+			"offsets": {
+				"from": 610560,
+				"to": 612560
+			},
+			"text": " So habe ich es eben gehört."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,560",
+				"to": "00:10:16,560"
+			},
+			"offsets": {
+				"from": 612560,
+				"to": 616560
+			},
+			"text": " Gibt es ein Mann hier,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,560",
+				"to": "00:10:18,560"
+			},
+			"offsets": {
+				"from": 616560,
+				"to": 618560
+			},
+			"text": " gibt es ein Mann aus meinem Leben mit scheissen Freunden?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,560",
+				"to": "00:10:20,560"
+			},
+			"offsets": {
+				"from": 618560,
+				"to": 620560
+			},
+			"text": " Nein?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,560",
+				"to": "00:10:22,560"
+			},
+			"offsets": {
+				"from": 620560,
+				"to": 622560
+			},
+			"text": " Scheisse, tut mir her."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,560",
+				"to": "00:10:24,560"
+			},
+			"offsets": {
+				"from": 622560,
+				"to": 624560
+			},
+			"text": " Tut mir her."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,560",
+				"to": "00:10:26,560"
+			},
+			"offsets": {
+				"from": 624560,
+				"to": 626560
+			},
+			"text": " Also, mach einen Freund heute Abend."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,560",
+				"to": "00:10:28,560"
+			},
+			"offsets": {
+				"from": 626560,
+				"to": 628560
+			},
+			"text": " Gut, also,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,560",
+				"to": "00:10:30,560"
+			},
+			"offsets": {
+				"from": 628560,
+				"to": 630560
+			},
+			"text": " was will ich noch sagen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,560",
+				"to": "00:10:32,560"
+			},
+			"offsets": {
+				"from": 630560,
+				"to": 632560
+			},
+			"text": " Die andere Vorteil der Schweiz"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,560",
+				"to": "00:10:34,560"
+			},
+			"offsets": {
+				"from": 632560,
+				"to": 634560
+			},
+			"text": " ist die Sicherheit."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,560",
+				"to": "00:10:36,560"
+			},
+			"offsets": {
+				"from": 634560,
+				"to": 636560
+			},
+			"text": " Die Sicherheit."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,560",
+				"to": "00:10:38,560"
+			},
+			"offsets": {
+				"from": 636560,
+				"to": 638560
+			},
+			"text": " Im Sommer können wir schlimmer gehen"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,560",
+				"to": "00:10:40,560"
+			},
+			"offsets": {
+				"from": 638560,
+				"to": 640560
+			},
+			"text": " und unsere Sachen auf den Boden verlassen."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,560",
+				"to": "00:10:42,560"
+			},
+			"offsets": {
+				"from": 640560,
+				"to": 642560
+			},
+			"text": " Und wenn wir zurückkommen,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,560",
+				"to": "00:10:44,560"
+			},
+			"offsets": {
+				"from": 642560,
+				"to": 644560
+			},
+			"text": " wir werden immer noch da."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,560",
+				"to": "00:10:48,560"
+			},
+			"offsets": {
+				"from": 644560,
+				"to": 648560
+			},
+			"text": " Was ich gerne tue,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,560",
+				"to": "00:10:50,560"
+			},
+			"offsets": {
+				"from": 648560,
+				"to": 650560
+			},
+			"text": " ist die Grenze dieser Sicherheit zu testen."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,560",
+				"to": "00:10:54,560"
+			},
+			"offsets": {
+				"from": 650560,
+				"to": 654560
+			},
+			"text": " Und ich lasse sehr viele Dinge"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,560",
+				"to": "00:10:56,560"
+			},
+			"offsets": {
+				"from": 654560,
+				"to": 656560
+			},
+			"text": " unaufgesichtet"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,560",
+				"to": "00:10:58,560"
+			},
+			"offsets": {
+				"from": 656560,
+				"to": 658560
+			},
+			"text": " und schaue, ob wir noch da sind,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,560",
+				"to": "00:11:00,560"
+			},
+			"offsets": {
+				"from": 658560,
+				"to": 660560
+			},
+			"text": " wenn wir zurückkommen."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,560",
+				"to": "00:11:02,560"
+			},
+			"offsets": {
+				"from": 660560,
+				"to": 662560
+			},
+			"text": " Und meine Frau hasst es nicht,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,560",
+				"to": "00:11:04,560"
+			},
+			"offsets": {
+				"from": 662560,
+				"to": 664560
+			},
+			"text": " es wird unsere Tochter machen."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,560",
+				"to": "00:11:08,560"
+			},
+			"offsets": {
+				"from": 666560,
+				"to": 668560
+			},
+			"text": " Scherz, wir haben keine Töchter."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,560",
+				"to": "00:11:10,560"
+			},
+			"offsets": {
+				"from": 668560,
+				"to": 670560
+			},
+			"text": " Nicht mehr."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,560",
+				"to": "00:11:14,560"
+			},
+			"offsets": {
+				"from": 670560,
+				"to": 674560
+			},
+			"text": " Herzlichen Dank, dass ich geschenkt wurde."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,560",
+				"to": "00:11:22,560"
+			},
+			"offsets": {
+				"from": 674560,
+				"to": 682560
+			},
+			"text": " Geh nach Hause, geh nach Hause."
 		}
 	]
 }

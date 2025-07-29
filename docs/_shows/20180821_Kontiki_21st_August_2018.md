@@ -19,9 +19,7 @@ notes: |
 
 > So I went over to Meegle, took a look around, and what I discovered is that
 >
-> tampon product names are actually no use whatsoever when it comes to choosing a
->
-> tampon.
+> tampon product names are actually no use whatsoever when it comes to choosing a tampon.
 >
 > For example, you have "OB Pro".
 >
@@ -39,15 +37,11 @@ notes: |
 >
 > Anyway, I ended up choosing something for my daughter. It went okay.
 >
-> And it ended up being a very proud moment for me, because as a father it's not
->
-> often
+> And it ended up being a very proud moment for me, because as a father it's not often
 >
 > that you get to choose what your daughter crams in her vagina.
 >
-> I thought actually I was going to freak you out, that that might be a little
->
-> incest-y, that joke.
+> I thought actually I was going to freak you out, that that might be a little incest-y, that joke.
 >
 > Clearly you're all used to this.
 >
@@ -55,25 +49,19 @@ notes: |
 >
 > And recently he's been playing Fortnite.
 >
-> Now, for those of you that don't know, Fortnite is a shooter you play online
+> Now, for those of you that don't know, Fortnite is a shooter you play online against other people.
 >
-> against other people.
+> And the owners of Fortnite recently claimed that they had 125 million players online at the same
 >
-> And the owners of Fortnite recently claimed that they had 125 million players
+> time.
 >
-> online at the same time.
+> And this is so many kids that people are starting to say they're ruining an entire generation.
 >
-> And this is so many kids that people are starting to say they're ruining an
+> But for me as a father, actually, I see my son is learning some great life skills from Fortnite.
 >
-> entire generation.
+> For example, he's learned that he can sit in a chair for eight hours without moving, eating, or
 >
-> But for me as a father, actually, I see my son is learning some great life
->
-> skills from Fortnite.
->
-> For example, he's learned that he can sit in a chair for eight hours without
->
-> moving, eating, or going to a toilet.
+> going to a toilet.
 >
 > And this is clearly great preparation for office life.
 >
@@ -81,9 +69,7 @@ notes: |
 >
 > He completely avoids going out, doing any exercise, or meeting his friends.
 >
-> And in fact, the thing that I like most, though, is his English has become
->
-> really good.
+> And in fact, the thing that I like most, though, is his English has become really good.
 >
 > He plays against American players often.
 >
@@ -91,39 +77,27 @@ notes: |
 >
 > And, "I will piss on you like you're Donald Trump!"
 >
-> The one I like most is just, "Hey man, I heard you were born out of your mom's
->
-> asshole."
+> The one I like most is just, "Hey man, I heard you were born out of your mom's asshole."
 >
 > So, yeah, this generation I don't think we actually really need to worry about.
 >
-> We've got about 10-20 years before they grow up and start taking over society
->
-> from us.
+> We've got about 10-20 years before they grow up and start taking over society from us.
 >
 > But actually I think there's a bigger threat coming before then.
 >
-> Maybe in the next 5-10 years, because I read recently that we're that close to
->
-> perfecting human cloning.
+> Maybe in the next 5-10 years, because I read recently that we're that close to perfecting human cloning.
 >
 > Now, for me, human cloning is a really interesting topic.
 >
 > Because I've always wondered, what would it be like to meet your own clone?
 >
-> And the more I think about this, unfortunately, I think it wouldn't go very
+> And the more I think about this, unfortunately, I think it wouldn't go very well.
 >
-> well.
->
-> Because I'm pretty sure we'd meet each other and we'd probably kind of hate
->
-> each other.
+> Because I'm pretty sure we'd meet each other and we'd probably kind of hate each other.
 >
 > We're both kind of two bossy, arrogant assholes.
 >
-> And there'd be this kind of awkward silence where we'd find we've got nothing
->
-> to say.
+> And there'd be this kind of awkward silence where we'd find we've got nothing to say.
 >
 > And then one or the other of us would go, "So how about a handjob?"
 >
@@ -141,9 +115,7 @@ notes: |
 >
 > So this type of incest I see you're not so cool about.
 >
-> Yeah, I mean, from there, of course, it's going to go into this inevitable
->
-> cycle of regret
+> Yeah, I mean, from there, of course, it's going to go into this inevitable cycle of regret
 >
 > and self-loathing and blaming the other one.
 >
@@ -157,9 +129,7 @@ notes: |
 >
 > Instead of going out, living our lives, going to work, et cetera,
 >
-> we're just all going to be stuck at home getting amazing handjobs from someone
->
-> we despise.
+> we're just all going to be stuck at home getting amazing handjobs from someone we despise.
 >
 > All right, I'm going to leave you with that thought.
 >

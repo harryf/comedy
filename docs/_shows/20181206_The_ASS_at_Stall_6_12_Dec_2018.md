@@ -17,9 +17,9 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> That a lot man. Now, we only have one last comedian left in our first act and
+> That a lot man. Now, we only have one last comedian left in our first act and we're going to take a
 >
-> we're going to take a little break.
+> little break.
 >
 > Our last act was from France. This next act is from England.
 >
@@ -39,9 +39,9 @@ notes: |
 >
 > So, for you expats here that speak English, it is not Harry Fox.
 >
-> In my family, when we have a family get-together, we get very upset when you
+> In my family, when we have a family get-together, we get very upset when you call us a group of
 >
-> call us a group of fuckers.
+> fuckers.
 >
 > I'm not sure we ever have the fuckers.
 >
@@ -49,39 +49,29 @@ notes: |
 >
 > I just wanted to get rid of the stuttering.
 >
-> But it is a burden. It's a burden living with this name, especially with
+> But it is a burden. It's a burden living with this name, especially with Americans.
 >
-> Americans.
+> Recently, an American guy came up to me and was like, "Yo, what's up, man? Harry Fox! Harry Fox
 >
-> Recently, an American guy came up to me and was like, "Yo, what's up, man?
->
-> Harry Fox! Harry Fox what, man? Harry Fox what?"
+> what, man? Harry Fox what?"
 >
 > I was like, "What?"
 >
 > He was like, "Harry Fox what, man?"
 >
-> I was like, "Hmm, let me throw him off with some adverts like 'Harry Fox
->
-> Hopefully'."
+> I was like, "Hmm, let me throw him off with some adverts like 'Harry Fox Hopefully'."
 >
 > "Harry Fox Occasionally."
 >
 > "Harry Fox Enthusiastically."
 >
-> He's like, "No, no, man. Harry Fox Goats, man. Harry Fox Chickens. Harry Fox
->
-> Tigers."
+> He's like, "No, no, man. Harry Fox Goats, man. Harry Fox Chickens. Harry Fox Tigers."
 >
 > I'm like, "Jesus, man. This guy."
 >
-> Because in the history of mankind, I'm pretty sure no one has ever successfully
+> Because in the history of mankind, I'm pretty sure no one has ever successfully fucked a tiger.
 >
-> fucked a tiger.
->
-> In fact, it made me realize that there's actually a whole category of unfuckable
->
-> animals.
+> In fact, it made me realize that there's actually a whole category of unfuckable animals.
 >
 > Take hippos, for example.
 >
@@ -91,17 +81,13 @@ notes: |
 >
 > They actually kill the most people in Africa every year, about 500.
 >
-> Another animal you can't fuck is elephants, you know, because it's just too
->
-> high up.
+> Another animal you can't fuck is elephants, you know, because it's just too high up.
 >
 > There's probably some guys who are like, "I could do that."
 >
 > Yeah, you know, they won't.
 >
-> But, you know, I mean, if the mom's not watching, you could probably fuck a
->
-> baby elephant.
+> But, you know, I mean, if the mom's not watching, you could probably fuck a baby elephant.
 >
 > All right, I'm just finding your levels.
 >
@@ -109,17 +95,15 @@ notes: |
 >
 > So I'll try and keep it a little bit cleaner.
 >
-> But the problem, I have to admit, it is me, because I have a lot of dark
+> But the problem, I have to admit, it is me, because I have a lot of dark thoughts going on in my
 >
-> thoughts going on in my head.
+> head.
 >
 > And I think it goes back to my childhood.
 >
 > I went to a Catholic school, and I got thrown out for molesting a priest.
 >
-> But, you know, it is a stark and strange—do we have any Ph.D. students here
->
-> tonight?
+> But, you know, it is a stark and strange—do we have any Ph.D. students here tonight?
 >
 > Any Ph.D. students that are insane enough to admit to it?
 >
@@ -131,19 +115,17 @@ notes: |
 >
 > But think of a Ph.D. student that you really dislike, there's jokes about him.
 >
-> Because you know who the most sexually frustrated, raged, like, frustration
+> Because you know who the most sexually frustrated, raged, like, frustration people on the planet
 >
-> people on the planet are today?
+> are today?
 >
 > Ph.D. students.
 >
-> And the reason for this, like, imagine a Ph.D. student, he's, like, done 15
+> And the reason for this, like, imagine a Ph.D. student, he's, like, done 15 hours on a laptop.
 >
-> hours on a laptop.
+> It's 3 a.m., and he's still typing away, and he's got a head full of statistical models and
 >
-> It's 3 a.m., and he's still typing away, and he's got a head full of
->
-> statistical models and equations.
+> equations.
 >
 > How is this guy ever going to get to sleep?
 >
@@ -159,21 +141,19 @@ notes: |
 >
 > We're, like, deep into BDSM and tentacles and, like, dwarves riding on ponies.
 >
-> And then after completing his Ph.D., this guy gets his dream job at a place
->
-> like Google.
+> And then after completing his Ph.D., this guy gets his dream job at a place like Google.
 >
 > And they put him in an office with 10 other horny Ph.D. students.
 >
-> Now, you may have noticed that last month, 20,000 Google employees walked out
+> Now, you may have noticed that last month, 20,000 Google employees walked out to protest sexual
 >
-> to protest sexual harassment.
+> harassment.
 >
 > Were we really surprised by this?
 >
-> They're like, "Oh, shit, I just can't take it anymore. I've got to get the fuck
+> They're like, "Oh, shit, I just can't take it anymore. I've got to get the fuck out. It's like an
 >
-> out. It's like an orgy every day, man.
+> orgy every day, man.
 >
 > I can't take it."
 >
@@ -189,13 +169,9 @@ notes: |
 >
 > Because imagine if Google gave all their staff a sex box for Christmas.
 >
-> You know, the whole problem is solved because, you know, they'd come out, they'd
+> You know, the whole problem is solved because, you know, they'd come out, they'd announce,
 >
-> announce,
->
-> "Yeah, we gave all our staff sex bots. We've reduced cases of sexual harassment
->
-> by 83%.
+> "Yeah, we gave all our staff sex bots. We've reduced cases of sexual harassment by 83%.
 >
 > We're tracking our staff with sex bot analytics. It's great.
 >
@@ -203,13 +179,9 @@ notes: |
 >
 > This is a kind of a solution.
 >
-> Probably from here, you know, like the idea of, like, sex bots will become
+> Probably from here, you know, like the idea of, like, sex bots will become mainstream
 >
-> mainstream
->
-> because, you know, a normal human instinct sort of being so frustrated in so
->
-> many single people.
+> because, you know, a normal human instinct sort of being so frustrated in so many single people.
 >
 > The solution is sex robots.
 >
@@ -227,9 +199,7 @@ notes: |
 >
 > And they'll be followed by Google Ho.
 >
-> And Amazon will be like, "Oh, shit. What are we going to do? We've got to keep
->
-> up with these guys.
+> And Amazon will be like, "Oh, shit. What are we going to do? We've got to keep up with these guys.
 >
 > Let's put Alexa with drones. We call it the Flying Fuck."
 >
@@ -251,9 +221,9 @@ notes: |
 >
 > It's going to be like swipe your dick to get in.
 >
-> But, yeah, you know, I mean, it's a strange world, technology and sex, how
+> But, yeah, you know, I mean, it's a strange world, technology and sex, how these things mix, you
 >
-> these things mix, you know.
+> know.
 >
 > I'm from the U.K., and recently I read a U.K. study of the use of phones,
 >

@@ -17,258 +17,242 @@ notes: |
 
 <h2><i class="fas fa-file-alt"></i> Transcript</h2>
 
-> Originally he came to Zurich at the age of 18 and he has the best name in the world.
+> Er kommt ursprünglich aber 18 Jahre aus Zürich und hat den besten Namen auf der Welt.
 >
-> A big round of applause for Harry Fuchs!
+> Einen fetten Applaus für Harry Fuchs!
 >
-> So my name is actually Harry Fuchs.
+> Mein Name ist eigentlich Harry Fuchs.
 >
-> That's a German name.
+> Das ist ein deutscher Name.
 >
-> I sometimes write F-Ü-CKS. I repeat, F-Ü-CKS.
+> Ich schreibe manchmal "FÜCKS", wiederhole "FÜCKS".
 >
-> But when I grew up in England, many believed that my name was Harry Fuchs.
+> Aber weil ich in England aufgewachsen bin, glauben viele, dass ich Harry Fuchs heiße.
 >
-> My name is not Harry Fuchs.
+> Ich heiße nicht Harry Fuchs.
 >
-> In my family, when we meet, we would be very annoyed if someone called us a group of fuckers.
+> In meiner Familie, wenn wir uns treffen, würden sehr generven, wenn jemand uns eine Gruppe von
 >
-> I have two children, and to give them a good start, I had to call them Halber and Wopper.
+> Fuckers nennt.
 >
-> Just like that.
+> Und ich habe zwei Kinder. Um ihnen einen guten Start zu geben, musste ich sie "How the" und "What
 >
-> Thank you. So one of them got it.
+> the" nennen.
 >
-> The rest are just shocked, but I'll do the rest.
+> Einfach so.
 >
-> No, the real problem with names like Harry Fuchs is that in my life there have been far too few
+> Danke. Also einer hat es geschafft.
 >
-> fucking Fuchs.
+> Die Resten sind einfach nur schockiert, aber ich mache den Rest der Show.
 >
-> Can you say F-Ü-CKS? I don't know. I was born in England.
+> Das echte Problem mit Namen wie Harry Fuchs ist, dass es in meinem Leben viel zu wenig "Fucken" gab.
 >
-> And if I may share that, because of the whole Corona lockdown, I didn't have sex at all.
+> Kann man "Fucken" sagen? Ich weiß nicht.
 >
-> Hands up if you didn't have sex at all in the last time.
+> Ich habe es gar nicht gefunden.
 >
-> Wow. Okay.
+> Und wenn ich das teilen darf, wegen der ganzen Corona-Lockdown, habe ich gar keinen Sex gehabt.
 >
-> I didn't know that I would come to the Zurich nymphomaniac track.
+> Hände hoch, wenn ihr auch gar keinen Sex gehabt habt in letzter Zeit.
 >
-> Okay, so that you can understand me.
+> Wow, okay.
 >
-> If you haven't had sex for a long time, it's as if you hallucinate.
+> Ich wusste nicht, dass ich zum syrischen Nymphomanentrag komme.
 >
-> For example, when you're on the street, you see a couple of dogs sniffing at each other's asses.
+> Okay, so, dass ihr mich bestehen könnt, wie es ist, wenn man seit langem keinen Sex mehr gehabt
 >
-> And you think, "I'd like to do that too."
+> hat.
 >
-> Or you go to the micro. You go to the micro, you get one hand on the watermelon.
+> Es ist, als ob man delusioniert.
 >
-> Maybe two. Boom! It's as if you're in a new dimension.
+> So zum Beispiel, wenn man auf der Straße ist, sieht man ein paar Hunde, die schnüffeln sich an
 >
-> It's getting warm, it's getting hot, it doesn't matter who's watching.
+> der Ärsche.
 >
-> And then suddenly you hear, "Young man, are you ashamed?"
+> Und man denkt, ich will auch dabei.
 >
-> "That's an old woman. She wants to hit you with her handkerchief."
+> Oder man geht in den Migros, man kriegt eine Hand auf den Wassermelonen, vielleicht zwei.
 >
-> And you think, "Very nice."
+> Bum, es ist, als ob man in einer neuen Dimension ist.
 >
-> Yes, that's how it is when you haven't had sex for a long time.
+> Es wird warm, es wird heiß, es ist egal, wer zuschaut.
 >
-> And when you see the lockdown, "My stupid suitcase came up with a really stupid idea."
+> Und dann plötzlich hört man, junger Mann, schämen Sie sich.
 >
-> "I opened a Tinder profile."
+> Das ist eine alte Frau, sie würde sich mit der Handtasche schlagen und man denkt, sehr schön.
 >
-> Okay, for you, you're all relatively young.
+> Ja, so ist es, wenn man seit langem keinen Sex mehr gehabt hat.
 >
-> Tinder is still a great place, because you can swipe hot bodies and possible erotic encounters.
+> Und wenn man in den Lockdown zieht, meinen blöden Kopf ist eine ganz blöde Idee gekommen.
 >
-> It's your thing. Your perfect match is somewhere in there.
+> Ich habe ein Tinder-Profil aufgemacht.
 >
-> But for me, I have to use old Tinder.
+> Okay, für euch, also ihr seid alle relativ jung.
 >
-> And old Tinder is a dark word.
+> Tinder ist noch so ein super toller Ort, weil ihr dürft euch so heiße Körpers swipen
 >
-> Because I have to swipe broken marriages.
+> und mögliche erotische Gegner und das Traum, das Traum ist dein Prinz.
 >
-> Swipe drugs and alcohol problems.
+> Dein perfekter Match ist irgendwo, irgendwie da drin.
 >
-> Broken tattoos that say, "No regrets!"
+> Aber für mich, ich muss alte Tinder verwenden und alte Tinder ist ein dunkler Ort.
 >
-> It's dark.
+> Weil ich muss dort kaputte Ehen swipen, Drogen und Alkoholprobleme swipen,
 >
-> I ask myself, "Ladies, what happens in the next 10 to 15 years that breaks your life?"
+> abgebläste Tattoos, die so "No Regrets" sagen.
 >
-> Because the worst thing on old Tinder is the sight of a 50-year-old woman who makes a duck face.
+> Es ist dunkel und weißt du, ich frage mich "Ladies, was passiert in den nächsten 10-15 Jahren,
 >
-> So how do you get to 50 years where you think the duck face is still okay?
+> das euer Leben kaputt macht?"
 >
-> The only time the duck face is okay is when both parents are ducks.
+> Weil das Allerschlimmste auf alte Tinder ist zur Sicht eine 50-jährige Frau,
 >
-> And ducks only live 10 years.
+> die einen Duckface mag.
 >
-> So the universe doesn't make room for a 50-year-old duck face.
+> Also wie kommt man bis zu 50 Jahren, wo man denkt, dass Duckface immer noch okay ist?
 >
-> And what's even worse, but it's even darker, is swiping when you go on a real old Tinder date.
+> Der einzige Mal, dass Duckface okay ist, ist, wenn beide Eltern Enten sind.
 >
-> And you go there and think, "Yeah, okay, I'm full of courage and joy."
+> Und Enten leben nur 10 Jahre, also das Universum hat keinen Platz für 50-jährige Duckface.
 >
-> And then suddenly the conversation changes.
+> Ja, und was noch viel schlimmer ist, aber es geht noch dunkler,
 >
-> "Yeah, okay, I fucked up my life for the last 40 years."
+> ist das ganze Swipen, wenn man auf eine echte alte Tinder geht, Date geht.
 >
-> "But somehow I'm still optimistic that it's going to get better from now on."
+> Und da geht man da hin und denkt "Ja, okay, ich bin voll Mut und Freude"
 >
-> And then she says, "Wow, yes, I also completely ruined my life."
+> und dann plötzlich wendet sich das Gespräch um "Ja, okay, ich habe die letzten 40 Jahre
 >
-> Then you think, "Wow, we have something in common."
+> gepackt, aber irgendwie bin ich noch optimistisch, dass es ab jetzt besser wird."
 >
-> Which is completely depressing.
+> Und dann sagt sie "Wow, ja, ich habe auch mein Leben völlig kaputt gemacht."
 >
-> You want to come to me and then we can just kill each other.
+> Dann denkt man "Wow, wir haben was Gemeinsames, was völlig Deprimierendes.
 >
-> That would be the complete end of this world, I think.
+> Du bist zu mir gekommen und dann können wir einander einfach umbringen."
 >
-> Yes, and afterwards I thought, "This article is complete shit, I'll delete it."
+> Das wäre der komplette Ende dieser Welt, finde ich.
 >
-> And just as I was about to delete it, I got another message.
+> Und danach dachte ich "Dieser Arsch ist völlig scheiße, ich lösche es."
 >
-> It was from a lady, I think she was 52 years old.
+> Und gerade als ich es löschen wollte, bekam ich noch eine Nachricht.
 >
-> She said, "With those beautiful blue eyes, why are you still free here?"
+> Es war von einer Dame, ich glaube sie war 52, sie hat gesagt
 >
-> "Besides, this is the most stupid animation I've ever heard."
+> "So mit diesen schönen blauen Augen, wieso läufst du noch frei hier rum?"
 >
-> "Imagine, I would tell this to any woman here in our room."
+> Also außer das ist der allerblödeste Anmache, den ich je gehört habe.
 >
-> "You shouldn't be walking around here free."
+> Stell dir vor, ich würde das hier irgendeinem Frauen in unserem Raum sagen.
 >
-> "You should be stuck in my cave."
+> "Du solltest nicht frei hier rumlaufen, du solltest gefesselt in meiner Höhle sein."
 >
-> "It's completely crazy."
+> Das ist völlig verrückt, das sollte man niemandem sagen.
 >
-> "You shouldn't tell anyone."
+> Und da ist mir klar geworden, ältere Frauen haben ein bisschen ein Problem.
 >
-> And then it became clear to me, older women have a bit of a problem.
+> Die wissen nicht, wie sie Männer anmachen.
 >
-> They don't know how to handle men.
+> Auf Englisch sagt man "Die haben zero game."
 >
-> In English they say, "They have zero game."
+> Und was noch schlimmer ist, ich habe letztlich gelesen, als Frauen älter werden,
 >
-> And what's worse, I recently read that as women get older, their lust increases.
+> dass ihr Lust steigt.
 >
-> All these years, men have been given all the training.
+> Also all diese Jahre, Männer haben die ganze Übung bekommen.
 >
-> Now men are aware of how to handle men.
+> Jetzt sind die Männer, die wissen so mit diesem Alter, wie man anmacht.
 >
-> And then I thought, "Wait a minute, this is really bad."
+> Und da dachte ich mir, Moment, das ist völlig schlimm.
 >
-> So that means they have zero game.
+> Also das bedeutet dann, die haben zero game, die sind super geil
 >
-> They are super awesome, and nobody wants to sleep with them.
+> und niemand möchte mit den Leuten schlafen.
 >
-> It's bad, I know.
+> Das ist schlimm.
 >
-> And I thought, it was so bad, I thought, "I can solve this."
+> Das war so schlimm, ich dachte, ich kann das lösen.
 >
-> "I'll find a solution."
+> Ich finde eine Lösung davor, wir brauchen nur noch eine Gruppe,
 >
-> "We just need one more group that has zero game."
+> die zero game hat, ist super geil und niemanden ficken möchte.
 >
-> "Is super awesome, and doesn't want to fuck anyone."
+> Teenage Jungs.
 >
-> "Teenage Jules."
+> Das ist der perfekte Match.
 >
-> "That's the perfect match."
+> Und ich bin ein bisschen unternehmerisch,
 >
-> And I'm a bit of an entrepreneur.
+> also ich entwickle einen Markt gerade, es heißt Tinder.
 >
-> So I just invented a app, it's called "Teender."
+> Ja, ok.
 >
-> Yeah, okay.
+> Es ist alles ein bisschen dunkel.
 >
-> It's similar, it's just a bit younger.
+> Es ist immer ein bisschen Social Dating.
 >
-> It's similar to the social media app.
+> Aber ich glaube, das kommt eigentlich aus meiner Kindheit.
 >
-> But I think it actually comes from my childhood.
+> Weil als ich sieben war, ist etwas von mir genommen worden.
 >
-> Because when I was seven, something was taken from me.
+> Genau, ich bin beschnitten worden.
 >
-> Exactly, I was circumcised.
+> Ok, laut dieser Reaktion verstehen die meisten nicht, was Beschneidung ist.
 >
-> Okay, according to this reaction, most people don't understand what circumcision is.
+> Nachher können wir darüber reden.
 >
-> We can talk about it later.
+> Was anfing als ganz traumatische Kindheitserlebnis,
 >
-> But what started as a very traumatic childhood.
+> als Erwachsene ist zum rechten Vorteil geworden.
 >
-> As an adult, it has become quite an advantage.
+> Weil auch die seltenen Momente, wo eine Frau den Kopf neben meinen Penis findet,
 >
-> Because even the rare moments when a woman finds her head next to my penis.
+> hat sie immer so gestöhnt, so wie...
 >
-> When she is always so silent, like...
+> Und ich war so, hey, wieso stöhnt du auf meinen Penis?
 >
-> And I would say, "Hey, why are you staring at my penis?"
+> Und sie war dann, du hast keine Ahnung, wie viele schmutzige Schwänze es da draußen gibt.
 >
-> And she would say, "You have no idea how many dirty asses there are out there."
+> Ja, also der lacht ziemlich viel, ich weiß nicht wieso.
 >
-> Yeah, so he laughs a lot.
+> Hat wahrscheinlich eine Menge gesehen.
 >
-> I don't know why.
+> Was ich verstanden habe, ist, dass eigentlich als mein unbeschnittener Bruder,
 >
-> He probably saw a lot.
+> ich habe viel zu wenig Acht in diesem Bereich.
 >
-> And what I understood is that actually as my uncut brother.
+> Und deswegen ende ich mit ein paar Tipps, die euch helfen können,
 >
-> I have far too little attention in this area.
+> euren Partnern so glücklich zu machen.
 >
-> And that's why I end with a few tips that can help you.
+> Also zum Beispiel, du weißt im Auto, du hast das am Spiegel, diese runden Waren hängen.
 >
-> To make your partner so happy.
+> Hänge es einfach von deinem Penis.
 >
-> For example, you know in the car.
+> Also Frauen sind sehr großzinnig, das wird sie sofort glücklich machen.
 >
-> You have this on the mirror, this wonderful pendant.
+> Oder einfach so hier oben, oben von deinem Penis, du kannst einfach so eine schöne Zähne tätowieren.
 >
-> Just hang it from your penis.
+> So zum Beispiel so ein Pferd von grünem Gras, so mit Blumen.
 >
-> So women are very generous.
+> Oder vielleicht dann, komm, mit ein paar Vögeln.
 >
-> That will make them happy right away.
+> Wäre auch schön, oder?
 >
-> And just hang it from your penis.
+> Es gibt eine einfache Lösung, ich glaube mir das alles nicht.
 >
-> You can just tattoo a beautiful tooth.
+> Es gibt eine völlig einfache Lösung.
 >
-> For example, a fern of green grass.
+> Du bringst einfach mal eine Packung Zwieback mit.
 >
-> With flowers or flowers.
+> Und wenn sie da runter ist, du kannst sie einfach so mit Zwieback furzeln.
 >
-> Come on, with a couple of birds.
+> Weil Käse passt wirklich gut zum Zwieback.
 >
-> That would be beautiful, wouldn't it?
+> Oh, das mag ich.
 >
-> But there is an easier way.
+> Weißt du, ich mag es, weil es bedeutet ist, heute Abend bekommt niemand mehr Sex.
 >
-> I don't believe in all this.
+> Und jetzt sind wir alle in einem Team zusammen.
 >
-> There is a completely easier way.
->
-> You just bring a package of onion knots.
->
-> And when you're down there, you can just wrap it with onion.
->
-> Because cheese really goes well with onion.
->
-> Oh, that's nice.
->
-> You know, I do it because what it means.
->
-> Tonight no one gets sex here.
->
-> And now we're all in one room together.
->
-> Okay, thank you.
+> Danke.

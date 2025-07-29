@@ -3,1374 +3,900 @@
         "type": "text",
         "start": 0.0,
         "end": 2.0,
-        "text": "The last comedian, are you ready?"
+        "text": "Letzter Comedian, seid ihr bereit?"
     },
     {
         "type": "text",
         "start": 2.0,
-        "end": 7.0,
-        "text": "Our last comedian is originally from England."
+        "end": 8.9,
+        "text": "Unser letzter Comedian ist urspr\u00fcnglich aus England, halb Deutsch, halb Englisch."
     },
     {
         "type": "text",
-        "start": 7.0,
-        "end": 9.0,
-        "text": "Half German, half English."
+        "start": 8.9,
+        "end": 11.4,
+        "text": "Die absolute brillante Kombination."
     },
     {
         "type": "text",
-        "start": 9.0,
-        "end": 11.0,
-        "text": "The absolute brilliant combination."
+        "start": 11.4,
+        "end": 13.7,
+        "text": "Er wohnt seit l\u00e4ngerem in der Schweiz, macht v.a. Comedy auf Englisch."
     },
     {
         "type": "text",
-        "start": 11.0,
-        "end": 13.0,
-        "text": "He has been living in Switzerland for a long time."
+        "start": 13.7,
+        "end": 15.5,
+        "text": "Er ist mega lustig."
     },
     {
         "type": "text",
-        "start": 13.0,
-        "end": 14.0,
-        "text": "He mainly comes from English."
-    },
-    {
-        "type": "text",
-        "start": 14.0,
-        "end": 16.0,
-        "text": "He is very funny."
-    },
-    {
-        "type": "text",
-        "start": 16.0,
+        "start": 15.5,
         "end": 18.0,
-        "text": "Please welcome Harry Fox!"
+        "text": "Bitte begr\u00fcssen, Harry Fox!"
     },
     {
         "type": "text",
-        "start": 28.0,
-        "end": 31.0,
-        "text": "My name is Harry Fox."
+        "start": 28.4,
+        "end": 31.4,
+        "text": "Also, mein Name ist Harry Fox."
     },
     {
         "type": "text",
-        "start": 31.0,
-        "end": 33.0,
-        "text": "It's a German name."
+        "start": 31.4,
+        "end": 33.4,
+        "text": "Das ist ein deutscher Name."
     },
     {
         "type": "text",
-        "start": 33.0,
-        "end": 36.0,
-        "text": "You write F-\u00d6-C-K-S."
+        "start": 33.4,
+        "end": 40.4,
+        "text": "Schreibt man F-\u00dc-C-K-S, ich wiederhole F-\u00dc-C-K-S."
     },
     {
         "type": "text",
-        "start": 36.0,
-        "end": 40.0,
-        "text": "I repeat, F-\u00d6-C-K-S."
+        "start": 40.4,
+        "end": 46.4,
+        "text": "Aber weil ich in England aufgewachsen bin, glauben viele, dass ich Harry Fox heisse."
     },
     {
         "type": "text",
-        "start": 40.0,
-        "end": 43.0,
-        "text": "But because I grew up in England,"
+        "start": 46.4,
+        "end": 49.4,
+        "text": "Mein Name ist nicht Harry Fox."
     },
     {
         "type": "text",
-        "start": 43.0,
-        "end": 46.0,
-        "text": "many believe that my name is Harry Fox."
+        "start": 49.4,
+        "end": 56.16,
+        "text": "Meine Familie, wenn wir uns treffen, w\u00fcrden wir sehr genervt, wenn jemand uns eine Gruppe von \"Fuckers\""
     },
     {
         "type": "text",
-        "start": 46.0,
-        "end": 49.0,
-        "text": "My name is not Harry Fox."
+        "start": 56.16,
+        "end": 57.4,
+        "text": "nennt."
     },
     {
         "type": "text",
-        "start": 49.0,
-        "end": 52.0,
-        "text": "My family, when we meet,"
+        "start": 57.4,
+        "end": 60.4,
+        "text": "Und ich habe zwei Kinder."
     },
     {
         "type": "text",
-        "start": 52.0,
-        "end": 56.0,
-        "text": "would be very annoyed if someone called us a group of fuckers."
+        "start": 60.4,
+        "end": 64.4,
+        "text": "Ich m\u00fcsste sie \"Howber\" und \"Whopper\" nennen."
     },
     {
         "type": "text",
-        "start": 58.0,
-        "end": 60.0,
-        "text": "And I have two children."
+        "start": 64.4,
+        "end": 67.4,
+        "text": "Nur ist es ja eine gute Chance, Harry."
     },
     {
         "type": "text",
-        "start": 60.0,
-        "end": 65.0,
-        "text": "I had to call them \"Haube\" and \"Woppe\"."
+        "start": 67.4,
+        "end": 76.4,
+        "text": "Aber das echte Problem mit einem Namen wie Harry Fox ist, es setzt sehr h\u00f6here Erwartungen."
     },
     {
         "type": "text",
-        "start": 65.0,
-        "end": 68.0,
-        "text": "But it's a good chance."
+        "start": 76.4,
+        "end": 79.4,
+        "text": "Und ehrlich gesagt, ich habe nur so viel Sex gehabt."
     },
     {
         "type": "text",
-        "start": 68.0,
-        "end": 73.0,
-        "text": "But the real problem with a name like Harry Fox"
+        "start": 79.4,
+        "end": 82.4,
+        "text": "Ja, ehrlich gesagt, nur so viel Sex."
     },
     {
         "type": "text",
-        "start": 73.0,
-        "end": 77.0,
-        "text": "is that it sets very high expectations."
+        "start": 82.4,
+        "end": 89.4,
+        "text": "Eigentlich, und im letzten Sieg, wenn ich das teilen darf, hatte ich gar keinen Sex."
     },
     {
         "type": "text",
-        "start": 77.0,
-        "end": 80.0,
-        "text": "And to be honest, I only had so much sex."
+        "start": 89.4,
+        "end": 94.4,
+        "text": "H\u00e4nde hoch, wenn er auch gar keinen Sex gehabt hat, im letzten Sieg."
     },
     {
         "type": "text",
-        "start": 80.0,
-        "end": 83.0,
-        "text": "To be honest, I only had so much sex."
+        "start": 94.4,
+        "end": 96.4,
+        "text": "Okay, nat\u00fcrlich."
     },
     {
         "type": "text",
-        "start": 83.0,
-        "end": 87.0,
-        "text": "Actually, and in the last time I was allowed to share this,"
+        "start": 96.4,
+        "end": 98.4,
+        "text": "Aber sonst alle anderen..."
     },
     {
         "type": "text",
-        "start": 87.0,
-        "end": 89.0,
-        "text": "I didn't have any sex."
+        "start": 98.4,
+        "end": 107.4,
+        "text": "Aber ich bin erstarrt, ich wusste nicht, dass ich zu der syrischen Nymphoman Anonym-Treff komme."
     },
     {
         "type": "text",
-        "start": 89.0,
-        "end": 92.0,
-        "text": "Put your hands up if you didn't have sex either."
+        "start": 109.4,
+        "end": 114.4,
+        "text": "Okay, dann erz\u00e4hle ich ein bisschen, sodass ihr mich besser verstehen k\u00f6nnt."
     },
     {
         "type": "text",
-        "start": 92.0,
-        "end": 94.0,
-        "text": "Raise your hands."
+        "start": 114.4,
+        "end": 120.4,
+        "text": "Also wenn man seit langem keinen Sex mehr gehabt hat, ist es falsch, als ob man halluciniert."
     },
     {
         "type": "text",
-        "start": 94.0,
-        "end": 97.0,
-        "text": "Of course."
+        "start": 120.4,
+        "end": 128.4,
+        "text": "Also man l\u00e4uft die Stra\u00dfe entlang, sieht ein paar Hunde, die schn\u00fcffeln sich an der \u00c4rsche."
     },
     {
         "type": "text",
-        "start": 97.0,
-        "end": 99.0,
-        "text": "But otherwise everyone else..."
+        "start": 128.4,
+        "end": 132.4,
+        "text": "Und man denkt, ich will auch dabei."
     },
     {
         "type": "text",
-        "start": 99.0,
-        "end": 102.0,
-        "text": "But I'm surprised."
+        "start": 134.4,
+        "end": 139.4,
+        "text": "Und man geht im Mikro, und man sieht eine Aktion auf Wassermelone."
     },
     {
         "type": "text",
-        "start": 102.0,
-        "end": 107.0,
-        "text": "I didn't know that I would meet the Syrian nymphomaniac anonymously."
+        "start": 139.4,
+        "end": 144.4,
+        "text": "Man kriegt eine Hand auf diese Wassermelone, vielleicht zwei."
     },
     {
         "type": "text",
-        "start": 107.0,
-        "end": 112.0,
-        "text": "Okay, then I'll tell you a little bit"
+        "start": 144.4,
+        "end": 148.4,
+        "text": "Und pl\u00f6tzlich ist man in einer neuen Dimension."
     },
     {
         "type": "text",
-        "start": 112.0,
-        "end": 114.0,
-        "text": "so that you can understand me better."
+        "start": 148.4,
+        "end": 152.4,
+        "text": "Es wird warm, es wird hei\u00df, es ist egal, wer zuschaut."
     },
     {
         "type": "text",
-        "start": 114.0,
-        "end": 117.0,
-        "text": "So if you haven't had sex for a long time,"
+        "start": 152.4,
+        "end": 155.4,
+        "text": "Und dann pl\u00f6tzlich h\u00f6rt man \"Junger Mann, sch\u00e4men Sie sich!\""
     },
     {
         "type": "text",
-        "start": 117.0,
-        "end": 120.0,
-        "text": "it's as if you're hallucinating."
+        "start": 155.4,
+        "end": 158.4,
+        "text": "Und man schaut, da ist eine alte Dame, und sie will dich mit der Handtasche schlagen."
     },
     {
         "type": "text",
-        "start": 120.0,
-        "end": 123.0,
-        "text": "So you walk down the street,"
+        "start": 158.4,
+        "end": 161.4,
+        "text": "Und man denkt, sie ist sch\u00f6n."
     },
     {
         "type": "text",
-        "start": 123.0,
-        "end": 126.0,
-        "text": "see a couple of dogs,"
+        "start": 164.4,
+        "end": 168.4,
+        "text": "Ja, aber das ist alles noch schwieriger gemacht."
     },
     {
         "type": "text",
-        "start": 126.0,
-        "end": 128.0,
-        "text": "sniffing at each other's asses,"
+        "start": 168.4,
+        "end": 171.4,
+        "text": "In letzter Zeit bin ich auch bekannt gekommen."
     },
     {
         "type": "text",
-        "start": 128.0,
-        "end": 130.0,
-        "text": "and you think,"
+        "start": 171.4,
+        "end": 177.4,
+        "text": "Also in meinem Alter, ich wei\u00df immer noch nicht, ob ich gut bei Sex bin."
     },
     {
         "type": "text",
-        "start": 130.0,
-        "end": 132.0,
-        "text": "\"I want to be there too.\""
+        "start": 177.4,
+        "end": 184.4,
+        "text": "Weil ich habe gelesen, um bei irgendwas gut zu sein, braucht es 10.000 Stunden."
     },
     {
         "type": "text",
-        "start": 132.0,
-        "end": 136.0,
-        "text": "Or you go to the micro,"
+        "start": 184.4,
+        "end": 191.4,
+        "text": "10.000 Stunden ist eine Menge Ficken."
     },
     {
         "type": "text",
-        "start": 136.0,
-        "end": 139.0,
-        "text": "and you see an action on watermelons."
+        "start": 193.4,
+        "end": 196.4,
+        "text": "Also wenn ich es alles zusammenrechnen w\u00fcrde,"
     },
     {
         "type": "text",
-        "start": 139.0,
-        "end": 142.0,
-        "text": "You get one hand on this watermelon,"
+        "start": 196.4,
+        "end": 202.4,
+        "text": "vielleicht bin ich bei 5.000 Stunden, wenn Masturbieren dazu z\u00e4hlt."
     },
     {
         "type": "text",
-        "start": 142.0,
-        "end": 144.0,
-        "text": "maybe two."
+        "start": 202.4,
+        "end": 213.4,
+        "text": "Also wenn du fickst 24 Stunden am Tag f\u00fcr ein ganzes Jahr, bist du nur bei 8.000 Stunden."
     },
     {
         "type": "text",
-        "start": 144.0,
-        "end": 148.0,
-        "text": "Suddenly you're in a new dimension."
+        "start": 213.4,
+        "end": 216.4,
+        "text": "Das habe ich auch so ausgerechnet."
     },
     {
         "type": "text",
-        "start": 148.0,
-        "end": 150.0,
-        "text": "It's getting warm, it's getting hot,"
+        "start": 216.4,
+        "end": 222.4,
+        "text": "Oder wenn du 70 Jahre lebst, musst du 10 Mal am Tag ficken."
     },
     {
         "type": "text",
-        "start": 150.0,
-        "end": 152.0,
-        "text": "it doesn't matter who's watching."
+        "start": 222.4,
+        "end": 228.4,
+        "text": "Und der Tag, wo du geboren warst, ist der Tag, dass du stirbst."
     },
     {
         "type": "text",
-        "start": 152.0,
-        "end": 153.0,
-        "text": "Then suddenly you hear,"
+        "start": 228.4,
+        "end": 234.4,
+        "text": "Und ich wei\u00df nicht, was dann schlimmer ist, die Gedanken von kleinen Babys, die ficken,"
     },
     {
         "type": "text",
-        "start": 153.0,
-        "end": 155.0,
-        "text": "\"Young man, are you ashamed?\""
+        "start": 234.4,
+        "end": 242.4,
+        "text": "oder die Idee von Sex mit alten Leuten auf dem Tag, wo sie sterben."
     },
     {
         "type": "text",
-        "start": 155.0,
-        "end": 157.0,
-        "text": "And you look, there's an old lady."
+        "start": 242.4,
+        "end": 247.4,
+        "text": "Aber es wird zu dunkel vor Ort, es tut mir leid."
     },
     {
         "type": "text",
-        "start": 157.0,
-        "end": 159.0,
-        "text": "She wants to hit you with her handbag."
+        "start": 247.4,
+        "end": 254.4,
+        "text": "Aber eigentlich, der Grund, weshalb ich so wenig Sex bekommen habe,"
     },
     {
         "type": "text",
-        "start": 159.0,
-        "end": 160.0,
-        "text": "And you think,"
+        "start": 254.4,
+        "end": 261.4,
+        "text": "letztlich bin ich gedammt worden von meiner ersten Schweizer Freundin."
     },
     {
         "type": "text",
-        "start": 160.0,
-        "end": 162.0,
-        "text": "\"She's beautiful.\""
+        "start": 261.4,
+        "end": 264.4,
+        "text": "Danke, danke."
     },
     {
         "type": "text",
-        "start": 162.0,
-        "end": 169.0,
-        "text": "But what makes it all so difficult,"
+        "start": 264.4,
+        "end": 270.4,
+        "text": "Aber als Vorteil, ich bin jetzt Experte auf alle Schweizer Frauen."
     },
     {
         "type": "text",
-        "start": 169.0,
-        "end": 172.0,
-        "text": "I recently found out."
+        "start": 271.4,
+        "end": 278.4,
+        "text": "Und so eine Sache, also Schweizer Frauen, sie sind nicht besonders gut beim Kommunizieren."
     },
     {
         "type": "text",
-        "start": 172.0,
-        "end": 175.0,
-        "text": "At my age, I still don't know"
+        "start": 278.4,
+        "end": 283.4,
+        "text": "Vor allem ihr M\u00e4nnergegen\u00fcber."
     },
     {
         "type": "text",
-        "start": 175.0,
-        "end": 178.0,
-        "text": "if I'm good at having sex."
+        "start": 283.4,
+        "end": 292.4,
+        "text": "Der Grund davor ist zwar nur bis 1991, dass der letzte Kanton von Appenzell in Rhone"
     },
     {
         "type": "text",
-        "start": 178.0,
-        "end": 179.0,
-        "text": "Because I read,"
+        "start": 292.4,
+        "end": 298.4,
+        "text": "endlich gew\u00e4hlt hat, dass Frauen das Recht haben auf Orgasmus."
     },
     {
         "type": "text",
-        "start": 179.0,
-        "end": 182.0,
-        "text": "to be good at anything,"
+        "start": 300.4,
+        "end": 304.4,
+        "text": "Aber was ich davon herausgenommen habe, ich dachte,"
     },
     {
         "type": "text",
-        "start": 182.0,
-        "end": 185.0,
-        "text": "it takes 10,000 hours."
+        "start": 304.4,
+        "end": 308.4,
+        "text": "wenn irgendein anderer Mann in der gleichen Situation sich findet,"
     },
     {
         "type": "text",
-        "start": 185.0,
-        "end": 192.0,
-        "text": "10,000 hours is a lot of fucking."
+        "start": 308.4,
+        "end": 313.4,
+        "text": "also ich habe ein paar wichtige S\u00e4tze, die euch vielleicht helfen w\u00fcrden,"
     },
     {
         "type": "text",
-        "start": 192.0,
-        "end": 197.0,
-        "text": "So if I summed it all up,"
+        "start": 313.4,
+        "end": 316.4,
+        "text": "ihre Schweizer Freundin zu verstehen."
     },
     {
         "type": "text",
-        "start": 197.0,
-        "end": 200.0,
-        "text": "I'm at 5,000 hours,"
+        "start": 316.4,
+        "end": 322.4,
+        "text": "Zum Beispiel, wenn sie sagt, \"Oh, Sch\u00e4tzli\", das ist was Gutes,"
     },
     {
         "type": "text",
-        "start": 200.0,
-        "end": 203.0,
-        "text": "if masturbation counts."
+        "start": 322.4,
+        "end": 327.4,
+        "text": "das bedeutet, vielleicht sp\u00e4ter gibt es ein sexuelles Erlebnis."
     },
     {
         "type": "text",
-        "start": 203.0,
-        "end": 208.0,
-        "text": "But if you fuck 24 hours a day,"
+        "start": 328.4,
+        "end": 331.4,
+        "text": "Aber wenn sie sagt, \"Schatz\", das ist was Schlechtes,"
     },
     {
         "type": "text",
-        "start": 208.0,
-        "end": 211.0,
-        "text": "for a whole year,"
+        "start": 331.4,
+        "end": 335.4,
+        "text": "dann musst du wahrscheinlich das Nachtabendsofa verbringen."
     },
     {
         "type": "text",
-        "start": 211.0,
-        "end": 214.0,
-        "text": "you're only at 8,000 hours."
+        "start": 335.4,
+        "end": 339.4,
+        "text": "Aber wenn sie sagt, \"Hure geil\", das ist was Gutes,"
     },
     {
         "type": "text",
-        "start": 214.0,
-        "end": 217.0,
-        "text": "I calculated that too."
+        "start": 339.4,
+        "end": 343.4,
+        "text": "das bedeutet, sie ist so geil wie eine Hure."
     },
     {
         "type": "text",
-        "start": 217.0,
-        "end": 219.0,
-        "text": "Or if you live 70 years,"
+        "start": 343.4,
+        "end": 348.4,
+        "text": "Aber wenn sie sagt, \"Leck mich doch am Arsch\","
     },
     {
         "type": "text",
-        "start": 219.0,
-        "end": 222.0,
-        "text": "you have to fuck 10 times a day."
+        "start": 348.4,
+        "end": 353.4,
+        "text": "unter keinem Umst\u00e4nde solltest du ihren Arschloch halten."
     },
     {
         "type": "text",
-        "start": 222.0,
-        "end": 225.0,
-        "text": "From the day you were born"
+        "start": 355.4,
+        "end": 359.4,
+        "text": "Au\u00dfer dass sie sagt, \"Das ist ein Schie\u00dfdreck, Mann\","
     },
     {
         "type": "text",
-        "start": 225.0,
-        "end": 228.0,
-        "text": "to the day you die."
+        "start": 359.4,
+        "end": 362.4,
+        "text": "das bedeutet, man k\u00f6nnte sie ihren Arschloch recken,"
     },
     {
         "type": "text",
-        "start": 228.0,
-        "end": 231.0,
-        "text": "And I don't know what's worse,"
+        "start": 362.4,
+        "end": 366.4,
+        "text": "aber vielleicht gibt es eine schlechte \u00dcberraschung."
     },
     {
         "type": "text",
-        "start": 231.0,
-        "end": 234.0,
-        "text": "the thought of little babies fucking"
+        "start": 366.4,
+        "end": 371.4,
+        "text": "Wie sieht es aus mit der Zeit?"
     },
     {
         "type": "text",
-        "start": 234.0,
-        "end": 238.0,
-        "text": "or the idea of having sex with old people"
+        "start": 371.4,
+        "end": 374.4,
+        "text": "Gehe ich einfach weiter?"
     },
     {
         "type": "text",
-        "start": 238.0,
-        "end": 242.0,
-        "text": "on the day they die."
+        "start": 374.4,
+        "end": 381.4,
+        "text": "Ich finde, momentan ist es eine schwierige Zeit f\u00fcr Dating,"
     },
     {
         "type": "text",
-        "start": 242.0,
-        "end": 247.0,
-        "text": "I think it's too dark, it's too dark."
+        "start": 381.4,
+        "end": 385.4,
+        "text": "vor allem f\u00fcr Frauen, weil ich habe letztlich gelesen,"
     },
     {
         "type": "text",
-        "start": 247.0,
-        "end": 249.0,
-        "text": "Yes, but..."
+        "start": 385.4,
+        "end": 391.4,
+        "text": "dass fast 50% M\u00e4nner, alle M\u00e4nner, im Jahr dann 20-40,"
     },
     {
         "type": "text",
-        "start": 249.0,
-        "end": 252.0,
-        "text": "Actually, the reason why"
+        "start": 391.4,
+        "end": 395.4,
+        "text": "haben in den letzten drei Monaten ein Dickpic geschickt."
     },
     {
         "type": "text",
-        "start": 252.0,
-        "end": 255.0,
-        "text": "I've had so little sex lately"
+        "start": 395.4,
+        "end": 399.4,
+        "text": "Das ist vielleicht eine schwierige Zahl zu verstehen,"
     },
     {
         "type": "text",
-        "start": 255.0,
-        "end": 258.0,
-        "text": "is because I was dumped"
+        "start": 399.4,
+        "end": 404.4,
+        "text": "aber, meine Damen, wenn Sie Ihre Nummer an 10 M\u00e4nner"
     },
     {
         "type": "text",
-        "start": 258.0,
-        "end": 262.0,
-        "text": "by my first Swiss girlfriend."
+        "start": 404.4,
+        "end": 407.4,
+        "text": "in diesem Raum geben, vor Weihnachten haben Sie"
     },
     {
         "type": "text",
-        "start": 262.0,
-        "end": 265.0,
-        "text": "Thank you, thank you."
+        "start": 407.4,
+        "end": 410.4,
+        "text": "eine Stapel von 5 Dickpics auf Ihrem Leben."
     },
     {
         "type": "text",
-        "start": 265.0,
-        "end": 267.0,
-        "text": "But as an advantage,"
+        "start": 410.4,
+        "end": 414.4,
+        "text": "Das k\u00f6nnte dann ausdr\u00fccken als Weihnachtskarten,"
     },
     {
         "type": "text",
-        "start": 267.0,
-        "end": 271.0,
-        "text": "I'm now an expert on all Swiss women."
+        "start": 414.4,
+        "end": 417.4,
+        "text": "um abends zu schminken."
     },
     {
         "type": "text",
-        "start": 271.0,
-        "end": 274.0,
-        "text": "And one thing..."
+        "start": 417.4,
+        "end": 422.4,
+        "text": "Ich glaube, der sieht auch ein bisschen dickdicky aus,"
     },
     {
         "type": "text",
-        "start": 274.0,
-        "end": 276.0,
-        "text": "Swiss women,"
+        "start": 422.4,
+        "end": 425.4,
+        "text": "obwohl er nicht dieses T-Shirt hat."
     },
     {
         "type": "text",
-        "start": 276.0,
-        "end": 279.0,
-        "text": "they're not particularly good at communicating."
+        "start": 425.4,
+        "end": 429.4,
+        "text": "Aber ich pers\u00f6nlich sende keinen Dickpics."
     },
     {
         "type": "text",
-        "start": 280.0,
-        "end": 283.0,
-        "text": "Especially with men."
+        "start": 429.4,
+        "end": 432.4,
+        "text": "Nicht, weil ich es schlimm finde,"
     },
     {
         "type": "text",
-        "start": 283.0,
-        "end": 286.0,
-        "text": "The reason for that"
+        "start": 432.4,
+        "end": 435.4,
+        "text": "sondern weil ich ein Perfektionist bin."
     },
     {
         "type": "text",
-        "start": 286.0,
-        "end": 289.0,
-        "text": "is that it was only until 1991"
+        "start": 435.4,
+        "end": 438.4,
+        "text": "Weil ein gutes Dickpic zu machen, ist schwierig."
     },
     {
         "type": "text",
-        "start": 289.0,
-        "end": 293.0,
-        "text": "that the last canton of Appenzell in Rome"
+        "start": 438.4,
+        "end": 442.4,
+        "text": "Ich muss sich an vieles denken, zum Beispiel das Licht."
     },
     {
         "type": "text",
-        "start": 293.0,
-        "end": 296.0,
-        "text": "finally voted for women"
+        "start": 442.4,
+        "end": 445.4,
+        "text": "Brauche ich so eine sch\u00f6ne, warme Farbe,"
     },
     {
         "type": "text",
-        "start": 296.0,
-        "end": 299.0,
-        "text": "to have the right to orgasm."
+        "start": 445.4,
+        "end": 448.4,
+        "text": "um eine Hauptfarbe rauszubringen,"
     },
     {
         "type": "text",
-        "start": 299.0,
-        "end": 303.0,
-        "text": "But what I learned from that..."
+        "start": 448.4,
+        "end": 451.4,
+        "text": "auf mehr was so rot und rot ist?"
     },
     {
         "type": "text",
-        "start": 303.0,
-        "end": 306.0,
-        "text": "I thought, if any other man"
+        "start": 451.4,
+        "end": 455.4,
+        "text": "Vielleicht brauche ich so irgendwelche Geschaltungen,"
     },
     {
         "type": "text",
-        "start": 306.0,
-        "end": 309.0,
-        "text": "finds himself in the same situation..."
+        "start": 455.4,
+        "end": 458.4,
+        "text": "ein bisschen Rosenrum herum, vielleicht?"
     },
     {
         "type": "text",
-        "start": 309.0,
-        "end": 312.0,
-        "text": "I have a few important sentences"
+        "start": 458.4,
+        "end": 463.4,
+        "text": "Es ist gef\u00e4hrlich, es hat Dornen, das k\u00f6nnte gef\u00e4hrlich sein."
     },
     {
         "type": "text",
-        "start": 312.0,
-        "end": 314.0,
-        "text": "that might help you"
+        "start": 463.4,
+        "end": 466.4,
+        "text": "Aber vor allem muss man an den Blickwinkel denken,"
     },
     {
         "type": "text",
-        "start": 314.0,
-        "end": 317.0,
-        "text": "to understand your Swiss girlfriend."
+        "start": 466.4,
+        "end": 468.4,
+        "text": "weil es ist eine Selfie."
     },
     {
         "type": "text",
-        "start": 317.0,
-        "end": 319.0,
-        "text": "For example, when she says,"
+        "start": 468.4,
+        "end": 473.4,
+        "text": "Muss ich es von hier oder hier oder da machen?"
     },
     {
         "type": "text",
-        "start": 319.0,
-        "end": 321.0,
-        "text": "\"Oh, darling.\""
+        "start": 473.4,
+        "end": 475.4,
+        "text": "Das weiss ich nicht."
     },
     {
         "type": "text",
-        "start": 321.0,
-        "end": 323.0,
-        "text": "That's a good thing."
+        "start": 475.4,
+        "end": 478.4,
+        "text": "Zum Gl\u00fcck bin ich ein bisschen unternehmerisch,"
     },
     {
         "type": "text",
-        "start": 323.0,
-        "end": 325.0,
-        "text": "That means, maybe later"
+        "start": 478.4,
+        "end": 481.4,
+        "text": "deswegen habe ich den Dickpicselfiestick gefunden."
     },
     {
         "type": "text",
-        "start": 325.0,
-        "end": 328.0,
-        "text": "there will be a sexual experience."
+        "start": 481.4,
+        "end": 483.4,
+        "text": "F\u00fcr euch alle heute Abend."
     },
     {
         "type": "text",
-        "start": 328.0,
-        "end": 330.0,
-        "text": "But if she says, \"Honey!\""
+        "start": 483.4,
+        "end": 485.4,
+        "text": "Dickpicselfiestick.com."
     },
     {
         "type": "text",
-        "start": 330.0,
-        "end": 332.0,
-        "text": "That's a bad thing."
+        "start": 485.4,
+        "end": 488.4,
+        "text": "So 29,99."
     },
     {
         "type": "text",
-        "start": 332.0,
-        "end": 335.0,
-        "text": "You'll probably have to spend the night"
+        "start": 488.4,
+        "end": 490.4,
+        "text": "Habe ich noch mehr Tee?"
     },
     {
         "type": "text",
-        "start": 335.0,
-        "end": 336.0,
-        "text": "with her."
+        "start": 490.4,
+        "end": 492.4,
+        "text": "Mach was Veggies."
     },
     {
         "type": "text",
-        "start": 336.0,
-        "end": 339.0,
-        "text": "But if she says, \"Oh, honey!\""
+        "start": 492.4,
+        "end": 494.4,
+        "text": "Okay, es geht weiter."
     },
     {
         "type": "text",
-        "start": 339.0,
-        "end": 341.0,
-        "text": "That's a good thing."
+        "start": 494.4,
+        "end": 498.4,
+        "text": "Ja, also es tut mir leid, dass ich so schwitze,"
     },
     {
         "type": "text",
-        "start": 341.0,
-        "end": 344.0,
-        "text": "That means, she's as hot as a honey."
+        "start": 498.4,
+        "end": 501.4,
+        "text": "aber eigentlich der Grund davor ist,"
     },
     {
         "type": "text",
-        "start": 344.0,
-        "end": 348.0,
-        "text": "But if she says, \"Lick my ass!\""
+        "start": 501.4,
+        "end": 506.4,
+        "text": "als ich klein war, ist mir irgendwas weggenommen worden."
     },
     {
         "type": "text",
-        "start": 348.0,
-        "end": 351.0,
-        "text": "Under no circumstances"
+        "start": 506.4,
+        "end": 509.4,
+        "text": "Genau, ich bin beschnitten worden."
     },
     {
         "type": "text",
-        "start": 351.0,
-        "end": 354.0,
-        "text": "should she lick your ass."
+        "start": 509.4,
+        "end": 512.4,
+        "text": "Okay, wenn ich diese Reaktion anh\u00f6re,"
     },
     {
         "type": "text",
-        "start": 354.0,
-        "end": 357.0,
-        "text": "Unless she says,"
+        "start": 512.4,
+        "end": 517.4,
+        "text": "da verstehe ich, niemand hier weiss, was Beschneidung ist."
     },
     {
         "type": "text",
-        "start": 357.0,
-        "end": 359.0,
-        "text": "\"That's a piece of shit, man!\""
+        "start": 517.4,
+        "end": 522.4,
+        "text": "Reden wir dann nachher, ich kann es euch zeigen."
     },
     {
         "type": "text",
-        "start": 359.0,
-        "end": 361.0,
-        "text": "And that means,"
+        "start": 522.4,
+        "end": 526.4,
+        "text": "Aber was f\u00fcr mich ein ganz schlimmes Kindheitserlebnis war,"
     },
     {
         "type": "text",
-        "start": 361.0,
-        "end": 363.0,
-        "text": "you could lick her ass,"
+        "start": 526.4,
+        "end": 528.4,
+        "text": "als ich gewachsen worden bin,"
     },
     {
         "type": "text",
-        "start": 363.0,
-        "end": 365.0,
-        "text": "but maybe there will be"
+        "start": 528.4,
+        "end": 531.4,
+        "text": "ist es zum richtigen Vorteil geworden,"
     },
     {
         "type": "text",
-        "start": 365.0,
-        "end": 367.0,
-        "text": "a bad surprise."
+        "start": 531.4,
+        "end": 533.4,
+        "text": "weil auf die seltenen Momente,"
     },
     {
         "type": "text",
-        "start": 367.0,
-        "end": 371.0,
-        "text": "How's the time going?"
+        "start": 533.4,
+        "end": 537.4,
+        "text": "wo eine Frau ihren Kopf neben meinem Penis findet,"
     },
     {
         "type": "text",
-        "start": 371.0,
-        "end": 373.0,
-        "text": "Everything's fine."
+        "start": 537.4,
+        "end": 540.4,
+        "text": "st\u00f6hnt sie immer so."
     },
     {
         "type": "text",
-        "start": 373.0,
-        "end": 375.0,
-        "text": "I'll just keep going."
+        "start": 540.4,
+        "end": 544.4,
+        "text": "Und ich frage so, wieso st\u00f6hnt sie auf meinen Penis?"
     },
     {
         "type": "text",
-        "start": 375.0,
-        "end": 379.0,
-        "text": "I think, right now,"
+        "start": 544.4,
+        "end": 547.4,
+        "text": "Und sie hat gesagt, du hast keine Ahnung,"
     },
     {
         "type": "text",
-        "start": 379.0,
-        "end": 381.0,
-        "text": "it's a difficult time for dating."
+        "start": 547.4,
+        "end": 552.4,
+        "text": "wie viele schmutzige Schnebel es da drau\u00dfen gibt."
     },
     {
         "type": "text",
-        "start": 381.0,
-        "end": 383.0,
-        "text": "Especially for women."
+        "start": 552.4,
+        "end": 557.4,
+        "text": "Oh, es tut mir leid, dass ich so etwas sagen musste."
     },
     {
         "type": "text",
-        "start": 383.0,
-        "end": 385.0,
-        "text": "Because I read recently,"
+        "start": 557.4,
+        "end": 561.4,
+        "text": "Okay, ich w\u00fcrde es f\u00fcr Sie korrigieren."
     },
     {
         "type": "text",
-        "start": 385.0,
-        "end": 388.0,
-        "text": "that almost 50% of men,"
+        "start": 561.4,
+        "end": 564.4,
+        "text": "Weil, was ich verstanden habe,"
     },
     {
         "type": "text",
-        "start": 388.0,
-        "end": 391.0,
-        "text": "all men, in the years 20 to 40,"
+        "start": 564.4,
+        "end": 567.4,
+        "text": "f\u00fcr viele unbeschnittene M\u00e4nner"
     },
     {
         "type": "text",
-        "start": 391.0,
-        "end": 395.0,
-        "text": "have sent a dick pic in the last 3 months."
+        "start": 567.4,
+        "end": 571.4,
+        "text": "geben viel zu wenig Aufmerksamkeit in diesen Bereich."
     },
     {
         "type": "text",
-        "start": 395.0,
-        "end": 397.0,
-        "text": "Yes, and that's perhaps"
+        "start": 571.4,
+        "end": 574.4,
+        "text": "Und deswegen ende ich mit ein paar Tipps,"
     },
     {
         "type": "text",
-        "start": 397.0,
-        "end": 400.0,
-        "text": "a difficult number to understand."
+        "start": 574.4,
+        "end": 578.4,
+        "text": "die heute deine Freundin helfen w\u00fcrden."
     },
     {
         "type": "text",
-        "start": 400.0,
-        "end": 402.0,
-        "text": "But, ladies and gentlemen,"
+        "start": 578.4,
+        "end": 582.4,
+        "text": "Zum Beispiel im Auto, also kennt ihr diesen bunten Baum?"
     },
     {
         "type": "text",
-        "start": 402.0,
-        "end": 404.0,
-        "text": "if you give your number"
+        "start": 582.4,
+        "end": 586.4,
+        "text": "Das kannst du einfach von dem Penis h\u00e4ngen."
     },
     {
         "type": "text",
-        "start": 404.0,
-        "end": 406.0,
-        "text": "to 10 men in this room,"
+        "start": 586.4,
+        "end": 589.4,
+        "text": "Die Berufsszene von Frauen ist ziemlich stark,"
     },
     {
         "type": "text",
-        "start": 406.0,
-        "end": 407.0,
-        "text": "before Christmas,"
+        "start": 589.4,
+        "end": 592.4,
+        "text": "das wird sofort helfen."
     },
     {
         "type": "text",
-        "start": 407.0,
-        "end": 409.0,
-        "text": "you'll have a stack of 5 dick pics"
+        "start": 592.4,
+        "end": 594.4,
+        "text": "Was man auch noch machen k\u00f6nnte,"
     },
     {
         "type": "text",
-        "start": 409.0,
-        "end": 411.0,
-        "text": "on your phone."
+        "start": 594.4,
+        "end": 596.4,
+        "text": "ist hier oben, oben von dem Penis,"
     },
     {
         "type": "text",
-        "start": 411.0,
-        "end": 413.0,
-        "text": "That could be expressed"
+        "start": 596.4,
+        "end": 599.4,
+        "text": "einfach so eine sch\u00f6ne T\u00e4towierung machen."
     },
     {
         "type": "text",
-        "start": 413.0,
-        "end": 415.0,
-        "text": "as Christmas cards,"
+        "start": 599.4,
+        "end": 604.4,
+        "text": "Zum Beispiel so ein Feld voll mit gr\u00fcnem Gras und Bl\u00fcmen"
     },
     {
         "type": "text",
-        "start": 415.0,
-        "end": 417.0,
-        "text": "to decorate your arm."
+        "start": 604.4,
+        "end": 607.4,
+        "text": "oder einen Baum mit V\u00f6geln, so irgendwas,"
     },
     {
         "type": "text",
-        "start": 417.0,
-        "end": 418.0,
-        "text": "Yes."
+        "start": 607.4,
+        "end": 612.4,
+        "text": "so dass sie nicht mehr diese schrecklichen Blicks anschauen muss."
     },
     {
         "type": "text",
-        "start": 418.0,
-        "end": 421.0,
-        "text": "I think he looks a bit dicky, too."
+        "start": 612.4,
+        "end": 616.4,
+        "text": "Aber es gibt eine ganz einfache L\u00f6sung."
     },
     {
         "type": "text",
-        "start": 421.0,
-        "end": 425.0,
-        "text": "With this t-shirt."
+        "start": 616.4,
+        "end": 620.4,
+        "text": "Du musst einfach nur eine Schachtel Crackers mitbringen."
     },
     {
         "type": "text",
-        "start": 425.0,
-        "end": 427.0,
-        "text": "But I personally,"
+        "start": 620.4,
+        "end": 625.4,
+        "text": "Und wenn sie darunter ist, kannst du einfach so die Crackers f\u00fcttern."
     },
     {
         "type": "text",
-        "start": 427.0,
-        "end": 430.0,
-        "text": "I personally don't send dick pics."
+        "start": 625.4,
+        "end": 630.4,
+        "text": "Der K\u00e4se passt super zum Crackers."
     },
     {
         "type": "text",
-        "start": 430.0,
-        "end": 432.0,
-        "text": "Not because I think it's bad,"
+        "start": 630.4,
+        "end": 633.4,
+        "text": "Ja, das ist sch\u00f6n."
     },
     {
         "type": "text",
-        "start": 432.0,
-        "end": 435.0,
-        "text": "but because I'm a perfectionist."
+        "start": 633.4,
+        "end": 638.4,
+        "text": "Da wei\u00df ich jetzt, niemanden hier bekommt Sex heute Abend."
     },
     {
         "type": "text",
-        "start": 435.0,
-        "end": 437.0,
-        "text": "Because making a good dick pic"
+        "start": 638.4,
+        "end": 642.4,
+        "text": "Wir sind im gleichen Team jetzt. Vielen Dank."
     },
     {
         "type": "text",
-        "start": 437.0,
-        "end": 438.0,
-        "text": "is difficult."
-    },
-    {
-        "type": "text",
-        "start": 438.0,
-        "end": 441.0,
-        "text": "You have to think about a lot of things."
-    },
-    {
-        "type": "text",
-        "start": 441.0,
-        "end": 443.0,
-        "text": "For example, the light."
-    },
-    {
-        "type": "text",
-        "start": 443.0,
-        "end": 445.0,
-        "text": "Do I need a nice, warm color"
-    },
-    {
-        "type": "text",
-        "start": 445.0,
-        "end": 447.0,
-        "text": "to bring out the main color,"
-    },
-    {
-        "type": "text",
-        "start": 447.0,
-        "end": 450.0,
-        "text": "or more of something red and reddish?"
-    },
-    {
-        "type": "text",
-        "start": 450.0,
-        "end": 452.0,
-        "text": "And, well, maybe I need"
-    },
-    {
-        "type": "text",
-        "start": 452.0,
-        "end": 454.0,
-        "text": "some kind of shadow,"
-    },
-    {
-        "type": "text",
-        "start": 454.0,
-        "end": 457.0,
-        "text": "a bit of pink around it, maybe."
-    },
-    {
-        "type": "text",
-        "start": 457.0,
-        "end": 459.0,
-        "text": "Is it dangerous?"
-    },
-    {
-        "type": "text",
-        "start": 459.0,
-        "end": 461.0,
-        "text": "It has thorns,"
-    },
-    {
-        "type": "text",
-        "start": 461.0,
-        "end": 463.0,
-        "text": "that could be dangerous."
-    },
-    {
-        "type": "text",
-        "start": 463.0,
-        "end": 464.0,
-        "text": "But above all,"
-    },
-    {
-        "type": "text",
-        "start": 464.0,
-        "end": 466.0,
-        "text": "you have to think about the angle of view,"
-    },
-    {
-        "type": "text",
-        "start": 466.0,
-        "end": 468.0,
-        "text": "because it's a selfie."
-    },
-    {
-        "type": "text",
-        "start": 468.0,
-        "end": 470.0,
-        "text": "Do I have to do it from here,"
-    },
-    {
-        "type": "text",
-        "start": 470.0,
-        "end": 472.0,
-        "text": "or here, or there?"
-    },
-    {
-        "type": "text",
-        "start": 472.0,
-        "end": 474.0,
-        "text": "I don't know."
-    },
-    {
-        "type": "text",
-        "start": 474.0,
-        "end": 476.0,
-        "text": "I don't know."
-    },
-    {
-        "type": "text",
-        "start": 476.0,
-        "end": 478.0,
-        "text": "Luckily, I'm a bit of an entrepreneur,"
-    },
-    {
-        "type": "text",
-        "start": 478.0,
-        "end": 481.0,
-        "text": "that's why I invented the dick pic selfie stick."
-    },
-    {
-        "type": "text",
-        "start": 481.0,
-        "end": 483.0,
-        "text": "For all of you,"
-    },
-    {
-        "type": "text",
-        "start": 483.0,
-        "end": 486.0,
-        "text": "tonight, dickpicselfiestick.com,"
-    },
-    {
-        "type": "text",
-        "start": 486.0,
-        "end": 489.0,
-        "text": "at 9.29, 9.90."
-    },
-    {
-        "type": "text",
-        "start": 489.0,
-        "end": 491.0,
-        "text": "Do I have more time?"
-    },
-    {
-        "type": "text",
-        "start": 491.0,
-        "end": 493.0,
-        "text": "Do something, Veggie."
-    },
-    {
-        "type": "text",
-        "start": 493.0,
-        "end": 495.0,
-        "text": "Okay, oh, it goes on."
-    },
-    {
-        "type": "text",
-        "start": 495.0,
-        "end": 497.0,
-        "text": "Yes, well,"
-    },
-    {
-        "type": "text",
-        "start": 497.0,
-        "end": 499.0,
-        "text": "I'm sorry it's such a funny joke,"
-    },
-    {
-        "type": "text",
-        "start": 499.0,
-        "end": 501.0,
-        "text": "but actually, the reason for it is,"
-    },
-    {
-        "type": "text",
-        "start": 501.0,
-        "end": 503.0,
-        "text": "when I was little,"
-    },
-    {
-        "type": "text",
-        "start": 503.0,
-        "end": 506.0,
-        "text": "something got taken away from me."
-    },
-    {
-        "type": "text",
-        "start": 506.0,
-        "end": 509.0,
-        "text": "Exactly, I was circumcised."
-    },
-    {
-        "type": "text",
-        "start": 509.0,
-        "end": 512.0,
-        "text": "Okay, when I listen to this reaction,"
-    },
-    {
-        "type": "text",
-        "start": 512.0,
-        "end": 514.0,
-        "text": "I understand,"
-    },
-    {
-        "type": "text",
-        "start": 514.0,
-        "end": 517.0,
-        "text": "nobody here knows what circumcision is."
-    },
-    {
-        "type": "text",
-        "start": 517.0,
-        "end": 519.0,
-        "text": "We'll talk about it later,"
-    },
-    {
-        "type": "text",
-        "start": 519.0,
-        "end": 521.0,
-        "text": "I can show it to you."
-    },
-    {
-        "type": "text",
-        "start": 521.0,
-        "end": 527.0,
-        "text": "But what was a very bad childhood experience for me,"
-    },
-    {
-        "type": "text",
-        "start": 527.0,
-        "end": 529.0,
-        "text": "when I grew up,"
-    },
-    {
-        "type": "text",
-        "start": 529.0,
-        "end": 531.0,
-        "text": "it became a real advantage,"
-    },
-    {
-        "type": "text",
-        "start": 531.0,
-        "end": 533.0,
-        "text": "because on the rare moments,"
-    },
-    {
-        "type": "text",
-        "start": 533.0,
-        "end": 537.0,
-        "text": "when a woman finds her head next to my penis,"
-    },
-    {
-        "type": "text",
-        "start": 537.0,
-        "end": 540.0,
-        "text": "she always frowns like this."
-    },
-    {
-        "type": "text",
-        "start": 540.0,
-        "end": 542.0,
-        "text": "And I ask her,"
-    },
-    {
-        "type": "text",
-        "start": 542.0,
-        "end": 544.0,
-        "text": "why are you frowning on my penis?"
-    },
-    {
-        "type": "text",
-        "start": 544.0,
-        "end": 546.0,
-        "text": "And she says,"
-    },
-    {
-        "type": "text",
-        "start": 546.0,
-        "end": 548.0,
-        "text": "you have no idea,"
-    },
-    {
-        "type": "text",
-        "start": 548.0,
-        "end": 552.0,
-        "text": "how many dirty snowflakes there are out there."
-    },
-    {
-        "type": "text",
-        "start": 552.0,
-        "end": 554.0,
-        "text": "Oh, I'm sorry."
-    },
-    {
-        "type": "text",
-        "start": 554.0,
-        "end": 558.0,
-        "text": "I'm sorry I had to say that."
-    },
-    {
-        "type": "text",
-        "start": 558.0,
-        "end": 562.0,
-        "text": "Okay, I'll correct it for you."
-    },
-    {
-        "type": "text",
-        "start": 562.0,
-        "end": 564.0,
-        "text": "Because, what I understood,"
-    },
-    {
-        "type": "text",
-        "start": 564.0,
-        "end": 567.0,
-        "text": "for many uncircumcised men,"
-    },
-    {
-        "type": "text",
-        "start": 567.0,
-        "end": 571.0,
-        "text": "there is far too little attention in this area."
-    },
-    {
-        "type": "text",
-        "start": 571.0,
-        "end": 574.0,
-        "text": "And that's why I'll end with a few tips,"
-    },
-    {
-        "type": "text",
-        "start": 574.0,
-        "end": 578.0,
-        "text": "that will annoy your girlfriend today."
-    },
-    {
-        "type": "text",
-        "start": 578.0,
-        "end": 580.0,
-        "text": "For example, in the car,"
-    },
-    {
-        "type": "text",
-        "start": 580.0,
-        "end": 583.0,
-        "text": "do you know this colorful tree?"
-    },
-    {
-        "type": "text",
-        "start": 583.0,
-        "end": 587.0,
-        "text": "You can just hang it from your penis."
-    },
-    {
-        "type": "text",
-        "start": 587.0,
-        "end": 590.0,
-        "text": "The professional scene of women is very strong,"
-    },
-    {
-        "type": "text",
-        "start": 590.0,
-        "end": 593.0,
-        "text": "that will help you immediately."
-    },
-    {
-        "type": "text",
-        "start": 593.0,
-        "end": 595.0,
-        "text": "What you could also do,"
-    },
-    {
-        "type": "text",
-        "start": 595.0,
-        "end": 600.0,
-        "text": "is to make a nice tattoo on the top of your penis."
-    },
-    {
-        "type": "text",
-        "start": 600.0,
-        "end": 605.0,
-        "text": "For example, a field full of green grass and flowers,"
-    },
-    {
-        "type": "text",
-        "start": 605.0,
-        "end": 607.0,
-        "text": "or a tree with birds,"
-    },
-    {
-        "type": "text",
-        "start": 607.0,
-        "end": 609.0,
-        "text": "something like that,"
-    },
-    {
-        "type": "text",
-        "start": 609.0,
-        "end": 613.0,
-        "text": "so that she doesn't have to look at these terrible blinks anymore."
-    },
-    {
-        "type": "text",
-        "start": 613.0,
-        "end": 617.0,
-        "text": "But there is a very simple solution."
-    },
-    {
-        "type": "text",
-        "start": 617.0,
-        "end": 621.0,
-        "text": "You just have to bring a box of crackers."
-    },
-    {
-        "type": "text",
-        "start": 621.0,
-        "end": 623.0,
-        "text": "And while she's down there,"
-    },
-    {
-        "type": "text",
-        "start": 623.0,
-        "end": 626.0,
-        "text": "you can just feed her the crackers."
-    },
-    {
-        "type": "text",
-        "start": 626.0,
-        "end": 631.0,
-        "text": "Because cheese goes well with crackers."
-    },
-    {
-        "type": "text",
-        "start": 631.0,
-        "end": 633.0,
-        "text": "Yes, that's nice."
-    },
-    {
-        "type": "text",
-        "start": 633.0,
-        "end": 635.0,
-        "text": "I know now,"
-    },
-    {
-        "type": "text",
-        "start": 635.0,
-        "end": 638.0,
-        "text": "no one will get sex tonight."
-    },
-    {
-        "type": "text",
-        "start": 638.0,
-        "end": 641.0,
-        "text": "We're on the same team now."
-    },
-    {
-        "type": "text",
-        "start": 642.0,
-        "end": 644.0,
+        "start": 642.4,
+        "end": 645.4,
         "text": "Okay, thank you."
     }
 ]
