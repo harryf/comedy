@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190506_7Friday_20th_April
 audio_file: 7Friday_20th_April.mp3
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190920_ASS_Basel_20th_September_2019__animals_svp_Sexbots
 audio_file: ASS_Basel_20th_September_2019__animals_svp_Sexbots.m4a
 comedian: Harry Fücks

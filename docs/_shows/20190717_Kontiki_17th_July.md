@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190717_Kontiki_17th_July
 audio_file: Kontiki_17th_July.m4a
 comedian: Harry Fücks

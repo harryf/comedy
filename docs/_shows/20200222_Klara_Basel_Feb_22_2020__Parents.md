@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200222_Klara_Basel_Feb_22_2020__Parents
 audio_file: Klara_Basel_Feb_22_2020__Parents.m4a
 comedian: Harry Fücks

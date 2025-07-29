@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200218_Kontiki_18_Feb_2020_Harry_and_Ben_Roast
 audio_file: Kontiki_18_Feb_2020_Harry_and_Ben_Roast.m4a
 comedian: Harry Fücks

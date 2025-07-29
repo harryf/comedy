@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200222_ASS_Basel_22_Feb_2020__Flying_Dicks
 audio_file: ASS_Basel_22_Feb_2020__Flying_Dicks.m4a
 comedian: Harry Fücks

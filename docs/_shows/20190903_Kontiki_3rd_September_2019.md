@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190903_Kontiki_3rd_September_2019
 audio_file: Kontiki_3rd_September_2019.m4a
 comedian: Harry Fücks

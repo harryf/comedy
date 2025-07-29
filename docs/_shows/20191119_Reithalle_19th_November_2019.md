@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191119_Reithalle_19th_November_2019
 audio_file: Reithalle_19th_November_2019.m4a
 comedian: Harry Fücks

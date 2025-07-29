@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200602_Kir_Royal_2_Jun_2020__German
 audio_file: Kir_Royal_2_Jun_2020__German.m4a
 comedian: Harry Fücks

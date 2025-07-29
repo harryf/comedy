@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200716_Kontiki_16_Jul_2020_small_crowd
 audio_file: Kontiki_16_Jul_2020_small_crowd.m4a
 comedian: Harry Fücks

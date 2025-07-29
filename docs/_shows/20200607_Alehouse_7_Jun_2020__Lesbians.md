@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200607_Alehouse_7_Jun_2020__Lesbians
 audio_file: Alehouse_7_Jun_2020__Lesbians.m4a
 comedian: Harry Fücks

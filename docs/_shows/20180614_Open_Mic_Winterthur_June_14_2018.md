@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180614_Open_Mic_Winterthur_June_14_2018
 audio_file: Open_Mic_Winterthur_June_14_2018.mp3
 comedian: Harry Fücks

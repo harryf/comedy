@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180808_Gin_Fabrik_8th_August_2018
 audio_file: Gin_Fabrik_8th_August_2018.mp3
 comedian: Harry Fücks

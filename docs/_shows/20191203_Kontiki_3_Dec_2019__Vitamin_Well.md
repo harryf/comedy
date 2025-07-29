@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191203_Kontiki_3_Dec_2019__Vitamin_Well
 audio_file: Kontiki_3_Dec_2019__Vitamin_Well.m4a
 comedian: Harry Fücks

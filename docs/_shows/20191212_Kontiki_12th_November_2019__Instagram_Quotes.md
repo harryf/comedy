@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191212_Kontiki_12th_November_2019__Instagram_Quotes
 audio_file: Kontiki_12th_November_2019__Instagram_Quotes.m4a
 comedian: Harry Fücks

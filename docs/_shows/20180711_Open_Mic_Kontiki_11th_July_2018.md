@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180711_Open_Mic_Kontiki_11th_July_2018
 audio_file: Open_Mic_Kontiki_11th_July_2018.mp3
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200225_Kontiki__25_Feb_2020__Attractive_Woman
 audio_file: Kontiki__25_Feb_2020__Attractive_Woman.m4a
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191122_SEVENFRIDAY_22nd_November_2019__Roasted_Googlers
 audio_file: SEVENFRIDAY_22nd_November_2019__Roasted_Googlers.m4a
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200723_Kontiki_23_Jul_2020__Old_ladies
 audio_file: Kontiki_23_Jul_2020__Old_ladies.m4a
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190608_Kontiki_on_a_glorious_Saturday_8th_June_2019
 audio_file: Kontiki_on_a_glorious_Saturday_8th_June_2019.mp3
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200608_Toro_8_Jun_2020__Attractive_Woman
 audio_file: Toro_8_Jun_2020__Attractive_Woman.m4a
 comedian: Harry Fücks

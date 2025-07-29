@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200718_Open_Air_Show_Limmat__18_Jul_2020
 audio_file: Open_Air_Show_Limmat__18_Jul_2020.m4a
 comedian: Harry Fücks

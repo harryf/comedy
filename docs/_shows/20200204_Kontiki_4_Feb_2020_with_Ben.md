@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200204_Kontiki_4_Feb_2020_with_Ben
 audio_file: Kontiki_4_Feb_2020_with_Ben.m4a
 comedian: Harry Fücks

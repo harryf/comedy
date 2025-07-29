@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190304_KONTIKI_Open_Mic_4th_March_2019
 audio_file: KONTIKI_Open_Mic_4th_March_2019.mp3
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200621_ASS_Basel__21_Jun_2020__fairly_awkward
 audio_file: ASS_Basel__21_Jun_2020__fairly_awkward.m4a
 comedian: Harry Fücks

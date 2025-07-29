@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190922_ASS_Zurich_22nd_September_2019__Melons_10000_hours_Dick_pics
 audio_file: ASS_Zurich_22nd_September_2019__Melons_10000_hours_Dick_pics.m4a
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200221_Casino_Zug_21_Feb_2020__Flying_Dicks
 audio_file: Casino_Zug_21_Feb_2020__Flying_Dicks.m4a
 comedian: Harry Fücks

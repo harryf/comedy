@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200114_Kontiki_14th_Jan_2020__Flying_dicks
 audio_file: Kontiki_14th_Jan_2020__Flying_dicks.m4a
 comedian: Harry Fücks

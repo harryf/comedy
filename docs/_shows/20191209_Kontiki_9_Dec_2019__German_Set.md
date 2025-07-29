@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191209_Kontiki_9_Dec_2019__German_Set
 audio_file: Kontiki_9_Dec_2019__German_Set.m4a
 comedian: Harry Fücks

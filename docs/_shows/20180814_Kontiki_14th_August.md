@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180814_Kontiki_14th_August
 audio_file: Kontiki_14th_August.mp3
 comedian: Harry Fücks

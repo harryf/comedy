@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200118_The_Great_Rang_Teng_Teng__18_Jan_2020__Freiburg
 audio_file: The_Great_Rang_Teng_Teng__18_Jan_2020__Freiburg.m4a
 comedian: Harry Fücks

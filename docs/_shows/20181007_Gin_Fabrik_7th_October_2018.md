@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20181007_Gin_Fabrik_7th_October_2018
 audio_file: Gin_Fabrik_7th_October_2018.mp3
 comedian: Harry Fücks

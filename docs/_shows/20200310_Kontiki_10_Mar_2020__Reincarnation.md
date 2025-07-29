@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200310_Kontiki_10_Mar_2020__Reincarnation
 audio_file: Kontiki_10_Mar_2020__Reincarnation.m4a
 comedian: Harry Fücks

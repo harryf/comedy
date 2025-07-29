@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20181206_The_ASS_at_Stall_6_12_Dec_2018
 audio_file: The_ASS_at_Stall_6_12_Dec_2018.mp3
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191020_MOLO_Luzern_20th_October_2019
 audio_file: MOLO_Luzern_20th_October_2019.m4a
 comedian: Harry Fücks

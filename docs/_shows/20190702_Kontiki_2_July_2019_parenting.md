@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190702_Kontiki_2_July_2019_parenting
 audio_file: Kontiki_2_July_2019_parenting.mp3
 comedian: Harry Fücks

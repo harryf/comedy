@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191130_Polyball_German__30th_November_2019
 audio_file: Polyball_German__30th_November_2019.m4a
 comedian: Harry Fücks

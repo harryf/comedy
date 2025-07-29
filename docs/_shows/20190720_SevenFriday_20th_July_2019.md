@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190720_SevenFriday_20th_July_2019
 audio_file: SevenFriday_20th_July_2019.m4a
 comedian: Harry Fücks

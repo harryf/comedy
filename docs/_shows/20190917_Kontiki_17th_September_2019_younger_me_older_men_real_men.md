@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190917_Kontiki_17th_September_2019_younger_me_older_men_real_men
 audio_file: Kontiki_17th_September_2019_younger_me_older_men_real_men.m4a
 comedian: Harry Fücks

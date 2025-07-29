@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191103_Alehouse_3rd_November_2019__10_minutes
 audio_file: Alehouse_3rd_November_2019__10_minutes.m4a
 comedian: Harry Fücks

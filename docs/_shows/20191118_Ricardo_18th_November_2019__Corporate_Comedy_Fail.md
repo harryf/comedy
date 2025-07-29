@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191118_Ricardo_18th_November_2019__Corporate_Comedy_Fail
 audio_file: Ricardo_18th_November_2019__Corporate_Comedy_Fail.m4a
 comedian: Harry Fücks

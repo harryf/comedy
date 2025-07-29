@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191025_Kontiki_25th_October_2019__Racist_Vaginas
 audio_file: Kontiki_25th_October_2019__Racist_Vaginas.m4a
 comedian: Harry Fücks

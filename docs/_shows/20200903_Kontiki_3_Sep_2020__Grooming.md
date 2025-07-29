@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200903_Kontiki_3_Sep_2020__Grooming
 audio_file: Kontiki_3_Sep_2020__Grooming.m4a
 comedian: Harry Fücks

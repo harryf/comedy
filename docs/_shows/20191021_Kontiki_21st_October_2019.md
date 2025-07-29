@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191021_Kontiki_21st_October_2019
 audio_file: Kontiki_21st_October_2019.m4a
 comedian: Harry Fücks

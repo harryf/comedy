@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20190827_Kontiki_27th_August_2019
 audio_file: Kontiki_27th_August_2019.m4a
 comedian: Harry Fücks

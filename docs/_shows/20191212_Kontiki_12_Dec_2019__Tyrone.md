@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191212_Kontiki_12_Dec_2019__Tyrone
 audio_file: Kontiki_12_Dec_2019__Tyrone.m4a
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20200214_Comic_Strip_14th_Feb_2020
 audio_file: Comic_Strip_14th_Feb_2020.m4a
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180914_ASS_Tour_Bern_14th_Sept
 audio_file: ASS_Tour_Bern_14th_Sept.mp3
 comedian: Harry Fücks

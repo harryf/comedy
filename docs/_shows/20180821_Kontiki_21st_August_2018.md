@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180821_Kontiki_21st_August_2018
 audio_file: Kontiki_21st_August_2018.mp3
 comedian: Harry Fücks

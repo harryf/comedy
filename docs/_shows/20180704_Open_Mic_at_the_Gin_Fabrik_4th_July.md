@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20180704_Open_Mic_at_the_Gin_Fabrik_4th_July
 audio_file: Open_Mic_at_the_Gin_Fabrik_4th_July.mp3
 comedian: Harry Fücks

@@ -1,5 +1,6 @@
 ---
 layout: show
+type: show
 player_id: 20191104_Acid_4th_November_2019__20_mins
 audio_file: Acid_4th_November_2019__20_mins.m4a
 comedian: Harry Fücks
