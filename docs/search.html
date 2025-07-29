@@ -1,0 +1,159 @@
+---
+layout: default
+title: Search
+---
+
+<div class="search-container">
+    <div class="search-box">
+        <div id="searchbox"></div>
+    </div>
+    <div id="hits"></div>
+    <div id="pagination"></div>
+</div>
+
+<script>
+const { liteClient: algoliasearch } = window['algoliasearch/lite'];
+const searchClient = algoliasearch('589M3LLSPH', 'c7a68813fc10dcebe016e1c51a3a3c75');
+
+const search = instantsearch({
+    indexName: 'comedy',
+    searchClient: searchClient,
+    routing: {
+        router: instantsearch.routers.history({
+            windowTitle({ query }) {
+                const queryString = query ? `Search: ${query}` : 'Search';
+                return queryString;
+            },
+            createURL({ qsModule, routeState, location }) {
+                const urlParts = location.href.match(/^(.*?)\/?(?:\?|$)/);
+                const baseUrl = `${urlParts ? urlParts[1] : ''}`;
+                const queryString = qsModule.stringify(routeState);
+                return `${baseUrl}${queryString ? `?${queryString}` : ''}`;
+            },
+            parseURL({ qsModule, location }) {
+                const queryString = location.search.slice(1);
+                return qsModule.parse(queryString);
+            },
+        }),
+        stateMapping: {
+            stateToRoute(uiState) {
+                const indexUiState = uiState['comedy'] || {};
+                return {
+                    q: indexUiState.query,
+                    page: indexUiState.page,
+                };
+            },
+            routeToState(routeState) {
+                return {
+                    ['comedy']: {
+                        query: routeState.q,
+                        page: routeState.page,
+                    },
+                };
+            },
+        },
+    }
+});
+
+search.addWidgets([
+    instantsearch.widgets.searchBox({
+        container: '#searchbox',
+        placeholder: 'Search for content...',
+        autofocus: true
+    }),
+    instantsearch.widgets.hits({
+        container: '#hits',
+        templates: {
+            empty: 'No results found.',
+            item: (hit) => {
+                const isTranscript = hit.url && hit.url.includes('/transcripts/');
+                let timestamp = '';
+                if (isTranscript && hit.content_html) {
+                    let timestampMatch = hit.content_html.match(/\[<a id="([0-9]{2}-[0-9]{2}-[0-9]{2})">/);
+                    if (!timestampMatch) {
+                        timestampMatch = hit.content_html.match(/\[([0-9]{2}:[0-9]{2}:[0-9]{2})\]/);
+                        if (timestampMatch) {
+                            timestamp = timestampMatch[1].replace(/:/g, '-');
+                        }
+                    } else {
+                        timestamp = timestampMatch[1];
+                    }
+                }
+                
+                // For content snippet:
+                const content = hit.content || '';
+                let snippetHtml = '';
+                let query = (window.location.search.match(/q=([^&]*)/) || [])[1];
+                if (query) query = decodeURIComponent(query);
+
+                if (content && query) {
+                    const lines = content.split('\n');
+                    const lowerQuery = query.toLowerCase();
+                    let matchLine = -1;
+
+                    // Find first line containing the query (case-insensitive)
+                    for (let i = 0; i < lines.length; i++) {
+                        if (lines[i].toLowerCase().includes(lowerQuery)) {
+                            matchLine = i;
+                            break;
+                        }
+                    }
+
+                    if (matchLine !== -1) {
+                        // Get one line above and below, if they exist
+                        const contextLines = [];
+                        if (matchLine > 0) contextLines.push(lines[matchLine - 1]);
+                        contextLines.push(lines[matchLine]);
+                        if (matchLine < lines.length - 1) contextLines.push(lines[matchLine + 1]);
+
+                        // Highlight the matches
+                        snippetHtml = contextLines.map(line =>
+                            line.replace(new RegExp(query, 'gi'), m => `<mark>${m}</mark>`)
+                        ).join('<br>');
+                    } else {
+                        // No match, show first 3 lines
+                        snippetHtml = lines.slice(0, 3).join('<br>');
+                    }
+                } else if (content) {
+                    // No query, just show first 3 lines
+                    snippetHtml = content.split('\n').slice(0, 3).join('<br>');
+                }
+
+                // Format date if available
+                let formattedDate = '';
+                if (hit.date_of_show) {
+                    const date = new Date(hit.date_of_show);
+                    const day = date.getDate();
+                    const month = date.toLocaleString('en-US', { month: 'long' });
+                    const year = date.getFullYear();
+                    formattedDate = `${day} ${month}, ${year}`;
+                }
+                
+                return `
+                    <div class="search-result-item${isTranscript ? ' transcript-result' : ''}">
+                        <a href="/comedy/shows/${hit.objectID}">
+                            <h3>${instantsearch.highlight({ hit, attribute: 'name_of_show' })}</h3>
+                        </a>
+                        <ul class="show-details">
+                            ${hit.comedian ? `<li class="comedian"><i class="fas fa-user"></i> ${hit.comedian}</li>` : ''}
+                            ${hit.date_of_show ? `<li class="date"><i class="fas fa-calendar"></i> ${formattedDate}</li>` : ''}
+                            ${hit.name_of_venue ? `<li class="venue"><i class="fas fa-map-marker"></i> <a href="${hit.link_to_venue_on_google_maps}" target="_blank">${hit.name_of_venue}</a></li>` : ''}
+                            ${hit.length_of_set ? `<li class="duration"><i class="fas fa-clock"></i> ${Math.floor(hit.length_of_set / 60)}m ${Math.floor(hit.length_of_set % 60)}s</li>` : ''}
+                            ${hit.laughs_per_minute ? `<li class="lpm"><i class="fas fa-smile"></i> ${hit.laughs_per_minute} lpm</li>` : ''}
+                            <li class="listen"><i class="fas fa-headphones"></i> <a href="/comedy/player/${hit.objectID}" target="_blank">Listen</a></li>
+                        </ul>
+                        ${snippetHtml ? `<div class="snippet-content">${snippetHtml}</div>` : ''}
+                    </div>
+                `;
+            }
+        }
+    }),
+    instantsearch.widgets.pagination({
+        container: '#pagination'
+    })
+]);
+
+search.start();
+</script>
+
+<!-- Styles moved to style.scss -->

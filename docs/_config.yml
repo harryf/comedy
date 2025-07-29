@@ -1,0 +1,42 @@
+title: Harry Fücks Comedy Sets
+description: Comedy Set Analysis
+baseurl: "/comedy" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol, leave empty for GitHub Pages
+
+# Jekyll settings
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# # Data settings
+# data_dir: assets/audio
+
+# # Include additional files & directories
+# include:
+#   - assets/player
+#   - assets/audio
+
+# Collections
+collections:
+  shows:
+    output: true
+    permalink: /shows/:title
+  # themes:
+  #   output: true
+  #   permalink: /themes/:title
+  # joke_types:
+  #   output: true
+  #   permalink: /joke-types/:title
+  # bits:
+  #   output: true
+  #   permalink: /bits/:title
+  players:
+    output: true
+    permalink: /player/:title
+
+algolia:
+  application_id: '589M3LLSPH'
+  index_name: 'comedy'
+  search_only_api_key: 'c7a68813fc10dcebe016e1c51a3a3c75'

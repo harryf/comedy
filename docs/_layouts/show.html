@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign duration_seconds = page.length_of_set %}
+{% assign minutes = duration_seconds | divided_by: 60 | floor %}
+{% assign seconds = duration_seconds | modulo: 60 | floor %}
+
+<div class="show-card">
+    <h1 class="title">{{ page.name_of_show }}</h1>
+    <ul class="show-details">
+        <li class="comedian"><i class="fas fa-user"></i> {{ page.comedian }}</li>
+        <li class="date"><i class="fas fa-calendar"></i> {{ page.date_of_show | date: "%-d %B, %Y" }}</li>
+        <li class="venue"><i class="fas fa-map-marker"></i> <a class="venue-link" href="{{ page.link_to_venue_on_google_maps }}" target="_blank">{{ page.name_of_venue }}</a></li>
+        <li class="duration"><i class="fas fa-clock"></i> {{minutes}}m {{seconds}}s</li>
+        <li class="lpm"><i class="fas fa-smile"></i> {{page.laughs_per_minute}} lpm</li>
+        <li class="listen"><i class="fa fa-headphones"></i> <a href="{{ site.baseurl }}/player/{{ page.player_id }}">Listen</a></li>
+    </ul>
+    <h2><i class="fas fa-clipboard"></i> Notes</h2>
+    <p class="notes">{{ page.notes }}</p>
+    
+    {{ content }}
+</div>
