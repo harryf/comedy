@@ -29,9 +29,9 @@ collections:
   # joke_types:
   #   output: true
   #   permalink: /joke-types/:title
-  # bits:
-  #   output: true
-  #   permalink: /bits/:title
+  bits:
+    output: true
+    permalink: /bits/:title
   players:
     output: true
     permalink: /player/:title
