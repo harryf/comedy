@@ -33,6 +33,19 @@ def format_duration(start, end):
     seconds = int(duration_seconds % 60)
     return f"{minutes}m {seconds}s"
 
+def yaml_safe_string(value):
+    """Format a string to be safely used in YAML front matter"""
+    if not isinstance(value, str):
+        return value
+        
+    # Check if the string contains any special characters that would need quoting
+    if any(c in value for c in ":\"'{}[]!@#$%^&*()\n\t") or 'ü' in value or 'ö' in value or 'ä' in value:
+        # Escape single quotes by doubling them
+        escaped_value = value.replace("'", "''")
+        # Wrap in single quotes
+        return f"'{escaped_value}'"
+    return value
+
 def get_canonical_name(bit_id, canonical_bits):
     """Find the canonical name for a bit_id"""
     for canonical_name, bit_ids in canonical_bits.items():
@@ -121,13 +134,13 @@ def main():
 layout: bit
 bit_id: {bit_id}
 show_id: {show_id}
-canonical_name: {canonical_name}
-bit_name: {bit_info.get("title", "Untitled")}
-comedian: {show_info.get("comedian", "Unknown")}
-date_of_show: {date_of_show}
-name_of_venue: {show_info.get("name_of_venue", "Unknown Venue")}
-link_to_venue_on_google_maps: {show_info.get("link_to_venue_on_google_maps", "")}
-notes: {show_info.get("notes", "")}
+canonical_name: {yaml_safe_string(canonical_name)}
+bit_name: {yaml_safe_string(bit_info.get("title", "Untitled"))}
+comedian: {yaml_safe_string(show_info.get("comedian", "Unknown"))}
+date_of_show: {yaml_safe_string(date_of_show)}
+name_of_venue: {yaml_safe_string(show_info.get("name_of_venue", "Unknown Venue"))}
+link_to_venue_on_google_maps: {yaml_safe_string(show_info.get("link_to_venue_on_google_maps", ""))}
+notes: {yaml_safe_string(show_info.get("notes", ""))}
 duration: {duration}
 lpm: {bit_info.get("lpm", 0)}
 start_seconds: {bit_info.get("start", 0)}
@@ -148,8 +161,8 @@ joke_types:
             for related_bit in related_bits:
                 related_date = format_date(related_bit["date"])
                 markdown_content += f"  - bit_id: {related_bit['bit_id']}\n"
-                markdown_content += f"    date_of_show: {related_date}\n"
-                markdown_content += f"    name_of_venue: {related_bit['venue']}\n"
+                markdown_content += f"    date_of_show: {yaml_safe_string(related_date)}\n"
+                markdown_content += f"    name_of_venue: {yaml_safe_string(related_bit['venue'])}\n"
             
             # Add transcript data in the format expected by the layout
             markdown_content += "\nlines:\n"
